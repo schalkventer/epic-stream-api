@@ -1,0 +1,61 @@
+{
+  "seasons": null,
+  "episodes": [
+    {
+      "title": "The Gang Gets Racist",
+      "season": 1,
+      "episode": 1,
+      "description": "The guys hire Dee's friend as a promoter for the bar and get more than they bargained for. Charlie seeks black friends to prove he isn't a racist.",
+      "date": "2005-08-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3Mzc5Mjg0OF5BMl5BanBnXkFtZTgwMjU2MzM0MjE@.jpg"
+    },
+    {
+      "title": "Charlie Wants an Abortion",
+      "season": 1,
+      "episode": 2,
+      "description": "In this take on the abortion debate Dennis and Mac go to opposite sides of an abortion rally to pick up women while Charlie deals with an unruly kid he believes to be his son.",
+      "date": "2005-08-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQzODY2NTU3MF5BMl5BanBnXkFtZTgwODc3MzM0MjE@.jpg"
+    },
+    {
+      "title": "Underage Drinking: A National Concern",
+      "season": 1,
+      "episode": 3,
+      "description": "The gang turns Paddy's into a safe haven for teens, but things get weird when they all get asked to the local high school prom.",
+      "date": "2005-08-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQyODQwMTgyNV5BMl5BanBnXkFtZTgwODA3MzM0MjE@.jpg"
+    },
+    {
+      "title": "Charlie Has Cancer",
+      "season": 1,
+      "episode": 4,
+      "description": "When Charlie confidentially confides that he has cancer, it leads to a series of instances of the guys manipulating women and one gorgeous transsexual (not a transvestite).",
+      "date": "2005-08-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwMzMzOTIxMl5BMl5BanBnXkFtZTgwNTQ3MzM0MjE@.jpg"
+    },
+    {
+      "title": "Gun Fever",
+      "season": 1,
+      "episode": 5,
+      "description": "When Paddy's gets robbed, the gang decides to purchase a gun with many issues. At the same time Dee is dating a mysterious man which the gang suspects to be the robber.",
+      "date": "2005-08-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzMDk4MjczNl5BMl5BanBnXkFtZTgwMDQ3MzM0MjE@.jpg"
+    },
+    {
+      "title": "The Gang Finds a Dead Guy",
+      "season": 1,
+      "episode": 6,
+      "description": "A guy dies in Paddy's pub. Dennis and Mac use the guy's death as an excuse to get close to the guy's attractive granddaughter. Meanwhile, Charlie discovers that Dennis and Dee's grandfather was a Nazi.",
+      "date": "2005-09-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5NTg4MTM0N15BMl5BanBnXkFtZTgwNDExMzg5MjE@.jpg"
+    },
+    {
+      "title": "Charlie Got Molested",
+      "season": 1,
+      "episode": 7,
+      "description": "The gang learns that Charlie's former elementary school teacher is on trial for child molestation and they attempt to stage an intervention to get Charlie to admit that he was.",
+      "date": "2005-09-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0OTc3ODU4OF5BMl5BanBnXkFtZTgwMDc2MzM0MjE@.jpg"
+    }
+  ]
+}

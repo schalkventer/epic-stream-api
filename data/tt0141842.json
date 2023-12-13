@@ -1,0 +1,693 @@
+{
+  "seasons": 6,
+  "episodes": [
+    {
+      "title": "Pilot",
+      "season": 1,
+      "episode": 1,
+      "description": "A mobster passes out at a family barbecue and seeks therapy to understand why.",
+      "date": "1999-01-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2I4ODNlODUtNmU3OC00YTNhLTgyODEtYWI4MTZiMjA5OGQ4XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "46 Long",
+      "season": 1,
+      "episode": 2,
+      "description": "Tony is getting fed up with his mother. Brendan Filone acts against Tony's wishes. Salvatore and Paulie try to track down A.J.'s teacher's stolen car.",
+      "date": "1999-01-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjljZTRhMzgtZTg5Zi00ZjU3LWFiYjMtYTdlYWZjMDk5NjkwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Denial, Anger, Acceptance",
+      "season": 1,
+      "episode": 3,
+      "description": "Tony encourages an unwanted son-in-law to divorce, Carmela learns another secret of Tony's, Meadow experiments with speed to study for the SATs, and Chris and Brendan find out the price of disrespecting Junior.",
+      "date": "1999-01-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwNzQwZGYtNDhjMi00ZWRlLWIxNTAtMDVlNGM3MmIxNGUxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Meadowlands",
+      "season": 1,
+      "episode": 4,
+      "description": "Brendan's death leaves Chris fearing for his life, and Anthony's discovery of what his father really does leaves him confused.",
+      "date": "1999-01-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWJmYjMzMWMtMmFlMi00OTk0LWExZDctNDA2YTAwZjIzOGY3XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "College",
+      "season": 1,
+      "episode": 5,
+      "description": "While visiting colleges with Meadow, Tony spots a snitch. Carmela, meanwhile, discovers something about Dr. Melfi.",
+      "date": "1999-02-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQxNDcyOWEtNWFiOC00YmRiLWIyMDAtMjI1ZjQ2NzQ0YjFiXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Pax Soprana",
+      "season": 1,
+      "episode": 6,
+      "description": "Tony tries to balance Junior against the other capos, while Carmela reasserts herself as the woman in Tony's life.",
+      "date": "1999-02-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODkwZjAwY2QtOGJiMy00N2Y2LTk3YmYtMWQyMzZkNmViMGY5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Down Neck",
+      "season": 1,
+      "episode": 7,
+      "description": "Anthony has disciplinary problems at school, prompting Tony to recount memories of his childhood with Dr. Melfi.",
+      "date": "1999-02-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDc1M2Y4ZjAtNThhNS00NTBlLWIwYzAtNTZiMTg0YTk3ZTMzXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "The Legend of Tennessee Moltisanti",
+      "season": 1,
+      "episode": 8,
+      "description": "The FBI begins closing in on the DiMeo family. Tony and Carmela are angry over all the attention Italians get from the authorities, while Chris fumes that he's not getting enough attention.",
+      "date": "1999-02-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZkYWQ0MDItMGNjYy00NzhiLTg0M2YtZWNmYTU0NTIyMGM5XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Boca",
+      "season": 1,
+      "episode": 9,
+      "description": "The capos discuss what to do about the local soccer coach, while Junior's mouth causes him some embarrassment.",
+      "date": "1999-03-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmI0MDJmZjUtYmFiOC00MGZjLWIyZWUtODRjMTE3ZWM4YmU3XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ A Hit Is a Hit",
+      "season": 1,
+      "episode": 10,
+      "description": "Tony tries to branch out into legitimate investments, while Chris and Adriana decide to try their hands at music production.",
+      "date": "1999-03-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM0YWNmOGQtYmFiNC00NjU4LWIzMWEtYjMzYmM5NmM4ZTZmXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "S1.E11 ∙ Nobody Knows Anything",
+      "season": 1,
+      "episode": 11,
+      "description": "Following the arrest of two of his men, Tony suspects a traitor. Efforts to discover who, however, are stymied.",
+      "date": "1999-03-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjY5MzFkNmMtNWYxYS00ZTk2LWFjNTYtMGUzNWYyZmIyMmRhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "S1.E12 ∙ Isabella",
+      "season": 1,
+      "episode": 12,
+      "description": "The stress Tony is going through begins to take its toll, and the hit Junior has ordered doesn't help.",
+      "date": "1999-03-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGFlYWFkZDEtNGY2OC00MmVlLTg0NzQtNDkwNTZjZjJmZDQ3XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "S1.E13 ∙ I Dream of Jeannie Cusamano",
+      "season": 1,
+      "episode": 13,
+      "description": "Tony starts cleaning house, while Artie feels torn between keeping the peace in his household, and getting even with Tony for destroying his restaurant.",
+      "date": "1999-04-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTFmZmJhZjgtZWVhZS00MDVkLWJkY2EtZTEyMGQ1ZjAyZmQ3XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Guy Walks Into a Psychiatrist's Office",
+      "season": 2,
+      "episode": 1,
+      "description": "Pussy returns after months in hiding, Chris starts a boiler room stock operation, and Tony's long-lost sister shows up on the doorstep.",
+      "date": "2000-01-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWE2Nzc0ZDAtZTg1Zi00ZjVmLWFhMWQtNzFiN2EyYTRmZWY5XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Do Not Resuscitate",
+      "season": 2,
+      "episode": 2,
+      "description": "Junior leaves prison due to ill health and placed under house arrest, while Livia's health also declines. Pussy begins talking with someone interested in learning more about Tony.",
+      "date": "2000-01-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQyOWFkZjgtMGU2MC00ODg4LThhODUtOWQ4YTk1NDU3ZTI4XkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg"
+    },
+    {
+      "title": "Toodle-Fucking-Oo",
+      "season": 2,
+      "episode": 3,
+      "description": "Richie Aprile gets out after ten years in prison and starts reasserting his authority while unaware of the changes made in the crime family's archetype. Meadow gets in trouble after a party gets out of hand.",
+      "date": "2000-01-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzVjNmQxMGMtODA4NS00NWJkLWI0OTQtMWE4Mjg0NGE3Y2Q1XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Commendatori",
+      "season": 2,
+      "episode": 4,
+      "description": "Tony, Paulie and Chris travel to Naples to conduct a business deal, while Pussy becomes more stressed over trying to balance his secret lives.",
+      "date": "2000-02-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjllZjZmYmYtMGMyMC00YmJkLTk0YTktNDljODIxMjAzYjI2XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Big Girls Don't Cry",
+      "season": 2,
+      "episode": 5,
+      "description": "Paulie and Silvio get promoted, Furio gets welcomed, Pussy gets pushed aside, and Chris gets frustrated with his Hollywood aspirations while Janice and Richie become romantically involved much to Tony's disapproval.",
+      "date": "2000-02-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGY2NGM2YWEtYjljNC00Njc1LThmZDMtMzk4YTQyNTFhYzQ0XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Happy Wanderer",
+      "season": 2,
+      "episode": 6,
+      "description": "Tony's old school friend digs himself into trouble with his gambling, while Tony's family problems only continue to grow.",
+      "date": "2000-02-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzljNjBkZDEtYWUyZS00ZTJjLWIyOGEtY2QzNzJmYjk3NGJjXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "D-Girl",
+      "season": 2,
+      "episode": 7,
+      "description": "Anthony continues to cause problems at home, while Pussy's divided loyalties cause him greater anguish.",
+      "date": "2000-02-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZhMWI1YjItZjM2ZC00ZjM3LTkwMGUtZGM4ZDNkZmNjYTg0XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Full Leather Jacket",
+      "season": 2,
+      "episode": 8,
+      "description": "Rebellion by some of the lower soldiers ends in bloodshed, while Carmela starts intimidating her neighbors to help Meadow's chances at Georgetown.",
+      "date": "2000-03-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGI2NDNjMjMtMTcwMS00MTQxLThiMGQtMTQwYjEwOGNiMjUyXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "From Where to Eternity",
+      "season": 2,
+      "episode": 9,
+      "description": "Chris awakens from his coma with a message from the afterlife for Tony and Paulie. Carmela, meanwhile, wants Tony to get a \"cut\", specifically a vasectomy.",
+      "date": "2000-03-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUxYjBkYzQtZGJlNC00MzY2LWJhZDktY2M2NmYwNzUxMGNhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Bust-Out",
+      "season": 2,
+      "episode": 10,
+      "description": "Tony continues putting the squeeze on David, while Richie discusses the possibility with Junior of removing some competition while 'Big Pussy' Bonpensiero continues to be an informant.",
+      "date": "2000-03-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhhNTY4ZGYtNGIwNy00MDU1LWE1NDctZmRiYzNmODUwMjgzXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "House Arrest",
+      "season": 2,
+      "episode": 11,
+      "description": "Junior feels the restrictions of his house arrest acutely, while Tony starts putting in hours at his actual job to allay FBI suspicions, while Junior and Richie uses the garbage pick up routes for a double purpose.",
+      "date": "2000-03-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ4OGUxODMtMWJlMy00MzE3LWI2NmMtYmExMWEyZGNhYWViXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "The Knight in White Satin Armor",
+      "season": 2,
+      "episode": 12,
+      "description": "Richie and Janice get engaged, but Richie's violent temper finally takes him too far. Tony, meanwhile, breaks up with Irina, much to her dismay.",
+      "date": "2000-04-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGRmYmE2NWUtYWM3Ni00ZThiLWJhNDAtYjA1ZmZjNmViOWQ0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Funhouse",
+      "season": 2,
+      "episode": 13,
+      "description": "Tony gets sick from food poisoning and blames Artie's restaurant. Pussy, meanwhile, reaches the end of the line.",
+      "date": "2000-04-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUyZGU2MjktMDk3OC00M2NkLWJkOTUtNzI2MGVkM2ZjOTQ5XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Mr. Ruggerio's Neighborhood",
+      "season": 3,
+      "episode": 1,
+      "description": "The FBI has trouble finding a new informant, so they attempt to bug the Soprano home.",
+      "date": "2001-03-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzcxODY3Nl5BMl5BanBnXkFtZTcwMTMwNTU4Mg@@.jpg"
+    },
+    {
+      "title": "Proshai, Livushka",
+      "season": 3,
+      "episode": 2,
+      "description": "An unexpected death brings the whole family together one more time, and old tensions resurface while at the funeral.",
+      "date": "2001-03-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIxNjQ2MDktNWRlMS00OTYzLWIxZWYtZGE2NWRmOWQ3OWJhXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Fortunate Son",
+      "season": 3,
+      "episode": 3,
+      "description": "Chris becomes a made man, while Tony experiences another panic attack. Meadow continues to seethe over Tony's treatment of her boyfriend.",
+      "date": "2001-03-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBlM2U0MGItOWJhYy00MzBlLWIyZGItN2NlNjdjYWFmOGNjXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Employee of the Month",
+      "season": 3,
+      "episode": 4,
+      "description": "Dr. Melfi is attacked and when the authorities lets her down, she considers asking Tony to help. Janice has a dispute with Svetlana. Ralphie gets passed over for a promotion and Jackie Jr. gets involved in the family's crime activities.",
+      "date": "2001-03-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWFiZDM3OTEtMGMzMC00OGM0LWEwYjktNjBiOTdlYjE2MTU4XkEyXkFqcGdeQXVyNjIwNzU1MzQ@.jpg"
+    },
+    {
+      "title": "Another Toothpick",
+      "season": 3,
+      "episode": 5,
+      "description": "Tony and Carmela try a therapy session together and ends it angrily. Artie, meanwhile, tries to move in on Adriana. Bobby 'Bacala' Sr. comes out of retirement for one last job much to his son's objection after it ends tragically.",
+      "date": "2001-03-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiYTI2YWUtMzUzZC00ZDg0LTgwMjMtMDkxMjk3MGY1N2NmXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "University",
+      "season": 3,
+      "episode": 6,
+      "description": "Noah and Meadow's relationship is disrupted by her roommate, while Ralphie starts getting rough with one of the strippers from the Bada Bing causing Tony to intervene and questionably violating one of the mafia codes of conduct.",
+      "date": "2001-03-31T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTU1YWM2NDEtM2MzNy00NTkyLWE2YjYtMDA1YWU2MjFiYzExXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Second Opinion",
+      "season": 3,
+      "episode": 7,
+      "description": "Junior continues his cancer treatments, but the prognosis is iffy. Chris, meanwhile, finds himself under suspicion from Paulie.",
+      "date": "2001-04-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDFkN2NiZWUtYjFkMC00ODE4LWIyZTYtNjQ2MjgyNmM5OTNhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "He Is Risen",
+      "season": 3,
+      "episode": 8,
+      "description": "Tensions rise between Tony and Ralphie until circumstances demand that they resolve their differences. Meadow gets involved with Jackie's son, and ends up in trouble.",
+      "date": "2001-04-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDMzYjY2MjEtMTliNS00OTI4LTg2ZTYtMzRiZDg3MjUzOTVmXkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg"
+    },
+    {
+      "title": "The Telltale Moozadell",
+      "season": 3,
+      "episode": 9,
+      "description": "Tony continues seeing Gloria, another of Dr. Melfi's patients, while Meadow continues seeing Jackie Jr.",
+      "date": "2001-04-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI2MjI4Y2QtZWRmMi00ZDM1LWE2MDYtYmU3NmVjMjQyNjNlXkEyXkFqcGdeQXVyNjE2NjAyNTg@.jpg"
+    },
+    {
+      "title": "To Save Us All from Satan's Power",
+      "season": 3,
+      "episode": 10,
+      "description": "Tony starts having flashbacks about Pussy's betrayal, and then later discovers that Jackie Jr. has been failing in his responsibilities.",
+      "date": "2001-04-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY2MjY0YjMtMzkyYi00YzAwLWJiNGUtNjUwNmY2MGZjNDlmXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Pine Barrens",
+      "season": 3,
+      "episode": 11,
+      "description": "While Silvio has the flu, Chris and Paulie run his collections for him, which results in the pair getting lost in the woods and nearly freezing to death while Tony's affair with Gloria goes sour as does Meadow's relationship with Jackie Jr.",
+      "date": "2001-05-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwODcxMjc4MF5BMl5BanBnXkFtZTcwMzMwNTU4Mg@@.jpg"
+    },
+    {
+      "title": "Amour Fou",
+      "season": 3,
+      "episode": 12,
+      "description": "Gloria grows increasingly demanding until Tony realizes who she is, and Jackie Jr. ends up in very serious trouble when Chris realizes who he is.",
+      "date": "2001-05-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUyY2UyMTYtM2M0Yy00YjliLThkNzctYThjMjk1Zjk5ZjhlXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Army of One",
+      "season": 3,
+      "episode": 13,
+      "description": "Ralphie issues his final decision on the fate of Jackie Jr., Anthony Jr., faces military school after getting expelled, Paulie and Ralphie have a financial conflict while the FBI assigns Adriana a new \"friend.\"",
+      "date": "2001-05-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk0MWRkZWMtYzY3YS00NWFmLTgyZTItNzJkMjVmYTdkZjk5XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "For All Debts Public and Private",
+      "season": 4,
+      "episode": 1,
+      "description": "Chris puts a ghost from his past to rest, while Carmela grows uneasy about her future.",
+      "date": "2002-09-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE4MGMzMjMtYmNkMS00MzgxLTkwZDEtNWY2NGM3ZDZlMTllXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "No Show",
+      "season": 4,
+      "episode": 2,
+      "description": "Chris' success earns him some jealousy, Adriana learns the truth about her friend, and Meadow still claims that Jackie Jr.'s death still weighs heavily on her.",
+      "date": "2002-09-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWMxNmQxMzgtYzc1Yi00MmQzLTg0NzAtYTczMjM1YTY1MWY4XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Christopher",
+      "season": 4,
+      "episode": 3,
+      "description": "Columbus Day ignites tensions between Italians and Native Americans, and Bobby receives devastating news about his wife.",
+      "date": "2002-09-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBjMTVmZTQtNTBmZC00N2M4LWI5YTAtZDdmNTg2YzgzNzQyXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Weight",
+      "season": 4,
+      "episode": 4,
+      "description": "A joke sparks a series of hit contracts, while Carmela finds herself happier than perhaps she should be that Furio will be around for good.",
+      "date": "2002-10-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWNjZDBmYTAtMGZmNS00YzdkLWIzNWUtMmVlMTJmMzNlMzRjXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Pie-o-My",
+      "season": 4,
+      "episode": 5,
+      "description": "Ralph buys a racehorse, but Tony ends up more attached to it than Ralphie is. Carmela starts trying to invest in her future.",
+      "date": "2002-10-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQ3MjhhYzQtMDk2MC00ZDA1LTg2ZWUtNjhjMzIwMjUyMzIzXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Everybody Hurts",
+      "season": 4,
+      "episode": 6,
+      "description": "Tony feels depressed over the negative impact he has on people who don't deserve it, while Carmela tries to set up Furio with a friend, AJ is uncomfortable with his girlfriend's wealth, Artie attempts a new business venture.",
+      "date": "2002-10-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQyNmRkNGYtM2E1Ni00MWRiLTllNTMtMTdjNzQyZDZlMjg0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Watching Too Much Television",
+      "season": 4,
+      "episode": 7,
+      "description": "Adriana learns that life is not like TV shows, while Tony discovers that a former girlfriend has moved on, along with Ralphie and others they scam the Department of Housing and Urban Development.",
+      "date": "2002-10-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjEyMTFlMDMtYWE2Yi00MzM2LTliZjctYjVhMzk2MjA4NWZlXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Mergers and Acquisitions",
+      "season": 4,
+      "episode": 8,
+      "description": "Paulie has to take care of some rough relationships for his mother, while Tony's fancy for a fellow horse fancier lands him in trouble with Carmela.",
+      "date": "2002-11-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTA1OTFkNzgtOGE3Yi00ZGM1LTkxMDEtZDdhOTM3Njk2YjQ5XkEyXkFqcGdeQXVyNjE2NjAyNTg@.jpg"
+    },
+    {
+      "title": "Whoever Did This",
+      "season": 4,
+      "episode": 9,
+      "description": "Ralph's callous behavior finally steps over the line, while Chris gets deeper into his heroin addiction and Uncle Junior's mental capacity begins to become in question.",
+      "date": "2002-11-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y3MDlmZWMtZWQ1NC00NjgzLTkzZWMtMTlkYzkxYzc5MWJiXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Strong, Silent Type",
+      "season": 4,
+      "episode": 10,
+      "description": "In the midst of suspicions that he killed Ralph, Tony tries to intervene to get Chris clean and sober.",
+      "date": "2002-11-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmViMjQ1MDgtYTE1Yi00OTI5LWE1Y2EtM2Q4MGU5NzU5ZmI0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Calling All Cars",
+      "season": 4,
+      "episode": 11,
+      "description": "Tony's dreams seem to tell him where his life is headed, but he still feels as though he's out of control.",
+      "date": "2002-11-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDIwYTM4ZDktNDJiNi00MzI4LTgyZWEtYjhjZDg1MDY1OTcwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Eloise",
+      "season": 4,
+      "episode": 12,
+      "description": "Carmela and Furio grow too close for safety, while Paulie discovers that he's not as big a fish as he thought he was.",
+      "date": "2002-11-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQ3MWYyMTMtZjFmOS00Zjc5LTk4NmEtMTFhZWRmOTZmNzRhXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Whitecaps",
+      "season": 4,
+      "episode": 13,
+      "description": "Junior's trial comes to an end, but Tony's trials are just getting underway. Also, the Sopranos almost purchase a house on the beach.",
+      "date": "2002-12-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4YmJjYzctNTZjNy00ZTM4LWIyZGEtOGRkZDk5ZjUyNmM1XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Two Tonys",
+      "season": 5,
+      "episode": 1,
+      "description": "Some of the old guards are released from prison and want to get back in the action. Chris and Paulie are at each other's throats over matters of money and respect, and Tony decides to tell Dr. Melfi what's really on his mind.",
+      "date": "2004-03-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGE4NmRjMmEtNDJjYS00Mjg0LWJkZDEtNjI3MjljMjEwNzQ1XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Rat Pack",
+      "season": 5,
+      "episode": 2,
+      "description": "Carmine's passing opens new wounds, while cousin Tony wants to put his past behind him. Tony Soprano, meanwhile, discovers a traitor.",
+      "date": "2004-03-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk4MjMwM2YtYThmMi00OGU3LWJlM2YtYTA0Y2RjNDE3N2FlXkEyXkFqcGdeQXVyNjE2NjAyNTg@.jpg"
+    },
+    {
+      "title": "Where's Johnny?",
+      "season": 5,
+      "episode": 3,
+      "description": "With Carmine's passing and Feech's arrival, turf wars are breaking out around New Jersey. Junior's mental health, meanwhile, starts to decline.",
+      "date": "2004-03-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZlZTE1ZmUtNDhjOC00NDU1LThhMGItYWJiZDkyNzgxNzE2XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "All Happy Families",
+      "season": 5,
+      "episode": 4,
+      "description": "Feech makes a pain of himself by trying to return to his past glory. Carmela tries to work with Anthony's teacher to rein in their out-of-control son.",
+      "date": "2004-03-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTJkZDQ2NGItYjdkYi00YThlLWI5NTYtMWY5Y2I5NjU2MWNjXkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg"
+    },
+    {
+      "title": "Irregular Around the Margins",
+      "season": 5,
+      "episode": 5,
+      "description": "A car crash puts Tony and Adriana in a compromising position, and Cousin Tony tries to keep Chris from getting the wrong impression and the wrong information.",
+      "date": "2004-04-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWVlZDliMDMtYzAyMC00ZjNhLWE3N2EtYjU4MjY5NjdiZTZkXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Sentimental Education",
+      "season": 5,
+      "episode": 6,
+      "description": "Carmela has another furtive romance collapse, while Tony B. throws away a chance to turn his life around.",
+      "date": "2004-04-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjU0NWJhNzQtN2M2Zi00MGU4LThmNjYtMzI3NWYwOTNlNDViXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "In Camelot",
+      "season": 5,
+      "episode": 7,
+      "description": "Tony learns about his father through the man's mistress, while Chris' friend learns that there are habits more harmful to your health than heroin. Junior becomes obsessed in attending funerals but that leads to a change in his mood.",
+      "date": "2004-04-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3MmQ5NTUtN2IwNi00ZGVkLWEwM2UtYjZhYTg5NjEwYTVkXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Marco Polo",
+      "season": 5,
+      "episode": 8,
+      "description": "An uncomfortable party leads Tony and Carmela to a partial reconciliation, while cousin Tony gets an offer he decides not to refuse.",
+      "date": "2004-04-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTY4ZjRiOWYtYzNkZS00ODRjLTlhOTItZDI0ZDg2YjMzODYwXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Unidentified Black Males",
+      "season": 5,
+      "episode": 9,
+      "description": "Tony finds out that his cousin wants a bigger share of responsibilities, while Finn makes an embarrassing discovery about Vito.",
+      "date": "2004-05-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjIwODVlYWMtZjFjYy00NWQzLTljOWYtNTdhODIxNTkxMDg4XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Cold Cuts",
+      "season": 5,
+      "episode": 10,
+      "description": "Chris and cousin Tony do some digging to make sure old secrets stay buried, while Janice puts her marriage in jeopardy with her fierce temper.",
+      "date": "2004-05-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDY2MzQxNjItZDU2Ny00ODdmLWExNWMtNDllYjZiYTUwNTI4XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Test Dream",
+      "season": 5,
+      "episode": 11,
+      "description": "Cousin Tony heads off to avenge the death of his good friend, while a dream reveals to Tony what he must do to prevent a full-scale war.",
+      "date": "2004-05-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjE3ZWQxNDktOTJkNC00MGJkLTk1MGItYzczNzE1YWEyZTI0XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Long Term Parking",
+      "season": 5,
+      "episode": 12,
+      "description": "Tony makes a request to Johnny Sack on behalf of his cousin, and Adriana makes a request to the FBI, followed by one to Chris.",
+      "date": "2004-05-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWYxNmNhYzMtMTIyNS00YjJhLTg1MTMtNjM4NTM0MWY5M2Y2XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "All Due Respect",
+      "season": 5,
+      "episode": 13,
+      "description": "Tony realizes that he must take care of family messes himself in order to keep the peace within his own clan.",
+      "date": "2004-06-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2M0N2Q1MDQtNzBhZi00ZjhhLWFiMTYtNGNmN2JhZDRhNmZhXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Members Only",
+      "season": 6,
+      "episode": 1,
+      "description": "Gene Pontecorvo makes a final break from the mob life, while Junior's paranoid delusions could be the end of Tony.",
+      "date": "2006-03-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTJhNmMwOTctYTViNS00YTI4LTk5YWItMjVlYmE2ZWJiOWQxXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Join the Club",
+      "season": 6,
+      "episode": 2,
+      "description": "The family tries to cope with Tony's hospitalization and deteriorating condition, while Tony begins to hallucinate a new life parallel to his own.",
+      "date": "2006-03-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk2NTMyODI2M15BMl5BanBnXkFtZTcwOTIwNTU4Mg@@.jpg"
+    },
+    {
+      "title": "Mayham",
+      "season": 6,
+      "episode": 3,
+      "description": "While the gang begins to turn on itself, Tony finds himself at the threshold, while Christopher gives another try to enter the movie business, however this time as a producer rather than a screenwriter.",
+      "date": "2006-03-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmQyOTk5MjItMmFkNC00MGNhLTlkMzYtNWVkNDlhNjdhYThiXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Fleshy Part of the Thigh",
+      "season": 6,
+      "episode": 4,
+      "description": "Tony goes home and returns to business, perhaps with a new frame of mind. Paulie receives a shock about his mother.",
+      "date": "2006-04-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhmOTc1ZjItZGQ4Ny00NmY4LWJjZTgtMWQ4MmEyZWRhYzIxXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Mr. & Mrs. John Sacrimoni Request",
+      "season": 6,
+      "episode": 5,
+      "description": "Johnny Sack is granted permission to attend his daughter's wedding. Tony improves his personal security and Vito's secret double life is exposed.",
+      "date": "2006-04-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY5OWNkYjQtNTgxYS00Y2Q4LWFmN2QtZGVlMTg0MjYxYThhXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Live Free or Die",
+      "season": 6,
+      "episode": 6,
+      "description": "Tony hires help from overseas to fulfill a favor he was asked for by Johnny Sack and decides if one of his top earners deserves a second chance as he acknowledges to Dr. Melfi he was given a second chance when he survived his gun shot wound.",
+      "date": "2006-04-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE3NDI2ZjQtMTM0Ni00YzA0LTg3MzItYTBlMzk4ODcyMmQxXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Luxury Lounge",
+      "season": 6,
+      "episode": 7,
+      "description": "Christopher and Carmine travel to Hollywood to take the next step in making their movie but quickly realize they're out of their depth. Artie feuds with Benny after his restaurant falls prey to one of Tony's scams.",
+      "date": "2006-04-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWM3ZWNjNWUtY2EzMy00MjJhLTk2NzUtNjgzNWMxYTY4YjRhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Johnny Cakes",
+      "season": 6,
+      "episode": 8,
+      "description": "Vito considers starting a new life in New Hampshire, while Anthony Jr. looking for a purpose and finds it when he continues his pursuit of revenge against Junior.",
+      "date": "2006-04-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyNDIxOTkwMl5BMl5BanBnXkFtZTcwNDIwNTU4Mg@@.jpg"
+    },
+    {
+      "title": "The Ride",
+      "season": 6,
+      "episode": 9,
+      "description": "Paulie finds public opinion turned against him after an amusement ride accident. Christopher tries to start a new life as a husband and father.",
+      "date": "2006-05-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjliNWY1MWUtOTQ3Ni00OTlmLTliMWUtYTEzMzMwN2RhYjI1XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Moe n' Joe",
+      "season": 6,
+      "episode": 10,
+      "description": "Tony reflects on how growing up with Janice colors his attitudes now, while Vito tries to make a new life for himself in New Hampshire.",
+      "date": "2006-05-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDA5MmVjNzEtN2Q3NS00NWNjLTk0MzItODhhNGZjNzJiNTYwXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Cold Stones",
+      "season": 6,
+      "episode": 11,
+      "description": "Phil takes out his revenge on Vito, while Tony grows frustrated with Anthony Jr's lack of ambition or work ethic.",
+      "date": "2006-05-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTA2ZmYxZWQtMzM2Mi00ZjM3LTljZjAtNTg2YWZjMTk1ZTczXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Kaisha",
+      "season": 6,
+      "episode": 12,
+      "description": "Tony and Phil begin an explosive conflict that puts Phil in the hospital, while Christopher and Tony both embark on new romances with the same woman.",
+      "date": "2006-06-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTdhYWNhYzAtOTYzYS00YmQ5LTkyOTEtZDRlZThjNzRjNDZjXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Soprano Home Movies",
+      "season": 6,
+      "episode": 13,
+      "description": "Carmela and Tony go away to Bobby's cabin upstate New York for Tony's birthday up where a fight emerges between Tony and Bobby over Janice. Meanwhile A.J. is throwing a party at the Soprano home.",
+      "date": "2007-04-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzEyNGMzMGEtNzU2Zi00NTUzLWJhM2YtYjU5M2NlYmRlOGE5XkEyXkFqcGdeQXVyMTI3OTkzMzAw.jpg"
+    },
+    {
+      "title": "Stage 5",
+      "season": 6,
+      "episode": 14,
+      "description": "Johnny Sac finds out he only has 3 months to live. Meanwhile, 'Cleaver' premieres and is a hit, while Carmela has mixed emotions about it, saying too much of it is based on Tony.",
+      "date": "2007-04-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVjMWJmMDAtYjNiMy00YzRiLWI1Y2EtYzU4ZDgwMjdmZmZiXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Remember When",
+      "season": 6,
+      "episode": 15,
+      "description": "While forced to lay low in Miami, Tony begins to question Paulie's loyalty. Junior and Phil Leotardo both make moves to gain power in their respective territories.",
+      "date": "2007-04-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmNmMWJhOTEtMjVjZi00Yzc5LWEyMmYtOGZiNDliYjM3ZjFiXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Chasing It",
+      "season": 6,
+      "episode": 16,
+      "description": "Tony hits an unlucky series of gambling losses, causing tension with both Carmela and Hesh. AJ and Blanca decide to make major changes in their relationship.",
+      "date": "2007-04-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2E5ZDUzN2UtNzJhMy00ZDc1LWJkOTYtYTQyZDgyZDVmYzRhXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Walk Like a Man",
+      "season": 6,
+      "episode": 17,
+      "description": "Christopher's father-in-law is the unwitting catalyst of a new feud between Christopher and Paulie. AJ struggles with depression.",
+      "date": "2007-05-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NhYTNhMjItNTI4YS00YTdiLTlkYzEtZmJkZGY4OWIwYTQ3XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Kennedy and Heidi",
+      "season": 6,
+      "episode": 18,
+      "description": "Tony travels to Las Vegas after a tragedy occurs.",
+      "date": "2007-05-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQyOGU3YzEtMTUzMy00MWFhLTkyZDItMGYzYTVmM2ViMTFmXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Second Coming",
+      "season": 6,
+      "episode": 19,
+      "description": "Tony fails to reason with Phil as more problems increase with Anthony Jr as his depression worsens.",
+      "date": "2007-05-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzEzZDJkY2ItOTJiZi00YzZlLWFjOTQtYjQzNDhiMzkzOTY0XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "The Blue Comet",
+      "season": 6,
+      "episode": 20,
+      "description": "The allegiance of those closest to Tony is put to the test. A case of mistaken identity has serious ramifications.",
+      "date": "2007-06-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGJhOTdjMmUtOGQ5OC00ZGU0LTgwY2ItYjI0YmI3OTU2MjQ0XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    },
+    {
+      "title": "Made in America",
+      "season": 6,
+      "episode": 21,
+      "description": "Tony and his family have to stay in hiding until Phil Leotardo is dealt with. His family doesn't like the lifestyle they have been forced to adopt. AJ and Meadow move onto the next step in their lives. Tony confronts Junior one last time.",
+      "date": "2007-06-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThmNjk0ZjQtNmY3Zi00YzYzLWFhNjEtNDlhYmQzZTljNzI2XkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg"
+    }
+  ]
+}

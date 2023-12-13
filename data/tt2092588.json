@@ -1,0 +1,85 @@
+{
+  "seasons": 1,
+  "episodes": [
+    {
+      "title": "To the Ends of the Earth",
+      "season": 1,
+      "episode": 1,
+      "description": "David Attenborough travels from the Arctic to the Antarctic to discover magical new ice worlds inhabited by the most extraordinary animal survivors on Earth.",
+      "date": "2012-03-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2MjY2OTk0MF5BMl5BanBnXkFtZTgwNjU3NTY2MjE@.jpg"
+    },
+    {
+      "title": "Spring",
+      "season": 1,
+      "episode": 2,
+      "description": "Each spring, massive sweet water thawing rapidly transforms the polar regions and the surrounding seas, where broken-off ice floats to. This is crucial in the life cycle of many species, sometimes extremely elaborate. Many colonies (re)unite to mate, hatch and/or start raising offspring, especially in 'temperate' parts, such as South Georgia island.",
+      "date": "2012-03-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5NjEyMDMwNl5BMl5BanBnXkFtZTgwMzc3NzE1NTE@.jpg"
+    },
+    {
+      "title": "Summer",
+      "season": 1,
+      "episode": 3,
+      "description": "In Summer, the non-stop sunlight fires an unrelenting thaw, transforming much of the polar regions into fertile land and open sea, while immense masses of melted sweet water pour into the oceans. Many species profit from the relatively benign conditions to mate, breed and raise their young. However for some, such as ice-bears, the lack of ice also causes major troubles in foraging and just moving around.",
+      "date": "2012-03-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxOTAzMTg1N15BMl5BanBnXkFtZTgwMjY3NTY2MjE@.jpg"
+    },
+    {
+      "title": "Autumn",
+      "season": 1,
+      "episode": 4,
+      "description": "After non-stop summer months, the polar regions have expanded maximally, abundant food turns even the bears sociable. However the shortening of days soon starts reversing the process as frost expands the ice again. So many seasonal migrations turn too, mainly leaving for warmer regions. A stunning exception are the 'giant' emperor penguins, who arrive to mate, lay and raise their eggs in heroic defiance of the planet's harshest conditions.",
+      "date": "2012-04-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ4NTMyMzk3M15BMl5BanBnXkFtZTgwNDY3NTY2MjE@.jpg"
+    },
+    {
+      "title": "Winter",
+      "season": 1,
+      "episode": 5,
+      "description": "The polar struggle to survive is even harder in winter, missing a single rare prey can be lethal. Well-adapted anatomy is crucial, but also tricks such as isolation with snow or preys' fur. The Antarctic is nearly deserted, except for seals and emperor penguins, even the slightly milder Artic is left by most species, failing to do so is a gamble which can exterminate entire populations.",
+      "date": "2012-03-31T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM5MTM3MDU5MV5BMl5BanBnXkFtZTgwNDc3NzE1NTE@.jpg"
+    },
+    {
+      "title": "The Last Frontier",
+      "season": 1,
+      "episode": 6,
+      "description": "The polar regions are earth's least hospitable environment, yet people live in the Arctic regions. Modern urbanized life is possibly even there thanks to technology, but some (often tribal) communities still practice traditional methods, dependent on specific fauna, such as reindeer herding, dog sleds, hunting seals and collecting bird eggs. Some of those are even used by modern patrols in mineral-rich parts, e.g. in Greenland. The even harsher Antartic, were territorial claims are frozen, remains off-limits for exploitation, except controlled eco-friendly tourism and scientific research.",
+      "date": "2012-04-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExNDg5MzA5NF5BMl5BanBnXkFtZTgwMDY3NTY2MjE@.jpg"
+    },
+    {
+      "title": "On Thin Ice",
+      "season": 1,
+      "episode": 7,
+      "description": "David Attenborough journeys to both polar regions to investigate what rising temperatures will mean for the people and wildlife that live there.",
+      "date": "2012-04-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjIzZmUyMmQtOGFhOS00YmNjLWE3M2YtNmZmZmExZWNiZWE5XkEyXkFqcGdeQXVyMTY2NTEyMTY@.jpg"
+    },
+    {
+      "title": "The Epic Journey",
+      "season": 1,
+      "episode": 8,
+      "description": "Features the best highlights of the series spanning the entire polar year - from the depths of winter to the melting world of the polar summer.",
+      "date": "2012-04-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDA3MjEyMjItNjViYy00MjMzLTljYjctYzlhNGVkODc2ODkyXkEyXkFqcGdeQXVyNTc5MDAyMDE@.jpg"
+    },
+    {
+      "title": "Science at the End of the Earth",
+      "season": 1,
+      "episode": 9,
+      "description": "During the filming of Frozen Planet, the team got unprecedented access to film the story of the South Pole Station - the most extreme and remote scientific research base on earth. This film traces the history of the base, which began unwittingly with early explorers like Scott and Amundsen and their quest to be the first humans to reach the South Pole, dragging tools and supplies behind them. Today, modern scientists have access to much more hi-tech instruments and we meet a team working on one of the most extreme scientific projects on earth.",
+      "date": "2012-04-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGY2NWM2YTQtYzdlOC00OWM0LWE0NzItMjk5Mjg1OTQ1MDcwXkEyXkFqcGdeQXVyMTY2NTEyMTY@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ The Making of 'Frozen Planet'",
+      "season": 1,
+      "episode": 10,
+      "description": "A behind-the-scenes special which follows the Frozen Planet film crews braving the elements.",
+      "date": "2012-04-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDMxM2Q5YWQtODNhMi00ZTg1LTg4ZDMtNTI0YjA3ODE4NzMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg"
+    }
+  ]
+}

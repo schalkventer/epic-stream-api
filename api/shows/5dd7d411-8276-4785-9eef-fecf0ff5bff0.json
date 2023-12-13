@@ -1,0 +1,59 @@
+{
+  "id": "5dd7d411-8276-4785-9eef-fecf0ff5bff0",
+  "description": "Africa, the world's wildest continent. David Attenborough takes us on an awe-inspiring journey through one of the most diverse places in the world. We visit deserts, savannas, and jungles and meet up with some of Africa's amazing wildlife.",
+  "title": "Africa",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDdkZGViNzctZTJkMy00N2ZmLTg4NTUtZWM3YTE3ZTE3NjYwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    4,
+    5
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Kalahari",
+          "episode": 1,
+          "description": "Deserts, like southern Africa's Kalahari and Namib, are strange and by definition are particularly dangerous and demanding environments, requiring elaborate adaptations. Some are behavioral, like tricks to steal food or even lay eggs in live hosts. other are anatomical. All the more precious is the rare water, so drinking pools are crucial for carnivores and preys. Astonishingly, vast quantities are trapped in huge cave systems underground, where aquatic life is scarce due to little food and light dripping in.",
+          "date": "2013-01-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDEyNTA2Nl5BMl5BanBnXkFtZTgwMDE4OTM0MjE@.jpg"
+        },
+        {
+          "title": "Savannah",
+          "episode": 2,
+          "description": "Volcanoes, some still active, shape East Africa's vast savannas, mainly consisting of grasslands where huge wildebeest and other herds roam and their annual migration steers the habitat type's complex life cycle. Some areas still remain primeval jungle, or became marshes or even hostile salt zones, yet all harbor intensive wildlife,whose lives are a merciless struggle for life, for elephants as well as insectivores.",
+          "date": "2013-01-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE4ODA3MjAwM15BMl5BanBnXkFtZTgwMTE5MDM0MjE@.jpg"
+        },
+        {
+          "title": "Congo",
+          "episode": 3,
+          "description": "The rain forest in and around equatorial Africa's Congo basin is the continent's richest and most varied environment. The abundance of food however also means extremely competition for it, while plants race to the light, using surprisingly dirty trick to 'cheat' for a spot in one of many stories from the ground to the tower-high canopy.",
+          "date": "2013-01-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODkyODk5OTc4OF5BMl5BanBnXkFtZTgwNTY4MDM0MjE@.jpg"
+        },
+        {
+          "title": "Cape",
+          "episode": 4,
+          "description": "Southern Africa is a riot of life and color. But if it was not for two great ocean currents that sweep around and shape the continent's Great Cape it would be a desert. This episode celebrates the rejuvenating powers of the ocean.",
+          "date": "2013-01-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI0NjUxNjIwMF5BMl5BanBnXkFtZTgwMjg4MDM0MjE@.jpg"
+        },
+        {
+          "title": "Sahara",
+          "episode": 5,
+          "description": "The Sahara. Covering a vast swathe of Northern Africa, it is the largest desert in the world. On the surface, it appears to be a desolate empty land, but there are a few specialist species who have adapted to this harsh landscape.",
+          "date": "2013-01-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMzNDc2NzMzNF5BMl5BanBnXkFtZTgwMzE5MDM0MjE@.jpg"
+        },
+        {
+          "title": "The Future",
+          "episode": 6,
+          "description": "David Attenborough takes a look at the future of the world's warmest and wildest continent, which like our planet saw more change in the last half-century then ever before, and must expect even more. Problems like demography and climate change are immense, exacerbating others like poaching and habitat loss. Nevertheless he sees positive things too, like growing conservation awareness and efforts from native tribes.",
+          "date": "2013-02-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcxNjM3MTMwNl5BMl5BanBnXkFtZTgwNzY4MDM0MjE@.jpg"
+        }
+      ]
+    }
+  ]
+}

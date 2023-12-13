@@ -1,0 +1,77 @@
+{
+  "seasons": 2,
+  "episodes": [
+    {
+      "title": "Welcome to the Playground",
+      "season": 1,
+      "episode": 1,
+      "description": "Orphaned sisters Vi and Powder bring trouble to Zaun's underground streets in the wake of a heist in posh Piltover.",
+      "date": "2021-11-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDI5YzBjYzctMDFkMS00Y2M1LTg5YWItMzA0ODNmOTgzYWViXkEyXkFqcGdeQXVyMTEzMTI1Mjk3.jpg"
+    },
+    {
+      "title": "Some Mysteries Are Better Left Unsolved",
+      "season": 1,
+      "episode": 2,
+      "description": "Idealistic inventor Jayce attempts to harness magic through science --- despite his mentor's warning. Criminal kingpin Silco tests a powerful substance.",
+      "date": "2021-11-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFjMGNhYzQtMjAzMC00MzdjLTkyZmItNTBkYzZiM2E5MWYwXkEyXkFqcGdeQXVyOTc4OTAwMjU@.jpg"
+    },
+    {
+      "title": "The Base Violence Necessary for Change",
+      "season": 1,
+      "episode": 3,
+      "description": "An epic showdown between old rivals results in a fateful moment for Zaun. Jayce and Viktor risk it all for their research.",
+      "date": "2021-11-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZjMTgyOTYtMTNmOC00ZGNiLWI4OGQtN2NiMmQ3YWNjYzkwXkEyXkFqcGdeQXVyMTQ0OTA3OTY4.jpg"
+    },
+    {
+      "title": "Happy Progress Day!",
+      "season": 1,
+      "episode": 4,
+      "description": "With Piltover prospering from their tech, Jayce and Viktor weigh their next move. A familiar face re-emerges from Zaun to wreak havoc.",
+      "date": "2021-11-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2MzZTRjZTYtNWZlZS00Yzk3LWE0ZjQtOTQzZmM0MDcyOWQ4XkEyXkFqcGdeQXVyMjc5OTMxMzQ@.jpg"
+    },
+    {
+      "title": "Everybody Wants to Be My Enemy",
+      "season": 1,
+      "episode": 5,
+      "description": "Rogue enforcer Caitlyn tours the undercity alongside Vi to track down Silco. Jayce puts a target on his back trying to root out Piltover corruption.",
+      "date": "2021-11-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE5ZjMyMDYtMDM0NS00ZGM4LWEyMGItODNlYzIwYzczYTliXkEyXkFqcGdeQXVyOTc4OTAwMjU@.jpg"
+    },
+    {
+      "title": "When These Walls Come Tumbling Down",
+      "season": 1,
+      "episode": 6,
+      "description": "An eager protege undermines his mentor on the council as a magical tech rapidly evolves. With authorities in pursuit, Jinx must face her past.",
+      "date": "2021-11-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDVlZGYzODEtMDM0MC00ZWQ5LWFkNmEtNWFjZmE4Y2JhM2EyXkEyXkFqcGdeQXVyNjk1MjA0MTk@.jpg"
+    },
+    {
+      "title": "The Boy Savior",
+      "season": 1,
+      "episode": 7,
+      "description": "Caitlyn and Vi meet an ally in Zaun's streets and head into a frenzied battle with a common foe. Viktor makes a dire decision.",
+      "date": "2021-11-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzVmNzU5NzEtNmEzYi00OGI1LWExYTQtYzE0OGQ5Yzg1NzU0XkEyXkFqcGdeQXVyMTQzMDU5NTQ3.jpg"
+    },
+    {
+      "title": "Oil and Water",
+      "season": 1,
+      "episode": 8,
+      "description": "Disowned heir Mel and her visiting mother trade combat tactics. Caitlyn and Vi forge an unlikely alliance. Jinx undergoes a startling change.",
+      "date": "2021-11-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTJlZTBhMTYtMDJlYS00ZGI3LWE3NTQtYTYxNWI5NzI3Yjc2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg"
+    },
+    {
+      "title": "The Monster You Created",
+      "season": 1,
+      "episode": 9,
+      "description": "Perilously close to war, the leaders of Piltover and Zaun reach an ultimatum. But a fateful standoff changes both cities forever.",
+      "date": "2021-11-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZmMjQ4MTYtYWVjZS00YzkxLWE5MTgtYjQwZTFiYWFlY2Q1XkEyXkFqcGdeQXVyMTQ0MTQ0NzQ3.jpg"
+    }
+  ]
+}

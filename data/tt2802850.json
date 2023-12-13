@@ -1,0 +1,333 @@
+{
+  "seasons": 5,
+  "episodes": [
+    {
+      "title": "The Crocodile's Dilemma",
+      "season": 1,
+      "episode": 1,
+      "description": "A ruthless, manipulative man meets a small-town insurance salesman and sets him on a path of destruction.",
+      "date": "2014-04-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA3MzY4NTMxNl5BMl5BanBnXkFtZTgwMjIyMjY5MDE@.jpg"
+    },
+    {
+      "title": "The Rooster Prince",
+      "season": 1,
+      "episode": 2,
+      "description": "Molly begins to suspect that Lester is involved in the murders, but her boss points her in a different direction. Meanwhile, Malvo investigates the plot against a man known as the Supermarket King.",
+      "date": "2014-04-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1MzM2NjkyOV5BMl5BanBnXkFtZTgwMTI5NDQ2MTE@.jpg"
+    },
+    {
+      "title": "A Muddy Road",
+      "season": 1,
+      "episode": 3,
+      "description": "Malvo flips the script on the blackmail operation. Molly sets a trap, and Gus debates whether he should come clean. Lester's return to work has complicated repercussions.",
+      "date": "2014-04-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjkyNDMyODAyOV5BMl5BanBnXkFtZTgwNzQ4ODY2MTE@.jpg"
+    },
+    {
+      "title": "Eating the Blame",
+      "season": 1,
+      "episode": 4,
+      "description": "When Gus tries to right a wrong, Malvo embraces his alter ego. Lester finds himself in a surprising situation, and Molly uncovers a promising lead.",
+      "date": "2014-05-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUyNDU4ODQ0N15BMl5BanBnXkFtZTgwOTA4ODI3MTE@.jpg"
+    },
+    {
+      "title": "The Six Ungraspables",
+      "season": 1,
+      "episode": 5,
+      "description": "When Lester has a close call, Molly makes an unorthodox decision. Gus weighs some neighborly advice, and Malvo gets what he wants.",
+      "date": "2014-05-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MTc0MTEzN15BMl5BanBnXkFtZTgwNDI2OTg3MTE@.jpg"
+    },
+    {
+      "title": "Buridan's Ass",
+      "season": 1,
+      "episode": 6,
+      "description": "Malvo executes his master plan, while Lester attempts to craft one of his own. Gus and Molly team up in Duluth.",
+      "date": "2014-05-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4NTEwMTY3NV5BMl5BanBnXkFtZTgwMTI1NDM4MTE@.jpg"
+    },
+    {
+      "title": "Who Shaves the Barber?",
+      "season": 1,
+      "episode": 7,
+      "description": "Molly recuperates from her injury, while Malvo looks to dispatch a syndicate in Fargo. Lester continues his descent into darkness with the unfolding of his plan.",
+      "date": "2014-05-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5ODg2NjczOF5BMl5BanBnXkFtZTgwNTM4MzY4MTE@.jpg"
+    },
+    {
+      "title": "The Heap",
+      "season": 1,
+      "episode": 8,
+      "description": "Molly faces pressure to close the case, while Lester starts to feel like a new man.",
+      "date": "2014-06-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMwMTU4OTEzM15BMl5BanBnXkFtZTgwMzAyODM5MTE@.jpg"
+    },
+    {
+      "title": "A Fox, a Rabbit, and a Cabbage",
+      "season": 1,
+      "episode": 9,
+      "description": "Lester has an unexpected encounter, Malvo changes course, and a new investigation leads Molly down a familiar path.",
+      "date": "2014-06-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyMjc0MTg3N15BMl5BanBnXkFtZTgwMzg0NzQ5MTE@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ Morton's Fork",
+      "season": 1,
+      "episode": 10,
+      "description": "Molly takes the lead, while Gus pursues a hunch. Lester manipulates a situation, and Malvo finds a new target.",
+      "date": "2014-06-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMxNTc1MjU5MF5BMl5BanBnXkFtZTgwODQxODEwMjE@.jpg"
+    },
+    {
+      "title": "Waiting for Dutch",
+      "season": 2,
+      "episode": 1,
+      "description": "In a small Minnesota town, a shooting at a diner disrupts the lives of a state officer, a married couple, and a North Dakota crime syndicate.",
+      "date": "2015-10-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDg0MTA0NV5BMl5BanBnXkFtZTgwMjg5Mjk5NjE@.jpg"
+    },
+    {
+      "title": "Before the Law",
+      "season": 2,
+      "episode": 2,
+      "description": "The Gerhardts receive a surprising offer, while two unlikely murderers do their best to clean up their mess.",
+      "date": "2015-10-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk4NDEzODUxOV5BMl5BanBnXkFtZTgwNDkxOTcwNzE@.jpg"
+    },
+    {
+      "title": "The Myth of Sisyphus",
+      "season": 2,
+      "episode": 3,
+      "description": "The Gerhardts' search for Rye intensifies, Lou takes a trip to Fargo, and Peggy overhears a new theory about the Waffle Hut shooter.",
+      "date": "2015-10-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQyOTY3NDU5MF5BMl5BanBnXkFtZTgwOTQzMjMxNzE@.jpg"
+    },
+    {
+      "title": "Fear and Trembling",
+      "season": 2,
+      "episode": 4,
+      "description": "The Gerhardts respond to Kansas City's proposal, while Hanzee finds a new lead in Rye's disappearance. Lou questions Ed and Peggy.",
+      "date": "2015-11-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTMxMTA2OGMtN2RlNy00YWI4LWEzYWMtZTI4Y2I4OTIyY2ExXkEyXkFqcGdeQXVyMTI4MTk2NzMz.jpg"
+    },
+    {
+      "title": "The Gift of the Magi",
+      "season": 2,
+      "episode": 5,
+      "description": "Floyd takes action and Charlie tries to prove himself; Peggy and Ed disagree about what to do next; Lou finds himself sidelined during Ronald Reagan's campaign tour.",
+      "date": "2015-11-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyNTIxNDQyMl5BMl5BanBnXkFtZTgwMzc5MjMyNzE@.jpg"
+    },
+    {
+      "title": "Rhinoceros",
+      "season": 2,
+      "episode": 6,
+      "description": "With Ed and Charlie in custody, the Gerhardts arrive at the police station, forcing Lou and Hank to try and prevent any more bloodshed.",
+      "date": "2015-11-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTY1MTg4MF5BMl5BanBnXkFtZTgwMDIxODUyNzE@.jpg"
+    },
+    {
+      "title": "Did You Do This? No, You Did It!",
+      "season": 2,
+      "episode": 7,
+      "description": "The police bring in Floyd for questioning, in an attempt to make her talk. Bear goes on a ride with Simone. Karl keeps an eye on Lou's family.",
+      "date": "2015-11-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzc5MzQ0NDQwOV5BMl5BanBnXkFtZTgwMzExMDMzNzE@.jpg"
+    },
+    {
+      "title": "Loplop",
+      "season": 2,
+      "episode": 8,
+      "description": "Ed and Peggy hold Dodd hostage in a secluded cabin and try to strike up a deal with the Gerhardts, while Hanzee attempts to hunt them down.",
+      "date": "2015-11-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4MDc4NTI3NF5BMl5BanBnXkFtZTgwNjEwMDgzNzE@.jpg"
+    },
+    {
+      "title": "The Castle",
+      "season": 2,
+      "episode": 9,
+      "description": "In an attempt to stop the Kansas City mob, the police decide to use Ed and Peggy as bait. Hanzee betrays the Gerhardts and takes revenge.",
+      "date": "2015-12-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDllZWMwOTUtNWIyMS00MmQ3LTg0NjAtODE0MzdhMzBlNTJlXkEyXkFqcGdeQXVyMjQ0MjE0MjU@.jpg"
+    },
+    {
+      "title": "Palindrome",
+      "season": 2,
+      "episode": 10,
+      "description": "In the events following the motel massacre, Hanzee goes after Ed and Peggy.",
+      "date": "2015-12-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2NTAwOTQ0NV5BMl5BanBnXkFtZTgwNDU3NzQ0NzE@.jpg"
+    },
+    {
+      "title": "The Law of Vacant Places",
+      "season": 3,
+      "episode": 1,
+      "description": "A twisted sibling rivalry leads to murder, mobsters and cutthroat competitive bridge in a small Midwestern town.",
+      "date": "2017-04-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0MTM0OTEwOF5BMl5BanBnXkFtZTgwMTQ4NjYwMjI@.jpg"
+    },
+    {
+      "title": "The Principle of Restricted Choice",
+      "season": 3,
+      "episode": 2,
+      "description": "Gloria deals with the aftermath of the crime, Varga makes a move, and Ray and Nikki move on to their next plan.",
+      "date": "2017-04-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMzMDI3MDAwNV5BMl5BanBnXkFtZTgwMDk1MTQxMjI@.jpg"
+    },
+    {
+      "title": "The Law of Non-Contradiction",
+      "season": 3,
+      "episode": 3,
+      "description": "Gloria revisits her stepfather's past to try and find some answers.",
+      "date": "2017-05-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTgxOTEzMzU1N15BMl5BanBnXkFtZTgwNDI0MTEyMjI@.jpg"
+    },
+    {
+      "title": "The Narrow Escape Problem",
+      "season": 3,
+      "episode": 4,
+      "description": "Emmit and Sy try to sort things out; Nikki and Ray track down some collateral; Gloria learns more about Maurice.",
+      "date": "2017-05-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxOTU2NTE3N15BMl5BanBnXkFtZTgwNjM4MjgyMjI@.jpg"
+    },
+    {
+      "title": "The House of Special Purpose",
+      "season": 3,
+      "episode": 5,
+      "description": "Nikki and Ray's retaliation has consequences for Emmit; Gloria and Winnie start connecting the dots.",
+      "date": "2017-05-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM5NzAxMTEwNV5BMl5BanBnXkFtZTgwODQ1NzkzMjI@.jpg"
+    },
+    {
+      "title": "The Lord of No Mercy",
+      "season": 3,
+      "episode": 6,
+      "description": "Gloria and Winnie get closer to the truth; Emmit tries to make things right; Nikki and Ray prepare for payback; Varga cleans up a mess.",
+      "date": "2017-05-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA1NGQ3ZTYtYzkwMS00YmY3LTkzZjQtMzRhNTFmYjBmZmM5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "The Law of Inevitability",
+      "season": 3,
+      "episode": 7,
+      "description": "Gloria tries to work around the system; Nikki finds herself in a familiar place; Varga comes up with an alternative plan; Emmit goes to dinner.",
+      "date": "2017-05-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE4MTYyM2ItYjQ3Yy00YjllLTgwZWMtOWUxOTQ4YjQyMTc0XkEyXkFqcGdeQXVyNjk2MDE0Njc@.jpg"
+    },
+    {
+      "title": "Who Rules the Land of Denial?",
+      "season": 3,
+      "episode": 8,
+      "description": "Nikki struggles to survive; Emmit gets spooked; Sy joins Varga for tea.",
+      "date": "2017-06-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQxMjc3NzcyNF5BMl5BanBnXkFtZTgwNjEyOTc1MjI@.jpg"
+    },
+    {
+      "title": "Aporia",
+      "season": 3,
+      "episode": 9,
+      "description": "Emmit sits down with Gloria; Nikki negotiates a deal.",
+      "date": "2017-06-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgwMjk0ODE0Ml5BMl5BanBnXkFtZTgwMDcwNzU3MjI@.jpg"
+    },
+    {
+      "title": "Somebody to Love",
+      "season": 3,
+      "episode": 10,
+      "description": "Gloria follows the money; Nikki plays a game; Emmit learns a lesson about progress from Varga.",
+      "date": "2017-06-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NTYxMzE1MF5BMl5BanBnXkFtZTgwMTkxNzU3MjI@.jpg"
+    },
+    {
+      "title": "Welcome to the Alternate Economy",
+      "season": 4,
+      "episode": 1,
+      "description": "The head of an African American crime syndicate goes to war with the Italian mafia in Kansas City, Missouri during the 1950s.",
+      "date": "2020-09-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRkMTZkYWItNGIxZC00M2UzLTgxYTQtN2NkZGI0YTQ1ZWI5XkEyXkFqcGdeQXVyMTg1Mzk1MDQ@.jpg"
+    },
+    {
+      "title": "The Land of Taking and Killing",
+      "season": 4,
+      "episode": 2,
+      "description": "The Smutnys receive unexpected guests, Josto and Gaetano reunite, Loy challenges the status quo, and Oraetta is caught.",
+      "date": "2020-09-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmEzM2RhNTQtOGMxMy00ZGE3LTkwMWYtNWJlZWU2N2JjNGJkXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Raddoppiarlo",
+      "season": 4,
+      "episode": 3,
+      "description": "Deafy and Odis join forces, Josto seeks revenge, Oraetta finds new employment, Gaetano makes a move, and Zelmare and Swanee help the Smutneys with their debt.",
+      "date": "2020-10-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWY0NjdhODMtN2Y4My00OGFjLWFkMzgtMjEyZmI5N2ViNmMyXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "The Pretend War",
+      "season": 4,
+      "episode": 4,
+      "description": "Loy retaliates, Josto asserts his leadership, Ethelrida makes a disturbing discovery, and the walls begin to close in on Odis.",
+      "date": "2020-10-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmYxOTVhNTMtMjY3YS00NzAzLWIzMjYtYTk2MDMzYWQ3YWViXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "The Birthplace of Civilization",
+      "season": 4,
+      "episode": 5,
+      "description": "The Smutnys receive unexpected guests, Josto and Gaetano reunite, Loy challenges the status quo and Oraetta is caught.",
+      "date": "2020-10-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFjMDVmNTItMzYwMy00ODlmLWJhMzItZWQwMTExNjBlMTRhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Camp Elegance",
+      "season": 4,
+      "episode": 6,
+      "description": "Loy attacks, Gaetano pays the price, Oraetta goes crazy, Josto challenges authority and Rabbi risks his life.",
+      "date": "2020-10-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU5ODJlNDMtOTdhZC00Nzk2LWE2MDAtMjZjMzJjZjFkNzdiXkEyXkFqcGdeQXVyMjA3OTMwODg@.jpg"
+    },
+    {
+      "title": "Lay Away",
+      "season": 4,
+      "episode": 7,
+      "description": "Josto Fadda makes a bold move, Loy Cannon battles his demons, and Oraetta Mayflower silences her critics.",
+      "date": "2020-10-31T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgyZmZmNjAtMTg2Ni00MjJjLTlkOTEtYWQxNWNkMTExZGU4XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "The Nadir",
+      "season": 4,
+      "episode": 8,
+      "description": "Loy plays with fire, Josto wears his heart on his sleeve, Oraetta makes a surprising discovery and Deafy closes in on Zelmare and Swanee.",
+      "date": "2020-11-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjZiOWVhM2UtZGIwYS00NDM0LWJkMzYtZjgzODZiZDNiOGFhXkEyXkFqcGdeQXVyMjA3OTMwODg@.jpg"
+    },
+    {
+      "title": "East/West",
+      "season": 4,
+      "episode": 9,
+      "description": "Rabbi and Satchel hit the road.",
+      "date": "2020-11-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZjNjRjMjYtNzU2Yi00NjRiLTk0MzEtYjc1N2IxNDNiYTFmXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Happy",
+      "season": 4,
+      "episode": 10,
+      "description": "Loy forms an uneasy alliance, Odis finds peace, Josto settles the score, Ethelrida takes a risk and Oraetta gets spooked.",
+      "date": "2020-11-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzBhNmYyMjItMDUzNi00M2MzLTliYjktOGQyNThiOTY3OTgxXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    },
+    {
+      "title": "Storia Americana",
+      "season": 4,
+      "episode": 11,
+      "description": "Josto gets revenge, Oraetta comes clean and Ebal teaches Loy a lesson about business.",
+      "date": "2020-11-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTdiZDQyZjQtOGUyZS00YTQ2LWExZWItNGM2N2YyYzBmNjdiXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+    }
+  ]
+}

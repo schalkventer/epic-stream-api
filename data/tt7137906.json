@@ -1,0 +1,37 @@
+{
+  "seasons": 1,
+  "episodes": [
+    {
+      "title": "Part One",
+      "season": 1,
+      "episode": 1,
+      "description": "After the brutal rape and assault of a female jogger in Central Park, five African-American teenagers find themselves falsely accused of the crime.",
+      "date": "2019-05-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg2NDMzNDctYTk4My00MDM4LWJkYzQtZmM2YjUxZjUyYTJjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@.jpg"
+    },
+    {
+      "title": "Part Two",
+      "season": 1,
+      "episode": 2,
+      "description": "The New York City police are shown mounting a conspiracy with prosecutors, to fudge timelines and to ignore conflicting evidence, in order to expedite a guilty verdict against five boys.",
+      "date": "2019-05-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTI2ZmQ2MjctOTA4ZS00Y2M1LTk0OWUtYjk2ZWNhYzcyNzVjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@.jpg"
+    },
+    {
+      "title": "Part Three",
+      "season": 1,
+      "episode": 3,
+      "description": "Antron, Yusef, Kevin and Raymond struggle being behind bars. They eventually are let out and have a hard time adjusting to life outside.",
+      "date": "2019-05-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4YWYzYzEtMzRhZC00MDhlLTgyM2QtNmJiZDk5YzAzMzk1XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Part Four",
+      "season": 1,
+      "episode": 4,
+      "description": "Korey is in adult prison and struggles with it. Eventually, the real truth comes out about what really happened. Events that had been ignored finally come to light.",
+      "date": "2019-05-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE0NTQ2ZGMtYTU4MC00NTc3LTk3ZTktOGE3YmM2MDBkZWIyXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    }
+  ]
+}

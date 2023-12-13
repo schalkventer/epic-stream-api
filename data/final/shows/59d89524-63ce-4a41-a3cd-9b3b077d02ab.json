@@ -1,0 +1,86 @@
+{
+  "id": "59d89524-63ce-4a41-a3cd-9b3b077d02ab",
+  "description": "Ten television drama films, each one based on one of the Ten Commandments.",
+  "title": "The Decalogue",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDgzZDVmZjYtYmNhNi00YTE0LWJmNDAtODZiNWIwMjJhZDhhXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    2
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Dekalog, jeden",
+          "episode": 1,
+          "description": "A woman worries about her nephew's spiritual education, whose life and his father's are run on their home computer.",
+          "date": "1989-12-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWM1NjIxMjUtZWZhYi00NGJhLWI3NzItNjEwODViZWYzYTIwXkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg"
+        },
+        {
+          "title": "Dekalog, dwa",
+          "episode": 2,
+          "description": "A woman with a gravely ill husband and pregnant of her lover faces a dilemma: if her husband dies, she'll keep the baby; if not, she'll abort.",
+          "date": "1990-05-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjIxOGZhMDktZmZjMi00ZjZlLWJjNzYtNmE2NGM3MGI4Zjg0XkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg"
+        },
+        {
+          "title": "Dekalog, trzy",
+          "episode": 3,
+          "description": "On Christmas Eve, a taxi driver's ex-lover asks him for help to look for her missing husband.",
+          "date": "1990-05-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjk0MzIyNGUtOTM3Yi00Y2ZjLWJiNTEtZTVjNzM3ZDU0NjE5XkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg"
+        },
+        {
+          "title": "Dekalog, cztery",
+          "episode": 4,
+          "description": "When her father is away on business, a young woman discovers a letter from her dead mother reading, 'Open after my death'.",
+          "date": "1990-05-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWY4M2Y3ZDctZTQ4My00YmM1LWFmY2UtNmY3ZDQxMWY2MTE4XkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg"
+        },
+        {
+          "title": "Dekalog, piec",
+          "episode": 5,
+          "description": "A soon-to-be lawyer crosses his path with a taxi driver and a young sinister man.",
+          "date": "1990-05-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjI5ZmU1NzktMTQzYS00YmVmLTljYmQtYmIzOWY2MTQ3YmNiXkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg"
+        },
+        {
+          "title": "Dekalog, szesc",
+          "episode": 6,
+          "description": "A teenager spies on his older neighbour through binoculars.",
+          "date": "1990-06-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY2OTg3MDQ0N15BMl5BanBnXkFtZTgwNDk3ODIwOTE@.jpg"
+        },
+        {
+          "title": "Dekalog, siedem",
+          "episode": 7,
+          "description": "Raised as sisters, one is in fact the other's mother. Unwilling to continue living a lie, the mother tries to get her daughter back from her parents.",
+          "date": "1990-06-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTBkNjVmMzEtNmFlZC00NDI5LWE2MGUtYjg4NGZhMGY5MDVmXkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg"
+        },
+        {
+          "title": "Dekalog, osiem",
+          "episode": 8,
+          "description": "A researcher meets a professor and reveals herself as the child to whom she refused to shelter during World War II.",
+          "date": "1990-06-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjYwNDg4NjYtY2Y3OS00MWI1LWJkNTgtNjgxYTM4N2Q5ZGZmXkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg"
+        },
+        {
+          "title": "Dekalog, dziewiec",
+          "episode": 9,
+          "description": "Following the discovery of his sexual impotence a man urges his wife to take a lover.",
+          "date": "1990-06-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQwYzQ0NTAtZGM5OS00MWM1LTk2ZTgtNTczYTYyY2Q0MmIyXkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg"
+        },
+        {
+          "title": "S1.E10 ∙ Dekalog, dziesiec",
+          "episode": 10,
+          "description": "After their father's death, two brothers inherit a valuable stamp collection.",
+          "date": "1989-06-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjY1YTY2OWMtNmZhYS00NWIzLTgwMDEtY2NhMzZhNzgzMGE0XkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg"
+        }
+      ]
+    }
+  ]
+}

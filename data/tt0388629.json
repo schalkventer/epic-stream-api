@@ -1,0 +1,405 @@
+{
+  "seasons": null,
+  "episodes": [
+    {
+      "title": "I'm Luffy! The Man Who Will Become the Pirate King!",
+      "season": 1,
+      "episode": 1,
+      "description": "Alvida pirates plunder a ship only to find a barrel containing a strange boy names Luffy who is on a quest to find the legendary \"One Piece\" and become the King of Pirates.",
+      "date": "1999-10-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjlkMjliYzEtYjRkNS00NWExLWFlZDgtNGYzNDQzZWY1YmUxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
+      "season": 1,
+      "episode": 2,
+      "description": "Luffy and Koby arrive at Shell Island where they meet Roronoa Zoro, a bounty hunter held under arrest by Captain Morgan.",
+      "date": "1999-11-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDBiMTMzYWEtYjRlYy00NmY2LTk1YzAtZTZkMWU2ZmE2NjQxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Morgan vs. Luffy! Who's This Beautiful Young Girl?",
+      "season": 1,
+      "episode": 3,
+      "description": "Luffy convinces Zoro to join her crew, but they must defeat Captain Morgan first. Meanwhile, Koby is accepted as a marine.",
+      "date": "1999-11-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzJmN2E0YmEtNWYyNC00MDVhLTljZDQtNzA5NDMzY2NlNjcyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Luffy's Past! The Red-haired Shanks Appears!",
+      "season": 1,
+      "episode": 4,
+      "description": "Luffy reflects on his past and how he came in possession of his Straw Hat.",
+      "date": "1999-12-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzMwMWZkOTYtZjg5Mi00NTc0LWJlMTItMzJjZjIzZDc3OWVlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Fear, Mysterious Power! Pirate Clown Captain Buggy!",
+      "season": 1,
+      "episode": 5,
+      "description": "Nami tricks Luffy into allowing her to turn him over to Buggy as a battle ensues.",
+      "date": "1999-12-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGI1ZWQzODItODY2My00YjFjLTg4NzAtMzMxM2UwOTZiYjI1XkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "Desperate Situation! Beast Tamer Mohji vs. Luffy!",
+      "season": 1,
+      "episode": 6,
+      "description": "After Buggy's defeat Mohji and Richie seek revenge while Luffy meets a small dog guarding his master's store.",
+      "date": "1999-12-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2VkOWE5NTctYzBiNS00MzJiLTk2ZWYtNDhjYzcwMzFlYWEyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "Sozetsu Ketto! Kengo Zoro VS Kyokugei no Kabaji!",
+      "season": 1,
+      "episode": 7,
+      "description": "The city's mayor rushes to fight Buggy but the Straw Hat Pirates come to his aid. Zoro fights Cajabi while Luffy faces Buggy himself.",
+      "date": "1999-12-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGJlN2EyNjAtMDMxNy00M2I3LTlkNWMtNDZmZTNhMDRiNjM3XkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "Shousha wa docchi? Akuma no mi no nouryoku taiketsu!",
+      "season": 1,
+      "episode": 8,
+      "description": "Luffy becomes enrages when Buggy rips his straw hat as the battle continues.",
+      "date": "1999-12-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjc1ZjQwMzMtNjUxNi00ZDhjLWE5NjEtMTkyMDJjMWJjY2MwXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "Seigi no usotsuki? Kyaputen Usoppu",
+      "season": 1,
+      "episode": 9,
+      "description": "Nami forms an alliance with the Straw Hat Pirates as their navigator as the crew arrives at Syrup Village where they meet Usopp.",
+      "date": "2000-01-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2ViYWYzZTctYTUyMi00ZjMyLWI3MTctNTBlYWQ5OTEyN2FlXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ Chijou saikyou no hen na yatsu! Saiminjutsushi Jango",
+      "season": 1,
+      "episode": 10,
+      "description": "Luffy and Usopp learn that Kaya's caretaker, Klahadore pairs up with a strange man plot as they plot to kill her.",
+      "date": "2000-01-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y0YmU2NDktNWM4YS00ZTVhLTg3OTctODRiMWEwMzc5ODNiXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E11 ∙ Inbou o abake! Kaizoku shitsuji Kyaputen Kuro",
+      "season": 1,
+      "episode": 11,
+      "description": "After learning of Captain Kuro's evil plan, Usopp runs back to the village to warn Kaya, only to find that after all his years of lying no one believes him.",
+      "date": "2000-01-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWJhOGQ2ODEtYWRkOC00MDYxLThjMDktNjQxMDY5ZWFlN2JkXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E12 ∙ Gekitotsu! Kuroneko kaizokudan sakamichi no daikoubou!",
+      "season": 1,
+      "episode": 12,
+      "description": "Usopp, Luffy, Zoro, and Nami formulate a plan on the slope for when the pirates come.",
+      "date": "2000-02-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTUwYTA4NTUtMWYxYS00MTNkLThkYjAtMGRkYWQ3MDZmNDRmXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E13 ∙ Kyoufu no futarigumi! Nyâban kyoudai vs Zoro",
+      "season": 1,
+      "episode": 13,
+      "description": "The Straw Hat Pirates take out most of the Black Cat Pirates, so Jango orders the Nyaban Brothers to attack. Meanwhile, after getting hypnotized by Jango, Luffy gets himself stuck under the collapsed mast of the Black Cat Pirates' ship.",
+      "date": "2000-02-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWY4ZTJiMzEtYjhjMS00OGJkLWE1NGItZDc1Mjk1MDg3NDMwXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E14 ∙ Rufi fukkatsu! Kaya ojousama no kesshi no taikou",
+      "season": 1,
+      "episode": 14,
+      "description": "Captain Kuro arrives at the scene, and with Zoro too injured to fight, Luffy being incapacitated, and the other two being too weak to handle him, things seem hopeless. However, Kaya herself appears to bargain with Kuro.",
+      "date": "2000-02-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJiZTM2MTQtN2E1ZS00Yzg5LTlhODEtNzI4YzFiZWIxNTA1XkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E15 ∙ Kuro o taose! Otoko Usoppu namida no ketsui!",
+      "season": 1,
+      "episode": 15,
+      "description": "Zoro and Buchi face off once again as Luffy and Kuro begin their fight.",
+      "date": "2000-02-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRkYWZiYWItOTk2Mi00YTcwLWIyZmQtY2RmODRjNWEzYTJmXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E16 ∙ Kaya o mamore! Usoppu kaizokudan daikatsuyaku!",
+      "season": 1,
+      "episode": 16,
+      "description": "As the fight between Luffy and Kuro is close to an end, the Usopp Pirates do their best to avoid Jango.",
+      "date": "2000-02-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjJhMmQyMTctOWQxNi00YjM0LWFiZDQtMTQyOTZjMjA0NmZkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E17 ∙ Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue!",
+      "season": 1,
+      "episode": 17,
+      "description": "Kuro's ultimate attack destroys everything in the area and Luffy becomes enraged by his lack of regard for his crew.",
+      "date": "2000-03-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2VmYTEwMzctNzlmMC00OGRhLWE4OGQtY2JiZTg3NjFkM2NjXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E18 ∙ Anta ga chunjuu! Gaimon to kimyou na nakama",
+      "season": 1,
+      "episode": 18,
+      "description": "With Usopp now in the crew and a new ship, the Going Merry, the Straw Hats head to an island said to hold a fabled treasure, only to encounter a strange man stuck in a treasure box.",
+      "date": "2000-03-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2YjhlOWMtNzU2Ni00YmZhLWJhZGItMTRmNzZkOTFlYTM1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E19 ∙ Santouryuu no kako! Zoro to Kuina no chikai!",
+      "season": 1,
+      "episode": 19,
+      "description": "While Usopp and Luffy fool around with the ship's cannon one day, Zoro dreams about his childhood and the promise he made to Kuina.",
+      "date": "2000-03-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ2MGU2OWUtOTI0Mi00ZjdhLThiMDQtZjViMjRhODViM2EwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E20 ∙ Meibutsu kokku! Kaijou resutoran no Sanji",
+      "season": 1,
+      "episode": 20,
+      "description": "The crew meets Johnny and Yosaku, Zoro's former companions, and they set sail for the Baratie restaurant in search of a cook.",
+      "date": "2000-04-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2FiZDViYmYtNjFlZi00ZjFiLWE1MGUtZmFlMDI3ZjViMmE2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E21 ∙ Manukarezaru kyaku! Sanji no meshi to Gin on",
+      "season": 1,
+      "episode": 21,
+      "description": "Luffy tries to recruit Sanji to join his crew.",
+      "date": "2000-04-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA5NmNhOTMtZTRlNi00NGMzLWI2YjItOTY1ZmMxMTk4MThmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E22 ∙ Saikyou no kaizoku kantai! Teitoku Don Kurîku",
+      "season": 1,
+      "episode": 22,
+      "description": "Gin returns to the Baratie with his also-starving captain, Don Krieg, to whom Sanji once more gives food, but Don Krieg betrays the cook once he regains his energy.",
+      "date": "2000-04-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQxMDAzYmQtM2U0Ni00ZTZhLWJmYmUtNDhmNjQxY2JhODBjXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E23 ∙ Mamore Baratie! Daikaizoku akaashi no Zefu",
+      "season": 1,
+      "episode": 23,
+      "description": "It is revealed that Chef Zeff was a great pirate known as Red Leg Zeff. Gin explains the catastrophe the fleet met in Grand Line when they encountered Hawk-Eyes Mihawk, and Krieg attempts to take control of the Baratie.",
+      "date": "2000-05-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGE2Y2I0NzktMzZiMy00ZmY5LWEwZGMtM2RmMTMwODYxN2QxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E24 ∙ Tama no me no Mihôku! Kenzoku Zoro umi ni chiru",
+      "season": 1,
+      "episode": 24,
+      "description": "As Nami steals the Going Merry, Mihawk has returned to finish the job, but Zoro challenges him to a duel in order to achieve his dream.",
+      "date": "2000-05-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGE5YTg4YzEtMTA1ZC00ZGMwLWI0MGEtZWM4NzU1M2RhMmMxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E25 ∙ Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no Pâru",
+      "season": 1,
+      "episode": 25,
+      "description": "Mihawk leaves after defeating Zoro, so Krieg continues his invasion as Sanji reveals his fighting skills. Meanwhile, Johnny and Yosaku leave with Usopp and the wounded Zoro to go after Nami.",
+      "date": "2000-05-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk1ZWQ5OTktYzU5ZC00ZWZhLWFlZjYtYjE1OTFlZTQ0Nzk4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E26 ∙ Zefu to Sanji no yume Maboroshi no ôru burû",
+      "season": 1,
+      "episode": 26,
+      "description": "With Zeff held captive by Gin, Sanji has no choice but to take Pearl's hits, and he reflects on why Zeff means so much to him.",
+      "date": "2000-05-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQzZDFkMzUtNzg1Yi00OTgwLWEwMTUtYzc5YjI1ZjFkOGYwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E27 ∙ Reitetsu hijou no kijin Kaizoku kantai soutaichou Gin",
+      "season": 1,
+      "episode": 27,
+      "description": "Gin finishes off Pearl, claiming that he wants to kill Sanji himself. Still wounded, Sanji faces Gin while Luffy attacks Don Krieg.",
+      "date": "2000-05-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQ3Nzg0YmMtZDBkZS00NjEwLTg4MDQtYjc5YjliNzU1ODdkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E28 ∙ Shinaneeyo! Gekitou Rufi vs Kurîku!",
+      "season": 1,
+      "episode": 28,
+      "description": "When Gin refuses to kill Sanji, Krieg uses poison gas on him. Luffy seems to have the advantage in the fight until Krieg pulls out his explosive Battle Spear.",
+      "date": "2000-06-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGY1MzhhMGItNTc1OC00ZTBlLWExMGEtOTA0NzBkMzlkNzc5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E29 ∙ Shitou no Ketchaku! Hara ni Kukutta Ippon no Yari!",
+      "season": 1,
+      "episode": 29,
+      "description": "Even after taking several hits from the Battle Spear, Luffy refuses to give up.",
+      "date": "2000-06-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJlYmRlNmItN2Q3ZC00YzEwLTgxNzItZGJhM2ZhZjgzNzc2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E30 ∙ Tabidachi! Umi no kokku wa Rufi to tomoni",
+      "season": 1,
+      "episode": 30,
+      "description": "Sanji makes the difficult decision on whether to stay or to go with Luffy.",
+      "date": "2000-06-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUzYjRiOGMtNDNkZC00NjU0LWExMDYtYmMyYjJjNDk3NGVmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E31 ∙ Higashi no Umi Saiaku no Otoko! Gyojin Kaizoku Arlong!",
+      "season": 1,
+      "episode": 31,
+      "description": "The crew chases after Nami, who stole their ship, and Yosaku takes time during the trip to explain about Arlong and his Fishmen to Luffy and Sanji. Meanwhile, Usopp, Johnny, and Zoro arrive at the island Nami docked at.",
+      "date": "2000-07-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2E1Mjc3NGItMjM1Zi00MGZmLTk5M2YtMjI5MmMzMjdmOTMyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E32 ∙ Cocoyashi Mura no Majo! Arlong no Onna Kanbu",
+      "season": 1,
+      "episode": 32,
+      "description": "Zoro is captured by the fishmen. Usopp comes to the rescue when a group of Fishmen attack Cocoyashi Village.",
+      "date": "2000-07-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDkwOWM1MGYtN2IyOS00MTc1LTgwZWItZWYzMjVmYjc4OWUwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E33 ∙ Usopp Shisu?! Luffy Jouriku wa Mada?",
+      "season": 1,
+      "episode": 33,
+      "description": "After Zoro escapes with Nami's help, she tries to prove her loyalty to the Arlong Pirates by appearing to kill Usopp. Meanwhile, Luffy's group finally arrives at the island.",
+      "date": "2000-07-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDI1MTc4ZmEtYTQ2Yi00ODhiLWEzMjgtY2JkM2NiMjE1Mzk2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E34 ∙ Zen'in Shuuketsu! Usopp ga Kataru Nami no Shinjitsu",
+      "season": 1,
+      "episode": 34,
+      "description": "Johnny tells the others about Nami killing Usopp. Luffy stubbornly decides to stay on the island.",
+      "date": "2000-07-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDJhNGFiZGEtYTg0MS00NzNhLWFjMzMtYTEzMDA4ZDg0MjNlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E35 ∙ Himerareta Kako! Onna Senshi Bell-mere!",
+      "season": 1,
+      "episode": 35,
+      "description": "Nojiko starts her story about Nami's childhood and their adopted mother, Bellemere. Despite being poor and none of them being related by blood, they had a happy life.",
+      "date": "2000-08-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTA0NmU2Y2YtZWFiOS00ZTY1LWI1NmUtZTI5ZDA4Mzk0OThmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E36 ∙ Ikinuke! Haha Bellemere to Nami no Kizuna!",
+      "season": 1,
+      "episode": 36,
+      "description": "Nojiko continues her story, explaining how their life was ruined when the Arlong Pirates first took over the village.",
+      "date": "2000-08-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYwNGZiNjItNDY3Zi00NzcwLWJhZmItZTgwZWRlYzkwYjZjXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E37 ∙ Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!",
+      "season": 1,
+      "episode": 37,
+      "description": "When marine officers under Arlong confiscate Nami's money, the villagers start a rebelion. Desperate, Nami asks Luffy for help.",
+      "date": "2000-08-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDliZTE3ODEtMGZjMS00YWVjLWFiOWUtYjgyY2E4ZTI0N2M2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E38 ∙ Luffy Dai Pinch! Gyojin Tai Luffy Kaizokudan",
+      "season": 1,
+      "episode": 38,
+      "description": "The Straw Hats face the Fishmen themselves as the villagers watch from the sidelines.",
+      "date": "2000-08-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU0MzlkY2MtNzVkMi00YTBjLThmYjUtYTRmZjJmMmJlZDI3XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E39 ∙ Luffy Suibotsu! Zoro vs Tako no Hacchan",
+      "season": 1,
+      "episode": 39,
+      "description": "Arlong has trapped Luffy in the ocean and Zoro faces the six-sword wielding octopus Hatchan.",
+      "date": "2000-08-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2IwNTVjZTItYzZmOC00NTlmLWI0ZjMtZTFhNTQ1MTcyZTUzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E40 ∙ Hokoritakaki Senshi! Gekitou Sanji to Usopp",
+      "season": 1,
+      "episode": 40,
+      "description": "With Hatchan defeated, two of the fishmen battle Sanji and Usopp.",
+      "date": "2000-09-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWNmYjk1ZTEtNzEyNi00MGQ4LTlmYTAtOTljMGVhMTYwMzQ3XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E41 ∙ Luffy Zenkai! Nami no Ketsui to Mugiwara Boushi",
+      "season": 1,
+      "episode": 41,
+      "description": "With Arlong's officers defeated Zoro and Sanji take on Arlong but prove that they aren't a match for him. However, with Luffy finally free, he takes on Arlong himself.",
+      "date": "2000-09-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTZlYzEwMTgtNmE2OC00NGFjLWJlZmYtNzQ5MzJjMmZhZmE1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E42 ∙ Sakuretsu! Gyojin Arlong Umi kara no Moukougeki!",
+      "season": 1,
+      "episode": 42,
+      "description": "Luffy returns to the fight, and the battle with Arlong versus Luffy begins.",
+      "date": "2000-09-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FmN2NhMmYtNTRmMC00OGU4LWFjOTgtNjllMDEwZDkyNDZkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E43 ∙ Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!",
+      "season": 1,
+      "episode": 43,
+      "description": "The battle spreads into Arlong Park itself and Arlong is no longer holding back.",
+      "date": "2000-09-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzRiNTE5ZTUtYzYwOC00MDA1LWIwNDItMTJlY2EwMGJkM2U5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E44 ∙ Egao no Tabidachi! Saraba Furusato Cocoyashi Mura",
+      "season": 1,
+      "episode": 44,
+      "description": "Arlong's reign of terror is over, and no one has anything on their mind except to party. As the crew celebrates, Nami reflects on her hometown and decides to officially join the Straw Hat Pirates.",
+      "date": "2000-10-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk0ZWZkMGMtY2MwOC00ZWRiLTllZWItZmRmZDFiNmM0MzNkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E45 ∙ Joukinkubi! Mugiwara no Luffy Yo ni Shirewataru",
+      "season": 1,
+      "episode": 45,
+      "description": "With Buggy, Krieg and Arlong defeated, Luffy now has the highest bounty in East Blue.",
+      "date": "2000-10-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmIzNmIxM2MtZDdkZi00OWQ2LWI5ZTItN2MzZjBkNTlmNDQ0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E46 ∙ Mugiwara o Oe! Chiisana Buggy no Daibouken",
+      "season": 1,
+      "episode": 46,
+      "description": "After his fight with Luffy, Buggy was sent flying to another island with several body parts missing. Thus, Buggy begins his journey to find his crew and his body parts, making some unlikely friends.",
+      "date": "2000-10-31T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmZlNDZhNTItYjg5MC00NmMxLThkNjItMDQ5MzgxMDE4NzZlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E47 ∙ Omachikane! Aa Fukkatsu no Buggy Senchou!",
+      "season": 1,
+      "episode": 47,
+      "description": "With Buggy assumed to be dead, his crew fights over who will be the new captain.",
+      "date": "2000-11-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWEzZTUyMjEtNWE4Yy00Y2M5LWIzMjQtNjA4NDE5NTVmZmEyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E48 ∙ Hajimari to Owari no Machi: Loguetown Jouriku",
+      "season": 1,
+      "episode": 48,
+      "description": "The crew arrives at the last large town before the entrance to the Grand Line: Loguetown, the place where Gold Roger was both born and executed.",
+      "date": "2000-11-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjFlZDIyOTAtZWI0OC00NzhiLWFmMjUtNDk5MDQxNzZkNWNmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    },
+    {
+      "title": "S1.E49 ∙ Sandai Kitetsu to Yubashiri! Zoro no Shintou to Onna Souchou",
+      "season": 1,
+      "episode": 49,
+      "description": "While searching for a pair of new swords to replace the ones shattered by Mihawk, Zoro meets a woman named Tashigi. At first sight, she looks exactly like Kuina.",
+      "date": "2000-11-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkOWIxY2YtNWE5MS00OWZhLThlYWItNDE0YWE2MWJiNjgzXkEyXkFqcGdeQXVyNjYwMjkwMjg@.jpg"
+    },
+    {
+      "title": "S1.E50 ∙ Usopp Tai Kozure no Daddy: Mahiru no Kettou",
+      "season": 1,
+      "episode": 50,
+      "description": "Usopp manages to anger the daughter of bounty hunter Daddy the Father, and finds his own life at stake when he challenges Daddy to a duel.",
+      "date": "2000-11-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmRmY2QzNWMtODM0ZC00ZjhjLWI2ZjUtMGY2NjJmY2Q2YzhmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+    }
+  ]
+}

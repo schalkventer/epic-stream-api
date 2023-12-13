@@ -1,0 +1,346 @@
+{
+  "id": "63ad98e9-5fc9-41b6-b9bf-a96a8f31520d",
+  "description": "The original surreal sketch comedy showcase for the Monty Python troupe.",
+  "title": "Monty Python's Flying Circus",
+  "image": "https://m.media-amazon.com/images/M/MV5BZGI1N2FiYTYtOWU3Mi00MjBlLWJkMGMtMjZmZTQwMDdiYjY3XkEyXkFqcGdeQXVyMTIwMjIwNjQ2.jpg",
+  "genres": [
+    18
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Whither Canada?",
+          "episode": 1,
+          "description": "'It's Wolfgang Amadeus Mozart', Famous Deaths, Italian Lesson, Whizzo Butter, 'It's the Arts', Arthur \"Two-Sheds\" Jackson, Cycling Race, and The Funniest Joke in the World.",
+          "date": "1969-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzkxNzIwMTIzNl5BMl5BanBnXkFtZTgwMDE2NTg3MjE@.jpg"
+        },
+        {
+          "title": "Sex and Violence",
+          "episode": 2,
+          "description": "Flying Sheep, French Lecture on Sheep-Aircraft, A Man With Three Buttocks, A Man With Two Noses, Musical Mice, Marriage Guidance Counselor, The Wacky Queen, Working-Class Playwright, A Scotsman on a Horse, The Wrestling Epilogue, and The Mouse Problem.",
+          "date": "1969-10-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzAyMjU2OTUyNV5BMl5BanBnXkFtZTgwMTQ1NTg3MjE@.jpg"
+        },
+        {
+          "title": "How to Recognise Different Types of Trees from Quite a Long Way Away",
+          "episode": 3,
+          "description": "Court Scene, The Larch, Bicycle Repair Man, Children's Stories, Restaurant Sketch, Seduced Milkmen, Stolen News Reader, Children's Interview, and Nudge Nudge.",
+          "date": "1969-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTE2OTQ4OV5BMl5BanBnXkFtZTgwMjc1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Owl Stretching Time",
+          "episode": 4,
+          "description": "A change from street clothes to swim trunks turns into a burlesque act; a karate class exercises defense tactics against fresh fruit; a man tries to buy a book about false teeth.",
+          "date": "1969-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIyODY5NDkyMl5BMl5BanBnXkFtZTgwNDk0NTg3MjE@.jpg"
+        },
+        {
+          "title": "Man's Crisis of Identity in the Latter Half of the 20th Century",
+          "episode": 5,
+          "description": "Confuse-a-Cat, The Smuggler, A Duck, a Cat and a Lizard (Discussion), Vox Pops on Smuggling, Police Raid, Letters on Vox Pops, Newsreader Arrested, Erotic Film, Cartoon - Charles Fatless, Silly Job Interview, Careers Advisory Board, Burglar/Encyclopaedia Salesman",
+          "date": "1969-11-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzIzOTIwNjkyMl5BMl5BanBnXkFtZTgwODU1NTg3MjE@.jpg"
+        },
+        {
+          "title": "The BBC Entry for the Zinc Stoat of Budapest (or, It's the Arts)",
+          "episode": 6,
+          "description": "Sketches include: a German composer with an extraordinarily long name; crooks plan an elaborate scheme to buy a watch; a chocolate-company owner markets \"Crunchy Frog.\"",
+          "date": "1969-11-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYzMDg1MzIyM15BMl5BanBnXkFtZTgwODQ1NTg3MjE@.jpg"
+        },
+        {
+          "title": "You're No Fun Any More",
+          "episode": 7,
+          "description": "Invaders from another galaxy turn Englishmen into Scotsmen. Also: a comedy about camels; a corporate board meeting.",
+          "date": "1969-11-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg0MDc1Nzk4OV5BMl5BanBnXkFtZTgwNzE1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Full Frontal Nudity",
+          "episode": 8,
+          "description": "A pet-shop customer returns his dead parrot; a gang of female senior citizens attacks a town's young men; a young army officer who joined the service to water-ski tries to resign.",
+          "date": "1969-12-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc4MjQzNjc2NF5BMl5BanBnXkFtZTgwMDI2NTg3MjE@.jpg"
+        },
+        {
+          "title": "The Ant: An Introduction",
+          "episode": 9,
+          "description": "A man with double vision organizes a mountain-climbing expedition; llamas are celebrated in a rousing Spanish song; a barber is afraid to cut hair; a couple's romantic evening is ruined by uncouth visitors.",
+          "date": "1969-12-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUyOTcyOTU1M15BMl5BanBnXkFtZTgwNTk0NTg3MjE@.jpg"
+        },
+        {
+          "title": "S1.E10 ∙ Untitled",
+          "episode": 10,
+          "description": "Sketches include: Bank Robber in Lingerie Shop, It's a Tree, Ron Obvious, Pet Conversations, Gorilla Librarian, Strangers in the Night",
+          "date": "1969-12-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTA5Nzg0ODMwODdeQTJeQWpwZ15BbWU4MDI4NTU4NzIx.jpg"
+        },
+        {
+          "title": "S1.E11 ∙ The Royal Philharmonic Orchestra Goes to the Bathroom",
+          "episode": 11,
+          "description": "A half-inch-tall man appears on a talk show; a town's women's guild reenacts Pearl Harbor; the entire Royal Philharmonic Orchestra retires to the restroom.",
+          "date": "1969-12-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIwMzI1MDcxOF5BMl5BanBnXkFtZTgwMjU1NTg3MjE@.jpg"
+        },
+        {
+          "title": "S1.E12 ∙ The Naked Ant",
+          "episode": 12,
+          "description": "The 127th annual Twit of the Year Show. Also: Hitler and Himmler are guests for tea in a boarding house; a BBC broadcast is interrupted when a British minister falls into a fissure.",
+          "date": "1970-01-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAzNjAxNDU0NF5BMl5BanBnXkFtZTgwNDQ1NTg3MjE@.jpg"
+        },
+        {
+          "title": "S1.E13 ∙ Intermission",
+          "episode": 13,
+          "description": "Among \"historical\" impersonations are Cardinal Richelieu as Petula Clark and Julius Caesar as Eddie Waring. Also: a police fairy tale; a vegetarian restaurant's menu, featuring a naked man with an apple in his mouth.",
+          "date": "1970-01-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI1ODY1MzcwN15BMl5BanBnXkFtZTgwMTM1NTg3MjE@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "title": "Dinsdale!",
+          "episode": 1,
+          "description": "A sketch about the Ministry of Silly Walks. Also: a British minister---attired in a pink tulle dress---talks about housing; 30 gas-company men investigate the installation of a stove; a giant hedgehog wanders London.",
+          "date": "1970-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDg0YjQxNWYtNjdiYy00MDdhLWI0NmQtMTBmYTI2N2RiYzk1XkEyXkFqcGdeQXVyMzk0NzgwMTE@.jpg"
+        },
+        {
+          "title": "The Spanish Inquisition",
+          "episode": 2,
+          "description": "An offbeat look at the Spanish Inquisition; an unconventional version of \"Wuthering Heights.\" Also: a jury plays charades while delivering its verdict; a man attempts to find one nontaxable pleasure.",
+          "date": "1970-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEzOTA2ODU2NDdeQTJeQWpwZ15BbWU4MDg2NTU4NzIx.jpg"
+        },
+        {
+          "title": "Déjà Vu",
+          "episode": 3,
+          "description": "Sketches include: Flying Lessons, Hijacked Plane, Psychiatrist Milkman, Complaints, Déjà vu.",
+          "date": "1970-09-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTA0MDE1MDYzNTNeQTJeQWpwZ15BbWU4MDQ1NTU4NzIx.jpg"
+        },
+        {
+          "title": "The Buzz Aldrin Show",
+          "episode": 4,
+          "description": "A supersleuth bishop investigates a suspicious insurance business; an elderly couple construct a house that has no walls.",
+          "date": "1970-10-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjExMTk3OTA5OF5BMl5BanBnXkFtZTgwMTg0NTg3MjE@.jpg"
+        },
+        {
+          "title": "Live from the Grill-o-Mat",
+          "episode": 5,
+          "description": "Contestants vie for incriminating photos in \"The Blackmail Game\"; a boxer spars with schoolgirls.",
+          "date": "1970-10-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA2NTY5NjMyNl5BMl5BanBnXkFtZTgwMzk1NTg3MjE@.jpg"
+        },
+        {
+          "title": "It's a Living",
+          "episode": 6,
+          "description": "Sketches include: The time on BBC 1, School Prize Giving, Films by Mr. Dibley, Timmy Williams Interview, Election Night Special",
+          "date": "1970-11-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTQwMDkyMDgxNF5BMl5BanBnXkFtZTgwNzA1NTg3MjE@.jpg"
+        },
+        {
+          "title": "The Attila the Hun Show",
+          "episode": 7,
+          "description": "\"The Attila the Hun Show\"; a burlesque performance by government ministers; a documentary study of village idiots. Also: political groupies pursue MPs.",
+          "date": "1970-11-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTExMjIyMl5BMl5BanBnXkFtZTgwMjQ1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Archaeology Today",
+          "episode": 8,
+          "description": "A dissatisfied bridegroom tries to exchange his spouse; hunters pursue a terrifying mosquito; domestic problems interrupt the work of Beethoven, Shakespeare, Michelangelo and other creative geniuses.",
+          "date": "1970-11-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEwNTAzODc3NF5BMl5BanBnXkFtZTgwNzc1NTg3MjE@.jpg"
+        },
+        {
+          "title": "How to Recognise Different Parts of the Body",
+          "episode": 9,
+          "description": "A University of Woolamaloo philosophy-department meeting---the members of which are all named Bruce; an exploding penguin; a radio version of \"The Death of Mary Queen of Scots.\" Also: advice on how to pick up a cosmetic surgeon.",
+          "date": "1970-11-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDgwOTAwMjMxNl5BMl5BanBnXkFtZTgwNjQ1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Scott of the Antarctic",
+          "episode": 10,
+          "description": "Foam-rubber snow and a stuffed lion are featured in a scene from \"Scott of the Antarctic\"; a football match is waged between gynecologists and Long John Silver impersonators.",
+          "date": "1970-11-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA1NzY0MTA0OV5BMl5BanBnXkFtZTgwMzg0NTg3MjE@.jpg"
+        },
+        {
+          "title": "How Not to Be Seen",
+          "episode": 11,
+          "description": "Conquistador coffee campaign; Repeating groove; Ramsey MacDonald striptease; Job hunter; International Chinese Communist Conspiracy; Crelm Toothpaste/Shrill petrol; Agatha Christie sketch (railway timetables); Mr Neville Shunte - railroad playwright; Gavin Millarrrrr writes; Film director/dentist Martin Curry (teeth); City gents vox pops; 'Crackpot Religions Ltd'; 'How not to be seen'; Crossing the Atlantic on a tricycle; Interview in filing cabinet; 'Yummy yummy'; Monty Python's Flying Circus again in thirty seconds.",
+          "date": "1970-12-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDQ0MDY4OF5BMl5BanBnXkFtZTgwMDcxNzc3MjE@.jpg"
+        },
+        {
+          "title": "Spam",
+          "episode": 12,
+          "description": "World revolutionaries are quizzed about football scores; figures from works of art go on strike throughout galleries in England; the search continues for a cure for over-acting; Viking marauders kidnap Englishmen who ask for canned ham.",
+          "date": "1970-12-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcxMTM5MjgxOF5BMl5BanBnXkFtZTgwNzY1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Royal Episode Thirteen",
+          "episode": 13,
+          "description": "Miners brawl over historical facts; hospital patients serve the doctors; five shipwrecked mariners decide whom they will have for dinner.",
+          "date": "1970-12-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY0OTMwMDkyMF5BMl5BanBnXkFtZTgwOTI2NTg3MjE@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "title": "Whicker's World",
+          "episode": 1,
+          "description": "A courteous murderer wins a suspended sentence by virtue of his charm; a search for Paris by way of Iceland is interrupted by a plane crash and a shipwreck. Also: how to dispose of pets before going on vacation.",
+          "date": "1972-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEyNDY2MTc5M15BMl5BanBnXkFtZTgwOTQ1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Mr. and Mrs. Brian Norris' Ford Popular",
+          "episode": 2,
+          "description": "A couple investigate the cultural similarities between two London districts, seven miles apart; schoolboys' extracurricular activities are examined; a TV farming club comments on Tchaikovsky.",
+          "date": "1972-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQxOTI2ODA1N15BMl5BanBnXkFtZTgwMDc1NTg3MjE@.jpg"
+        },
+        {
+          "title": "The Money Programme",
+          "episode": 3,
+          "description": "\"The Money Program\" features a Swiss banker, a city accountant and a song of praise.",
+          "date": "1972-11-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTYwODQ5MV5BMl5BanBnXkFtZTgwODM1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Blood, Devastation, Death, War and Horror",
+          "episode": 4,
+          "description": "A program called \"Blood, Devastation, Death, War and Horror,\" featuring a man who speaks exclusively in anagrams; a timorous TV announcer, before and after he undergoes psychiatric treatment; the employment of \"pantomime horses.\"",
+          "date": "1972-11-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM3NDA5ODg2NV5BMl5BanBnXkFtZTgwOTI1NTg3MjE@.jpg"
+        },
+        {
+          "title": "The All England Summarise Proust Competition",
+          "episode": 5,
+          "description": "Contestants in \"The All-England Summarize Proust Competition\" are judged in swimsuit and evening-gown categories; an irate customer confronts his travel agent. Also: an expedition to Mount Everest, made by an international group of hairstylists.",
+          "date": "1972-11-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODIwMDQ1NjUyMl5BMl5BanBnXkFtZTgwMDA2NTg3MjE@.jpg"
+        },
+        {
+          "title": "The War Against Pornography",
+          "episode": 6,
+          "description": "Surgical tools applied to a mildly anesthetized patient include a power drill and a mallet; a TV program features a lecture on gastropods, highlighted by the visit of a whelk.",
+          "date": "1972-11-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM1MjAzNTYwNF5BMl5BanBnXkFtZTgwOTY1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Salad Days",
+          "episode": 7,
+          "description": "A climbing expedition negotiates a hazardous London road; an attempt is made to determine whether an urban dwelling is a house or a lifeboat. Also: a mouse's quest for cheese, which leads to the production of a Western called \"Rogue Cheddar.\"",
+          "date": "1972-11-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjkyMTg4NTQ1NF5BMl5BanBnXkFtZTgwOTU1NTg3MjE@.jpg"
+        },
+        {
+          "title": "The Cycling Tour",
+          "episode": 8,
+          "description": "Mr Pither; Clodagh Rogers; Trotsky; Smolensk; Bingo-crazed Chinese (British Ambassador); 'Jack in a Box'.",
+          "date": "1972-12-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzI0NTY3MTQwMF5BMl5BanBnXkFtZTgwMTgxNzc3MjE@.jpg"
+        },
+        {
+          "title": "The Nude Man",
+          "episode": 9,
+          "description": "A housing project induced by hypnosis stands---as long as the tenants believe in it. Also: highlights of the Olympic Hide-and-Seek finals; suggestions for improving bullfighting, such as the use of radar.",
+          "date": "1972-12-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY3NDEwNzU4OV5BMl5BanBnXkFtZTgwOTE1NTg3MjE@.jpg"
+        },
+        {
+          "title": "E. Henry Thripshaw's Disease",
+          "episode": 10,
+          "description": "A police investigator is mistaken for Sir Philip Sidney in a Tudor-period job agency, which actually deals in pornography; King Solomon judges the case of a stray bee; a panel of dead people debates the question \"Is There a Life After Death?\"",
+          "date": "1972-12-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTA4MTk1OF5BMl5BanBnXkFtZTgwNDI1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Dennis Moore",
+          "episode": 11,
+          "description": "A highwayman steals \"lupins\" from the rich and tries to give them to the poor. Also: the first episode in a tatty, tedious 18th-century serial is brought to a screeching halt; peasants clamor for Titian paintings and Venetian glass.",
+          "date": "1973-01-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEyNDUxMzA5NjdeQTJeQWpwZ15BbWU4MDUyNjU4NzIx.jpg"
+        },
+        {
+          "title": "A Book at Bedtime",
+          "episode": 12,
+          "description": "'A Book at Bedtime'; 'Red Gauntlet'; Kamikaze Highlanders; No time to lose; Penguins; BBC pro-gramme planners; Unexploded Scotsmen; 'Spot the Looney'; Rival documentaries; 'Dad's Doctors'; Dad's Pooves'.",
+          "date": "1973-01-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg4MTYyNDc2N15BMl5BanBnXkFtZTgwMTkxNzc3MjE@.jpg"
+        },
+        {
+          "title": "Grandstand",
+          "episode": 13,
+          "description": "Oscar Wilde, James Abbott McNeill Whistler, George Bernard Shaw and the future Edward VII exchange epigrams at an evening party; mechanical brain surgery fails to dramatically affect a woman's mentality.",
+          "date": "1973-01-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEzMTI0NTI0M15BMl5BanBnXkFtZTgwNTE1NTg3MjE@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        {
+          "title": "The Golden Age of Ballooning",
+          "episode": 1,
+          "description": "The Montgolfier brothers prepare for the first balloon flight.",
+          "date": "1974-10-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjY5ODI5ODkyN15BMl5BanBnXkFtZTgwNjk1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Michael Ellis",
+          "episode": 2,
+          "description": "In this episode, Chris Quinn enters a department store and demands to buy an ant named Marcus.",
+          "date": "1974-11-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY0NjEyMjI1NV5BMl5BanBnXkFtZTgwNDE5MzE1NTE@.jpg"
+        },
+        {
+          "title": "The Light Entertainment War",
+          "episode": 3,
+          "description": "A parody of war includes the invasion of Norway by tutu-clad commandos and a plea to the public to treat the war seriously.",
+          "date": "1974-11-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTczOTc5ODA5NV5BMl5BanBnXkFtZTgwNjc1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Hamlet",
+          "episode": 4,
+          "description": "Hamlet undergoes psychoanalysis; eight Queen Victorias compete in the Queen Victoria handicap race; a boxing contender gets his head knocked off.",
+          "date": "1974-11-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIzMTIyOTE2M15BMl5BanBnXkFtZTgwMTA1NTg3MjE@.jpg"
+        },
+        {
+          "title": "Mr. Neutron",
+          "episode": 5,
+          "description": "The search for Mr. Neutron, who plans to dominate the world, stretches from a London suburb to the Yukon, and results in the destruction of earthly civilization.",
+          "date": "1974-11-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTExODgxMzgzOTVeQTJeQWpwZ15BbWU4MDA3NDU4NzIx.jpg"
+        },
+        {
+          "title": "Party Political Broadcast",
+          "episode": 6,
+          "description": "A spoof of British political-party broadcasts includes the finals of \"the worst family in Britain\" contest, a violent cricket match and a housewife who revolutionized beekeeping.",
+          "date": "1974-12-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE0ODUwMzA2NF5BMl5BanBnXkFtZTgwNjg0NTg3MjE@.jpg"
+        }
+      ]
+    }
+  ]
+}

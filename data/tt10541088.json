@@ -1,0 +1,133 @@
+{
+  "seasons": 4,
+  "episodes": [
+    {
+      "title": "Tractoring",
+      "season": 1,
+      "episode": 1,
+      "description": "Jeremy Clarkson embarks on his path towards muddy misery and potential ruin by running his own farm.",
+      "date": "2021-06-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTdlYjkzNzUtZDdmOC00N2E4LWFmMDktNGQwYzk0M2EyZjRlXkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Sheeping",
+      "season": 1,
+      "episode": 2,
+      "description": "Jeremy decides to get a flock of sheep, not realising the added complications these high-maintenance animals will bring.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWM4YzFkOGItOTQ3Yy00ZGZjLThiNjctZTM4MzUyYmM0M2MzXkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Shopping",
+      "season": 1,
+      "episode": 3,
+      "description": "Jeremy Clarkson decides to open a farm shop to sell his own produce. This sounds like it should be easy. It isn’t.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjljNWJlMzQtN2FhNS00NWI1LTlkN2EtZDlhNDE5ZTA5YzhjXkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Wilding",
+      "season": 1,
+      "episode": 4,
+      "description": "Jeremy Clarkson decides to become a naturalist.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDI3ZWZhYTMtMThkOC00ZTg0LWJkNmQtZTY1YjY0OWQxNmRmXkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Pan (dem) icking",
+      "season": 1,
+      "episode": 5,
+      "description": "As Covid-19 puts Britain on lockdown, Jeremy suddenly finds that his biggest worries aren’t all related to the upcoming lambing season.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJmZjlmMmMtNGI3ZS00ZGRlLWIxMzktNTFiNjNmODQwMmUzXkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Melting",
+      "season": 1,
+      "episode": 6,
+      "description": "Jeremy discovers why British farmers are always complaining about the weather. It’s mostly because it never does what they want it to do.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQyNGI4NDgtZjhhNS00ZWJlLWFmOWYtNTI2NWZmMmVkM2I5XkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Fluffing",
+      "season": 1,
+      "episode": 7,
+      "description": "As the drought drags on and harvest time gets closer, Jeremy and his motley crew have a fearsome list of jobs to complete.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyOTM0MzctMmY0My00NGY4LTllNzMtYzNiYTFmODJhMzQ3XkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Harvesting",
+      "season": 1,
+      "episode": 8,
+      "description": "After months of hard work Clarkson's farm arrives at a make or break moment; harvest time.",
+      "date": "2021-06-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE4M2JkMjgtNjE5My00NDIxLTg0MzAtZTNiYThjM2NhZWNkXkEyXkFqcGdeQXVyNzg5MzIyOA@@.jpg"
+    },
+    {
+      "title": "Surviving",
+      "season": 2,
+      "episode": 1,
+      "description": "Jeremy Clarkson sets out to diversify, as a way of increasing his annual profit (£144 last year).",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU2OTYyYmItODU3MC00YjUyLTg1Y2UtZTlmMWRiMDI1MTcxXkEyXkFqcGdeQXVyODQyOTY2OTA@.jpg"
+    },
+    {
+      "title": "Cowering",
+      "season": 2,
+      "episode": 2,
+      "description": "Jeremy's new herd of cows settle in, but soon reject the fence that keeps them in.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdmYWVlNjgtZGZhNy00ZTM5LWI5ZmQtMjFiYWE2YjkyMDZhXkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    },
+    {
+      "title": "Schmoozing",
+      "season": 2,
+      "episode": 3,
+      "description": "Faced with Council powers that be, Jeremy uses two of his greatest skills: diplomacy and respect for red tape.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWZhMzk1NzctNjNjMS00NDliLTg1NDMtMTkzNmMwOTExMDM3XkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    },
+    {
+      "title": "Badgering",
+      "season": 2,
+      "episode": 4,
+      "description": "Jeremy Clarkson comes face to face with his nemesis: the badger.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWQwMGUwMWQtN2EyMS00N2RjLWJkMDctYjI1ZGFhODIxOGNiXkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    },
+    {
+      "title": "Council-ing",
+      "season": 2,
+      "episode": 5,
+      "description": "The day of the Council's decision on Jeremy's restaurant arrives.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQwMjY0M2ItMjE0NC00YTc0LWEzY2UtMDI4MGZmMDRjZGEwXkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    },
+    {
+      "title": "Counselling",
+      "season": 2,
+      "episode": 6,
+      "description": "The fall-out from the Council's decision continues to fall out.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzAyNTUxYjYtODQwZi00M2UzLWI0MjAtNWFmOWIyMGVkMjYzXkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    },
+    {
+      "title": "Scheming",
+      "season": 2,
+      "episode": 7,
+      "description": "Jeremy's restaurant idea is re-born, and there's not a moment to waste.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdjNDNkYjctNzA5NS00OGMwLTliYTctOWRhZThhMTg2MDE5XkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    },
+    {
+      "title": "Climaxing",
+      "season": 2,
+      "episode": 8,
+      "description": "Secret preparations accelerate for the opening of Jeremy's restaurant.",
+      "date": "2023-02-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGZmNTA0ZDgtODEwZS00ZDMxLThjZjItZDY3OWFlYmNhZjRmXkEyXkFqcGdeQXVyMTIyOTI4Nzgw.jpg"
+    }
+  ]
+}

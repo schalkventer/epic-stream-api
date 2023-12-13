@@ -1,0 +1,558 @@
+{
+  "id": "2a3ec4a6-521f-4b2a-a299-01bcd6ce73f3",
+  "description": "The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.",
+  "title": "Batman: The Animated Series",
+  "image": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@.jpg",
+  "genres": [
+    8,
+    9,
+    10
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "The Cat and the Claw: Part I",
+          "episode": 1,
+          "description": "Catwoman and Batman join forces in an attempt to foil the evil forces of a terrorist by the name of Red Claw.",
+          "date": "1992-09-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGYzNWU1N2QtMjI1MS00MDAwLWFjNmItZjVjODVjNWUwYWFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg"
+        },
+        {
+          "title": "On Leather Wings",
+          "episode": 2,
+          "description": "Batman finds himself tangling with a Jekyll-and-Hyde bat creature after it attacks a night watchman and the police wage a war on the Dark Knight.",
+          "date": "1992-09-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjdjYjU3ZDQtOWViZC00MDZiLWJkZmYtNDczOWRhM2NjY2QxXkEyXkFqcGdeQXVyNjI4OTE1MTA@.jpg"
+        },
+        {
+          "title": "Heart of Ice",
+          "episode": 3,
+          "description": "Batman must stop a vengeful Mr. Freeze from fulfilling his vendetta against a callous businessman.",
+          "date": "1992-09-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTcwYzdlOTctNmRmMS00ODkxLThjZDgtNDRiMzMwNTgzZWFhXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg"
+        },
+        {
+          "title": "Feat of Clay: Part I",
+          "episode": 4,
+          "description": "A disfigured actor is forced to frame Bruce Wayne.",
+          "date": "1992-09-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmI2MmUwN2ItYjc2OC00NmIxLTg1NzUtMGNlODE3MGYyYWIyXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "Feat of Clay: Part II",
+          "episode": 5,
+          "description": "Forcibly overdosed on a shapechanging substance, Matt Hagan has become the shapeshifting monster, Clayface, and now wants revenge on Roland Dagget.",
+          "date": "1992-09-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGQzNzZmNTgtYmJkZS00MzFlLTk0Y2YtOWUxZTg5M2FiMWM5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "It's Never Too Late",
+          "episode": 6,
+          "description": "Batman intervenes in a gang war and tries to convince the older of two rival bosses to change his ways.",
+          "date": "1992-09-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWY0NzVkYWMtNGE3Yy00Yjg1LTk4ZTctODI1OTY4OGJjNTkwXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "Joker's Favor",
+          "episode": 7,
+          "description": "An ordinary man finds himself forced to assist The Joker in one of his crimes.",
+          "date": "1992-09-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODY0MmZlYmEtOWExMC00ZGFhLWEyZmEtZjFlZGE1ZjBjZTY5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "The Cat and the Claw: Part II",
+          "episode": 8,
+          "description": "Batman and Catwoman must work together to stop Red Claw from releasing a viral plague outside Gotham.",
+          "date": "1992-09-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmM2OTgxNjQtNDExZi00ZWI4LThjYjEtZTBhNmUzYjc5YzBiXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "Pretty Poison",
+          "episode": 9,
+          "description": "When Harvey Dent is poisoned with derivative from an extinct flower, Batman must hunt down the assailant, the plant fanatic Poison Ivy, who happens to be Harvey's fiancee.",
+          "date": "1992-09-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTRkMDU0ZTItNjZhOC00YTcwLWI4MmEtOTQ4ODA3YWVjZmI3XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E10 ∙ Nothing to Fear",
+          "episode": 10,
+          "description": "Batman faces off against the Scarecrow whose fear gas makes the superhero afraid of disgracing the Wayne name.",
+          "date": "1992-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjk5NmI5MmItZTUyYS00N2I3LThlNTYtNjI3NDE4ZmNjOWZlXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E11 ∙ Be a Clown",
+          "episode": 11,
+          "description": "The Joker infiltrates the birthday party of Mayor Hill's son to plant a bomb.",
+          "date": "1992-09-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjU3MmZkNWEtMWE2NC00MmRmLTkxMjItNjY1OGFkZjk0M2IxXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E12 ∙ Appointment in Crime Alley",
+          "episode": 12,
+          "description": "On Batman's annual intensive patrol of the street where his parents were murdered, Roland Dagget plots to devastate it.",
+          "date": "1992-09-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGY4ODlhYjItOTVhNS00OWE0LTk1MWUtZTkwNWRmODBhMTU4XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E13 ∙ P.O.V.",
+          "episode": 13,
+          "description": "The day after a police sting to catch a drug lord goes disastrously wrong, the events of the night before are reconstructed by the accounts of three police officers: Harvey Bullock, Renee Montoya, and a rookie.",
+          "date": "1992-09-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWJkMjRmZmItZTg2NC00ZDBkLTkxOTktMmQxM2Q3NWM5NTUwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E14 ∙ The Clock King",
+          "episode": 14,
+          "description": "A ruined efficiency expert with an uncanny sense of timing and schedules plots his revenge against Mayor Hill.",
+          "date": "1992-09-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWJjYmRiYTEtYmI3NC00ZDdhLWE4ODMtYmI5MDVmNTE3YTgzXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E15 ∙ The Last Laugh",
+          "episode": 15,
+          "description": "The Joker's plot to send all of Gotham into insanity with Joker-gas from a garbage scow leads to a battle on the water.",
+          "date": "1992-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTY0YWE3YzItNTJmNC00NGJjLWI1MDktN2E4NjZiNzBmNDJiXkEyXkFqcGdeQXVyMDc2NTEzMw@@.jpg"
+        },
+        {
+          "title": "S1.E16 ∙ Eternal Youth",
+          "episode": 16,
+          "description": "A health resort, reputed to able to restore one's youth, has a horrific price Batman must cancel.",
+          "date": "1992-09-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhjNDhmZmItZjhmYy00OGI3LTk4NjMtMTAxYmVmZjdlZjY5XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E17 ∙ Two-Face: Part I",
+          "episode": 17,
+          "description": "On the election trail, Harvey Dent gradually loses control of his repressed evil alternate personality until gangster Rupert Thorne inadvertently unleashes it.",
+          "date": "1992-09-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjBlMjNmMWUtMjczYy00YWU5LTg5MzEtNzIwM2I3MDQwMWMwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E18 ∙ Two-Face: Part II",
+          "episode": 18,
+          "description": "Two-Face begins robbing Rupert Thorne's business in revenge while both the gangster and Batman hunt the dichotomous supervillain for their own reasons.",
+          "date": "1992-09-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmNkYzRkZmItOWVlNS00NjY1LWI0ZTYtMDdhNDk2OGIwYmYzXkEyXkFqcGdeQXVyMDc2NTEzMw@@.jpg"
+        },
+        {
+          "title": "S1.E19 ∙ Fear of Victory",
+          "episode": 19,
+          "description": "While investigating a mysterious series of athlete panic attacks during games, Robin is exposed to the fear toxin of the culprit, The Scarecrow.",
+          "date": "1992-09-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzJiMDVlMDgtNzQzMi00ZWM0LWIwYzQtN2YyYmJmNzExZTgwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E20 ∙ I've Got Batman in My Basement",
+          "episode": 20,
+          "description": "While trying to thwart Penguin's robbery of a rare Faberge egg, Batman is weakened by exposure to a toxic gas. He takes shelter in a basement apartment belonging to a teen-aged amateur detective.",
+          "date": "1992-09-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWEwYTIxYjQtMzY1Yi00MDk2LWE3NzctZTFkNjJiNGMzMGM2XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E21 ∙ Vendetta",
+          "episode": 21,
+          "description": "A convict turned witness disappears and Harvey Bullock, who arrested him, is suspected in the incident.",
+          "date": "1992-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2JmZWU4NWUtYzdiMy00NmMyLTk0ZDktYzhiOTg1MjE3NTc0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E22 ∙ Prophecy of Doom",
+          "episode": 22,
+          "description": "A con man convinces a large group of Gotham's richest men that he can see into the future by arranging a series of near-fatal accidents.",
+          "date": "1992-10-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmI4NTZkMmEtMTVlNy00NWRlLTlkMjgtNjY3NTYyNzhlMWVhXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E23 ∙ The Forgotten",
+          "episode": 23,
+          "description": "While in disguise investigating the disappearance of homeless people, Batman is attacked and abducted to a slave camp with his memory lost.",
+          "date": "1992-10-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzdmZWNkNjgtOTc0Ni00NmVlLTkxMmUtMjVmZDkzZjMyYWNhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E24 ∙ Mad as a Hatter",
+          "episode": 24,
+          "description": "When a jealous scientist with a passion for Alice in Wonderland uses his mind control devices to have his dream girl for his own, Batman must intervene.",
+          "date": "1992-10-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2MxNWJkZDktN2U5YS00OTc5LWI2NjMtODI5YjViYTJjMmEzXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E25 ∙ The Cape and Cowl Conspiracy",
+          "episode": 25,
+          "description": "A master designer of deathtraps is hired to take Batman's cowl and cape.",
+          "date": "1992-10-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGQ3YjQxZTctMjIxNS00MTA3LWIxMzYtYmQ5ZDY5MTk2ZTgzXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E26 ∙ Perchance to Dream",
+          "episode": 26,
+          "description": "After being knocked out in a mysterious warehouse, Batman wakes up in a world where his parents are alive, he is engaged to Selina Kyle, and someone else is Batman.",
+          "date": "1992-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODY3Mjk5ZWYtMWE5MC00MjdmLTkxZWItZTdhYWI0ZTkzNmRjXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E27 ∙ The Underdwellers",
+          "episode": 27,
+          "description": "Batman discovers a subterranean colony of children in the sewer system dominated by the insane Sewer King.",
+          "date": "1992-10-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjE4MWU4ODktNmQ4Yy00OTFmLWIxNWUtNTQ4MWU4YTcyNTNmXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E28 ∙ Night of the Ninja",
+          "episode": 28,
+          "description": "A former fellow student of one of Wayne's old sensei's begins stalking the billionaire in revenge as a ninja.",
+          "date": "1992-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDk1MjFmYjItYjkxNC00NTM1LWIzNWEtYWNlNTVjMWVjMmM1XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E29 ∙ The Strange Secret of Bruce Wayne",
+          "episode": 29,
+          "description": "A sinister doctor uses his mind reading machine to learn Batman's secret identity and attempts to auction it.",
+          "date": "1992-10-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzFlMTkwMGUtMDQ4Yi00NDYyLWEzNmYtM2EwM2FhN2Q1ZWFmXkEyXkFqcGdeQXVyNjI4OTE1MTA@.jpg"
+        },
+        {
+          "title": "S1.E30 ∙ Tyger Tyger",
+          "episode": 30,
+          "description": "Selina Kyle is captured by a mad scientist and transformed into a humanoid cat creature.",
+          "date": "1992-10-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzM1ZjY5NWUtOWFhYy00MTZkLWI1MWMtMDNhNjI3NDI3N2QyXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E31 ∙ Dreams in Darkness",
+          "episode": 31,
+          "description": "While affected by the Scarecrow's fear toxin, Batman finds himself an inmate of Arkham Asylum.",
+          "date": "1992-11-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDg3NDNmNTgtMTg1ZC00ZmRlLWJiZDctMGQxOGQyZjdmOWI2XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E32 ∙ Beware the Gray Ghost",
+          "episode": 32,
+          "description": "A series of bombings reminiscent of a long lost TV series occur and the washed up star of it may be connected.",
+          "date": "1992-11-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTIxOTc5MDQtMGIxMi00ODgzLWFlMmMtOWI4ZmExMDc0NDAwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E33 ∙ Cat Scratch Fever",
+          "episode": 33,
+          "description": "While Catwoman searches for her missing cat, she uncovers a plot to infect Gotham City that Batman must help stop.",
+          "date": "1992-11-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDM2Y2RkYzktNTliZS00NzVkLWIzZTUtNjBlYzBhNWU0Y2Q5XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E34 ∙ I Am the Night",
+          "episode": 34,
+          "description": "Batman has serious doubts about his calling when Commissioner Gordon is seriously wounded.",
+          "date": "1992-11-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGM5NDljMDQtZDhmZi00OTAwLTkxMWItZDVkMDU5MTYyZDQwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E35 ∙ Almost Got 'im",
+          "episode": 35,
+          "description": "In a bar, a collection of Batman's enemies chat about their failed attempts to kill him.",
+          "date": "1992-11-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDUyZmNhZDEtNDZmYS00MGZiLWFiZmEtMzIzMDgzMjc5NTA2XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E36 ∙ Moon of the Wolf",
+          "episode": 36,
+          "description": "Batman investigates sightings of an apparent werewolf.",
+          "date": "1992-11-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2E0M2E4NzMtYjEzNS00NWZlLWE5NmMtMzM3MzYwNGFmNTIyXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E37 ∙ Terror in the Sky",
+          "episode": 37,
+          "description": "The Man-Bat appears to be on the loose again, but it isn't clear if Dr. Kirk Langstrom is involved.",
+          "date": "1992-11-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDVjMWJhNmMtZTBjZC00MzQzLWJlNjgtMzMyMTNjYTI2MGE3XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E38 ∙ Christmas with the Joker",
+          "episode": 38,
+          "description": "On Christmas Eve, Joker broadcasts a pirate Christmas special on television. Batman and Robin have until midnight to fight their way past Joker's traps hidden all over town and rescue Commissioner Gordon, Harvey Bullock, and Summer Gleeson.",
+          "date": "1992-11-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWIyOTg5ZTYtMjM4NC00MzMxLWFiMmItOGEzYTA3ZTNlYzQ5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E39 ∙ Heart of Steel: Part I",
+          "episode": 39,
+          "description": "A hyper-sophisticated robot steals computer technology from Wayne Enterprises, leading Batman to a sentient supercomputer, H.A.R.D.A.C., and its plan to replace humans with androids.",
+          "date": "1992-11-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTc1NWEzMjUtNTdlNi00MWYzLTg2YmItOThlZjE0Zjc0NGI3XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E40 ∙ Heart of Steel: Part II",
+          "episode": 40,
+          "description": "Batman tracks a series of robots to Cybertron's headquarters, with some assistance from Barbara Gordon.",
+          "date": "1992-11-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWUzNjNiYWUtMjE3Yy00OGFiLWJjODctMDljNmNhODUyZDdjXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E41 ∙ If You're So Smart, Why Aren't You Rich?",
+          "episode": 41,
+          "description": "A fired puzzle designer seeks revenge against his greedy former employer as The Riddler.",
+          "date": "1992-11-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjk2OTM4MTktNjgxNC00ZDc3LTliZmItNGZjNjNhMDJmNTYzXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E42 ∙ Joker's Wild",
+          "episode": 42,
+          "description": "When the Joker learns that a casino owner is using his likeness for the theme of his business, he escapes Arkham Asylum to destroy it while unaware of the owner's real motives.",
+          "date": "1992-11-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTgyMzY0YzMtODY0MC00ZTJiLWEzNDQtMDU3Y2I5ODM4YTA1XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E43 ∙ His Silicon Soul",
+          "episode": 43,
+          "description": "H.A.R.D.A.C.'s robot replica of Bruce Wayne wanders around, believing itself to be the real Batman.",
+          "date": "1992-11-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTFlMDY2ZTktMGY2ZS00Zjg3LWJiMzQtZjBhMTBlYjg2ZDEzXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E44 ∙ Off Balance",
+          "episode": 44,
+          "description": "Batman teams up with the mysterious Talia to retrieve a prototype weapon from the supervillain, Count Vertigo.",
+          "date": "1992-11-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDEyNDE1YTQtZmYzZS00ODZlLWE5OWItOTQ4YzY3MzQxOTM1XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E45 ∙ What Is Reality?",
+          "episode": 45,
+          "description": "When the Riddler traps Commissioner Gordon's consciousness in a virtual reality device, Batman must enter the villain's construct to save him.",
+          "date": "1992-11-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjM2MjBiMWMtNGZiMi00YjBmLWIzYjYtY2RmNjYwZjliODJhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E46 ∙ The Laughing Fish",
+          "episode": 46,
+          "description": "The Joker threatens the patent office staff when they refuse to copyright his disfigured fish.",
+          "date": "1993-01-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGM3ZjBjMmQtYzc3MS00ZjEzLWEyOTUtNDU5ZjU0M2E5MzYwXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E47 ∙ Harley and Ivy",
+          "episode": 47,
+          "description": "Harley Quinn teams up with Poison Ivy and both become the Queens of Crime, after the Joker and Batman find out.",
+          "date": "1993-01-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjVhNDMwMmItODdlNy00MGM3LWExMmQtYjFmYzIwNGM0YTcxXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "S1.E48 ∙ The Mechanic",
+          "episode": 48,
+          "description": "The Penguin finds the mechanic who designs Batman's Batmobiles and forces him to turn the current model into a deathtrap.",
+          "date": "1993-01-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzEwNWE4NzktM2M0YS00NGI1LWI2YmYtYjFlMjQ4OTRkMTc4XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E49 ∙ The Man Who Killed Batman",
+          "episode": 49,
+          "description": "A small time crook tells his story of how he accidentally seemed to kill Batman, and how now everyone wants to kill him next.",
+          "date": "1993-01-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmI2OGU3MzctNTUzNC00N2RiLWE2MmMtYzc0NWFjZmE1MTYzXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "S1.E50 ∙ Zatanna",
+          "episode": 50,
+          "description": "A stage magician - and former friend of Bruce Wayne - is framed for grand larceny.",
+          "date": "1993-02-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODdiODQ5YTEtNmQyNy00OTRhLWI0MGMtMmIyMGU5MjY3N2NkXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "title": "Shadow of the Bat: Part I",
+          "episode": 1,
+          "description": "Commissioner James Gordon is arrested for corruption, forcing his daughter, Barbara Gordon, to take a dramatic step to help him.",
+          "date": "1993-09-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE4OWYyNmMtODA0My00MjI5LWExMjItMmExZGY5MzU2ZjdiXkEyXkFqcGdeQXVyMDc2NTEzMw@@.jpg"
+        },
+        {
+          "title": "Shadow of the Bat: Part II",
+          "episode": 2,
+          "description": "Barbara Gordon, now Batgirl, joins Batman and Robin's investigation of Commissioner Gordon's framing.",
+          "date": "1993-09-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjg0ODRhZDQtYmNhOC00YzQ2LTg2OGYtZDk0MTcwMzUwOGUyXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Mudslide",
+          "episode": 3,
+          "description": "Clayface resurfaces with his body's cellular integrity decaying.",
+          "date": "1993-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTRhNzkxNmMtYjQwZS00ZTgyLWE3OTQtODhmYjhlOTBhNjczXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "The Worry Men",
+          "episode": 4,
+          "description": "The Mad Hatter plants mind-control devices inside miniature native dolls distributed to high-society Gothamites by Veronica Vreeland.",
+          "date": "1993-09-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2M2MzIxNzMtYzFiOS00YzMyLWIyMjUtMDgwZmRjODc5OTlhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Paging the Crime Doctor",
+          "episode": 5,
+          "description": "Dr. Matthew \"Matt\" Thorne, the younger brother of the infamous crime boss Rupert Thorne is forced to take care of him after losing his medical license. Bruce soon learns that Matt was close friends with his father, Thomas and his doctor, Leslie. Batman decides to protect and save Matt and Leslie from Rupert who desperately needs a heart operation.",
+          "date": "1993-09-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDhjZDA4YzUtMDg4OS00ODQ5LTllM2EtZTljNzE0YTRhMzBhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "House & Garden",
+          "episode": 6,
+          "description": "Poison Ivy, after being released from Arkham, has apparently settled for a normal life, married to her psychiatrist and doting on his two children. Batman and Robin are suspicious, however, because semi-sentient plant-like creatures are committing mayhem all over Gotham.",
+          "date": "1994-05-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDM1ODc2N2EtMmJhNC00OWM0LTkzZTYtNzE2OGQwMTA1NjBmXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Sideshow",
+          "episode": 7,
+          "description": "Killer Croc escapes a prison train and finds refuge with a group of former circus freaks living in the mountains, who take pity on him.",
+          "date": "1994-05-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWJmYjIwMDctNGJlMC00NDgzLTk0ZTctYWZmNjk5ZjhkYTkwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Avatar",
+          "episode": 8,
+          "description": "Batman travels to Egypt and joins with Talia to hunt down Ra's al Ghul who is searching for an ancient source of ultimate power.",
+          "date": "1994-05-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDIzZjE1NTUtMDNkNC00MGEzLThmYzQtY2QyMzEzMjRjZTZjXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Trial",
+          "episode": 9,
+          "description": "A district attorney who loathes Batman is forced to defend him in a twisted parody of a trial run by the inmates of Arkham Asylum who have seized control and taken them both prisoner.",
+          "date": "1994-05-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjljNTQ0ODItYjUyNi00ZDBkLWFjZmYtYTYzMDFhY2ZkNTlmXkEyXkFqcGdeQXVyMDc2NTEzMw@@.jpg"
+        },
+        {
+          "title": "Harlequinade",
+          "episode": 10,
+          "description": "When Joker steals a nuclear weapon, Batman arranges for Harley Quinn's release from Arkham, so she can help him track the Joker down.",
+          "date": "1994-05-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDU1NjhjNWEtZGNjYS00ZDQ1LWE1ZmUtNjllODFmOGJmODM0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "title": "Bane",
+          "episode": 1,
+          "description": "Rupert Thorne hires steroid-enhanced mercenary Bane to eliminate Batman.",
+          "date": "1994-09-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDgzMTBlOTktMWE3NS00ZDg1LTljNGQtODU2ZDAyZGIwYTdkXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "Second Chance",
+          "episode": 2,
+          "description": "Before undergoing surgery meant to remove both his disfigurement and his alternate personality, Two-Face/Harvey Dent is kidnapped by persons unknown.",
+          "date": "1994-09-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjVlYjU1MTgtYzUwOC00Zjc5LTkxY2YtN2M5ZWE1NDdjYzU5XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "Riddler's Reform",
+          "episode": 3,
+          "description": "The Riddler has apparently gone straight, but Batman is not so sure.",
+          "date": "1994-09-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmE2MDhlNTctYTRkNS00YTAxLWI2ZDEtZjk2NTgyODYzN2Q2XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Baby-Doll",
+          "episode": 4,
+          "description": "A washed-up actress with a bizarre condition that makes her look permanently like a child seeks revenge against her canceled show's cast and crew.",
+          "date": "1994-09-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTEwMmFhM2MtN2NmOC00ZGQ2LThmMGMtYTc4YWFjOTllOTY5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Time Out of Joint",
+          "episode": 5,
+          "description": "Batman and Robin battle the Clock King who has a prototype device that allows him to operate at an extremely accelerated time rate apart from the rest of his reality.",
+          "date": "1994-10-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGZlNmM3MzItOGQzMS00MGRlLWFkNjEtZTVlZjUwMWQ0MDVmXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Harley's Holiday",
+          "episode": 6,
+          "description": "On her first day of release, Harley Quinn gets into a ridiculous amount of trouble in record time.",
+          "date": "1994-10-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2U0ZTAwZDYtNjZjNC00YzVhLWJjMGItZDg5MTMzYTM1MjhjXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Make 'Em Laugh",
+          "episode": 7,
+          "description": "Batman and Robin investigate why various comedians are suddenly committing crimes with comically bizarre motifs.",
+          "date": "1994-11-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjAyNDllNmQtNjU1Ni00Mjg1LTg1MGItYTAwNWQwZjBmZTQ4XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "Batgirl Returns",
+          "episode": 8,
+          "description": "Batgirl, Catwoman and Robin team up to investigate the theft of a valuable cat statuette.",
+          "date": "1994-11-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjkxZjgzYmItMGIwMC00NjBkLTk5MzUtN2IzNmYzMjgwMWVmXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Lock-Up",
+          "episode": 9,
+          "description": "Disgraced fanatical warder of Arkham Asylum sets himself as a vigilante jailer.",
+          "date": "1994-11-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDJjOWNjMDYtODAzYi00ZmRhLWE0YTItMDM3YTljMzc3YjQwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Deep Freeze",
+          "episode": 10,
+          "description": "An elderly amusement park owner breaks Mr. Freeze out of jail, hoping to be \"frozen\" like him in order to achieve immortality.",
+          "date": "1994-11-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWVjNmE5YTUtOWZkOC00NGVmLThhMGUtMDRjMTA0NzgxZDM5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        {
+          "title": "The Terrible Trio",
+          "episode": 1,
+          "description": "Three rich youths who commit armed robbery for fun are pursued by Batman as their irresponsible hobby escalates into potentially worse deeds.",
+          "date": "1995-09-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjc3OTk0YjItMDMyNy00MTg0LWE2NWItN2UzNDFiODczYTQxXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Showdown",
+          "episode": 2,
+          "description": "While the Dynamic Duo race to stop Ra's Al Ghul from performing a kidnapping, the wild west story of how he was once opposed by the disfigured bounty hunter, Jonah Hex, is told.",
+          "date": "1995-09-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWIyNWM4YzAtZDY0My00MTNjLTlkNGEtMzY1OWQ2MmYwMGY5XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg"
+        },
+        {
+          "title": "Catwalk",
+          "episode": 3,
+          "description": "Catwoman is trying to go straight, but is recruited by The Ventriloquist as a jewel thief.",
+          "date": "1995-09-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGQ4MjkzYjAtZmMyZi00NzAxLWI5MzgtZjRmY2U5MGFlYjcxXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "A Bullet for Bullock",
+          "episode": 4,
+          "description": "Det. Bullock reluctantly asks for Batman's assistance when he is convinced someone is trying to kill him.",
+          "date": "1995-09-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWRmYjBlZTctNTBiZi00MGE3LWFiODUtNjU3ZjJiOGUzNWNiXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        },
+        {
+          "title": "The Lion and the Unicorn",
+          "episode": 5,
+          "description": "Red Claw kidnaps an old colleague of Alfred's from the British Secret Service, to gain access to a hidden missile silo.",
+          "date": "1995-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzA2YzU4NzgtYTdjOS00ODZmLTlmMjgtODkyNTE5ODMzMDQxXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg"
+        }
+      ]
+    }
+  ]
+}

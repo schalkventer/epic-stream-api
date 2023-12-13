@@ -1,0 +1,53 @@
+{
+  "id": "ae07af88-818b-4d99-9bd4-9be4a031b62c",
+  "description": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+  "title": "Chernobyl",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5.jpg",
+  "genres": [
+    2,
+    7,
+    3
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "1:23:45",
+          "episode": 1,
+          "description": "Plant workers and firefighters put their lives on the line to control a catastrophic April 1986 explosion at a Soviet nuclear power plant.",
+          "date": "2019-05-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTU4MDM1NGEtMDBmYy00NmEzLWIwZGYtYjljZGQzY2VmYWNiXkEyXkFqcGdeQXVyODExNTExMTM@.jpg"
+        },
+        {
+          "title": "Please Remain Calm",
+          "episode": 2,
+          "description": "With untold millions at risk, Ulana makes a desperate attempt to reach Valery and warn him about the threat of a second explosion.",
+          "date": "2019-05-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWM2ODBmN2UtZWQ5OC00MWNjLWFhODItZmI4NDE2YjQzZjczXkEyXkFqcGdeQXVyMjI0Mjg2NzE@.jpg"
+        },
+        {
+          "title": "Open Wide, O Earth",
+          "episode": 3,
+          "description": "Valery creates a detailed plan to decontaminate Chernobyl; Lyudmilla ignores warnings about her firefighter husband's contamination.",
+          "date": "2019-05-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWFjYzRiZmYtNDNjNC00MTRiLWI1NGUtMDhkMTM5NDM3YjlmXkEyXkFqcGdeQXVyMjYwNDA2MDE@.jpg"
+        },
+        {
+          "title": "The Happiness of All Mankind",
+          "episode": 4,
+          "description": "Valery and Boris attempt to find solutions to removing the radioactive debris; Ulana attempts to find out the cause of the explosion.",
+          "date": "2019-05-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE1NDhkNTYtY2UwYi00MzQyLTlhNTUtM2NiN2Y5Mjk4MzI1XkEyXkFqcGdeQXVyNzIwNDA4NzI@.jpg"
+        },
+        {
+          "title": "Vichnaya Pamyat",
+          "episode": 5,
+          "description": "Valery, Boris and Ulana risk their lives and reputations to expose the truth about Chernobyl.",
+          "date": "2019-06-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTNiMTUxNGEtZWRkNS00ZTFlLThiYTItMDZhNzA5NDUwNDBhXkEyXkFqcGdeQXVyODc0NjQ1MTY@.jpg"
+        }
+      ]
+    }
+  ]
+}

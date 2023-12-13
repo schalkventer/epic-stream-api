@@ -1,0 +1,73 @@
+{
+  "id": "3e7cc973-206c-4b1a-991e-3067aa44ef85",
+  "description": "A cinematic experience bringing you the most amazing human stories in the world. Humans and wildlife surviving in the most extreme environments on Earth",
+  "title": "Human Planet",
+  "image": "https://m.media-amazon.com/images/M/MV5BOTJmZjcwZDctODRkYi00MTJkLTgwYTYtMmUxYTgxOGU4ODg2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4.jpg",
+  "genres": [
+    4,
+    5
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Oceans: Into the Blue",
+          "episode": 1,
+          "description": "Nearly all human populations in coastal areas interact intensively with the sea. The food harvest is enormous, varied and obtained in various, sometimes ingenious ways, including cooperation with wild dolphins. Dangers and scarcity worsen for environmental reasons, climate change bodes even worse. Aquatic sports are also culturally important, sometimes even defining.",
+          "date": "2011-01-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM5Mzg1NTc1Ml5BMl5BanBnXkFtZTgwODI3ODI0MjE@.jpg"
+        },
+        {
+          "title": "Deserts: Life in the Furnace",
+          "episode": 2,
+          "description": "Deserts cover a third of the earth's land mass, yet harbor only some 300,000 inhabitants, many of which are (semi-)nomadic hunters/herdsmen, making navigation and adapted animals, such as camels, vital. The only 7,000 years old Sahara, the planet's vastest sand-pan, counts many tribes. The stony Gobi enjoys melting snow, wind-transported in all the way from Siberia, but also counts roaming wolves. In the most arid Araucana, capturing the rare precipitation is an extremely refined art.",
+          "date": "2011-01-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAyNDY1NTUzMl5BMl5BanBnXkFtZTgwMTM3ODI0MjE@.jpg"
+        },
+        {
+          "title": "Arctic: Life in the Deep Freeze",
+          "episode": 3,
+          "description": "In the vast icy wastes of the Arctic very little grows. It's dark for months in the winter and the freezing temperatures make it particularly inhospitable. Yet four million people live there thanks to ingenious survival techniques passed down through generations. In Greenland, where food is hard to come by and dogs are a crucial means of transport, Amos and his son Karl-Frederik embark on a remarkable journey across the frozen sea. They then fish for the giant Greenland shark by drilling a hole through the ice. This is food that will keep their precious dogs going for months. As winter gives way to spring the Inuit, of Canada, take advantage of an opportunity that only comes with the most extreme tides of the year. When the tide recedes hunters venture underneath the sea ice, where they have just minutes to gather a bounty of seafood from the ocean floor before the water returns. The elusive narwhal is an unexpected source of vitamin C for the Inuit of Northern Greenland, whose land grows few plants. Using traditional hunting techniques passed down through many generations it is still a perilous task - carried out on the very edges of the sea-ice. Early and unexpected springtime melting of the ice adds yet more danger. Another source of food comes from the millions of little Auks that flock along the coastal cliffs to breed. Oshima captures the birds with nets on the end of a long pole. They are then sewn inside sealskins and buried under the ice as food for the lean months ahead. For the residents of Churchill in northern Manitoba coexistence with one of nature's greatest predators is tricky. Each autumn the town is invaded by polar bears migrating back onto the ice, and it's Bob Windsor's job to keep both the townspeople and the polar bears safe. Behind the lens joins a particularly dangerous narwhal hunt which is carried out on the edge of the sea ice at the height of the warmest springtime ever.",
+          "date": "2011-01-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDc0NjM2MF5BMl5BanBnXkFtZTgwMDQ3ODI0MjE@.jpg"
+        },
+        {
+          "title": "Jungles: People of the Trees",
+          "episode": 4,
+          "description": "Although a mall part of earth's landmass, tropical rain forests contain half the animal species, mainly on altitudes out of human reach, losing 100 a day, often undiscovered, trough rapid wood-cut, clearing for agriculture etcetera. The rare surviving native tribal jungle cultures go to great lengths to remain in ecological harmony with wildlife and cope with dangers and others challenges, such as hight, while basically eating what they can catch, from honey to tarantulas.",
+          "date": "2011-02-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUzODczNTEyN15BMl5BanBnXkFtZTgwNzM3ODI0MjE@.jpg"
+        },
+        {
+          "title": "Mountains: Life in Thin Air",
+          "episode": 5,
+          "description": "Life in the mountains demands elaborate adaptations, for despite the extreme biological diversity people often have little choice of meat supply, despite elaborate hunting methods such as nets in clearings to lure giant bats. In developed regions, modern technology helps control avalanches. Relative isolation comes at a price, as for health care, and leads to bizarre traditions, such as Buddhist 'air burial' which actually means relying on vultures to dispose of corpses before they spread diseases.",
+          "date": "2011-02-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY3NDc1Mjc3MF5BMl5BanBnXkFtZTgwNDI3ODI0MjE@.jpg"
+        },
+        {
+          "title": "Grasslands: The Roots of Power",
+          "episode": 6,
+          "description": "Grass lands cover vast plains, such as savanna, prairies and pampas. The many, almost indestructible grass species, for various types of soil and other conditions, feed huge herds, whose migrations are followed by many predators and (semi-)nomadic peoples, such as the Mongol master horsemen. Some still practice hunting-gathering, such as the Khoisan, or traditional 'natural' herd breeding, others as in Australia use technology to gain maximal control. Domesticating cereals and edible grazers was crucial in human history, leading to vast food surpluses and sedentary civilization.",
+          "date": "2011-02-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTAwNzc5NzU2MjBeQTJeQWpwZ15BbWU4MDUzNzgyNDIx.jpg"
+        },
+        {
+          "title": "Rivers: Friend and Foe",
+          "episode": 7,
+          "description": "Man always was attracted by rivers, not unlike seas, for water, fishing, irrigation, transport. And he deals in many ways with their dangers, ranging from torrents, frost and perilous crossing to floods. Most lack moder technology, hence are reduced to minimal control, rather adapting to the tide then controlling it.",
+          "date": "2011-02-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUwMzY4MDUxM15BMl5BanBnXkFtZTgwOTI3ODI0MjE@.jpg"
+        },
+        {
+          "title": "Cities: Surviving the Urban Jungle",
+          "episode": 8,
+          "description": "Urban environments are man-made, so human design seems totally to overtake wildlife habitats. Yet animals abound in cities and suburbs, many as pets or working, but others exempt by religion or even able to pursue their natural life with some fancy adapting, as many animals do in the wild.",
+          "date": "2011-03-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI1OTc1NjU1OF5BMl5BanBnXkFtZTgwMDM3ODI0MjE@.jpg"
+        }
+      ]
+    }
+  ]
+}

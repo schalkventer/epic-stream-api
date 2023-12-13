@@ -1,0 +1,917 @@
+{
+  "seasons": 7,
+  "episodes": [
+    {
+      "title": "Pilot",
+      "season": 1,
+      "episode": 1,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-02-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjJjODUxNDItNmNjMy00OTc0LTg0ZmUtN2I5ZDYzNmM4YWNlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Dugun",
+      "season": 1,
+      "episode": 2,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-02-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2VmOTYyNmMtOTI5MC00YzhmLTkyNjctZTEzNzNiMzY2MTUxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Hali Saha",
+      "season": 1,
+      "episode": 3,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-02-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDIzOGQ5YzMtY2NkYS00NmZiLWE2YmYtODdlNGI2NWQ4N2ZjXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Fidye",
+      "season": 1,
+      "episode": 4,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-03-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA0ODdkM2YtZGRlOS00OTIzLWI0NTItZjBkYWYxYmVmYmRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Sohret",
+      "season": 1,
+      "episode": 5,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-03-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmIzNWI2YjctZGM1YS00MTgzLWE3N2QtZjdmOWZhOTBjNDNkXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Banka",
+      "season": 1,
+      "episode": 6,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-03-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVhZTJkYjMtMDZmOC00NDU2LTkzZjQtMjNiNzdlNWE5NjlmXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Rüya",
+      "season": 1,
+      "episode": 7,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-03-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY4MjhlZjgtOTg4Yi00NmY2LTgzZjUtNWM2OWQzOWE5NTA1XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Mantar",
+      "season": 1,
+      "episode": 8,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-03-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM5NjYwYjAtZGU5Mi00ZTE1LTkyOTMtOWJhMDBkOGFiNmU5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Sihirbaz",
+      "season": 1,
+      "episode": 9,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-04-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTk4Nzc4MzktNGEyMi00NzkxLWI5NzQtZTg0MDllYzQxMDRmXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ Dünyanin Sonu",
+      "season": 1,
+      "episode": 10,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-04-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ2OGNiNTQtMjMwYi00ZTlhLTk2NTEtZmZiYTE2ZGQwNmUyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E11 ∙ Canta",
+      "season": 1,
+      "episode": 11,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-04-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzY0YTQ5ODEtNDhiYi00NTBmLWExOGYtZjg3MjM5Y2ZmZDU0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E12 ∙ Cesek",
+      "season": 1,
+      "episode": 12,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-05-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThjODM0YTctZWRhZi00YWJlLWI1YWEtNWJkYjVjMWZhMzA5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E13 ∙ Fake to the Future",
+      "season": 1,
+      "episode": 13,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-05-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVhYjZlMjItMGExZC00NjQ0LTk4NjktZmFhMGVjY2ZkOWNjXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E14 ∙ Evler",
+      "season": 1,
+      "episode": 14,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-05-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTU5YjMxMTgtMWNhNi00YTBiLTkyOTItZGFiN2RlNzBiYTVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E15 ∙ Arda'nin Dügünü",
+      "season": 1,
+      "episode": 15,
+      "description": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+      "date": "2011-05-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYyMGQ4MDgtN2I1My00MzI5LWJhZmUtNDVjOWZmNWQ3MTcxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E16 ∙ Clone Wars",
+      "season": 1,
+      "episode": 16,
+      "description": "Arda's father works with a crazy professor. Together, they start cloning people.",
+      "date": "2011-06-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWRlMjY4OWUtYTAwNC00YzI0LTg4ZjktMDlmZjVlMzNiOTAyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E17 ∙ Bu Kiza Kadar",
+      "season": 1,
+      "episode": 17,
+      "description": "Ismail meets a woman and he fells in love. He doesn't know what to do in this situation so he wants help from his friends.",
+      "date": "2011-06-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThiMmIxOWItZjlmNi00Nzk5LTkxZGYtYThiNGFiMTg0N2ViXkEyXkFqcGdeQXVyMTUwNjIxNjM3.jpg"
+    },
+    {
+      "title": "S1.E18 ∙ Arda Kalan",
+      "season": 1,
+      "episode": 18,
+      "description": "Iskender founds his own mafia, \"Godfather\" style. Set on spoiling the peace, Arda's father sends Kamil to wreak havoc in the neighborhood.",
+      "date": "2011-06-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDMwY2UzYmQtNjNkZC00YjM5LWFmZWItM2FkY2RkNDc5YmFkXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E19 ∙ Benjamin",
+      "season": 1,
+      "episode": 19,
+      "description": "Benjamin creates chaos in the neighborhood and separates Leyla and Mecun, but his vendetta is directed against the white-bearded grandpa.",
+      "date": "2011-06-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc1NjEyMTMtMDExOS00NjQyLTgyOTEtMmY3MzZmOWQ3Y2JiXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "S1.E20 ∙ Hoscakal",
+      "season": 1,
+      "episode": 20,
+      "description": "Leyla decides to go to United States and Mecnun can't make her change her decision.",
+      "date": "2011-07-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmExY2JmZWUtODMzYy00MDQ4LWJmMmMtZTE2MGY0OGMyYWRlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Ramadan Is Coming",
+      "season": 2,
+      "episode": 1,
+      "description": "Leyla is in U.S.A. Mecnun is so depressed about this and he wants to bring her back with Dede's help.",
+      "date": "2011-08-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjA1MjdiMzYtM2MzMi00YzhhLWE0ZGUtMGQzMDRkZGJjMzdiXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Yozgat",
+      "season": 2,
+      "episode": 2,
+      "description": "Aksakalli Dede is lost. Mecnun wants to find him. He discovers that Leyla is kidnapped. Benjamin makes Mecnun see weird dreams.",
+      "date": "2011-08-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGVmYzg5NWYtY2QzZS00OThiLTg4NjQtOTEyNDczM2E1YmM2XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Mecnun",
+      "season": 2,
+      "episode": 3,
+      "description": "Leyla is kidnapped and Mecnun wants to save her. He learns everything was just a game. When he learns everyone was in the game, Mecnun shoots himself in the head.",
+      "date": "2011-08-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2IyN2Q5MjctYTMyMi00NWRlLTk1ZTQtZWZiMWY3MWVjNjgwXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Beyin",
+      "season": 2,
+      "episode": 4,
+      "description": "Mecnun is in coma. The crew enter Mecnun's subconscious in order to save him.",
+      "date": "2011-08-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJjNmZkYTktMmRmYy00MjQ5LTg5YWItYTBmZTAxYjE2NWZlXkEyXkFqcGdeQXVyNDg0NjMwNDY@.jpg"
+    },
+    {
+      "title": "Nurten'in Yegeni",
+      "season": 2,
+      "episode": 5,
+      "description": "Mecnun suddenly decides to marry Nurten's niece. Everyone is shocked by this decision.",
+      "date": "2011-09-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGY0ZWY3M2QtYzQxZC00YWU2LTlkYjgtNTEyYTE1NmU4YjVlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Evlenme",
+      "season": 2,
+      "episode": 6,
+      "description": "Mecnun suddenly changes his mind. He doesn't want to marry Nurten's niece anymore but brothers of the bride force him for marriage.",
+      "date": "2011-09-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWY3YjNhNjgtN2U5Zi00MGZjLWE1MmQtZTk2MTYxMjJhMzY5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Uzay",
+      "season": 2,
+      "episode": 7,
+      "description": "Aliens, who have no feelings, come to the earth to investigate about love. When they see the love between Leyla and Mecnun, they decide to kidnap them.",
+      "date": "2011-09-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU2Y2IxOWQtZWFlMS00MmE2LWJjYzQtMWE2MmQ3N2I0MmZlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Baz Istasyonu",
+      "season": 2,
+      "episode": 8,
+      "description": "The cell site, which Erdal has gotten, causes a big complication in the galactic system. Planets changes their places and because of that some changes happen in the world. Everyone has different personality except Leyla, Mecnun and Ismail.",
+      "date": "2011-09-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ5ZWJjNzMtMmQ1ZC00MTVmLWFlMTAtMzgwYzZhZjc5ZjBmXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Illuzyon Nasil Ki Bir Goz Yanilmasiysa, Ask da Bir Gonul Yanilmasidir",
+      "season": 2,
+      "episode": 9,
+      "description": "Leyla eavesdrops a conversation of Mecnun and assumes that Mecnun doesn't want to be with her anymore.",
+      "date": "2011-10-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjNlOWNiYTMtYWY5Zi00OTdmLTkyODItMTE1ZWIzYTYyMTc1XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kimi Vedalarda Hoscakal Denilmez!",
+      "season": 2,
+      "episode": 10,
+      "description": "Zeynep abandons the neighborhood and moves to a different city. Leyla has a big traffic accident.",
+      "date": "2011-10-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmNjNGNhNzAtMzM0Yy00ZDdiLTkwYjQtYjg1NWRiYTM3MmY3XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Hayat, Damarlarindan Tutup Zorla Icine Ceker Insani",
+      "season": 2,
+      "episode": 11,
+      "description": "Mecnun speaks for the first time, one year after Leyla's death. He still can't accept the truth so he travels through time with Dede in order to save her.",
+      "date": "2011-11-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDg3ZTFhMDEtMzJhMS00MWQ1LThkOGItZmFiMzQwNGI4MGVhXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Sari Biyik",
+      "season": 2,
+      "episode": 12,
+      "description": "Leyla's organs were donated by her family. Arda's father kidnaps all the people who has Leyla's organs. He wants to create a Leyla for Arda. Mecnun meets Sedef and Sirin.",
+      "date": "2011-11-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2U2OGM4NTktN2RiMy00MmM4LWExYmQtYmY4M2RhMDFhYzE3XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Gercek Kesik",
+      "season": 2,
+      "episode": 13,
+      "description": "Ismail sells his organs for money. Mecnun seeks the person who has Leyla's heart. Erdal Bakkal is kidnapped.",
+      "date": "2011-11-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI4YjkwNGUtZGQxNi00ZmQ2LTgyMjktMzdlMjhjY2M1MjdiXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Leyla'nin sesi",
+      "season": 2,
+      "episode": 14,
+      "description": "Mecnun gets close with Sedef and Sirin. Iskender, Ismail and Yavuz start working in Erdal Bakkal as pupils.",
+      "date": "2011-11-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzMxYzAwOTAtN2ViYy00YWI1LWJhMGMtZmI5NzBlZDdiOTdlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Hayal Kirikliklari Muzesi",
+      "season": 2,
+      "episode": 15,
+      "description": "Mecnun is about to marry Sirin. There are two different Dede. Everyone has a big disappointment.",
+      "date": "2011-12-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWU0YzJiNTgtMWMwNC00NjBhLWFlNjUtZTMyYmYwZTE2ZjJkXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Askin Formulu",
+      "season": 2,
+      "episode": 16,
+      "description": "There are six unsolved math problems in the world. There is one million dollar reward for each problem. Everyone tries to solve these problems. Mecnun also tries to find the formula of love.",
+      "date": "2011-11-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZlN2QzYTQtNmZkMy00YjdiLWIwOGUtMzlhZTJlMmIyNmJhXkEyXkFqcGdeQXVyOTQ2MjQ3MTI@.jpg"
+    },
+    {
+      "title": "Marduk",
+      "season": 2,
+      "episode": 17,
+      "description": "A big meteor, which name is Marduk, is about collide with the world. The Maya calendar reaches its last date. Everyone assumes that this is the end of the world. Mecnun and his friends try to stop the world from ending.",
+      "date": "2011-12-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTAyNjk1OWMtY2Q0OC00YTI0LTk5ZmEtZWJmMzI5Nzc0ZTgxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Sir",
+      "season": 2,
+      "episode": 18,
+      "description": "Mecnun finds the truth about Sedef's father. Sirin sees Aksakalli Dede in her dream and she wants to find out if Aksakalli Dede is real.",
+      "date": "2011-12-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM4YjZhNDgtY2RiYi00ZDYyLWExMDktOGExMmM0MWU0MTkyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Hosgeldin 2013",
+      "season": 2,
+      "episode": 19,
+      "description": "Mecnun seeks to find the flower of fairy tales. There is a big new year party at Mecnun's house.",
+      "date": "2011-12-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDY2ZTEzZWEtMDUwMy00MjJkLWIwNDMtNmM0ZDIwNWFlMmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Masal Cicegi",
+      "season": 2,
+      "episode": 20,
+      "description": "Mecnun loves Sirin and Sedef loves Mecnun. No one knows what to do about this situation.",
+      "date": "2012-01-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTU0MzgyN2QtODNjZS00ZDAzLWI4OGUtNzU1YTdiOTAyMjQ3XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Yavuz Nasil Kurtulur?",
+      "season": 2,
+      "episode": 21,
+      "description": "Yavuz gets caught during a robbery and goes to jail. The crew make a plan to save him from the jail.",
+      "date": "2012-01-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzNjMDcyMWEtNGQ3ZS00ZTNjLTk1N2EtM2JkM2M2YzM0NDZjXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Okul Yolunda",
+      "season": 2,
+      "episode": 22,
+      "description": "Sedef tells Mecnun that she loves him. Erdal tells the story of how he met Nurten.",
+      "date": "2012-01-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTA0NTNmODEtMGY3ZC00M2JlLThlZjQtNmY3YzRmYmM1YTZhXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Ismail Abi",
+      "season": 2,
+      "episode": 23,
+      "description": "Mecnun and Ismail have an argument. Ismail feels sorry and abandons the neighborhood. No one can find Ismail.",
+      "date": "2012-01-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2U0YjJlMTctZWQwOS00MTg1LTgyYzMtZjRjZTQ4ZDUyZmQxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Mecnun'luk Istidadi",
+      "season": 2,
+      "episode": 24,
+      "description": "The flower of fairy tales dries. Mecnun tries to save it.",
+      "date": "2012-02-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRlMGVkOWYtMTZiMS00ZTM5LWFiODktZDI0ODdhMzM2NTc5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Talih Kusu",
+      "season": 2,
+      "episode": 25,
+      "description": "Iskender goes to jail. Everyone is frustrated about this situation. The crew make a plan to rescue Iskender while he is threatened in the jail.",
+      "date": "2012-02-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGJjZTg2OGEtZDJjMy00MWE1LWI2OWYtZTY4MDVjZDYxNDU5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Made in Metonya",
+      "season": 2,
+      "episode": 26,
+      "description": "Mecnun learns that Sedef's old name was Leyla. Yavuz falls in love. Metin has founded a state, which is called Metonya. He gives a big reward for people who want to be a citizen of his country. Erdal goes to Metonya.",
+      "date": "2012-01-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgwMjU5YzMtZTA3ZC00ZjBkLWE2NWEtNGJjN2JmMGE1OTEwXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Ardadan",
+      "season": 2,
+      "episode": 27,
+      "description": "Mecnun still can't forget Leyla. Arda's father founds a new company called Ardadan. He wants to sell people all the products of the company.",
+      "date": "2012-02-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY5Y2E4ZTEtZGMwZi00ZmJjLWE4ZWUtMGFjZjI2MGUwN2VlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Tarihler Arasi Yolculuk",
+      "season": 2,
+      "episode": 28,
+      "description": "Mecnun finds a supernatural door in Metonya. When he passes through the door, he travels through time. He goes to a different year, each time he passes the door.",
+      "date": "2012-03-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODFiZWNhNTEtY2NhOC00OWQwLTlkMzUtYjQ2MmM2MTdhYTgzXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Maske",
+      "season": 2,
+      "episode": 29,
+      "description": "Sedef meets a new guy. The guy helps everybody and everyone loves him. Mecnun is jealous for Sedef.",
+      "date": "2012-03-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk3MDRjMmMtZDU1ZS00MzM3LWE0MDgtY2RhN2VmZmM0ZGIyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Who I am?",
+      "season": 2,
+      "episode": 30,
+      "description": "Mecnun tries to know himself better. Yavuz learns that Eylul doesn't love him.",
+      "date": "2012-03-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJmZWYxMjQtYmMwNS00ZDdiLWEwM2UtM2M3OGFlODk3ZDM5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Metaforya",
+      "season": 2,
+      "episode": 31,
+      "description": "Sevim is kidnapped by the king of Metaforya. Metin wants to save his wife with the crew's help.",
+      "date": "2012-03-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTMzNjkwNDQtZTM2ZS00YzAzLWI5NWQtMjg1Y2M2YzNiNDE0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Paralel Evren",
+      "season": 2,
+      "episode": 32,
+      "description": "Somehow, Mecnun travels through parallel universes. He sees a different life of himself in each one.",
+      "date": "2012-04-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTFkZTM0OGMtM2EwMy00MTk1LTkxOWYtNmYxNDI4MDI2YzMxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Baba Olmak",
+      "season": 2,
+      "episode": 33,
+      "description": "Nurten is pregnant. Erdal has fears about being a father.",
+      "date": "2012-04-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjNjYmJjNGMtYzJjOS00NThmLTgxNTctMTI3NGUwMzNhNDQwXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Drakulluk Edene Yaziklar Olsun",
+      "season": 2,
+      "episode": 34,
+      "description": "Dracula comes to Kirecburnu. Everyone turns into a vampire but Mecnun and Iskender. Mecnun wants to end this madness.",
+      "date": "2012-04-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmE5YzU1OTEtMzQ3OS00YTdiLWEyMWQtOGM0ODYwMzk1NGRlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Hayalet Avcilari",
+      "season": 2,
+      "episode": 35,
+      "description": "There are some ghosts in the neighborhood. The crew tries to hunt them. Mecnun has to make a decision between Sedef and Sirin.",
+      "date": "2012-04-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDdmNGZkYmYtNGQ4MC00ZDFlLWJkOGEtYTI4ZDVjZWExYzcyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Mecnun Harikalar Diyarinda",
+      "season": 2,
+      "episode": 36,
+      "description": "Everyone turns into a character from different fairy tales. Mecnun wants to find his princess.",
+      "date": "2012-04-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMzMGU5NzEtNzU4Zi00NDIxLWIyOGQtOTA4MWI4YjJiODliXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Bela",
+      "season": 2,
+      "episode": 37,
+      "description": "There are a lot of problems the crew needs to deal.",
+      "date": "2012-05-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFhNDc2NTUtMjY2NS00NWQyLThjZGYtMmUyN2NmZTBhOGIxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Ama Babacigim",
+      "season": 2,
+      "episode": 38,
+      "description": "Eylul's father is about to die but Eylul doesn't believe him. She thinks that he lies like always. Yavuz, Mecnun, Ismail and Iskender start working at the house of Eylul's father.",
+      "date": "2012-05-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDU2YzU0NDUtOGI0OS00MGI3LTg3MjctNzc0MzMzYmVjODNhXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Niyetci",
+      "season": 2,
+      "episode": 39,
+      "description": "Sirin wants to be with Mecnun again. She and Arda's father have some bad plans. They decide to use Ismail for their plans and give him a new job.",
+      "date": "2012-05-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZjMTVkNDctNDk0NC00OTAxLTk5ZmUtZDgwNDU0MmE1Mzg3XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Karabasan",
+      "season": 2,
+      "episode": 40,
+      "description": "Arda's father steals Aksakalli Dede's wand. He wants to make people live in a world of nightmares. The crew tries to get the wand back.",
+      "date": "2012-05-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2I5ZjM5ZGQtNTg0Yy00YTVkLTg2MDctMTNkYmUwYWQwZGM3XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Dagilis",
+      "season": 2,
+      "episode": 41,
+      "description": "Sedef, Sirin and Eylul abandons the neighborhood. Everyone is so desperate about their relationships.",
+      "date": "2012-06-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU5OTRjMzYtNTVjMC00YjFkLTkxZmUtZmE2YjI1NTEzYmMyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Donus",
+      "season": 3,
+      "episode": 1,
+      "description": "The crew come back to Kirecburnu. Things have changed in their absence. They want to make everything like they used to be.",
+      "date": "2012-09-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2EyYzUxNDUtMGQ3ZS00NGQyLTk2ZDQtMDNmN2ZjODQ1ZTg0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Yeni Hayat",
+      "season": 3,
+      "episode": 2,
+      "description": "Mecnun decides to make big changes in his life. He wants to get a job and earn money.",
+      "date": "2012-09-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc5N2IzMDUtZmM2My00NmM3LTkyYjQtMTA5NTI4YTU1NjVhXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kabullenis",
+      "season": 3,
+      "episode": 3,
+      "description": "Mecnun starts working in Omer's store. He meets Hidayet.",
+      "date": "2012-09-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjE1YTRlYWUtZGRjZS00YWVmLWFkYmItODYzOGE2OWUxMTdhXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Seviyorum Be Abi!",
+      "season": 3,
+      "episode": 4,
+      "description": "Mecnun is in depression because he thinks that Leyla loves someone else. Erdal Bakkal is angry because no one goes to his store anymore.",
+      "date": "2012-09-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk4Y2VkNzUtOTMzMy00Mjg5LWE1ZGEtOTQ0YmY1M2IyZmQ4XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Hukuk",
+      "season": 3,
+      "episode": 5,
+      "description": "Hidayet is in jail. Mecnun wants to save him in order to impress Leyla.",
+      "date": "2012-09-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzhlNzk4MmUtMTlmNy00YWIyLWJhOWUtNTM1YjQ3N2Y3Yjc2XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Vay Be",
+      "season": 3,
+      "episode": 6,
+      "description": "Mecnun tries to get close with Leyla but he fails every time. Erdal Bakkal buys a car.",
+      "date": "2012-10-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDIxODA3NmUtNDFlMy00YmRhLTk2MjQtYzQwNWZjMTdjNGFlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Her Giden Biraz Degisir",
+      "season": 3,
+      "episode": 7,
+      "description": "Pakize comes back from Germany. No one recognizes her but Iskender.",
+      "date": "2012-10-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjBlYmZhYWMtOTJkOS00NTEzLTg5ZjgtZDhlOThiZTgxZGI1XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Is Adami",
+      "season": 3,
+      "episode": 8,
+      "description": "There are some misunderstandings in the neighborhood. Ismail Abi finds a new job.",
+      "date": "2012-10-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWZjNTgwMWMtZjZiMy00NGVkLWFmZjMtNjMwZjljODdkOGI1XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kelepce",
+      "season": 3,
+      "episode": 9,
+      "description": "Leyla is sick of the troubles that Mecnun causes. She goes to court for this situation and Mecnun gets a punishment. He has to wear an electronic handcuff which gives him a shock if he is around Leyla.",
+      "date": "2012-10-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTE2M2Q1NTItNTg1YS00NzlkLTkzNDAtODk5OTAzOGU3MDJhXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Vicdan",
+      "season": 3,
+      "episode": 10,
+      "description": "There is a voice that can be heard from all around the world and scientists think it comes from Istanbul. Scientists go to Istanbul in order to find out the source of the voice.",
+      "date": "2012-11-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y4ZDkwZjQtNjM4Ni00ZDMwLTg1YmUtNTA1NjdiYjI1MGYwXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Zaman",
+      "season": 3,
+      "episode": 11,
+      "description": "Mecnun wants to know Leyla better so, he travels through time in order to see her past.",
+      "date": "2012-11-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk3YTQ0YmEtODQ4My00NWY5LThmZmYtZTEwZGJkZDUyMmRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Dilek Tasi",
+      "season": 3,
+      "episode": 12,
+      "description": "Azsakalli Dede is about to die. The crew want to find his family but they find something else. They find a map in a wooden box which shows the place of a wish-stone.",
+      "date": "2012-11-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWViOWQ4NjEtZWM4My00NzQxLTkwYmUtYWVjOTJmNjllNzIwXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Mecnun ve Is",
+      "season": 3,
+      "episode": 13,
+      "description": "Mecnun and Ismail Abi find a new job. Yavuz meets a new thief.",
+      "date": "2012-11-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzYyZGJkZjctMzVhMy00NGQwLWE1MWUtMTI3Zjk4M2I1NDQyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Rusya",
+      "season": 3,
+      "episode": 14,
+      "description": "Mecnun and Leyla are engaged but Benjamin and Hidayet have another plan.",
+      "date": "2012-12-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRkZTE4ODAtMDc1MS00NDExLWJmZjUtYzhlMGEwMmM5NzNiXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Arabesk",
+      "season": 3,
+      "episode": 15,
+      "description": "Arabesque is forbidden in the country. Benjamin and Arda's father produce a new drug and start selling it to people. This drug makes people believe in memories that never happened and give them a fake happiness.",
+      "date": "2012-12-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZjMGJmYmUtMDYyNS00ZWM4LWFjNTUtMDc5MjRjOWIyNTBmXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Zengin Sinif",
+      "season": 3,
+      "episode": 16,
+      "description": "Leyla and Mecnun start spending time with rich people while Yavuz is getting close with the new thief.",
+      "date": "2012-11-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ4ODcwYjUtOTc0Mi00MGM0LWIyMzEtNzQxOWYxNGVmMzlkXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Orhanlar",
+      "season": 3,
+      "episode": 17,
+      "description": "Leyla's company is about to bankrupt. They decide to organize a concert of Orhan Gencebay and hope to make a lot of money with this concert.",
+      "date": "2012-12-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTkxODYzMzAtMzFlYS00MzVhLWI2ZjUtNDZmMDc1ZDYyNDIwXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kirecburnu Cakallari",
+      "season": 3,
+      "episode": 18,
+      "description": "Erdal Bakkal creates a website for his store. The crew want to find money for Leyla's company.",
+      "date": "2012-12-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVmMGFkNWEtYTE2MS00YjA5LWJmYTMtZjJjOTA2Y2JhMWY5XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Gecmis",
+      "season": 3,
+      "episode": 19,
+      "description": "Erdal Bakkal has weird nightmares. Iskender and Omer are threatened by their past. Mecnun hears voices in his head.",
+      "date": "2013-01-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDA3MzM4MjYtMjUyZS00OTg0LThmMGItMTVkY2Y2MjQ2ZDk2XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Market",
+      "season": 3,
+      "episode": 20,
+      "description": "There is a big hurricane that is coming to Istanbul.",
+      "date": "2013-01-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTIzMjljNzQtNDU5My00YTcxLTg2MmEtMDdkMGQwYzdjYzcyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Ayrilik Korkusu",
+      "season": 3,
+      "episode": 21,
+      "description": "Leyla and Mecnun have nightmares for breaking up with each other. Yavuz discovers something about his past.",
+      "date": "2013-01-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg5YmYzZmUtNjk3OC00ZjZhLWFkMWItMmYwNGU2ZmE0YjljXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Efsaneler",
+      "season": 3,
+      "episode": 22,
+      "description": "Hidayet kidnaps Leyla to a magical place where it can be traveled both to a place and through time by mirrors. Mecnun thinks he can save her with the mirror of King Arthur and he starts searching it.",
+      "date": "2013-01-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Y0ZjZhMTYtNTBjOS00OTU5LWFjNGYtNWUyOWQxNzRjNmYxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Ölüm",
+      "season": 3,
+      "episode": 23,
+      "description": "The Death comes to Kirecburnu and he wants to take someone's life before he leaves. The crew have to choose who will die.",
+      "date": "2013-02-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2YzMTRkYmEtMDViNC00MDE5LWJjOGUtNWIyZjA5ZWQ0NzI0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Nigde",
+      "season": 3,
+      "episode": 24,
+      "description": "Leyla and Omer move to Nigde. Mecnun wants to find her address but he can't. Finally, he decides to make spiritual journey in order to find her.",
+      "date": "2013-02-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODM4YTBiOWUtZjdjMS00YjY5LThkYTUtMDlmYmVmNDhkY2Y1XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Melül'ün Yolu",
+      "season": 3,
+      "episode": 25,
+      "description": "Melul suddenly dies and everyone thinks that this is a murder. The crew try to find the murderer.",
+      "date": "2013-02-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY5MjlkYjEtMWJiYy00YmUyLWIzMjAtODY4ZjMyYTZmZmM1XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "I. Metonya meydan muharebesi",
+      "season": 3,
+      "episode": 26,
+      "description": "Metin stays in Iskender's house and he makes problems for everyone. He doesn't let anyone sleep in the nights and he drinks a lot. Iskender wants to get Metonya back in order to get rid of Metin.",
+      "date": "2013-02-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRlYjBhZDQtMmY4Zi00MDU5LTg5ZDMtMmYzY2JkMGM0NDkxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Yavuz'un Vedasi",
+      "season": 3,
+      "episode": 27,
+      "description": "Yavuz gets shot by an arrow. He is in coma. The crew look for someone who can save him.",
+      "date": "2013-03-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZhOTQ4MWUtOTA5YS00ODViLTlmN2ItNWFhZDJjZGRkY2ViXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Dosto Asik Olursa",
+      "season": 3,
+      "episode": 28,
+      "description": "Dosto goes out every night. He doesn't write anymore. He meets a woman in a pub and feels in love. The tree on Omer's head grows.",
+      "date": "2013-03-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUzMjc5OWYtODUyYS00OWJmLTlhMTQtMjgzNmZjMzU2NWEyXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Yoklugunda",
+      "season": 3,
+      "episode": 29,
+      "description": "Mecnun forgets Leyla's birthday. He wants to find a meaningful present for his apology.",
+      "date": "2013-03-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWViNTkyN2EtN2RiNi00NzQ4LWFiYzYtNzViM2I2MjIxYWYyXkEyXkFqcGdeQXVyNDg0NjMwNDY@.jpg"
+    },
+    {
+      "title": "Makine",
+      "season": 3,
+      "episode": 30,
+      "description": "Erdal Bakkal finds a machine under his house. This machine says that the end of the world is coming and the crew only have twenty four hours to stop it.",
+      "date": "2013-03-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQwODBhN2ItYjY3Ny00MjdkLWE4YTgtYzMwZjgyODc1NjcxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Gelecek",
+      "season": 3,
+      "episode": 31,
+      "description": "Leyla and Mecnun find themselves in 4000 after the machine explodes. The crew travel to future in order to find them but they go to wrong year. They are in 3000. In both years, there is a man called the shadow who controls the world.",
+      "date": "2013-03-31T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdjNDE5MTctMDgwNC00OTFlLWIxODYtNmExOGVhOTJmOGZlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Anne",
+      "season": 3,
+      "episode": 32,
+      "description": "Iskender has a heart attack. Mecnun starts driving taxi instead of his dad. He meets a mysterious old woman.",
+      "date": "2013-04-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM4Y2Y2OWItYzQ2ZS00NWU5LTgwNzktZGZiOWFhMTVjYzg0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Sans",
+      "season": 3,
+      "episode": 33,
+      "description": "Hidayet's mother and Hidayet start living together. There is a girl in the neighborhood and she doesn't speak at all. She just smiles and brings luck to person she is smiling to.",
+      "date": "2013-04-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM4ODRlYzQtNTY4My00ZDEzLWE4MjUtZTZlN2IzMTc2MTgxXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Fedakarlik",
+      "season": 3,
+      "episode": 34,
+      "description": "Iskender loses his house because of his debts. They can't find anywhere to stay so they go to a park. Erdal Bakkal steals Dosto's laptop. Hidayet's mother try to know Leyla better.",
+      "date": "2013-04-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTJlNWRkZTMtNjRjNy00YTQyLTllZGItMDBlODBjNjQwMDg3XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Seviyorsan Üzme, Sevmiyorsan Oynama",
+      "season": 3,
+      "episode": 35,
+      "description": "Erdal, Yavuz and Metin are in madhouse. They escape from there and start rebellion against sanity and its supporters. Leyla finds a job but she gets fired because of Mecnun. Iskender is sick and tired of troubles Mecnun makes for Leyla.",
+      "date": "2013-04-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZhZDE2NjktNzRkZS00YzVhLTkxZTYtNTFlMzU2MmEyYmMzXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kill Bilal",
+      "season": 3,
+      "episode": 36,
+      "description": "Mecnun breaks up with Leyla and he wants to find a new girlfriend in order to forget her. Erdal Bakkal continues his rebellion against sanity. Hidayet's mother chases a man called Bilal.",
+      "date": "2013-05-05T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjY1ZTBiMjYtOGZhYS00MDg2LWFmN2EtZTY3YmIxYmNiMjBjXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Tom Waits",
+      "season": 3,
+      "episode": 37,
+      "description": "Hidayet is in coma. The doctor tries everything to save him. Leyla makes a big deal with a company. If she can organize a concert of Tom Waits, she will get lots of money and this means she can save her own company.",
+      "date": "2013-05-12T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWY5Y2JjZWYtNGQ1MS00MjIwLWJiMjQtNTBmNzM2Y2Q3ZTZlXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kahramanlik",
+      "season": 3,
+      "episode": 38,
+      "description": "Mecnun thinks that Leyla woos Hidayet because everyone believes Hidayet is a hero. Mecnun wants to prove that he is hero too and he saved the world before. Arda's father has some bad plans to take control of the world.",
+      "date": "2013-05-19T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQ2NTk5MzQtYTM2MS00NWJlLThhZGItZDM2NjAzOThlM2Y2XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Kireçburnu'nun 100. Kurtulus Yili",
+      "season": 3,
+      "episode": 39,
+      "description": "Hidayet is in coma again. The doctor needs papers from a century ago to heal Hidayet. Menun travels back in time in order to get these papers from the doctor's grandfather before he destroys them.",
+      "date": "2013-05-26T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDNiZTI4MjEtNDg0OC00ZDc4LThjMGYtZTQyNmY5ZmQ1M2YzXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Para Kazanmak",
+      "season": 3,
+      "episode": 40,
+      "description": "Mecnun thinks that nobody respects him. He talks about this situation with Metin and he decides to get a job and listen Metin's advice. Suna is chased by her past.",
+      "date": "2013-06-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ3NmQ4ZDctMjViZC00MmUyLTg3MmItNzBmYjk2NDY4ZTlmXkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Falci",
+      "season": 3,
+      "episode": 41,
+      "description": "Leyla and Mecnun have some concerns about the future of their relationship. They want to know if they will still be together in the future. They travel to future separately to find the answer. Leyla is shocked by what she saw.",
+      "date": "2013-06-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGEwOTJiMTctZjI5Yy00YTEzLWJhMzMtNmUyODUxMjdmODk1XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Giden Döner mi?",
+      "season": 3,
+      "episode": 42,
+      "description": "Mecnun and Leyla Yedinci decide to go to another place to make a new start. Yavuz and Eylul are getting married. Gotik Leyla meets someone. A surprise is on the way for Erdal Bakkal.",
+      "date": "2013-06-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGY3ODYzYWEtMTQ5OC00Y2YwLWFlNWYtNGNlMTU1OWU4Zjk0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Bir Hikayeyi Sonlandirmak, Bir Hikayeyi Baslatmaktan Daha Zordur",
+      "season": 3,
+      "episode": 43,
+      "description": "We take a look at the times right after Leyla's death. Mecnun doesn't speak at all. Yavuz tries to hold on to life in the jail. Erdal Bakkal makes plans for a short vacation with his family.",
+      "date": "2014-01-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmNiMTA0M2QtMDAyZC00MmUxLThmN2EtMWU2ZTYxODY2Njc0XkEyXkFqcGdeQXVyNDQ2MTMzODA@.jpg"
+    },
+    {
+      "title": "Yeniden",
+      "season": 4,
+      "episode": 1,
+      "description": "Iskender takes Mecnun who has been unconscious for 8 years to the hospital. Just before the diagnosis, White Bearded Grandpa shows up to aid Mecnun.",
+      "date": "2021-09-02T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTYwNGM4YzQtNTUzYS00NTEzLThkNDktNjhiMzRlZjVhNzEwXkEyXkFqcGdeQXVyMjM2MDA2NDg@.jpg"
+    },
+    {
+      "title": "Unutulan Bir Daha Hatirlanmaz",
+      "season": 4,
+      "episode": 2,
+      "description": "After Leyla and Mecnun meet, Mecnun opens his eyes in a new desert; The White Room. Now he has one target ahead. He is going to stop Berk from marrying his fiance Leyla and keep their (Mecnun and Iskender's) house for themselves.",
+      "date": "2021-09-09T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmM2ZWRmODMtNGYzYy00MzRlLTg1OTYtOGQ0YmIxNzgzNjQ4XkEyXkFqcGdeQXVyNjE3ODc2NjQ@.jpg"
+    },
+    {
+      "title": "Tarihin Arka Kapisi",
+      "season": 4,
+      "episode": 3,
+      "description": "Breaking the unique Chinese vase, which has only 17 more of them, Mecnun now will go to China in 16th century to find and bring one.",
+      "date": "2021-09-16T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNhMmY3OTgtMThlYy00ODgzLTg2NjUtNWEyNGJjYTYwYTA5XkEyXkFqcGdeQXVyNzMyNzQyNDU@.jpg"
+    },
+    {
+      "title": "Gonul Isleri",
+      "season": 4,
+      "episode": 4,
+      "description": "Leyla got the house from Mecnun and now Mecnun, Iskender and White Beard Grandpa start living in a tent. Mecnun goes through a dilemma and something unexpected happens.",
+      "date": "2021-09-23T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTA1YzQwNGYtZTQxMy00OGE5LWE4NTctMjdiY2Q0ODU0M2Q3XkEyXkFqcGdeQXVyNzMyNzQyNDU@.jpg"
+    },
+    {
+      "title": "Kotuluk Yolu",
+      "season": 4,
+      "episode": 5,
+      "description": "Leyla in the White Room is kidnapped by Incubus. Leyla on Earth gets Mecnun's tent demolished. Mecnun, accompanied by a big gang, heads for the source of the evil.",
+      "date": "2021-09-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRkY2E3YmEtNTZkOS00ZTQyLTgzMGEtNDQ0YWRhNTNjNjNmXkEyXkFqcGdeQXVyMTM5NDk4OTAx.jpg"
+    },
+    {
+      "title": "Deliler",
+      "season": 4,
+      "episode": 6,
+      "description": "Mecnun helps Leyla organize an exhibition at the mental hospital. Iskender, Erdal and Yavuz also fell into a mental hospital for various reasons; the team gathers in the mental hospital.",
+      "date": "2021-10-07T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzY5ZTVmY2YtNjgwNi00ZDA0LTg2NmYtOGI5MGQ2YmYyZWYzXkEyXkFqcGdeQXVyNjE3ODc2NjQ@.jpg"
+    },
+    {
+      "title": "Yalan Dolan",
+      "season": 4,
+      "episode": 7,
+      "description": "While trying to learn about Leyla past, Mecnun is trapped by Leyla and finds himself in a situation he does not want.",
+      "date": "2021-10-14T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZkZWMzZTEtZWI1ZS00NWZjLTk2ZmUtZGM1MjZlNGJmZDczXkEyXkFqcGdeQXVyNjE3ODc2NjQ@.jpg"
+    },
+    {
+      "title": "Her Insan Bir Alemdir",
+      "season": 4,
+      "episode": 8,
+      "description": "The team embarks on an adventure together to bring out the good in Leyla. Thanks to Kaan, Erdal gets success and money, but this time Iskender steps in.",
+      "date": "2021-10-21T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc0ZDZlMDgtZDBkMC00YzEzLThiZDQtYjY3OGIxYjg4MTZmXkEyXkFqcGdeQXVyNjE3ODc2NjQ@.jpg"
+    },
+    {
+      "title": "Enerji",
+      "season": 4,
+      "episode": 9,
+      "description": "After Leyla was rescued, her good and bad sides were separated. With this encounter, Maraz is born and disrupts the order of the world. While Mecnun is in love with Good Leyla, Bad Leyla makes everyone's life miserable.",
+      "date": "2021-10-28T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjllN2JiOWEtZWIzMy00OWE5LWJjNDktMmZhOTg1MzUwYTQxXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Yeni Baslangiclar?",
+      "season": 4,
+      "episode": 10,
+      "description": "Just as Mecnun was hopeful that he would have a future with Leyla but he learned that he had decided to marry Berk. He tries to prevent this marriage.",
+      "date": "2021-11-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODUzODg2NjctMzk4Yy00YjkwLTkwMDktNzBiNmQzZThmZDE4XkEyXkFqcGdeQXVyNjE3ODc2NjQ@.jpg"
+    }
+  ]
+}

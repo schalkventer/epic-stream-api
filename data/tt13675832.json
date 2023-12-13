@@ -1,0 +1,261 @@
+{
+  "seasons": 5,
+  "episodes": [
+    {
+      "title": "Kokariç",
+      "season": 1,
+      "episode": 1,
+      "description": "Nobody has to trade if they don't want to. A person is a person if he does not feel obliged to open a kokorec shop. There cannot be such an obligation.",
+      "date": "2020-12-31T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZlMjdjY2QtNTg4Yi00MGQ3LTliZTUtZTc0Nzg5YjE5ZWIxXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Vatka",
+      "season": 1,
+      "episode": 2,
+      "description": "A movie from the 80s drags the group into a fashion debate crisis, and it pushes Yilmaz to stand behind his own opinion.",
+      "date": "2021-01-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmJlNTU2NGYtMjNmMi00NzczLTkwZWYtZWI4MDRkMjcyOGQ0XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Nü Model",
+      "season": 1,
+      "episode": 3,
+      "description": "The naked story of the old Abidin who confronts his entire family.",
+      "date": "2021-01-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQwMDE1ZmItOWQ5ZC00MWE4LWE1ZjgtMzkyYzdhODg2NDNiXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Erasmus'la Gelen Yamyam",
+      "season": 1,
+      "episode": 4,
+      "description": "Ersoy's grandmother dies due to an unfortunate situation, the group stands by Ersoy to support him emotionally.",
+      "date": "2021-01-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGExOTMwYzctMjY5My00NjA5LWIwNzYtMTM3OGJlMzNhNDY5XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Yanlis Mentor",
+      "season": 1,
+      "episode": 5,
+      "description": "An old and wise man saves Yilmaz from a dangerous situation, Yilmaz realises there there can be lot to learn from him and makes him his mentor.",
+      "date": "2021-02-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViMDllNmEtYjc0OC00NzUxLTk5OWMtMzE5ZTA5YmQ0MDI1XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Karanlik Güç",
+      "season": 1,
+      "episode": 6,
+      "description": "Ilkkan and Yilmaz attend the apartment management meeting to fight a dark force awakening in their neighborhood.",
+      "date": "2021-02-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTcyMTFiN2ItNjcxZS00YmY5LTkyYWYtZTczNmUxYTYwYTY5XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Ikinci Yol",
+      "season": 1,
+      "episode": 7,
+      "description": "The loss of Ilkkan's grandmother opens a veil of secrecy about his family, Ilkkan decides to make an investigation about who he really is",
+      "date": "2021-02-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzMyOGI1Y2QtMTYyOS00MGNjLWFlNDYtZTgxOTdkOWJlM2MyXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Badana",
+      "season": 1,
+      "episode": 8,
+      "description": "Ilkkan and Yilmaz paints the walls of their houses. They will regret it.",
+      "date": "2021-02-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmRlNTdkNjctMzkyMC00Y2Q2LWE5Y2QtZjZhMGExODVkMzFkXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Ayirtma Yenilemesi",
+      "season": 1,
+      "episode": 9,
+      "description": "There is nothing that Ilkkan cannot do to avoid losing his lover.",
+      "date": "2021-03-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY5ODQ5NzUtOGI1NC00YTdmLTgzODUtZDcxMDBmODllMWRmXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ Kan Parasi",
+      "season": 1,
+      "episode": 10,
+      "description": "Yilmaz and Ilkkan get into debt to an interesting family.",
+      "date": "2021-03-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmU3NTUxMTUtMzM4MS00ZjQ1LTkyYzEtY2ZhZmM4NDhkYjU2XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "S1.E11 ∙ Yilmaz Bey Banyo",
+      "season": 1,
+      "episode": 11,
+      "description": "Yilmaz wants to help old people in a way others cannot.",
+      "date": "2021-03-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWFmNGQ1YjYtMWU2MC00ZmQ3LWFkYzctM2U1M2QwMDc3ZjQzXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "S1.E12 ∙ Atin Bulunusu",
+      "season": 1,
+      "episode": 12,
+      "description": "A small tribe living in Central Asia encounters a wild creature they have never encountered before. Only their Hakan(Khan) can lead them into the true path of salvation",
+      "date": "2021-03-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGExMWE0NWYtMmEwYy00Yjc0LWE3YTktMjYyMzY4ZDk5ZjFmXkEyXkFqcGdeQXVyMTMwNjgxMTc5.jpg"
+    },
+    {
+      "title": "Vücutçu Yalvaç",
+      "season": 2,
+      "episode": 1,
+      "description": "Ilkkan's nephew Yalvaç pays a visit to him. But the bodybuilding lifestyle of Yalvaç creates problems and controversies both in the group and in the neighborhood.",
+      "date": "2021-12-30T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDcyMGMyODItYTNkYy00OTA1LTk1NWUtODQzYThhOTc4MTI4XkEyXkFqcGdeQXVyMTMwNjgxMTc5.jpg"
+    },
+    {
+      "title": "Kuki",
+      "season": 2,
+      "episode": 2,
+      "description": "Yilmaz and Ersoy start a charity campaign in the neighborhood to do a favor for a disabled child, Ilkkan gets into trouble to get rid of his debts and asks the group for help.",
+      "date": "2022-01-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDllMjAzY2QtNWFmNC00ZDM2LWFmMDgtNmFhYTkzMGJmOGFlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Bej",
+      "season": 2,
+      "episode": 3,
+      "description": "The group tries to help Yilmaz's nephew Kutay get the role he wants in a play.",
+      "date": "2022-01-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU2OTkxZTgtNWE5OC00ZTNmLTgxN2QtYjczMGIzYmFlN2FlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Sokak Röportaji",
+      "season": 2,
+      "episode": 4,
+      "description": "Yilmaz, Ilkkan, and Ersoy get in trouble for something Yilmaz said and they try to flee the city.",
+      "date": "2022-01-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2ZlZjQzYjgtMGI2OS00ZDI5LThiNjctMTdiNDA4ZjE3NTM1XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Çaça ve Cosplay",
+      "season": 2,
+      "episode": 5,
+      "description": "Yilmaz finds it strange what Ilkkan and Ersoy do under the influence of their girlfriends.",
+      "date": "2022-01-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjFlOTc5YTAtZDljNS00MTU3LTg1ZDQtZGJkMzlhNzMyMTVlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Iki Içi Disi Bir Kisi",
+      "season": 2,
+      "episode": 6,
+      "description": "When Ersoy's shoot-from-the-hip uncle starts causing mayhem both in the group and in the neighborhood, Yilmaz and Ilkkan summons an old friend for help.",
+      "date": "2022-02-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIxNmNmYWQtYTg4MS00MjhhLWJlYTctMzVjMjg3ZjA0NTUzXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Gelin Basi",
+      "season": 2,
+      "episode": 7,
+      "description": "Yilmaz and Ilkkan get competitive about helping their friend Ersoy show-off at a wedding.",
+      "date": "2022-02-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzNjZGIxYWItM2NjNC00YjQ0LTlmNTUtODIxODJmZTUwNjk3XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Resimdeki Ünlü",
+      "season": 2,
+      "episode": 8,
+      "description": "Ilkkan solves a puzzle, in which the name of a child celebrity is asked. Ilkkan, Yilmaz and Ersoy are trying to find out who this person is.",
+      "date": "2022-02-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVlNDZjNjEtZTE4YS00MTYyLWEyMTEtOWM0YWMyMmUxNjhlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Esref Hidayet Gürdal Kültür Merkezi",
+      "season": 2,
+      "episode": 9,
+      "description": "Ilkkan and Yilmaz are locked in a room of a cultural center with a dance team, waiting to be rescued.",
+      "date": "2022-02-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZjY2M2YzQtZDU1Mi00ZDc5LTk2OTctMDBhOTZmNWUwMzc3XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Vita Brevis",
+      "season": 2,
+      "episode": 10,
+      "description": "While the Senate of the Roman Republic is prosecuting a senator declared a traitor by the Emperor, one of the senators unintentionally finds a new method of execution.",
+      "date": "2022-03-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThkNWE4NDEtZTQ5NC00YjcxLThkMzMtMzk3ZjRhMmI4MmFlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Sarisin ve Kotlu",
+      "season": 3,
+      "episode": 1,
+      "description": "Yilmaz, Ilkkan and Ersoy become matchmakers for their desperate friend, eventually finding themselves in a series of unexpected events.",
+      "date": "2022-10-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU2YWU3ODAtZjgyNy00YTNhLWE2YzUtMDliOWYwZWU3YmZhXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Keskin Nisanci",
+      "season": 3,
+      "episode": 2,
+      "description": "Yilmaz, Illkan and Ersoy unintentionally interfere a police operation, then dedicate themselves to solve the case.",
+      "date": "2022-10-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTE3NmMwYmUtNGU1Yi00MDJhLTg4MzktZjQyZmFmMDkxMjM4XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Büfe",
+      "season": 3,
+      "episode": 3,
+      "description": "Yilmaz, Illkan and Ersoy try to help a friend for transportation of an opulent and timeless dresser to a small town.",
+      "date": "2022-11-03T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjIwZmE0ZTEtNWE0MS00NzMzLWJjMDQtZmU4ZDk0NjkzYzdlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Sinifsal Veda",
+      "season": 3,
+      "episode": 4,
+      "description": "Yilmaz, Ilkkan and Ersoy try to catch up with the new life style of their close friend.",
+      "date": "2022-11-10T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg5ZmZmNDMtYTU1NS00MWE2LTk3YTQtNzllYmY0MTRmMDllXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Mazbut Bir Hayat Saglam Bir Ahlak Bol Bol Sevgi",
+      "season": 3,
+      "episode": 5,
+      "description": "Yilmaz and Ersoy struggle to put together a dinner table before Ilkkan's guests arrive.",
+      "date": "2022-11-17T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDkzMDljMmQtZTU5Ni00ZGY5LWI1ZGQtOTg3ZTY4NWY0MWJlXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Ghosting",
+      "season": 3,
+      "episode": 6,
+      "description": "Yilmaz finds a DVD in trash and gets to the bottom of it.",
+      "date": "2022-11-24T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTcxMDlmMjItM2MyNC00ZWVjLWJmMjEtOTgwY2MxNDc2MWQ2XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Tesekkürler",
+      "season": 3,
+      "episode": 7,
+      "description": "Yilmaz, Ilkkan and Ersoy help their actor friend on his new movie.",
+      "date": "2022-12-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjljNzY2YTctMGMxZS00NDcwLWJmYjEtMTNlZDJlMDk4NWFlXkEyXkFqcGdeQXVyMzI3NjkxMTA@.jpg"
+    },
+    {
+      "title": "Gülnuray",
+      "season": 3,
+      "episode": 8,
+      "description": "The strange tale of the relationship between Yilmaz and Gulnuray, the housekeeper.",
+      "date": "2022-12-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjNhYzhkNTUtOTNlYi00ZjZlLTllMGQtNzBmNDM5YWI1YWQxXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Bilanço",
+      "season": 3,
+      "episode": 9,
+      "description": "In the night that started with the \"Bilanco\" game; Yilmaz, Ilkkan, Ersoy and their friends talk about their secrets.",
+      "date": "2022-12-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzY4ZDEyYzAtYzI0Ny00MWYzLWIxOWEtOGNjYzYyN2ZlM2Q5XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
+      "title": "Birinci Kabak",
+      "season": 3,
+      "episode": 10,
+      "description": "Yilmaz, Ilkkan and Ersoy go to a fair to meet with the queen in 17th century France.",
+      "date": "2022-12-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4MmEzMDQtNDdhYS00MzdiLThjYWItNGIwMmRlZjdjMDkwXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    }
+  ]
+}

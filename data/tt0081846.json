@@ -1,0 +1,109 @@
+{
+  "seasons": 1,
+  "episodes": [
+    {
+      "title": "The Shores of the Cosmic Ocean",
+      "season": 1,
+      "episode": 1,
+      "description": "Carl Sagan examines our planet's place in the universe by leading us on a journey from Earth to Deep Space.",
+      "date": "1980-09-27T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BODMxZDUyM2MtOWE2Mi00ZTAyLTk1MzItZGVmODk1N2Q4YWQ3XkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "One Voice in the Cosmic Fugue",
+      "season": 1,
+      "episode": 2,
+      "description": "Carl Sagan examines the origin, development, and complexity of life on Earth and speculates on the possibility of life developing elsewhere in the universe.",
+      "date": "1980-10-04T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDI3Yzg1Y2YtODdiYy00ZGI5LWE1N2MtMmJmZDU1ZDBiYTMzXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "Harmony of the Worlds",
+      "season": 1,
+      "episode": 3,
+      "description": "After briefly looking at the pseudoscience of astrology, Carl Sagan examines the history of astronomy from ancient times through Ptolemy to Johannes Kepler.",
+      "date": "1980-10-11T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDM5ZDc2MjUtYWZiNi00MzllLWFjNzMtNTkyNWFkMjg1ZmVlXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "Heaven and Hell",
+      "season": 1,
+      "episode": 4,
+      "description": "Carl Sagan examines the nature of comets before turning to a close look at the planet Venus.",
+      "date": "1980-10-18T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzNkOGViMTAtZTkzNC00MWYxLWE5NzgtYTIzZDI0NzM4OTgxXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "Blues for a Red Planet",
+      "season": 1,
+      "episode": 5,
+      "description": "Carl Sagan looks at the search for life on Mars from the speculations of Percival Lowell and H.G. Wells to the arrival of the Viking probes.",
+      "date": "1980-10-25T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjMxZGZjZTgtN2VmNS00YzA5LWI4NzItZDMwNzM2NTgyMTAwXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "Travellers' Tales",
+      "season": 1,
+      "episode": 6,
+      "description": "Carl Sagan looks at the planets Jupiter and Saturn by examining the work of Galileo, Huygens, and the Voyager probes.",
+      "date": "1980-11-01T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2RlNjU0ODktZDVhOC00N2ZjLTg0N2QtYzNkNzFmYWQwMmVkXkEyXkFqcGdeQXVyMjU2NTk5ODU@.jpg"
+    },
+    {
+      "title": "The Backbone of Night",
+      "season": 1,
+      "episode": 7,
+      "description": "Carl Sagan looks at the work of ancient Greek scientists and astronomers including Thales, Anaximander, Democritus, and Pythagoras.",
+      "date": "1980-11-08T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzYwMDU1MTEtMDI0OS00NDA0LWI1ZTAtNWRjYTM4OGY4NDE2XkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "Journeys in Space and Time",
+      "season": 1,
+      "episode": 8,
+      "description": "Carl Sagan explains scientific concepts like relativity and examines the possibility of time travel.",
+      "date": "1980-11-15T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTEyNTU4MWYtNjM5NC00YWY5LTgxN2ItNDFkOTNiZjFkNTI4XkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "The Lives of the Stars",
+      "season": 1,
+      "episode": 9,
+      "description": "Carl Sagan examines the life cycle of stars from their creation to their deaths.",
+      "date": "1980-11-22T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTNlOWViN2EtMjU3NS00MzgwLWFmNDYtNzZiYzMwNmVjMmNlXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "S1.E10 ∙ The Edge of Forever",
+      "season": 1,
+      "episode": 10,
+      "description": "Carl Sagan focuses on the origin of the universe by discussing the Big Bang, Galaxies, Dimensions, and the expansion of the universe.",
+      "date": "1980-11-29T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFmYTcwZDItNTM4MS00NTkzLThkZTYtZDNmYjg0NjQ1NWZiXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "S1.E11 ∙ The Persistence of Memory",
+      "season": 1,
+      "episode": 11,
+      "description": "Carl Sagan examines life on earth discussing genes, DNA, the brain, and human social development.",
+      "date": "1980-12-06T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU4Nzg2MGQtYzcwNC00MTZhLTg2ZDYtMjQzOTVkZDQ4ZjNiXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "S1.E12 ∙ Encyclopaedia Galactica",
+      "season": 1,
+      "episode": 12,
+      "description": "Carl Sagan examines the possibility extraterrestrial life and discusses his skepticism about UFOs.",
+      "date": "1980-12-13T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdmYWFkOWEtZDBhZC00MDNlLWI5NjMtMmIxZWZkM2ZkNTdmXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    },
+    {
+      "title": "S1.E13 ∙ Who Speaks for Earth?",
+      "season": 1,
+      "episode": 13,
+      "description": "Carl Sagan considers the significance of science and discuss the importance of human survival in the nuclear age.",
+      "date": "1980-12-20T22:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTY5OGRiOTUtYjlkYi00ODRmLWJiNjctOWNkYzNlNDQ2MTdiXkEyXkFqcGdeQXVyMzk1MjY5Njc@.jpg"
+    }
+  ]
+}

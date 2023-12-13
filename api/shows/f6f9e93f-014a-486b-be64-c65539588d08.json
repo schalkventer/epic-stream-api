@@ -1,0 +1,1130 @@
+{
+  "id": "f6f9e93f-014a-486b-be64-c65539588d08",
+  "description": "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner.",
+  "title": "The Twilight Zone",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg",
+  "genres": [
+    2,
+    15,
+    16
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Where Is Everybody?",
+          "episode": 1,
+          "description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul. The tension increases and Mike has a breakdown.",
+          "date": "1959-10-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@.jpg"
+        },
+        {
+          "title": "One for the Angels",
+          "episode": 2,
+          "description": "A pitchman is visited by Mr. Death and is forced to get his priorities in order.",
+          "date": "1959-10-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQzMjA1MTM2MF5BMl5BanBnXkFtZTgwNDAxNDI2MTE@.jpg"
+        },
+        {
+          "title": "Mr. Denton on Doomsday",
+          "episode": 3,
+          "description": "The town drunk in the old-west faces his past when Fate lends a hand.",
+          "date": "1959-10-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDYyMDRhYmYtZDczYi00ODk3LTlmNzMtYzUyYmRlMWI2MTU5L2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "The Sixteen-Millimeter Shrine",
+          "episode": 4,
+          "description": "Barbara Jean Trenton is a faded film star who lives in the past by constantly re-watching her old movies instead of moving on with her life, so her associates try to lure her out of her self-imposed isolation.",
+          "date": "1959-10-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTk3NzgyMTUtY2E2MS00NjcwLTgyOGQtN2Y2OTY3YzAzYmJiXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Walking Distance",
+          "episode": 5,
+          "description": "A man, fed up with where he's at in life, finds himself not only in his old hometown, but back to the time when he was a boy.",
+          "date": "1959-10-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjZjMGUwNmYtNzM4NS00NDI5LTkzMTMtYzEyNzQzOTQ0ZWUxL2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Escape Clause",
+          "episode": 6,
+          "description": "A hypochondriac man sells his soul to the devil, exchanging it for several thousand years of immortality.",
+          "date": "1959-11-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzUwOGZhMjgtNDAxYy00ZDJmLWJmNDYtM2U3MzRmMTNlMjc3L2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "The Lonely",
+          "episode": 7,
+          "description": "A convict, living alone on an asteroid, receives from the police a realistic woman-robot.",
+          "date": "1959-11-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEzOWQ4M2QtMGFjNC00OWQ0LThlY2MtYzI4ZjY1MGY2OGVhL2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Time Enough at Last",
+          "episode": 8,
+          "description": "A henpecked book lover finds himself blissfully alone with his books after a nuclear war.",
+          "date": "1959-11-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2I2MmUyNGItYzM4Zi00ODFkLTk2MjctMWJjZGVhOTZjNzE0XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Perchance to Dream",
+          "episode": 9,
+          "description": "A fatigued man fights to stay awake as he explains to a psychiatrist that if he falls asleep it will trigger a nightmare, which will cause his heart to fail.",
+          "date": "1959-11-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWFlNzY4MmYtZjNkNS00ODU2LTg1ZDctM2IwMDE0Njk1OThlXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "S1.E10 ∙ Judgment Night",
+          "episode": 10,
+          "description": "It's 1942, and a man finds himself on a ship in the Atlantic, not knowing who he is, nor how he got there. He does know the ship will soon be attacked by a German U-boat.",
+          "date": "1959-12-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEyODQ4OTMxOV5BMl5BanBnXkFtZTgwNTU1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E11 ∙ And When the Sky Was Opened",
+          "episode": 11,
+          "description": "Three astronauts return to Earth after seemingly having made an encounter that dooms them and their craft to erasure from existence itself.",
+          "date": "1959-12-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNjg3NzYxNV5BMl5BanBnXkFtZTgwOTY1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E12 ∙ What You Need",
+          "episode": 12,
+          "description": "A small time crook plans to exploit an old street peddler who has the uncanny knack of selling people exactly what they will shortly need.",
+          "date": "1959-12-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTUyNzk3MzE4OV5BMl5BanBnXkFtZTgwMDg2OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E13 ∙ The Four of Us Are Dying",
+          "episode": 13,
+          "description": "A man who can change his face to look like other people uses his ability to improve his life, regardless of his effect on others.",
+          "date": "1959-12-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkxNjI3OTU1MF5BMl5BanBnXkFtZTgwNTQ0OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E14 ∙ Third from the Sun",
+          "episode": 14,
+          "description": "Two families of Government employees plan to steal a spaceship and travel to another planet just prior to a nuclear war. They must also deal with a stooge who wants to stop them.",
+          "date": "1960-01-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjJmZTJhYWYtNGI5YS00MTY2LTgyN2UtMzFiNzYyZDY1OGNmXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "S1.E15 ∙ I Shot an Arrow into the Air",
+          "episode": 15,
+          "description": "Order breaks down between three surviving crewmen whose rocket ship crashes on an unknown world with limited water and supplies.",
+          "date": "1960-01-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgzMDU4Njc3NV5BMl5BanBnXkFtZTgwOTA1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E16 ∙ The Hitch-Hiker",
+          "episode": 16,
+          "description": "A young woman driving cross-country becomes frantic when she keeps passing the same man on the side of the road. No matter how fast she drives, the man is always up ahead, hitching her for a ride.",
+          "date": "1960-01-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDE0ZTk4NzctMmY1Yy00ODVlLWE4ZTktOWFlNGU4MDg0OGQ5XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "S1.E17 ∙ The Fever",
+          "episode": 17,
+          "description": "A middle-aged man catches gambling fever from a slot machine that he believes is calling his name.",
+          "date": "1960-01-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg2MjAwNDkyM15BMl5BanBnXkFtZTgwNTczOTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E18 ∙ The Last Flight",
+          "episode": 18,
+          "description": "A World War I British fighter pilot lands at an American air base in 1959 France.",
+          "date": "1960-02-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjA1MjkyNTkxMl5BMl5BanBnXkFtZTgwMjYzOTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E19 ∙ The Purple Testament",
+          "episode": 19,
+          "description": "A U.S. Army lieutenant serving in the Philippines during WWII develops a harrowing ability to see in the faces of the men of his platoon, the men who will be the next ones to die.",
+          "date": "1960-02-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgyNTI4MTkwNl5BMl5BanBnXkFtZTgwNzMzOTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E20 ∙ Elegy",
+          "episode": 20,
+          "description": "Three astronauts touch down on an asteroid, where they discover a world of people that appear to be frozen in time. Confused, they theorize as to why everyone is motionless, until a man springs to life and explains.",
+          "date": "1960-02-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mzc0Nzc2N15BMl5BanBnXkFtZTgwMjg1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E21 ∙ Mirror Image",
+          "episode": 21,
+          "description": "While waiting in a bus station, Millicent Barnes has the strange feeling that her doppelganger is trying to take over her life.",
+          "date": "1960-02-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDNiNGNkOTctNTJmYS00ZmM4LWI1MjYtOWRlMDRkM2M1OTQ4XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "S1.E22 ∙ The Monsters Are Due on Maple Street",
+          "episode": 22,
+          "description": "On a peaceful suburban street, strange occurrences and mysterious people stoke the residents' paranoia to a disastrous intensity.",
+          "date": "1960-03-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDBmZDU4ZGYtZmM0Mi00ZWFhLThhMzgtMGNhYTYxZTg5YTVlL2ltYWdlXkEyXkFqcGdeQXVyMDYzNTAyNA@@.jpg"
+        },
+        {
+          "title": "S1.E23 ∙ A World of Difference",
+          "episode": 23,
+          "description": "A businessman sitting in his office inexplicably finds that he is on a production set and in a world where he is a movie star. Uninterested in the newfound fame, he fights to get back to his home and family.",
+          "date": "1960-03-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWFlZTZjYjAtMDgzNS00MTAyLWE4MDQtMWI0OTczMDQxMTgxXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "S1.E24 ∙ Long Live Walter Jameson",
+          "episode": 24,
+          "description": "A father forbids a history professor from marrying his daughter when he discovers that the captivating lecturer is actually an immortal who has lived for thousands of years.",
+          "date": "1960-03-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTc3NjQ2OV5BMl5BanBnXkFtZTgwMDU0OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E25 ∙ People Are Alike All Over",
+          "episode": 25,
+          "description": "Fearing the worst, the lone survivor of a crash-landing on Mars finds the native inhabitants, to his relief, very hospitable indeed, but there's a catch.",
+          "date": "1960-03-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA3MDQ2NTgzN15BMl5BanBnXkFtZTgwMTQ1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E26 ∙ Execution",
+          "episode": 26,
+          "description": "When a 20th-century scientist tests out his time machine he accidentally retrieves a murderer from 1880, saving him from the hangman's noose. Unaware of the man's history, the scientist attempts to acclimatize him to his new surroundings.",
+          "date": "1960-03-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzcxMzI0Nl5BMl5BanBnXkFtZTgwNTk1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E27 ∙ The Big Tall Wish",
+          "episode": 27,
+          "description": "An aging boxer finds himself the winner of a match he thought he had lost, the result a six-year-old's frantic wish. But can a world-weary, embittered man still believe in miracles, or will he turn his back on them?",
+          "date": "1960-04-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTJhNGJiM2MtNzBhMi00MGVhLWJiMzctZmZlNWUxNjlhMzc0L2ltYWdlXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@.jpg"
+        },
+        {
+          "title": "S1.E28 ∙ A Nice Place to Visit",
+          "episode": 28,
+          "description": "When bad guy Henry Francis Valentine dies in a shootout with police, he wakes up in the next world where his every wish is granted forever, and ever.",
+          "date": "1960-04-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzE1OTc3MTM1MF5BMl5BanBnXkFtZTgwNDI3OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E29 ∙ Nightmare as a Child",
+          "episode": 29,
+          "description": "A schoolteacher keeps seeing a strange little girl in her apartment building.",
+          "date": "1960-04-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTg1Mzc1MV5BMl5BanBnXkFtZTgwMjU0OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E30 ∙ A Stop at Willoughby",
+          "episode": 30,
+          "description": "Tired of his miserable job and wife, a businessman starts dreaming on the train each night, about an old, idyllic town called Willoughby. Soon he has to know whether the town is real and fancies the thought of seeking refuge there.",
+          "date": "1960-05-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY2NzA0NTgyOV5BMl5BanBnXkFtZTgwNTc2OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E31 ∙ The Chaser",
+          "episode": 31,
+          "description": "A young man obsessed with winning over an uninterested beauty gets more than he bargained for when he buys a love potion to gain her affection.",
+          "date": "1960-05-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzI3MTUyODMwOF5BMl5BanBnXkFtZTgwNDYzOTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E32 ∙ A Passage for Trumpet",
+          "episode": 32,
+          "description": "A suicidally despondent trumpet player finds himself in a bizarre world where he seems to be invisible to everyone, except for one helpful other musician.",
+          "date": "1960-05-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc2NDkyMTQyM15BMl5BanBnXkFtZTgwMjY2OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E33 ∙ Mr. Bevis",
+          "episode": 33,
+          "description": "After losing his job, his car and his apartment on the same day, an eccentric loser gets a new lease on life from his guardian angel, but there is a price for keeping it.",
+          "date": "1960-06-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgzNDkxNzU1M15BMl5BanBnXkFtZTgwMzE1OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E34 ∙ The After Hours",
+          "episode": 34,
+          "description": "A woman is treated badly by some odd salespeople on an otherwise empty department store floor.",
+          "date": "1960-06-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUzNTQ2NjU2Ml5BMl5BanBnXkFtZTgwNzQ0OTEyMjE@.jpg"
+        },
+        {
+          "title": "S1.E35 ∙ The Mighty Casey",
+          "episode": 35,
+          "description": "A down-and-out baseball team's fortunes are lifted by a mysterious but seemingly unbeatable young player.",
+          "date": "1960-06-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTRmMzA1OWQtNDkxMy00ZjM3LTlkZjYtMjhiMWVhMzkwMTBjXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "S1.E36 ∙ A World of His Own",
+          "episode": 36,
+          "description": "A writer demonstrates he can control reality simply by dictating changes.",
+          "date": "1960-06-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEwNzQ3NzA2OTFeQTJeQWpwZ15BbWU4MDY4NjkxMjIx.jpg"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "title": "King Nine Will Not Return",
+          "episode": 1,
+          "description": "A pilot of a downed WW II bomber comes to in the African desert and desperately tries to find out what happened to the rest of his crew.",
+          "date": "1960-09-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg0MDY0NTQ0OF5BMl5BanBnXkFtZTgwNTI1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Man in the Bottle",
+          "episode": 2,
+          "description": "A luckless couple stumbles upon fortune when a genie materializes from a bottle in their antique shop. The genie grants them four wishes but warns them, prophetically, to be careful what you wish for.",
+          "date": "1960-10-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTAzMzI1ZWUtZWRjOS00YmQzLTllZWEtNWNmODYxODZlNDI4XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Nervous Man in a Four Dollar Room",
+          "episode": 3,
+          "description": "Small time criminal Jackie Rhoades must face both his past and his conscience while waiting for his next assignment.",
+          "date": "1960-10-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYwOTgyMTgyNl5BMl5BanBnXkFtZTgwMDk1OTEyMjE@.jpg"
+        },
+        {
+          "title": "A Thing About Machines",
+          "episode": 4,
+          "description": "Bartlett Finchley's paranoia about the machines around proves true.",
+          "date": "1960-10-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA1MDg2MzMyNl5BMl5BanBnXkFtZTgwMDc2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Howling Man",
+          "episode": 5,
+          "description": "Seeking refuge from a storm, a traveler comes upon a bizarre abbey of monks, who have imprisoned a man who begs for his help. When he confronts the head monk, he is told that the man is the Devil, and he must decide whom to believe.",
+          "date": "1960-11-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzcwMjA5MTc4OV5BMl5BanBnXkFtZTgwNjI0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Eye of the Beholder",
+          "episode": 6,
+          "description": "A young woman lying in a hospital bed, her head wrapped in bandages, awaits the outcome of a surgical procedure performed by the State in a last-ditch attempt to make her look \"normal.\"",
+          "date": "1960-11-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTEwMTEyZGEtODVjYi00NzA5LWFjYjItNjA4YTE0MDRhMjAxXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Nick of Time",
+          "episode": 7,
+          "description": "A pair of newlyweds stopping in a small town are trapped by their own superstition when playing a fortune-telling machine in a local diner.",
+          "date": "1960-11-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTU4NTI3Nl5BMl5BanBnXkFtZTgwMTk0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Lateness of the Hour",
+          "episode": 8,
+          "description": "The daughter of an inventor objects to their \"perfect\" home where they are waited on by mechanical servants.",
+          "date": "1960-12-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYwODc1MzMzOV5BMl5BanBnXkFtZTgwOTE0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Trouble with Templeton",
+          "episode": 9,
+          "description": "A nostalgic actor revisits his late wife and friends at their old haunt, only to find that he is now out of place there.",
+          "date": "1960-12-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA2NDY2OTk1MF5BMl5BanBnXkFtZTgwNDkzOTEyMjE@.jpg"
+        },
+        {
+          "title": "A Most Unusual Camera",
+          "episode": 10,
+          "description": "When three unintelligent crooks get ahold of a camera that takes pictures of the future, they set out to make a quick fortune with their new toy.",
+          "date": "1960-12-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE1MjUyODY5N15BMl5BanBnXkFtZTgwODc2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Night of the Meek",
+          "episode": 11,
+          "description": "After a derelict Santa Claus is fired on Christmas Eve, he finds a mysterious bag that gives out presents. With this bag he sets out to fulfill his one wish - to see the less fortunate inherit the bounties of Christmas.",
+          "date": "1960-12-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMwNTE3Njg4N15BMl5BanBnXkFtZTgwNTEzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Dust",
+          "episode": 12,
+          "description": "A sympathetic sheriff and a callous con man are among the many who gather in a desert town on a hot day to see a man hanged for killing a child while drunk.",
+          "date": "1961-01-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTQ4OTg2MjcxMF5BMl5BanBnXkFtZTgwOTg1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Back There",
+          "episode": 13,
+          "description": "At a prominent club in Washington, D.C., a socialite argues about whether it would be possible to change history by traveling back in time. When he leaves the club he finds himself in 1865, on the night that President Lincoln will be shot.",
+          "date": "1961-01-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDhkNDdmMGUtMWI4ZS00YzQ4LTgwNDEtMjlmMzVhYzUxMmUyL2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "The Whole Truth",
+          "episode": 14,
+          "description": "A used car salesman buys a car that dooms him to tell only the truth.",
+          "date": "1961-01-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmIzNGFiZjYtNDdkOS00YWM4LThiODMtYzZlMDdlOTY5NzAyXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "The Invaders",
+          "episode": 15,
+          "description": "When a woman investigates a clamor in the attic of her rural house, she discovers a small UFO with little aliens emerging from it. Or so it seems.",
+          "date": "1961-01-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGEzYzUzYTItNGNkMi00ZTZjLTlhZmEtZjQ5MzBlNDk5MjI5XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "A Penny for Your Thoughts",
+          "episode": 16,
+          "description": "Gaining telepathic abilities when his coin lands on its edge, bank clerk Hector B. Poole learns about the difference between other people's plans and fantasies.",
+          "date": "1961-02-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODI1MDdhMDAtODMwNy00ZTQ2LTgwNDctMTRhNTlmNmU4YTFjL2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Twenty Two",
+          "episode": 17,
+          "description": "While in the hospital recovering from overwork, Liz Powell keeps dreaming about going down to the hospital morgue.",
+          "date": "1961-02-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMyMzQzNDE1OF5BMl5BanBnXkFtZTgwODI2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Odyssey of Flight 33",
+          "episode": 18,
+          "description": "Passing through the sound barrier, a commercial airliner inadvertently travels back in time.",
+          "date": "1961-02-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTYyYTg2ZGYtM2M4OC00YjkxLTgxYmMtYmEyZThlY2RiM2YxXkEyXkFqcGdeQXVyNjUxNDg0Nzc@.jpg"
+        },
+        {
+          "title": "Mr. Dingle, the Strong",
+          "episode": 19,
+          "description": "A timid vacuum-cleaner salesman is given the strength of 300 men by some experimenting aliens.",
+          "date": "1961-03-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTQzMjkyODE3MF5BMl5BanBnXkFtZTgwNTE1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Static",
+          "episode": 20,
+          "description": "An old radio is taking bitter bachelor Ed Lindsay back to a happier time before what he considers worthless tripe on television when he starts picking up radio programs from the 1930's and 1940's.",
+          "date": "1961-03-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjgxZDdjMzctNmZiMC00ZDc0LWEwOWItOWU5ZjNmM2U5ZGViXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "The Prime Mover",
+          "episode": 21,
+          "description": "A compulsive gambler cajoles his friend to use his telekinesis to affect the results of the gambling tables in Las Vegas.",
+          "date": "1961-03-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjY5OTAwNF5BMl5BanBnXkFtZTgwMzQzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Long Distance Call",
+          "episode": 22,
+          "description": "A toy telephone becomes the link between a young boy and his dead grandmother.",
+          "date": "1961-03-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkwNjYxMDYwNF5BMl5BanBnXkFtZTgwNDg0OTEyMjE@.jpg"
+        },
+        {
+          "title": "A Hundred Yards Over the Rim",
+          "episode": 23,
+          "description": "A pioneer from a wagon train in 1847 sets off to find something for his ill son and stumbles into present-day New Mexico.",
+          "date": "1961-04-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI0NTA2MDY5OF5BMl5BanBnXkFtZTgwMTg2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Rip Van Winkle Caper",
+          "episode": 24,
+          "description": "After successfully stealing a gold shipment, a group of criminals and their scientist accomplice put themselves in suspended animation in a remote desert cave. When they awaken decades later, complications ensue when their truck is destroyed.",
+          "date": "1961-04-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYyNjA4NTE4Nl5BMl5BanBnXkFtZTgwOTUzOTEyMjE@.jpg"
+        },
+        {
+          "title": "The Silence",
+          "episode": 25,
+          "description": "Annoyed by a club member's constant chatter, a man bets him he cannot remain silent for a year, living in a glass enclosure in the club basement.",
+          "date": "1961-04-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODM4NDM3NjE3Ml5BMl5BanBnXkFtZTgwMjMzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Shadow Play",
+          "episode": 26,
+          "description": "Adam Grant is trapped in a recurring nightmare, in which he is sentenced to death by execution. He tries to convince the people around him that they are imaginary and that they will cease to exist if the execution is carried out.",
+          "date": "1961-05-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgyMDkzOTE1Ml5BMl5BanBnXkFtZTgwMzIwMDIyMjE@.jpg"
+        },
+        {
+          "title": "The Mind and the Matter",
+          "episode": 27,
+          "description": "Using the power of mind over matter, Archibald Beechcroft remakes the world to his own specifications.",
+          "date": "1961-05-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTUwNjk5MV5BMl5BanBnXkFtZTgwODgzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Will the Real Martian Please Stand Up?",
+          "episode": 28,
+          "description": "Following a frantic phone call about a crashed spaceship, two policeman try and determine who among the passengers of a bus at a snowed-in roadside diner is from another world.",
+          "date": "1961-05-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWIxMzQyODEtY2NmYS00YTM4LWE4ZjYtZDhhZjZiYjk5NDEyXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The Obsolete Man",
+          "episode": 29,
+          "description": "In a future totalitarian society, a librarian is declared obsolete and sentenced to death.",
+          "date": "1961-06-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIwODgwMDgwNl5BMl5BanBnXkFtZTgwNTYzOTEyMjE@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "title": "Two",
+          "episode": 1,
+          "description": "Two survivors of an apocalyptic battle, a man and a woman from opposing sides, approach each other suspiciously.",
+          "date": "1961-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjNjMzgxNjgtZGFlNS00ODYzLTg5YjgtZjk4NzMzNGMwYzIyXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The Arrival",
+          "episode": 2,
+          "description": "Federal aviation investigator Grant Sheckly must deal with a mystery when a plane lands at an airport without pilots, passengers or luggage.",
+          "date": "1961-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk3MjczODMzNF5BMl5BanBnXkFtZTgwNTE0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Shelter",
+          "episode": 3,
+          "description": "A suburban dinner party is interrupted by a bulletin warning of an impending nuclear attack. As the neighbors scramble to prepare themselves, they turn against the one family that installed a permanent bomb shelter.",
+          "date": "1961-09-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA4ODgxMzcyOF5BMl5BanBnXkFtZTgwMzA0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Passersby",
+          "episode": 4,
+          "description": "While headed home, a Confederate soldier meets an anguished woman at the end of the Civil War.",
+          "date": "1961-10-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmE1OGMzOGUtYzdhZi00Yzc1LThlMTctMzJmYjBiNzZkNTZjXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "A Game of Pool",
+          "episode": 5,
+          "description": "A frustrated pool champion has beaten everyone. Everyone except one man - the legendary Fats Brown. Brown is dead and the champ can only curse his name. But guess who just walked in.",
+          "date": "1961-10-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk2NzkyNjcxOV5BMl5BanBnXkFtZTgwOTg2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Mirror",
+          "episode": 6,
+          "description": "A Central American revolutionary comes into the possession of a mirror that shows him his potential assassins.",
+          "date": "1961-10-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMxNTI4NDE4OV5BMl5BanBnXkFtZTgwNzUzOTEyMjE@.jpg"
+        },
+        {
+          "title": "The Grave",
+          "episode": 7,
+          "description": "Old West lawman Conny Miller visits the grave of a man who he failed to track down to prove he was never afraid of him but gets more than he bargained for.",
+          "date": "1961-10-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkwNjQ1Mzg5M15BMl5BanBnXkFtZTgwODE0OTEyMjE@.jpg"
+        },
+        {
+          "title": "It's a Good Life",
+          "episode": 8,
+          "description": "On an isolated family farm, a young boy with vast mental powers, but lacking emotional development, holds his terrified family in thrall to his every juvenile wish.",
+          "date": "1961-11-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI3MjYwOTc1OF5BMl5BanBnXkFtZTgwMjM1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Deaths-Head Revisited",
+          "episode": 9,
+          "description": "A former German SS captain returns to Dachau concentration camp and begins reminiscing on the power he enjoyed there, until he finds himself on trial by those who died at his hands.",
+          "date": "1961-11-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTk1NTUzNV5BMl5BanBnXkFtZTgwMzg1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Midnight Sun",
+          "episode": 10,
+          "description": "When Earth deviates from its normal orbit, getting closer to the sun, two women try to cope with increasingly oppressive heat in a nearly abandoned city.",
+          "date": "1961-11-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUxODIwNzIzN15BMl5BanBnXkFtZTgwMDM5MzI2MTE@.jpg"
+        },
+        {
+          "title": "Still Valley",
+          "episode": 11,
+          "description": "In June 1863, Confederate soldiers come across a warlock who can help bring victory to the Southern cause.",
+          "date": "1961-11-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkzMTczNzgzMV5BMl5BanBnXkFtZTgwNDc0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Jungle",
+          "episode": 12,
+          "description": "A businessman who has recently returned from Africa is stalked by the superstitions and warnings of a witch doctor.",
+          "date": "1961-11-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM0NTM1MDg2Nl5BMl5BanBnXkFtZTgwOTI0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Once Upon a Time",
+          "episode": 13,
+          "description": "Janitor Woodrow Mulligan gets a trip from 1890 to 1962 courtesy of his employer's time helmet.",
+          "date": "1961-12-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc0ODIwNzY4OV5BMl5BanBnXkFtZTgwNTM0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Five Characters in Search of an Exit",
+          "episode": 14,
+          "description": "An Army major awakens in a small room with no idea of who he is or how he got there. He finds four other people in the same room, and they all begin to question how they each arrived there, and more importantly, how to escape.",
+          "date": "1961-12-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjI2MzMyMV5BMl5BanBnXkFtZTgwNDY1OTEyMjE@.jpg"
+        },
+        {
+          "title": "A Quality of Mercy",
+          "episode": 15,
+          "description": "Hot-shot new Lieutenant Katell tries to make his mark on the last day of World War II in the Pacific and gets a unique perspective on his actions.",
+          "date": "1961-12-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDY2NmI2MjItNDJmNi00OTQwLWEyZmItNDg4ZmVkOTk3ODZjXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Nothing in the Dark",
+          "episode": 16,
+          "description": "An old woman has fought with death a thousand times and has always won. But now she finds herself afraid to let a wounded policeman in her door for fear he is Mr. Death. Is he?",
+          "date": "1962-01-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTFlODhjYmQtNTRhMS00ZDRjLThlYjQtZjRkNDdjNGJkZDdiXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "One More Pallbearer",
+          "episode": 17,
+          "description": "Wealthy Paul Radin tries to get three people from his past to apologize to him by offering them shelter from a staged and phony nuclear war scenario.",
+          "date": "1962-01-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU2NTM4MDgxNF5BMl5BanBnXkFtZTgwMjY0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Dead Man's Shoes",
+          "episode": 18,
+          "description": "A homeless man takes the shoes off a dead gangster and steps into his life.",
+          "date": "1962-01-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU3MzY0NjEwMV5BMl5BanBnXkFtZTgwMTc1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Hunt",
+          "episode": 19,
+          "description": "Upon returning from a coon hunt, Hyder Simpson discovers that no one can see or hear him because he has passed on.",
+          "date": "1962-01-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQyODAyODI0MF5BMl5BanBnXkFtZTgwOTczOTEyMjE@.jpg"
+        },
+        {
+          "title": "Showdown with Rance McGrew",
+          "episode": 20,
+          "description": "The star of a Western TV series suddenly finds himself transported back in time to the real Wild West, and face-to-face with the real Jesse James.",
+          "date": "1962-02-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkzMjE2MjkxN15BMl5BanBnXkFtZTgwNTgzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Kick the Can",
+          "episode": 21,
+          "description": "An old man living in a rest home thinks he's found the secret of youth in children's games.",
+          "date": "1962-02-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc1NTk1NjQ2OF5BMl5BanBnXkFtZTgwNjE1OTEyMjE@.jpg"
+        },
+        {
+          "title": "A Piano in the House",
+          "episode": 22,
+          "description": "Sadistic and hated theater critic Fitzgerald Fortune buys a player piano that has the power to reveal the souls of all who hear it.",
+          "date": "1962-02-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY4OTQyMjMyMV5BMl5BanBnXkFtZTgwMzU2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Last Rites of Jeff Myrtlebank",
+          "episode": 23,
+          "description": "A young man wakes up at his own funeral and wants to know what the heck is going on. The townfolk are glad to see him back, but they begin to wonder if he's a man.. or something else?",
+          "date": "1962-02-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODEwMmNkYjQtMjZhZS00ZThlLThhMTItMzViZDk1MzkzMGFlL2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "To Serve Man",
+          "episode": 24,
+          "description": "An alien race comes to Earth, promising peace and sharing technology. A linguist and his team set out to translate the aliens' language, using a book whose title they deduce is \"To Serve Man.\"",
+          "date": "1962-03-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MzM0MTg5NV5BMl5BanBnXkFtZTgwMjg2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Fugitive",
+          "episode": 25,
+          "description": "Jenny and the other kids don't realize that the kindly yet magical old duffer they play with in the park is really an intergalactic fugitive hiding out till two serious men come looking for him, asking questions that test their friendship.",
+          "date": "1962-03-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzZjNzNmM2ItMDAwMi00OWM0LWIzYTktYTk3MTY2YjFjMzk5L2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Little Girl Lost",
+          "episode": 26,
+          "description": "Awakened in the middle of the night by the cries of his daughter, a father enters the girl's room to find that she has vanished - even though he can still hear her crying out for help.",
+          "date": "1962-03-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTE0Nzc4NTY2Ml5BMl5BanBnXkFtZTgwMDI1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Person or Persons Unknown",
+          "episode": 27,
+          "description": "Paying homage to It's a Wonderful Life (1946), David Gurney wakes up to another ordinary day. Except today, nobody knows who he is including his own wife Wilma.",
+          "date": "1962-03-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTQ2MTc0MF5BMl5BanBnXkFtZTgwNTg0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Little People",
+          "episode": 28,
+          "description": "On a desolate planet, two astronauts discover an entire society populated by incredibly small beings. One of the astronauts decides to rule the society as a god.",
+          "date": "1962-03-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA1Y2I2ZGMtYWMyNC00ZjVkLTg5YmMtMDJmNjJmNDQyYjViXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Four O'Clock",
+          "episode": 29,
+          "description": "A very obsessed man wants to expose evil in the world, investigating people he sees as murderers, subversives, perverts and communists, then attempting to ruin their lives.",
+          "date": "1962-04-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjExOTM5MTMzM15BMl5BanBnXkFtZTgwNjM1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Hocus-Pocus and Frisby",
+          "episode": 30,
+          "description": "A rural gas station attendant given to telling tall tales about himself is kidnapped by aliens who believe him to be one of Earth's leading intellects.",
+          "date": "1962-04-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjk5ODQ1OTg3N15BMl5BanBnXkFtZTgwMzM1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Trade-Ins",
+          "episode": 31,
+          "description": "An elderly couple shop for younger replacement bodies, then resort to desperate measures to cover the cost.",
+          "date": "1962-04-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUyNTk1MzkyOV5BMl5BanBnXkFtZTgwMzQ0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Gift",
+          "episode": 32,
+          "description": "A man from the stars comes with a gift to a small Mexican village whose residents do not welcome this stranger.",
+          "date": "1962-04-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYwMTU1OTAzMF5BMl5BanBnXkFtZTgwMTQ0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Dummy",
+          "episode": 33,
+          "description": "Ventriloquist Jerry Etherson is convinced that his dummy, Willie, is alive and evil. He locks Willie in a trunk and makes plans for a new act with a new dummy. Too bad he didn't clear those plans with Willie first.",
+          "date": "1962-05-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDI4NzgxMzAzOV5BMl5BanBnXkFtZTgwNDgzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Young Man's Fancy",
+          "episode": 34,
+          "description": "Newlywed Alex Walker finds himself being pulled back to his childhood and back to his widowed mother in the house where he grew up.",
+          "date": "1962-05-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc4Mzg1MzY1NV5BMl5BanBnXkFtZTgwMzE2OTEyMjE@.jpg"
+        },
+        {
+          "title": "I Sing the Body Electric",
+          "episode": 35,
+          "description": "A recent widower, needing loving care for his three young children, orders a cybernetic \"grandmother\". While two of the children accept her, one of his daughters fiercely rejects her, with near tragic consequences.",
+          "date": "1962-05-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU0MzMxMTY3N15BMl5BanBnXkFtZTgwOTE1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Cavender Is Coming",
+          "episode": 36,
+          "description": "Inept guardian angel Harmon Cavender is given a chance to earn his wings by helping an unconventional big city woman, the young, awkward Agnes Grep.",
+          "date": "1962-05-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjkyOTc1MTM1M15BMl5BanBnXkFtZTgwODE2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Changing of the Guard",
+          "episode": 37,
+          "description": "After being forced to retire, Professor Fowler contemplates suicide when he doesn't feel he's made a difference in the world.",
+          "date": "1962-05-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDAzNTAwZmQtMzZlMS00OGYzLWFmZTQtNDg3ZjdiZGVlYjM5L2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        {
+          "title": "In His Image",
+          "episode": 1,
+          "description": "A young man grapples with an urge to kill and confusion about his origins.",
+          "date": "1963-01-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDA4MTI2Nl5BMl5BanBnXkFtZTgwNDg1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Thirty-Fathom Grave",
+          "episode": 2,
+          "description": "As a U.S. Navy destroyer cruises near Guadalcanal in the South Pacific, its sonar detects muted but constant hammering on metal undersea. The eerie sounds emanate from a submarine on the ocean floor, apparently there since World War II. The ship's chief boatswain's mate becomes very nervous, having served aboard that sub - and he was its sole survivor.",
+          "date": "1963-01-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU3OTk3MzkwN15BMl5BanBnXkFtZTgwMDgzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Valley of the Shadow",
+          "episode": 3,
+          "description": "A reporter stumbles into a peaceful town where miracles seem to occur due to technology and the townsfolk won't let him leave.",
+          "date": "1963-01-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc5MjY2MzI4Nl5BMl5BanBnXkFtZTgwNTg1OTEyMjE@.jpg"
+        },
+        {
+          "title": "He's Alive",
+          "episode": 4,
+          "description": "A tiny neo-Nazi organization struggles pathetically to succeed in a big city. A mysterious figure begins to ruthlessly guide a young, insecure U.S. Nazi leader, and the group begins to draw more attention.",
+          "date": "1963-01-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE3Mzg3Mjk1M15BMl5BanBnXkFtZTgwMTE1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Mute",
+          "episode": 5,
+          "description": "The orphaned daughter of telepathic parents must learn to speak and deal with a world she cannot communicate in.",
+          "date": "1963-01-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjg3ZGJkOTQtZmEzMi00ZjczLThhYjUtNjg3YTJiODMxMDg4L2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Death Ship",
+          "episode": 6,
+          "description": "An interplanetary expedition from Earth finds an exact duplicate of their ship and themselves crashed on the planet they were surveying. Should they stay or risk taking off and crashing?",
+          "date": "1963-02-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc0NjcyOTgwOF5BMl5BanBnXkFtZTgwNzk1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Jess-Belle",
+          "episode": 7,
+          "description": "Appalachian beauty Jess-Belle can't bear to lose the object of her passion to the local rich girl, so she turns to the local witch for aid. The results bring unexpected and tragic consequences.",
+          "date": "1963-02-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQxNjA5NDA4OF5BMl5BanBnXkFtZTgwMjY1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Miniature",
+          "episode": 8,
+          "description": "Mousey misfit Charley Parkes finds the world unfolding before him in a museum doll house to be more real than his boring job and overbearing mother.",
+          "date": "1963-02-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc0MjI4OTg4Nl5BMl5BanBnXkFtZTgwMTY1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Printer's Devil",
+          "episode": 9,
+          "description": "A man sells his soul to the Devil to save his failing newspaper and gets more than he bargained for.",
+          "date": "1963-02-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MDc5NzE5OF5BMl5BanBnXkFtZTgwNTAwMzg0MDI@.jpg"
+        },
+        {
+          "title": "No Time Like the Past",
+          "episode": 10,
+          "description": "A scientist attempts to use a time machine to prevent tragedies, both in world history and in his own past.",
+          "date": "1963-03-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM4ODAzNzI3NF5BMl5BanBnXkFtZTgwMTg0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Parallel",
+          "episode": 11,
+          "description": "Astronaut Robert Gaines returns from space to a world that is not exactly the one he left from.",
+          "date": "1963-03-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzg1NjE1MTkxOV5BMl5BanBnXkFtZTgwODYzOTEyMjE@.jpg"
+        },
+        {
+          "title": "I Dream of Genie",
+          "episode": 12,
+          "description": "A wiseacre genie appears from a lamp to a meek man, George P. Hanley. Hanley is so used to bad luck, he imagines how each of three possible wishes could go very wrong - but the genie will grant him only one wish!",
+          "date": "1963-03-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMxNzYxMzcyMl5BMl5BanBnXkFtZTgwMTM1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The New Exhibit",
+          "episode": 13,
+          "description": "A wax-museum employee fights to preserve five figures of famous murderers.",
+          "date": "1963-04-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzBkM2NmMGEtYjk3OC00MzQ2LTliYTMtMjNhMzU1NGQyNDAxXkEyXkFqcGdeQXVyMTI4MjYzOTIy.jpg"
+        },
+        {
+          "title": "Of Late I Think of Cliffordville",
+          "episode": 14,
+          "description": "Aging tycoon William Feathersmith is bored with life and makes arrangements through a devilish travel agency to return to the Cliffordville of his youth and start all over again.",
+          "date": "1963-04-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjM4OTUxNDA0NF5BMl5BanBnXkFtZTgwNDY0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Incredible World of Horace Ford",
+          "episode": 15,
+          "description": "Toymaker Horace Ford is increasingly preoccupied with memories of his childhood, endangering his job and marriage - but a visit to his old neighborhood brings a haunting encounter, suggesting the time was not as idyllic as he remembers.",
+          "date": "1963-04-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgyMzcxMjIwOV5BMl5BanBnXkFtZTgwNDQ0OTEyMjE@.jpg"
+        },
+        {
+          "title": "On Thursday We Leave for Home",
+          "episode": 16,
+          "description": "The first human space colony is about to be rescued from the forsaken planet they've been on for three decades. But their leader's having a hard time accepting that change will happen when they get back to Earth.",
+          "date": "1963-05-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDkwMjgyMjktNWE4Yy00NWMyLThkNjAtMmFkNTA0MmFmMmExL2ltYWdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Passage on the Lady Anne",
+          "episode": 17,
+          "description": "A young American couple, the Ransomes, who are trying to salvage their troubled marriage, insist on booking passage on an old trans-Atlantic cruise liner. But other passengers try to persuade them to disembark immediately.",
+          "date": "1963-05-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgwNjExODAzNF5BMl5BanBnXkFtZTgwODc0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Bard",
+          "episode": 18,
+          "description": "Julius Moomer, a talentless, but relentless, self-promoting hack who dreams of becoming a successful television writer, uses a book of magic to summon William Shakespeare to write dramatic teleplays that Moomer will pass off as his own. Shakespeare becomes irritated by Moomer's lack of appreciation and is even more appalled when he discovers the changes wrought on his plays by cynical television executives.",
+          "date": "1963-05-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGZlNTM3MjQtYmRjYy00M2E0LWI3OTEtNDZmNzNmNDBiZWZmXkEyXkFqcGdeQXVyMDIxNTEyMQ@@.jpg"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        {
+          "title": "In Praise of Pip",
+          "episode": 1,
+          "description": "A wearied bookie, learning of his grown soldier son Pip dying in South Vietnam, gets to spend one last delightful hour with a ten-year-old version of him at an amusement park.",
+          "date": "1963-09-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjkxYTE0NTEtMTNjMS00YjkwLTg4YjQtNzI3NGRhMDIzMmU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Steel",
+          "episode": 2,
+          "description": "In 1974, boxing has been outlawed and is performed by mechanical robots. With his next and possibly last fight approaching and his robot in need of repair, he resorts to one last desperate gamble.",
+          "date": "1963-10-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTljYWYwNjktMWY5OS00MmNhLWJiNjMtM2ZiZDQ0NDc0MjMxXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Nightmare at 20,000 Feet",
+          "episode": 3,
+          "description": "A man, newly recovered from a nervous breakdown, becomes convinced that a monster only he sees is damaging the plane he's flying in.",
+          "date": "1963-10-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmM0Y2Q0OGEtYmUzZi00NzBhLTgwYmEtNzFhNzcwZGFkNGY4XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "A Kind of a Stopwatch",
+          "episode": 4,
+          "description": "A man is given a stopwatch that halts time.",
+          "date": "1963-10-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGUzNWZjNGQtMWJlOS00ZDhiLTg0ZDgtZTgxYzIxNjRiMWIzXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The Last Night of a Jockey",
+          "episode": 5,
+          "description": "A washed-up jockey gets his wish while waiting for the results of his race fixing hearing.",
+          "date": "1963-10-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDA5OGRlOWYtMmMwMi00ZGIyLTg3YmEtMzJlN2RlOGJlNWI0XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Living Doll",
+          "episode": 6,
+          "description": "A frustrated father does battle with his stepdaughter's talking doll, whose vocabulary includes such phrases as \"I hate you\" and \"I'm going to kill you\".",
+          "date": "1963-10-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzJhNjI2YjQtMTQ2ZS00Y2NiLThiYjctZjc1N2Y2MDliYmE0XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The Old Man in the Cave",
+          "episode": 7,
+          "description": "In a post-apocalyptic settlement in 1974, the inhabitants' survival is dependent on the advice of an unseen man living in a nearby cave. This dependence is tested when a band of soldiers descends on their town.",
+          "date": "1963-11-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjQwYTI0NDAtMWMxOC00NTBmLWFlZGEtY2JlODY2ZGQyZTIzXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Uncle Simon",
+          "episode": 8,
+          "description": "Caregiver Barbara Polk receives a surprise after her uncle's death.",
+          "date": "1963-11-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc4MzM5Mzk5Ml5BMl5BanBnXkFtZTgwOTA2OTEyMjE@.jpg"
+        },
+        {
+          "title": "Probe 7, Over and Out",
+          "episode": 9,
+          "description": "Colonel Adam Cook, stranded on a distant planet with no hope for rescue, meets a woman who is the sole survivor from another planet.",
+          "date": "1963-11-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGNjYTE2ZjYtMWU0YS00ZWM1LTlhOGUtMjU2YjExZWUzNTUwXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The 7th Is Made Up of Phantoms",
+          "episode": 10,
+          "description": "On June 25, 1964, three Army National Guard soldiers on maneuvers near the Little Big Horn battle site find themselves unwittingly involved in Custer's Last Stand.",
+          "date": "1963-12-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkzNjYxNjk1NV5BMl5BanBnXkFtZTgwODA0OTEyMjE@.jpg"
+        },
+        {
+          "title": "A Short Drink from a Certain Fountain",
+          "episode": 11,
+          "description": "An aging married man convinces his brother to inject him with a youth serum.",
+          "date": "1963-12-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAzNjY5NzIzOV5BMl5BanBnXkFtZTgwMzk2OTEyMjE@.jpg"
+        },
+        {
+          "title": "Ninety Years Without Slumbering",
+          "episode": 12,
+          "description": "An old man believes that his life will end the moment his grandfather clock stops ticking.",
+          "date": "1963-12-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE1MDA4NzA0Ml5BMl5BanBnXkFtZTgwMTc0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Ring-A-Ding Girl",
+          "episode": 13,
+          "description": "Movie star Bunny Blake receives a ring from her hometown which is giving her warnings to come home while she flies cross country.",
+          "date": "1963-12-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTAwMzI4NF5BMl5BanBnXkFtZTgwNjM0OTEyMjE@.jpg"
+        },
+        {
+          "title": "You Drive",
+          "episode": 14,
+          "description": "After being involved with a hit-and-run accident that resulted in the death of a child, Oliver Pope is haunted by his car.",
+          "date": "1964-01-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTg0ODkyOTQ2NV5BMl5BanBnXkFtZTgwOTE2OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Long Morrow",
+          "episode": 15,
+          "description": "Before leaving on a decades-long solo mission, astronaut Douglas Stansfield meets a woman and falls in love.",
+          "date": "1964-01-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmZhYWI2ZDAtNjU4Yy00YzJjLWFjYWEtMDVkZjdjNDA5MGNkXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The Self-Improvement of Salvadore Ross",
+          "episode": 16,
+          "description": "Salvadore Ross has a unique talent where he can trade physical characteristics with other people and will do anything to get the love of Leah Maitland.",
+          "date": "1964-01-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTU1MTY0NjQ2NV5BMl5BanBnXkFtZTgwMjkzOTEyMjE@.jpg"
+        },
+        {
+          "title": "Number 12 Looks Just Like You",
+          "episode": 17,
+          "description": "In a future society, everyone must undergo an operation at age 19 to become beautiful and conform to society. One young woman desperately wants to hold onto her own identity.",
+          "date": "1964-01-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMxNzc3ODk2MV5BMl5BanBnXkFtZTgwMDI0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Black Leather Jackets",
+          "episode": 18,
+          "description": "Three leather-jacket-wearing, motorcycle-riding men invade a peaceful neighborhood.",
+          "date": "1964-01-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzQyZTYwMjMtODA3My00MDNhLTg5NjMtMWFkOThmODZiZDQxXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Night Call",
+          "episode": 19,
+          "description": "Telephone calls begin to haunt a disabled elderly woman.",
+          "date": "1964-02-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzY2MjA2NjY2NF5BMl5BanBnXkFtZTgwMzk0OTEyMjE@.jpg"
+        },
+        {
+          "title": "From Agnes - with Love",
+          "episode": 20,
+          "description": "A computer technician begins to take advice for his love life from Agnes, the computer he works with.",
+          "date": "1964-02-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzI1ZmZhOTgtNzQyZS00MzdlLTlhNGMtMWU1ODBjZjFkMDU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Spur of the Moment",
+          "episode": 21,
+          "description": "An engaged heiress is terrorized by a middle-aged woman on a horse pleading with her not to go through with her impending marriage.",
+          "date": "1964-02-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTYzNzA1MF5BMl5BanBnXkFtZTgwMDc0OTEyMjE@.jpg"
+        },
+        {
+          "title": "An Occurrence at Owl Creek Bridge",
+          "episode": 22,
+          "description": "During the American Civil War in 1862, a condemned Confederate prisoner, Peyton Farquhar, is due to be hanged by Union troops.",
+          "date": "1964-02-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI3MTc0NDI5NF5BMl5BanBnXkFtZTgwOTU1OTEyMjE@.jpg"
+        },
+        {
+          "title": "Queen of the Nile",
+          "episode": 23,
+          "description": "A reporter interviews a Hollywood movie queen who has a secret to her eternal beauty.",
+          "date": "1964-03-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM5MTkyNzY1Ml5BMl5BanBnXkFtZTgwNTY0OTEyMjE@.jpg"
+        },
+        {
+          "title": "What's in the Box",
+          "episode": 24,
+          "description": "Philanderer Joe Britt sees his indiscretions shown on his own TV set after it was worked on by a unique repairman.",
+          "date": "1964-03-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI2MDA1MDEzM15BMl5BanBnXkFtZTgwNjk1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Masks",
+          "episode": 25,
+          "description": "Wealthy Jason Foster is dying and he invites his greedy heirs to a Mardi Gras party where they must wear the masks he specially had made for them or else be cut off from their inheritance.",
+          "date": "1964-03-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjcxNTU5NzUyMF5BMl5BanBnXkFtZTgwNDM0OTEyMjE@.jpg"
+        },
+        {
+          "title": "I Am the Night - Color Me Black",
+          "episode": 26,
+          "description": "The Sun doesn't rise on a small town where an execution is scheduled to take place.",
+          "date": "1964-03-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA0NTQ1NjYzMF5BMl5BanBnXkFtZTgwNzY0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Sounds and Silences",
+          "episode": 27,
+          "description": "Roswell Flemington enjoys loud noises, is an annoyance to others and is suitably punished.",
+          "date": "1964-04-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NDE2MDY4OF5BMl5BanBnXkFtZTgwMTA0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Caesar and Me",
+          "episode": 28,
+          "description": "When Irish ventriloquist Jonathan West cannot find any work, his dummy Caesar suggests that he turn to burglary.",
+          "date": "1964-04-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjBhZmYwODUtNjMwMi00MDUzLWIzMTgtMGI3YTEzZWJiN2M0XkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "The Jeopardy Room",
+          "episode": 29,
+          "description": "A defector is trapped in a hotel room and given three hours to find a hidden bomb.",
+          "date": "1964-04-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQzNDQ2MDQ3NV5BMl5BanBnXkFtZTgwODk0OTEyMjE@.jpg"
+        },
+        {
+          "title": "Stopover in a Quiet Town",
+          "episode": 30,
+          "description": "A hung-over couple awaken to find themselves not only in a strange house, but in a deserted town, where nothing is as it should be.",
+          "date": "1964-04-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDk2ODI3MDM5Ml5BMl5BanBnXkFtZTgwMjI0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Encounter",
+          "episode": 31,
+          "description": "Post-WWII Hawaii. Two men of once-opposing races are stuck in an attic full of war trophies, including a samurai sword waiting to dutifully avenge its slain master.",
+          "date": "1964-04-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzc2NTQ4MGMtMWYxOC00ZTIwLTg3ZjQtMGY5MGVkM2MwNDlhXkEyXkFqcGdeQXVyNjUxMjc1OTM@.jpg"
+        },
+        {
+          "title": "Mr. Garrity and the Graves",
+          "episode": 32,
+          "description": "Mr. Garrity comes into town of Happiness, Arizona offering to resurrect the dead and to reunite the town-folk with their departed loved ones out of the goodness of his heart. Do the town-folk want these miracles?",
+          "date": "1964-05-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjA4ODk2MTk3NF5BMl5BanBnXkFtZTgwODA1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Brain Center at Whipple's",
+          "episode": 33,
+          "description": "A heartless CEO completely automates his factory and lays off almost all of his workers over the objections of his employees.",
+          "date": "1964-05-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDA0Y2VkYTQtZTU2NS00ZGY2LWE2ZTUtMzM4YTdiMmZkYzE0XkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg"
+        },
+        {
+          "title": "Come Wander with Me",
+          "episode": 34,
+          "description": "Singer Floyd Burney searches the backwoods for new songs and finds Mary Rachel and much more deep in the Twilight Zone.",
+          "date": "1964-05-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM1MzIxMDk5Ml5BMl5BanBnXkFtZTgwODg1OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Fear",
+          "episode": 35,
+          "description": "Charlotte Scott and state trooper Robert Franklin seem to be stalked by giants.",
+          "date": "1964-05-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQxMDg3NjA1MV5BMl5BanBnXkFtZTgwNzM0OTEyMjE@.jpg"
+        },
+        {
+          "title": "The Bewitchin' Pool",
+          "episode": 36,
+          "description": "Two children escape their bickering parents through a portal in the bottom of their swimming pool to a magical land watched over by a kind old woman the children call Aunt T.",
+          "date": "1964-06-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMzMDU1MTEzMl5BMl5BanBnXkFtZTgwMDM0OTEyMjE@.jpg"
+        }
+      ]
+    }
+  ]
+}

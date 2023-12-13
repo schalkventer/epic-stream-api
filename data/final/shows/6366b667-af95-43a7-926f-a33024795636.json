@@ -1,0 +1,200 @@
+{
+  "id": "6366b667-af95-43a7-926f-a33024795636",
+  "description": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+  "title": "Cowboy Bebop",
+  "image": "https://m.media-amazon.com/images/M/MV5BZDEzMjlkNDgtZjhkNi00N2RlLWFhZTYtNDE5OTc2NjZkODJlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    8,
+    9,
+    10
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Asteroid Blues",
+          "episode": 1,
+          "description": "Spike and Jet pursue an outlaw who is smuggling a reflex-enhancing drug.",
+          "date": "2001-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDk2ZjUyZDItMzk4Ny00MjRjLWExNWMtN2RkMTBlMzhlODhkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "Stray Dog Strut",
+          "episode": 2,
+          "description": "Spike and Jet go after Abdul Hakim, who has stolen a \"data dog\" from a research facility, for an 8 Million Woolong reward. It turns out they are not the only ones after him.",
+          "date": "2001-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2EyMjk4YzktNTU4NS00ZmRlLWIxZWItODYxMmI0Y2JiMDIzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "Honky Tonk Women",
+          "episode": 3,
+          "description": "Spike and Jet first meet Faye Valentine at a casino, who is involved in a scam with a mob boss in an attempt to relieve her massive debt. They find out Faye is more devious than it first appears.",
+          "date": "2001-09-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWFkMzg2MDctODY2MS00ZWU5LWIyYmItZTA3ZmJlMDkyYjUwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "Gateway Shuffle",
+          "episode": 4,
+          "description": "Spike and Jet take on Maria Murdock, the leader an extreme animal rights activist group called the Space Warriors. Faye stumbles her way back onto the Bebop and may help them out.",
+          "date": "2001-09-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjdmMzQyMjYtY2JhNi00YmI3LTliY2YtNmM0ZTFkYWJmNTcyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "Ballad of Fallen Angels",
+          "episode": 5,
+          "description": "While searching for Mao Yenrai, an executive of the Red Dragon Syndicate, Spike ends up confronting Vicious, his old enemy.",
+          "date": "2001-09-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGIwNTAzYmEtNGYxYS00YzgyLTg2ZDgtODA5ZDA3MjI4ZjBiXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "Sympathy for the Devil",
+          "episode": 6,
+          "description": "Spike and Jet chase a dangerous enemy who, despite having the appearance of a little boy, is altered genetically due to a meteor shower on earth.",
+          "date": "2001-12-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQzOGI4NmUtMzJiNS00MGNlLWEzMWEtMWYxZmM4NTk5ZjRlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "Heavy Metal Queen",
+          "episode": 7,
+          "description": "Spike, Faye and Jet are all after Decker, a bounty head in possession of high explosives. They meet V.T, a female space trucker, and team up with her to catch Decker on a dangerous chase through an abandoned mine.",
+          "date": "2001-09-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTc5MjVmODItZDI1YS00Yjk0LTlkYzYtMTc3NTkzN2RhYmExXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "Waltz for Venus",
+          "episode": 8,
+          "description": "After collecting a bounty, Spike gains a fan in Roco Bonnaro. Roco, a small-time gang member, stole a rare and valuable plant from his own gang. Spike finds it's more valuable than he is, but Roco has a different plan for the plant.",
+          "date": "2001-12-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDk0YjAzOTYtM2E2Ni00NDNkLTk4YzktNzA3MzNmZDg2MTNlXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "Jamming with Edward",
+          "episode": 9,
+          "description": "Something is carving giant pictures on Earth's surface and the Earth police put out a bounty, drawing in Spike and Jet. A talented computer hacker, Edward, is rumored to be the culprit, but the truth is much different.",
+          "date": "2001-09-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWNhYjdjYWMtMzMwZS00YjMyLWFjNjQtZGQyY2Q0ZTdjMmI2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "S1.E10 ∙ Ganymede Elegy",
+          "episode": 10,
+          "description": "Jet confronts his past on Ganymede where a woman he loved, Alisa, had left him without saying goodbye. Spike learns of a new bounty that has a connection to Alisa.",
+          "date": "2001-09-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTU1Y2EwYjktMWU2ZC00ZmRlLTg5ZTQtYjg0NzkxNjBiYjA4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "S1.E11 ∙ Toys in the Attic",
+          "episode": 11,
+          "description": "A mysterious something is sneaking around the Bebop and biting the crew, leaving nasty purple welts. Eventually, Spike is the only one left, and must prepare himself to save the ship.",
+          "date": "2001-10-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjIxNWZlMDAtNWRkNi00ZGU5LWFhM2UtNGMyNjhmMTU2NGMwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "S1.E12 ∙ Jupiter Jazz: Part 1",
+          "episode": 12,
+          "description": "Faye disappears with all the money on Bebop. Ed tries to find her and discovers a \"Code Name Julia\" on Jupiter's moon, Callisto, which makes Spike believe that it's his Julia.",
+          "date": "2001-10-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmYzM2NkODMtNjhiOS00YjBkLTgyMjQtMzE2N2YzNGJhNDAwXkEyXkFqcGdeQXVyNjc3OTE4Nzk@.jpg"
+        },
+        {
+          "title": "S1.E13 ∙ Jupiter Jazz: Part 2",
+          "episode": 13,
+          "description": "Faye is attacked and later helped by Gren, who holds a grudge against Vicious. After explaining his story to Faye, he chases after Vicious, and when he and Spike end up reaching him, a three-way battle takes place.",
+          "date": "2001-10-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzc1ZWIxMWYtZjgwZC00MzhiLWE5ZTEtNmJmZDIyYWM2ZGYxXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E14 ∙ Bohemian Rhapsody",
+          "episode": 14,
+          "description": "The Bebop crew investigates a bizarre series of Hyperspace Gate Tollbooth robberies, each executed by a different party, and the mastermind that orchestrated the entire thing: Hex.",
+          "date": "2001-10-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTc4Zjc4MjAtMTgzYi00NWNjLThiYWUtM2IxODY1Y2VhOWNjXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E15 ∙ My Funny Valentine",
+          "episode": 15,
+          "description": "Faye recounts her awakening from cryogenic freezing and a man, Whitney Hagas Matsumoto, who helped her before dying. Jet, however, arrives on the ship having caught him for a bounty. Faye now needs to know what was real.",
+          "date": "2001-10-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDkzM2M5NzYtM2I3Yy00NmRiLWE0NjktYWMzNDcxZjBiZmFjXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E16 ∙ Black Dog Serenade",
+          "episode": 16,
+          "description": "Jet's old cop partner calls in a favour to stop a group of convicts on a highjacked transport ship, one of which Jet has a personal vendetta with.",
+          "date": "2001-10-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjQwZTJkZTYtN2Q3YS00MTNmLWJiN2ItMzJiMzhmOTg1YTMwXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E17 ∙ Mushroom Samba",
+          "episode": 17,
+          "description": "The Bebop crashes onto the moon after being side-swiped in space. Ed and Ein venture out for food but are entangled in the operations of an outlaw smuggling psychedelic mushrooms.",
+          "date": "2001-10-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzcwMjJiZWMtZjU2Yy00ZjNkLWJhYzYtMzU1OWEwOGU3NjU1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        },
+        {
+          "title": "S1.E18 ∙ Speak Like a Child",
+          "episode": 18,
+          "description": "A mysterious package comes for Faye with a Beta cassette. While Faye runs, thinking it to be from a debt collector, Jet and Spike undertake a arduous search for a player to view it. They find it is a clue to Faye's past.",
+          "date": "2001-10-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGY2N2Y5NDktZDUyNy00ZDExLTgzMDEtN2FkMTA0ZDA0MTUwXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E19 ∙ Wild Horses",
+          "episode": 19,
+          "description": "Spike, flying his mono-racer in for maintenance, runs out of gas not far from the garage. Meanwhile, Jet and Faye take on a group of pirates who use computer viruses to terrorize interplanetary shipping.",
+          "date": "2001-11-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjBmZjkyZjYtMWE0ZC00YTQzLTk4NzItYjUyNWVkNmZlM2EzXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E20 ∙ Pierrot le Fou",
+          "episode": 20,
+          "description": "Spike witnesses a homicide by a deranged serial killer who then goes after him with a full barrage of weapons.",
+          "date": "2001-11-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTE1YzE3MzgtYmUxZi00NjFhLTlkZDYtNDg4ZmVjM2ZiZjVkXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E21 ∙ Boogie Woogie Feng Shui",
+          "episode": 21,
+          "description": "Jet gets a mysterious note from an old friend, Pao, and finds himself teaming up with his daughter, who uses Feng Shui to decipher it. The two are also chased by syndicate mobsters also searching for him.",
+          "date": "2001-11-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTc1Njg1YzAtNzM1Zi00MTVjLTk2N2UtYjM2Y2FmOTljNzdjXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E22 ∙ Cowboy Funk",
+          "episode": 22,
+          "description": "A serial bomber is trying to blow up skyscrapers, but Spike is more concerned about an American Western-styled cowboy on horseback that hinders his attempts to catch the bounty.",
+          "date": "2002-02-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTIyN2I3MjMtYjAxYy00NmFmLTkxMjgtYzhjNWM4MDQ1NDJiXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E23 ∙ Brain Scratch",
+          "episode": 23,
+          "description": "Dr. Londes, the leader of the religious cult Scratch, has a large bounty on his head. Spike takes to the streets in an effort to get to him while Jet and Ed buy a video game that the cult members use to ascend into the digital being.",
+          "date": "2001-11-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDE5ODRhZmQtOWFiYS00NmE2LWE3NjctNTJiOTNiYTljMTZjXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E24 ∙ Hard Luck Woman",
+          "episode": 24,
+          "description": "Ed places a fake bounty for her own father, in hopes Jet and Spike will lead her to him. They do, and despite a joyous reunion, her father immediately abandons her to pursue his work. Ed and Ein decide to leave the group.",
+          "date": "2001-11-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmQwNzIzODgtZWJlNi00YWIxLTlkYzAtMjg4NTU5MDNiNDgzXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg"
+        },
+        {
+          "title": "S1.E25 ∙ The Real Folk Blues: Part 1",
+          "episode": 25,
+          "description": "Faye briefly teams up with Julia when she assists her escape from a Red Dragon hit squad, and relays a message to Spike about Julia's whereabouts. Spike and Julia finally reunite.",
+          "date": "2001-11-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmY4NTkxNDktNGRmNi00NThlLWJmM2MtNTYxMmFiNDhkZjFjXkEyXkFqcGdeQXVyNjc3OTE4Nzk@.jpg"
+        },
+        {
+          "title": "S1.E26 ∙ The Real Folk Blues: Part 2",
+          "episode": 26,
+          "description": "Vicious claims leadership of the Red Dragon Syndicate. Julia and Spike plan to run away as before, but Spike still feels the desire for revenge, leading to a final confrontation with Vicious and the Syndicate.",
+          "date": "2001-11-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWQ4NmQ3ZGEtNTcxYy00NDNiLWE5YTEtMmQ1MDJkMWJmOGZlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg"
+        }
+      ]
+    }
+  ]
+}

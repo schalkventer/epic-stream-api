@@ -1,0 +1,59 @@
+{
+  "id": "f1ba9624-4baf-4509-8b0f-987df62e7954",
+  "description": "David Attenborough returns with a new wildlife documentary that shows life in a variety of habitats.",
+  "title": "Planet Earth II",
+  "image": "https://m.media-amazon.com/images/M/MV5BMGZmYmQ5NGQtNWQ1MC00NWZlLTg0MjYtYjJjMzQ5ODgxYzRkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    4,
+    5
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Islands",
+          "episode": 1,
+          "description": "Wildlife documentary series with David Attenborough, beginning with a look at the remote islands which offer sanctuary to some of the planet's rarest creatures.",
+          "date": "2017-02-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzA3OTc4ODAtYzIzMy00ZjJlLThhYjAtNGIxOTNlMWJlNTc5XkEyXkFqcGdeQXVyMjA1MDAxMDU@.jpg"
+        },
+        {
+          "title": "Mountains",
+          "episode": 2,
+          "description": "The wildlife documentary series with David Attenborough continues with a unique and intimate glimpse into secretive lives of mountain-dwelling animals.",
+          "date": "2017-02-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzVkMTAyNDEtYzdhZi00ZDRlLWEzNjYtMWRlZGFjOTk1ZmRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE2ODc0NDg@.jpg"
+        },
+        {
+          "title": "Jungles",
+          "episode": 3,
+          "description": "Jungles provide the richest habitats on the planet - mysterious worlds of high drama where extraordinary animals attempt to survive in the most competitive place on earth.",
+          "date": "2017-03-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmJjYWNkYzMtMGZiYy00NzFhLWE3NjQtZmQxMzU5ODUxZjBhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk2MjMzNDY@.jpg"
+        },
+        {
+          "title": "Deserts",
+          "episode": 4,
+          "description": "The world's deserts force animals to come up with ingenious ways of coping with hostile conditions, giving rise to the most incredible survival stories on earth.",
+          "date": "2017-03-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTJmMWFiOTMtZWViNS00OTcxLTgzZWQtOTEyZmE1YjNjNjQzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ4NDc2MDM@.jpg"
+        },
+        {
+          "title": "Grasslands",
+          "episode": 5,
+          "description": "Grasslands cover one quarter of all land and support the vast gatherings of wildlife, but to survive here animals must endure the most hostile seasonal changes on the planet. From Asia's bizarre-looking saiga antelope to the giant anteaters of Brazil, grassland animals have adapted in extraordinary ways to cope with these extremes. In the flooded Okavango, lions take on formidable buffalo in epic battles, on the savannah bee-eaters take advantage of elephants to help catch insects and, on the freezing northern tundra, caribou embark on great migrations shadowed by hungry Arctic wolves.",
+          "date": "2017-03-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTY5YzBjN2EtOThjOS00ODY2LWEwYjUtMzNlYmE5YTM5YmY1L2ltYWdlXkEyXkFqcGdeQXVyNjg4OTg4Njc@.jpg"
+        },
+        {
+          "title": "Cities",
+          "episode": 6,
+          "description": "Cities are the newest habitat on Planet Earth. The series documents the wildlife in our cities.",
+          "date": "2017-03-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTIwNzk4NTItZGM4Yi00NjY1LWJiZWUtOWVmNGQ0N2E4ZDI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAzNDkyMjQ@.jpg"
+        }
+      ]
+    }
+  ]
+}

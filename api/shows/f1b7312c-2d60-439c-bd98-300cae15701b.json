@@ -1,0 +1,367 @@
+{
+  "id": "f1b7312c-2d60-439c-bd98-300cae15701b",
+  "description": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
+  "title": "Bluey",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDBiNDI3YjQtNDdkNS00ZDliLTlmMmQtMDE4ZWM1ZGIyNjljXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg",
+  "genres": [
+    8,
+    12
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "title": "Magic Xylophone",
+          "episode": 1,
+          "description": "As Bluey and Bingo begin to squabble over their magic xylophone (that has the power to freeze their Dad in space and time) Dad seizes control and freezes Bluey, leaving Bingo as her only hope.",
+          "date": "2018-09-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGM4MTZkZjktODAxNi00OTg1LTg3ZTAtMDc4OTc0OGNiOGEwXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "Hospital",
+          "episode": 2,
+          "description": "Doctor Bluey is needed for assistance when Dad gets a very curious x-ray from Nurse Bingo. It seems that he has a cat in his tummy, leaving Bluey no choice but for her to operate immediately.",
+          "date": "2018-10-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjM3NzMwYzItMmU2Ny00NTEzLWFhYzgtYzgwYWY5YmQ3OGExXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "Keepy Uppy",
+          "episode": 3,
+          "description": "Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon. All is fine, until their Dad joins in, and soon, the game becomes the ultimate test of skill.",
+          "date": "2018-10-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjMwODQ0YWMtODY1MS00MzNjLWExNmUtYTU4MDljYjczMmQ3XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "Daddy Robot",
+          "episode": 4,
+          "description": "Bluey and Bingo don't want to tidy the playroom, so they get their Dad (as Daddy Robot) to do it for them. But when Bluey takes things too far, Daddy Robot begins to malfunction with some disastrous results.",
+          "date": "2018-10-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDBjMDRlYjAtZjUyZS00MjI5LWE3NTgtODA0YTBkMTA5Mjk2XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "Shadowlands",
+          "episode": 5,
+          "description": "On a picnic in the park, Bluey, Coco and Snickers play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules (and not changing them) can make the game even more fun.",
+          "date": "2018-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjUzYWY2YmItNDQzMS00ODJjLTk1MWQtNDk0NTM1MTVlZDcxXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "The Weekend",
+          "episode": 6,
+          "description": "At the weekend, Bluey and Bingo are playing in the garden with their Dad. But Bingo gets upset, when she discovers a walking leaf insect and for her Dad, he is too caught up in the game to notice.",
+          "date": "2018-10-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWFiYjk5OTUtNjVhZS00ZTY3LWE5ZTQtYjczMDRmYzRlYzIxXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "BBQ",
+          "episode": 7,
+          "description": "It's lunchtime on Bluey and her Dad's back decks. But every BBQ needs a side salad, so for Bingo, her relaxing sit-down will have to wait until she finds every color of capsicum that her cousins have asked for.",
+          "date": "2018-10-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODZmNzliZmItNzNlNy00NDRkLTlhMTQtNzg1MzA0M2QwNjdhXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "Fruitbat",
+          "episode": 8,
+          "description": "Not wanting to go to bed, Bluey tries to dream about being a nocturnal fruit bat so that she can stay up all night long, and soon, she finds herself flying through the night sky.",
+          "date": "2018-10-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjZmNTU1NWItOGVhNC00MGYwLWFiM2MtODJkZGNjNTEwMjYzXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "Horsey Ride",
+          "episode": 9,
+          "description": "When Bluey forgets to put her favorite toy away, Muffin's cousin Socks then grabs it and won't let go of it. The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses.",
+          "date": "2018-10-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWQyZjRkNjYtODI4MS00ZTAyLTk2OGMtODQ4MTAzZGVkMTA0XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E10 ∙ Hotel",
+          "episode": 10,
+          "description": "Bluey and Bingo run a crazy \"Hotel\" with Dad as their first and only put upon guest. But when Bingo quits over Bluey being too controlling, their Dad needs to teach them the importance of compromise.",
+          "date": "2018-10-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzY5NWIzMmItYjczNS00ZGU2LWJiNjUtNjIzMjlmOGZkZjYyXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E11 ∙ Bike",
+          "episode": 11,
+          "description": "One day at the park, Bluey is struggling to learn how to ride her own bike. But as she and her Dad watch her friends determination with their own tasks, Bluey is inspired to give it another try.",
+          "date": "2018-10-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjIwMWJiYzAtNGQwOS00Zjg0LWFjM2UtOTA2NTU4ODJhM2FlXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E12 ∙ Bob Bilby",
+          "episode": 12,
+          "description": "When it's Bingo's turn to bring her Kindy's Bob Bilby puppet home and record their weekend in the scrapbook, the family resolve to put down their screens and attempt to show him a good time.",
+          "date": "2018-10-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3ZWJjYTEtNmZhNy00NzE5LWE3Y2ItNjI3YzE3NTk1OTIxXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E13 ∙ Spy Game",
+          "episode": 13,
+          "description": "When Bingo stops playing Bluey's spy game in the park, their device to control the grown-ups stops working properly. Bluey now sees how important Bingo is and she needs to win her back.",
+          "date": "2018-10-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGEwYTEzMTItODM3My00N2M5LWJiZTAtNTljZWI0NzY1NTJlXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E14 ∙ Takeaway",
+          "episode": 14,
+          "description": "While they are forced to wait five minutes in front of a restaurant for their takeaway order, Bluey and Bingo become restless for entertainment, pushing the very limits of Dad's patience.",
+          "date": "2018-10-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWJjYjViOWQtYzE1NC00ZDhkLWFhN2QtZDM5YTdlNTUxZmE5XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E15 ∙ Butterflies",
+          "episode": 15,
+          "description": "Playing 'Butterflies' in the backyard is great fun. The game goes on, until Bluey runs away with Judo, leaving Bingo all alone. Now poor Bingo's heartbroken, and for Bluey, she needs to make amends.",
+          "date": "2018-10-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTAyYjU1MjMtYmVlZS00ZWM4LTkyMjEtOGU0MDIxOTEyMzJmXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E16 ∙ Yoga Ball",
+          "episode": 16,
+          "description": "For Bingo, she loves horsing around with her Dad, but sometimes he forgets that Bingo is smaller than her sister. Mum teaches Bingo how to use her big girl bark to keep their fun within her limits.",
+          "date": "2018-10-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGMzNWI4ODQtNDdkNi00NGFlLTkzOTItZWU3Y2JkMmU3ODY5XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E17 ∙ Calypso",
+          "episode": 17,
+          "description": "At school, Bluey and her friends all throw themselves into various games. Their teacher Calypso keeps her charges on track with a wise word and a song - all except for the mysterious Pretzel.",
+          "date": "2018-10-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2U4NjIzOWUtZjAwNS00OTU0LWE0MzQtMzhmMzVkODJlZmY0XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E18 ∙ The Doctor",
+          "episode": 18,
+          "description": "Honey is stuck waiting for Dr Bingo's appointment as all the other, more exciting injuries get seen before her's. Receptionist Bluey tells her to be patient, as some of these cases are a real pickle.",
+          "date": "2018-10-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYzNzhlNjEtMzE1Mi00NzM5LTkzNzQtMWUwODY1ZDBmNzQ4XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E19 ∙ The Claw",
+          "episode": 19,
+          "description": "When Bluey and Bingo are unable to grab some chocolate doodads on a Magic Claw machine, they both return back to their house. Mum and Dad create their own version at home. But for Dad, he isn't about to make winning easy.",
+          "date": "2018-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWUwN2YwN2UtNzI3OS00YzE3LTk5YTEtZTcxMGM1ZTI5NWNmXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E20 ∙ Markets",
+          "episode": 20,
+          "description": "When Bluey visits the markets with five dollars from the tooth fairy, the options for her are endless. But as she and Indy scour the market stalls for the perfect purchase, spending it proves hard.",
+          "date": "2018-10-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWJhMWZiNjMtMWFkMS00M2RhLWJmMmQtNWE0NDQ5NWNlNjdjXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E21 ∙ Blue Mountains",
+          "episode": 21,
+          "description": "Bluey, Bingo, Mum and Dad all play a game of hand puppets, exploring the land beyond the Blue Mountains where they'll have to outsmart the Cheeky Fox to find the softest beds in the world.",
+          "date": "2018-10-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgyMThhZjQtMjIwNy00Y2FjLWFhZTUtNDZjODEwOGJlYjY1XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E22 ∙ The Pool",
+          "episode": 22,
+          "description": "While packing for the pool, Bluey and her Dad tease Mum about being so fussy with what to take, But when they arrive under prepared, they realize that a little planning goes a long way.",
+          "date": "2018-10-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWJhNGRjNjUtMGQzZi00NTY0LWI2ZWYtM2YzZWZkZDdlYWY1XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E23 ∙ Shops",
+          "episode": 23,
+          "description": "Playing 'Shops' is the best game ever for Bluey and her friends - if they can only ever get started. With Bluey questioning the rules and changing who's who, they might be here all day.",
+          "date": "2018-10-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDllMTc1OTgtNzFlMS00MDlhLTlhM2ItZmJhODJkNWMyOGU0XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E24 ∙ Wagon Ride",
+          "episode": 24,
+          "description": "Bluey can't wait to get to the monkey bars as Dad takes her and Bingo on a wagon ride to the park. But her patience will be tested when Dad keeps stopping to chat with other grown-ups.",
+          "date": "2018-10-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjVhYjBlODUtMmUxNS00MWRmLWJmYWYtY2IzODQ0N2QwYjNkXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E25 ∙ Taxi",
+          "episode": 25,
+          "description": "Bluey is running a taxi service. Her first passenger is Dad taking the role of the Businessman, who is in a rush to get to the airport. But with unexpected delays, Dad's in danger of missing his own flight.",
+          "date": "2018-10-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmJmNDdmMDYtZjZiZS00MzM3LWI4N2YtMDg0MTI1OTQ0NjFmXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E26 ∙ The Beach",
+          "episode": 26,
+          "description": "As her Mum goes for a walk along the beach, Bluey runs to catch up with her. Along the way, she has a series of encounters that will both excite and test her in her first solo adventure.",
+          "date": "2018-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWJkMGQ5OTctNjQyMS00Y2FhLWFmNDYtMTEwZjc0MjE1NTk1XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E27 ∙ Pirates",
+          "episode": 27,
+          "description": "It's an adventure on the high seas as Bluey, Bingo and Missy play Pirates on the hammock swing, but they'll need to find their courage to withstand storms and whale attacks.",
+          "date": "2019-03-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2QxNDc0NDUtOTdiOS00YmI4LTg1NTgtZTNmYmNlYmEzYzBkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E28 ∙ Grannies",
+          "episode": 28,
+          "description": "A game of 'Grannies' is fun, until Bingo and Bluey can't agree on one simple question: Can Grannies dance? Now they'll need to video call their Nana to get the answer.",
+          "date": "2019-04-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmVlYzBjZTEtMTBhZS00NDBlLThhOWQtZWZlM2FlMmI0OTRiXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E29 ∙ The Creek",
+          "episode": 29,
+          "description": "Bored of the local playground, Dad and the kids go out on a journey to their local creek. Cast out of her comfort zone, Bluey's eyes are opened to the beauty of the natural world.",
+          "date": "2019-04-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmY3ODMwZmUtMDA1Zi00ZmFjLWE5MTItYjE5YmYzZjZlMjVjXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E30 ∙ Fairies",
+          "episode": 30,
+          "description": "Bluey's house has fairies. Tails are being braided, stickers are everywhere, and Mum's got a peg beard. Now the family must band together to hunt for these invisible mischief-makers.",
+          "date": "2019-04-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmZjM2E3ODMtMWE3MS00YWY2LTlmYTctNGRiMTQ2Yzc1MjJhXkEyXkFqcGdeQXVyMjQwMjU3NjQ@.jpg"
+        },
+        {
+          "title": "S1.E31 ∙ Work",
+          "episode": 31,
+          "description": "In a game of 'Work', Dad hires Bluey and Bingo at his drainpipe factory. But when Bluey gets to take charge, Dad finds his new boss pretty tough, especially her no dancing rule.",
+          "date": "2019-04-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWNjNDBkZDQtNjVjZS00OGYxLWIwYTktNWIxNmUyMWUzMTA3XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E32 ∙ Bumpy and the Wise Old Wolfhound",
+          "episode": 32,
+          "description": "Bingo is sick in hospital, so Bluey and her Dad make, and send her a homemade video to lift her spirits. It tells the tale of Barnicus' quest to heal her spotty dog named Bumpy.",
+          "date": "2019-04-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2NiMDIxMGYtYWFkYi00MzEyLWE5ZjYtZDhiN2E0M2MyYmI2XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E33 ∙ Trampoline",
+          "episode": 33,
+          "description": "When Dad has to stop having fun with the girls and go to work, Bluey and Bingo scramble to keep him playing games with them on the trampoline at the same time.",
+          "date": "2019-04-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODAwMWMxMWItYTIzNi00MTFkLThhODgtZTI5NGI2MDVjZDEyXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E34 ∙ The Dump",
+          "episode": 34,
+          "description": "On a trip to the Dump Dad claims he's the best at everything. But Bluey discovers that Dad's throwing out her old drawing and questions if he really is the best Dad in the world.",
+          "date": "2019-04-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDIyN2FhMWMtY2Q3Mi00ODQ5LWJmZjctMjk3ZjY0NThiZWU1XkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E35 ∙ Zoo",
+          "episode": 35,
+          "description": "Bluey's backyard zoo is home to wonderful animals, especially the big blue Daddy gorilla. But when he grabs visitor Bingo and escapes, Zookeeper Bluey must recapture the wild beast.",
+          "date": "2019-04-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmZjZDNjYzMtMzkyYi00MzIwLTg0ZGMtNDFjNWM5MjM5YjVlXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E36 ∙ Backpackers",
+          "episode": 36,
+          "description": "Mum and Dad are going on an adventure for the day, wearing the kids as their cheeky backpacks. Seeing the sights and buying street food, backpacking is a blast - until they lose their passports.",
+          "date": "2019-04-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGE5NWM3NmMtMzczZC00NWZlLWI0N2UtY2JkZmUyODg1YjUwXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E37 ∙ The Adventure",
+          "episode": 37,
+          "description": "Bluey plays with Chloe and pretends to be a horse as she accompanies the princess on an imaginary adventure to find food at the family farm. The friends swap roles and adopt a variety of personas as they save the kingdom from an evil queen",
+          "date": "2019-04-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGM2Zjk2ZTktMTg0MC00MWNhLWI4ZmMtN2JmYTRlNmJiMzU4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E38 ∙ Copycat",
+          "episode": 38,
+          "description": "Bluey's having fun copying everything Dad says and does, but the game takes a serious turn when Bluey finds a hurt budgie and they have to make an emergency trip to the vet.",
+          "date": "2019-04-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWJhODhiMTAtODc5ZS00YTgxLWFmM2YtYjc1OWU0NTU0NzgyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E39 ∙ The Sleepover",
+          "episode": 39,
+          "description": "A sleepover with their cousin Muffin means Bluey and Bingo get to stay up late. But when Muffin shows up exhausted after missing her nap, the girls get more fun than they bargained for.",
+          "date": "2019-04-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzUwOTVlYTUtNDcyNy00MzFiLTk2ZjAtYTA5ZTJhNTg1NTg2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E40 ∙ Early Baby",
+          "episode": 40,
+          "description": "Bluey's playgroup is at odds when Indy's baby hospital collides with Rusty's knights and dragons. But in explaining themselves, they both find that their games actually have a lot in common.",
+          "date": "2019-04-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGVmMGIyMDEtNDVhNy00ZDk2LTlhOGUtMjhlMjUyNDliYWEyXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E41 ∙ Mums and Dads",
+          "episode": 41,
+          "description": "While playing a game of Mum and Dads, Rusty and Indy couldn't decide who should \"go to work\" or \"stay and take care of the infant\" which causes them to split and play with other children.",
+          "date": "2019-04-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmVmMTlhNTgtOTg5NS00ZTkxLWIxZWUtMWZhNTAwNzI2OGNiXkEyXkFqcGdeQXVyMjQwMjU3NjQ@.jpg"
+        },
+        {
+          "title": "S1.E42 ∙ Hide and Seek",
+          "episode": 42,
+          "description": "It's time for a family game of hide and seek. Everyone hides, while Bluey counts to twenty, but will she be able to stay focused on the game and not get distracted by all her toys.",
+          "date": "2019-04-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2FmNzRkM2QtNWRhOS00Nzc1LWE0NTAtNzUwNDNjZDYxZTlkXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E43 ∙ Camping",
+          "episode": 43,
+          "description": "While on a camping holiday, Bluey makes a new friend called Jean-Luc. Bluey may not understand him, but they find common language playing and hunting for a wild Daddy pig.",
+          "date": "2019-04-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWY2Zjc5OWUtYjRmNy00NTZhLWJmOGUtYzA0YmY5MGFiNzhmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E44 ∙ Mount Mumandad",
+          "episode": 44,
+          "description": "Bingo and Bluey have five minutes to bed, just enough time to race to the summit of Mount Mumandad. But for them, facing powerful storms, avalanches and stinky spots will take teamwork.",
+          "date": "2019-04-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmI1ZWY1MmYtNmEzMy00NzI3LWI3YmMtZDlmZDNhYTFmMzIwXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E45 ∙ Kids",
+          "episode": 45,
+          "description": "A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of 'Kids'. Now Bluey is Mum, Bingo's her baby and for Dad however, he is a very naughty boy.",
+          "date": "2019-04-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjZmOWEwY2ItOTZhZS00ZGZjLTllMzQtMTI1YzUyMWVjOGMzXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E46 ∙ Chickenrat",
+          "episode": 46,
+          "description": "It's bedtime and Bingo can't remember where she left her beloved Floppy. Retracing their steps, Bingo and Bluey lead their Mum through their bizarre day in the hope of tracking her down.",
+          "date": "2019-04-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTIzN2RiODAtMDkxMC00ZmExLTk0MzAtM2I0ZmY3Y2YzYmZiXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E47 ∙ Neighbours",
+          "episode": 47,
+          "description": "Bluey needs her Mum's advice on dealing with a troublesome neighbor, when the serenity of her couch cushion playhouse is threatened by Bingo's own growing stable of animals.",
+          "date": "2019-04-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjdmZmFjMDQtMjhjOC00YzYyLWE0NzQtZWFiYzgxZWY3MzRkXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E48 ∙ Teasing",
+          "episode": 48,
+          "description": "Bluey, Bingo and Mum get into a debate with Dad about the definition of teasing. As they recall all the times where he's been a Big Teaser, Dad argues that he was only just playing.",
+          "date": "2020-01-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGM3M2NmZjItNzY2OS00MDYzLWFkODItYzBlODYxYTc2ZTIzXkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        },
+        {
+          "title": "S1.E49 ∙ Asparagus",
+          "episode": 49,
+          "description": "Dad tells Bluey to mind her manners at the table - they're not animals. But when Bluey gets her hands on a stick of magic asparagus, she shows them everyone's got a wild side.",
+          "date": "2019-04-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDE3Mzk4MmEtOWFkYy00MzllLWJiZWEtMWE0YTdhOTk1ZjE1XkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        },
+        {
+          "title": "S1.E50 ∙ Shaun",
+          "episode": 50,
+          "description": "Bluey and Bingo want a pet. To show them how much work they'd be in for, Dad gets to transform his hand into their old friend Shaun, a chaotic, undisciplined Emu with a taste for trouble.",
+          "date": "2019-04-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmYyY2ViYmEtYmIzYi00NzFiLTk0NmQtZmRmN2ZhMDg4YWI5XkEyXkFqcGdeQXVyOTU4MjA0NzA@.jpg"
+        }
+      ]
+    }
+  ]
+}

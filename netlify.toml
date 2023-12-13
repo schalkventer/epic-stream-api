@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "/"
+  to = "/api/list.json"
+  status = 200
+
+[[redirects]]
+  from = "/show/:splat/*"
+  to = "/api/shows/:splat.json"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/invalid.json"
+  status = 500
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
