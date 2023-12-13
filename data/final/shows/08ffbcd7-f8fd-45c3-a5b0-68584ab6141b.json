@@ -1,0 +1,235 @@
+{
+  "id": "08ffbcd7-f8fd-45c3-a5b0-68584ab6141b",
+  "description": "Former Daily Show host and correspondent John Oliver brings his persona to this weekly news satire program.",
+  "title": "Last Week Tonight with John Oliver",
+  "image": "https://m.media-amazon.com/images/M/MV5BNjRhYTgyZGEtOGU2YS00ZGM1LWIzODctZDhkNDBiYTFhZTYxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg",
+  "genres": [
+    18,
+    21,
+    0
+  ],
+  "seasons": [
+    {
+      "id": "e4dcbdbd-b988-46a2-87b9-f0804b57f5d3",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "ba372ae2-cbc7-413d-bba0-b6841bf46fe5",
+          "title": "POM Wonderful v. Coca-Cola",
+          "episode": 1,
+          "description": "John talks about the Indian election, Pom Wonderful, and talks with the former NSA director General Keith Alexander.",
+          "date": "2014-04-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzMzMmNiNjItMjA3ZC00NGYzLTlhMDgtZTg5MzllNjU3ZDc4XkEyXkFqcGdeQXVyMzk0NzgwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a37b26f0-fe34-4039-8a77-edaed646df5e",
+          "title": "Capital Punishment",
+          "episode": 2,
+          "description": "John talks about the recent issues of the death penalty, François Hollande, and the rising issues happening in Brunei.",
+          "date": "2014-05-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjFmODlkMTctYTFlMC00MjQ4LTkwZGQtZWJjYmUwMDc2MGNmXkEyXkFqcGdeQXVyMzk0NzgwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4b7300a0-6b95-4a8e-86c8-505310d7d4c2",
+          "title": "Climate Change Denial",
+          "episode": 3,
+          "description": "John talks about Eurovision, Ukraine and Russia's relations, and invites Bill Nye to a statistically representative climate change debate.",
+          "date": "2014-05-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTVkNDdkMTktNWEyOS00OTBhLWI5ZDYtYzI3N2M5OTdkOGExXkEyXkFqcGdeQXVyMzk0NzgwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5cfc8dd8-70df-49d8-9fab-e23a7888bb0b",
+          "title": "The Right to Be Forgotten",
+          "episode": 4,
+          "description": "John talks about the product recall going on at General Motors, the EU Court of Justice \"Right to be Forgotten\" ruling, and updates us on how the Indian election is going, with help from Fareed Zakaria.",
+          "date": "2014-05-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDAyZDZiZWItMmRkMC00N2EwLWEzM2ItOGMxMTY3YWU0MjEzXkEyXkFqcGdeQXVyMzk0NzgwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4ee4c22c-b801-48fb-b138-79eca5011675",
+          "title": "Net Neutrality",
+          "episode": 5,
+          "description": "This week's topics include the rise of the far right political parties in Europe, the Ukrainian election, Afghanistan, Net Neutrality, Australia's hard-line right-wing Prime Minister Tony Abbott, and the 2014 Scripps National Spelling Bee.",
+          "date": "2014-05-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjRjNmQtN2MzMC00NDVkLTgwYmUtMDQwOWQzNDlmZjRjXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b8a10c50-d788-47d3-a5a4-ac0e520b54e7",
+          "title": "FIFA and the World Cup",
+          "episode": 6,
+          "description": "John Oliver discusses the anniversary of the Tiananmen Square rebellion and the FIFA World Cup and invites Right Said Fred to send a message to Bashar al-Assad.",
+          "date": "2014-06-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmFmMGRjN2QtNDAwZi00OTVkLThkN2QtY2UzZTUwMWFlYTRiXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d8dc5f7d-6e64-4e8c-a2da-2bb176daf7d9",
+          "title": "Immigration Reform",
+          "episode": 7,
+          "description": "John discusses immigration, the Washington Redskins and Iraq and talks to Stephen Hawking.",
+          "date": "2014-06-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTZlOGVjODEtZTNjOC00YzM1LThiZjMtZDBmZmY4NjBhYjQ1XkEyXkFqcGdeQXVyODU4OTg1ODg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a29c5c89-986f-46aa-94b6-45208dd3cb56",
+          "title": "Dr. Oz",
+          "episode": 8,
+          "description": "John highlights recent news such as the problems of tourism in Antarctica, discusses international royalty as a service to Game of Thrones fans and panders to the audience in response to allegations against Dr. Oz.",
+          "date": "2014-06-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzA0YjUyNTAtZTAzNy00ZWI2LWJhMGItZWM1ZTBkMTViMzM0XkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5d645ad9-b0e3-4639-a2f4-936cbf690c56",
+          "title": "Burwell v. Hobby Lobby",
+          "episode": 9,
+          "description": "John Oliver sheds light on recent Supreme Court cases and discusses gay rights in Uganda with activist Pepe Julian Onziema.",
+          "date": "2014-06-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGIyZDBkYmEtNTI4Yy00NTlmLWExMGEtZGRhN2JiODA4OTcxXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "748bbbe7-b7f0-4990-84c6-9d1461522bf6",
+          "title": "S1.E10 ∙ Income Inequality and Wealth Inequality",
+          "episode": 10,
+          "description": "John revisits news of a change in Japan's foreign policy, the love letters of Warren G. Harding and CIA's social media activity, and discusses the issues of income inequality in America.",
+          "date": "2014-07-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzAzNzUxMzctN2I0Zi00MmZkLTgxNjItMzdiMzE0NjlmYzNlXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fe71ac6a-61a0-4485-9c59-79ecd15f270b",
+          "title": "S1.E11 ∙ Incarceration in the United States",
+          "episode": 11,
+          "description": "John talks about Gaza (but mostly Anderson Cooper) and about Malaysia Airlines flight 17, then discusses prison incarcerations in America and sings with Muppet-like puppets, similar to those from Sesame Street.",
+          "date": "2014-07-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjQ1ZDI1NTktYWFhYy00ZjE5LTk1NjgtYjAxYTIyZGZlZmNiXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b0480ca6-7ec5-4d61-9001-b4d607e4be10",
+          "title": "S1.E12 ∙ Nuclear Weapons and the United States",
+          "episode": 12,
+          "description": "John addresses the Islamic State in Iraq and Syria, revisits the subject of international royalty, discusses the safety of nuclear weapons and campaigns to save geckos in space.",
+          "date": "2014-07-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDFiMjUxMDctOWU0NS00ZDNhLTg2ODctN2RkZjFkNWI1YTFhXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c50c8b41-c146-4c34-9ad6-e5eee5cb1d5d",
+          "title": "S1.E13 ∙ Native Advertising",
+          "episode": 13,
+          "description": "John discusses native advertising and Argentine debt restructuring.",
+          "date": "2014-08-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDAzYWU4NzAtODQ1Yi00ZjA2LWJmZDMtNTg4ZTZjNjFlNzhjXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e52d1511-2634-4546-83ce-5b8d3038c836",
+          "title": "S1.E14 ∙ Payday Loans",
+          "episode": 14,
+          "description": "John discusses payday loans and Russia's import embargo on U.S. chicken and soybean.",
+          "date": "2014-08-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzc4ODE3MDItNThmOS00YmMzLWFkZmYtZmIxN2UwZTZlMDkxXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "349f571e-3755-4a4c-9883-4102d57a860d",
+          "title": "S1.E15 ∙ Shooting of Michael Brown and Police Militarization",
+          "episode": 15,
+          "description": "Focuses on the shooting of Michael Brown and police militarization in Ferguson, MO. John also discusses the topic of equal pay for equal work.",
+          "date": "2014-08-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2I5OWM0ZWMtNTc2Mi00NzZjLWJkYWUtNzIwMTRiNjEwYjAyXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fa90177f-bdc6-44b0-b38b-9a01e41c4b0c",
+          "title": "S1.E16 ∙ Student Debt",
+          "episode": 16,
+          "description": "John provides a eulogy for the mating space geckos, and talks about student debt.",
+          "date": "2014-09-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2MyZDE5OWQtMjE4NC00MmIxLWE4ZGUtOTljMmYzZTM3YzQ1XkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fdeda920-9ae4-4178-9ab8-b04e80147238",
+          "title": "S1.E17 ∙ Scottish Independence Referendum",
+          "episode": 17,
+          "description": "John discusses the Scottish independence referendum and corporations using Twitter.",
+          "date": "2014-09-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA1ODcxNzUtZGJlYi00MWE3LWIwNGQtZWNkODkwOGRhNTdjXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "81b648f6-bfc4-490a-90a6-8c473a6d6bb1",
+          "title": "S1.E18 ∙ United States Embargo Against Cuba, Miss America 2015",
+          "episode": 18,
+          "description": "John focuses on the Miss America 2015 pageant with special guest Kathy Griffin.",
+          "date": "2014-09-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODQ1ZjIxMzQtMDI4ZS00NTg5LWIyYWMtNzVjOWQ3MDkwZTQyXkEyXkFqcGdeQXVyODU4OTg1ODg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9eb0ae36-d572-4d83-8ea4-cdfa34675d71",
+          "title": "S1.E19 ∙ Drones",
+          "episode": 19,
+          "description": "John discusses U.S. military drones and the Kansas state budget shortfall.",
+          "date": "2014-09-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWY1M2I4NTQtYmM1OS00NzhiLWE3MjItZmZkNDU0NTQ0MDdiXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4064fcfa-4332-4934-a0c2-33e9d4938322",
+          "title": "S1.E20 ∙ Civil Forfeiture",
+          "episode": 20,
+          "description": "John Oliver shows us how desperate the American law enforcement are to make money out of everyone.",
+          "date": "2014-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDk5NjBjNWMtYzZjYS00YWFmLTg2MTItNmVhYjkyYWI0ODFlXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "05bf9013-ee7a-4297-a80b-f2737894b7fc",
+          "title": "S1.E21 ∙ Military Translators",
+          "episode": 21,
+          "description": "Translators who have aided the U.S. Military in Afghanistan and Iraq are in great danger in their home countries, but red tape is making it impossible for many of them to leave.",
+          "date": "2014-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2EwMGY5NDEtZmU0Ny00Mzg5LWJkZjctNGJiN2U3N2NiYjk3XkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3fba5e97-6d30-4e3a-bba0-895c4a12d75d",
+          "title": "S1.E22 ∙ Sugar",
+          "episode": 22,
+          "description": "John Oliver is back to discuss how the sugar industry rules the world!",
+          "date": "2014-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDIzZmYwZDAtZDk4My00M2QzLThkZjUtYzZjNjQyM2Q2M2NhXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4ce12933-6a37-4a07-a7f5-93314ade67a8",
+          "title": "S1.E23 ∙ State Legislatures and ALEC",
+          "episode": 23,
+          "description": "John disusses robot sales associates at Lowe's, U.S legislatures in elections, and the American Legislative Exchange Council (ALEC).",
+          "date": "2014-11-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDdmOTM4ZDYtYzZmNC00MGY5LWJlOTQtZDc2Y2EwYjk2NzIxXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3c805b5c-b35e-4d89-8080-271a8c2cfcf4",
+          "title": "S1.E24 ∙ The Lottery",
+          "episode": 24,
+          "description": "Last Week Tonight features in-depth and critical look at state lotteries. It also looks at the Turkish Prime Minister's Grand Palace and a Salmon shooting cannon.",
+          "date": "2014-11-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU1YWFhMzUtMjAyNS00MjcxLWJhZjMtMzJiODRmNmY5MWVjXkEyXkFqcGdeQXVyNDUxMDc2MzU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

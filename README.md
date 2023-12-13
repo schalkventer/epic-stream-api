@@ -3,86 +3,80 @@
 
 ## 📦Data
 
-**Data consists of three basic semantic units**
+**Data consists of these three entities**
 
-- `SHOW`: A specific podcast that contains a single or several `SEASON`
-- `SEASON`: A collection of `EPISODE` released across a specific timespan
-- `EPISODE`: Corresponds to a specific MP3 file that user can listen
-
-However, the following information is also exposed via the API
-
-- `PREVIEW`: A summarised version of a `SHOW` that only contains basic information. Usually exposed when an array of different `SHOW` information is requested.
-- `GENRE`: Information related to a (one of many) genres that can be assigned to a `SHOW`
-
-### Relationships
-
-The following chart indicates the relations between units of data. It uses Entity Relationship mapping. In order to understand the meaning of symbols in the chart please read [the overview on the Mermaid.js documentation](https://mermaid.js.org/syntax/entityRelationshipDiagram.html). 
-
-Note that the text between the units indicates what properties map to one another. It is separated by means of three underscores (`___`). The value before the underscores is the mapping from the parent object, whereas the values after the underscore is the mapping from the child object.
-
-_Note that is some cases there is no way to infer the parent from the child itself , in those cases just the parent map is noted, with no value after the underscores_.
-
-```mermaid
-erDiagram
-
-PREVIEW {
-    number id
-    string title
-    string description
-		number seasons
-		string image
-		array genreIds
-		updated string
-}
-
-SHOW {
-    number id
-    string title
-    string description
-		array seasons
-}
-
-SEASON {
-  number id
-	string title
-	string image
-	array episodes
-}
-
-EPISODE {
-	number id
-	string file
-	string title
-}
-
-GENRE {
-	number id
-	string title
-	string description
-	array showIds
-}
-
-PREVIEW ||--|| SHOW: id___id
-PREVIEW }|--|{ GENRE: genreIds___showIds
-SHOW }|--|{ GENRE: genreIds___showIds
-SHOW ||--|{ SEASON: seasons___
-SEASON ||--|{ EPISODE: episodes___
-
-```
+- **`Show`**: A specific TV Show has a single or several **`Seasons`**
+- **`Season`**: A collection of **`Episodes`** released across a specific
+  timespan
+- **`Episode`**: Corresponds to a specific MP4 file that user can watch
 
 ### Endpoints
 
-Data can be called via a `fetch` request to the following three endpoints. Note that there is not always a one-to-one mapping between endpoints and actual data structures. Also note that  ***`<ID>`** indicates where the dynamic ID for the requested item should be placed. For example: `[https://epic-stream-api.netlify.app/genre/3](https://epic-stream-api.netlify.app/genre/3)`* 
+The above is exposed through two endpoints that can be called via a `fetch`
+request. 
 
-| URL                                              |                                                                                        |
-| ------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| `https://epic-stream-api.netlify.app`            | Returns an array of PREVIEW                                                            |
-| `https://epic-stream-api.netlify.app/genre/<ID>` | Returns a GENRE object                                                                 |
-| `https://epic-stream-api.netlify.app/id/<ID>`    | Returns a SHOW object with several SEASON and EPISODE objects directly embedded within |
+Note that  ***`<SHOW_ID>`** indicates where the dynamic ID for a reqested show
+should be placed. For example:
+`[https://epic-stream-api.netlify.app/show/7099db11-b5e3-47db-8945-7f4f86c7c504](https://epic-stream-api.netlify.app/show/7099db11-b5e3-47db-8945-7f4f86c7c504)`* 
+
+| URL                                                  |                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `https://epic-stream-api.netlify.app`                | Returns an array of **`Show`** preview objects. These contain limited information, however the returned `id` property can be used to call the specific show endpoint. Note that instead of the actual *Seasons*, a number is returned indicating how many *Seasons* a show has. |  |
+| `https://epic-stream-api.netlify.app/show/<SHOW_ID>` | Returns a **`Show`** object with several **`Season`** objects directly embedded  inside. Note that each **`Seasion`** object further has an array of **`Episode`** objects embedded inside.                                                                                     |
+
+
+
+### Relationships
+
+The following chart indicates the relations between units of data. It uses
+Entity Relationship mapping. In order to understand the meaning of symbols in
+the chart please read [the overview on the Mermaid.js
+documentation](https://mermaid.js.org/syntax/entityRelationshipDiagram.html). 
+
+
+```mermaid
+erDiagram
+    SHOW {
+        id string
+        title string
+        description string
+        image string
+        genres GENRE
+        seasons SEASON
+    }
+
+    GENRE {
+        id number
+    }
+
+    SEASON {
+        id string
+        season number
+        episodes EPISODE
+    }
+
+    EPISODE {
+        id string
+        title string
+        episode number
+        description string
+        date string
+        image string
+        file string
+    }
+
+    SHOW }|--|{ GENRE : "many to many"
+    SHOW ||--|{ SEASON : "one to many"
+    SEASON ||--|{ EPISODE : "one to many"
+
+```
+
 
 ### Genre Titles
 
-Since genre information is only exposed by means of the specific `GENRE` id, it is recommended that you include the mapping between genre id values and title in your code itself:
+Since genre information is only exposed by means of the specific `GENRE` id, it
+is recommended that you include the mapping between genre id values and title in
+your code itself:
 
 | ID  | Title       |
 | --- | ----------- |

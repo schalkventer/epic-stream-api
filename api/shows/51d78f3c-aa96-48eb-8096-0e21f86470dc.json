@@ -1,0 +1,90 @@
+{
+  "id": "51d78f3c-aa96-48eb-8096-0e21f86470dc",
+  "description": "Mammoth series, five years in the making, taking a look at the rich tapestry of life in the world's oceans.",
+  "title": "The Blue Planet",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjI2NzVhM2UtODZlNS00Nzk1LTk4NDQtYTc0YWU4ODNlNGNjXkEyXkFqcGdeQXVyNjcwMzExMzU@.jpg",
+  "genres": [
+    4,
+    5
+  ],
+  "seasons": [
+    {
+      "id": "ce526acc-4e87-48b9-927a-597a8397395a",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "dba3ac9f-dfb9-4c7a-9a8b-5ed417872263",
+          "title": "Ocean World",
+          "episode": 1,
+          "description": "The ocean's influence dominates the world's weather systems and supports an enormous range of life. This first episode demonstrates the sheer scale, power and complexity of the \"Blue Planet\".",
+          "date": "2002-01-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc0NzY1OTk5MV5BMl5BanBnXkFtZTgwNzE3MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d46c6406-9542-4e50-8dcb-a47a29741373",
+          "title": "The Deep",
+          "episode": 2,
+          "description": "The deep sea, which gets darker with increasing depth until no more sunlight penetrates at about a kilometer depth, and ever colder closer to the bottom of the ocean, covers most of the planet and is thus by far the largest habitat on earth, yet has been explored less than space, so most scientific expeditions, at depths requiring modern submarine technology, discover at least one new species, or even whole new branches of submarine life. Like everywhere else, evolution has over millions of years produced several amazing adaptations to even the most extreme conditions, here especially to the lack of sunlight, with its problems for procreation, searching food and fleeing hunters, such as photophore cells which produce specific light types, mimic rare light penetrating from above, etcetera.",
+          "date": "2001-09-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjM3ODE0MDMyNl5BMl5BanBnXkFtZTgwNjM1MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c8d9599b-96b2-4bb1-a473-9b83335ef617",
+          "title": "Open Ocean",
+          "episode": 3,
+          "description": "Endless blue stretches in every direction. The sea bed is a staggering eight kilometers deeper down and the nearest island is 500 kilometers away. There is nothing save the burning sun above and the blackened abyss below. How, then, does life exist?",
+          "date": "2001-09-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY2NzQ1MTA0Nl5BMl5BanBnXkFtZTgwNjI3MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0640a5e3-1c65-4217-9cbb-341c073ecf3c",
+          "title": "Frozen Seas",
+          "episode": 4,
+          "description": "Life on the edge of a frozen sea is tough. Ice at both poles is constantly moving, and in winter freezes solid with air temperatures 70 °C below freezing. Only in spring, with the retreating ice and light reaching the water, does life begin again.",
+          "date": "2001-10-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzAxMDgyODE3N15BMl5BanBnXkFtZTgwMDU3MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3fe6ef92-125f-43e0-8ef3-fa8e32335345",
+          "title": "Seasonal Seas",
+          "episode": 5,
+          "description": "Shafts of sunlight are the vital source of energy used by the countless billions of plankton that grow every spring and summer in the world's temperate sea, the richest of all habitats.",
+          "date": "2001-10-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA4MDcyMjk3M15BMl5BanBnXkFtZTgwMDM3MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "95bba00f-9976-43fe-9b17-2ddb0cbf4982",
+          "title": "Coral Seas",
+          "episode": 6,
+          "description": "Coral reefs are the rainforests of the sea; fish compete for food, territory and mates within this oasis of life. Incredible time-lapse photography shows the dramatic formation of a coral reef, portraying its inhabitants and its ultimate destruction.",
+          "date": "2001-10-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTI0NDI1Mjk3MV5BMl5BanBnXkFtZTgwNjE3MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fbdd6022-b7e1-4bad-a984-46735b5b7ae1",
+          "title": "Tidal Seas",
+          "episode": 7,
+          "description": "Tidal marshes are one of the most productive parts of the world. Numerous plants support numerous animals, yet life is not easy: predators are attracted to these enormous quantities of food, forcing animals to seek constant protection from attack.",
+          "date": "2001-10-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE5ODU4MDk5NV5BMl5BanBnXkFtZTgwMzI3MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "faeebd5f-681d-4374-a101-33b6313c22b7",
+          "title": "Coasts",
+          "episode": 8,
+          "description": "The boundary between land and sea is an exciting place, with seabirds, turtles, and marine mammals constantly coming and going.",
+          "date": "2001-10-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjUwOTM5MF5BMl5BanBnXkFtZTgwNTM1MjIyMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

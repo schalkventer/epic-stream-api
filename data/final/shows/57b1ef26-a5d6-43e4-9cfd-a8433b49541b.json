@@ -1,0 +1,45 @@
+{
+  "id": "57b1ef26-a5d6-43e4-9cfd-a8433b49541b",
+  "description": "In January 1969, The Beatles set out to write and record new songs for their first live show in more than two years, culminating in an impromptu concert atop their Savile Row studio.",
+  "title": "The Beatles: Get Back",
+  "image": "https://m.media-amazon.com/images/M/MV5BNjMxMjE5ZTEtMjgyOC00ODM4LWJjZDAtMjcwZDBlNzZhZTkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg",
+  "genres": [
+    4,
+    20
+  ],
+  "seasons": [
+    {
+      "id": "14b5218d-3ab0-48ad-af58-6aebd3d5afc4",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "15365e31-a1a9-4e82-9a9c-f7ec1c2e35ce",
+          "title": "Part 1: Days 1-7",
+          "episode": 1,
+          "description": "The Beatles arrive at Twickenham Studios and have three weeks to complete 14 new songs and a live show.",
+          "date": "2021-11-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDBjM2MzODMtMzIxYS00ZDNkLThmMGMtY2YwZjg3MjBmNDg5XkEyXkFqcGdeQXVyNjMxNjg1MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e12cd78f-a50c-43c9-b623-582292dc1946",
+          "title": "Part 2: Days 8-16",
+          "episode": 2,
+          "description": "John, Paul and Ringo meet with George following his walkout and move the session to Apple Studios.",
+          "date": "2021-11-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2UzZTkxOTUtZGEyMS00NmVkLTllMTktNmFkMmQ3MmIzNDUzXkEyXkFqcGdeQXVyNjMxNjg1MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4e918232-6ce8-4257-adc2-8c6168e97567",
+          "title": "Part 3: Days 17-22",
+          "episode": 3,
+          "description": "The Beatles must decide if they will perform live for the first time in more than two years.",
+          "date": "2021-11-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDRmNTY0ODEtNWZjYS00ZjkwLWIzODAtN2ZkOWRiZDE0MzIzXkEyXkFqcGdeQXVyNjMxNjg1MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

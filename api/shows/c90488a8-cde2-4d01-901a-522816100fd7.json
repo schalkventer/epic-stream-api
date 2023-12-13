@@ -1,0 +1,172 @@
+{
+  "id": "c90488a8-cde2-4d01-901a-522816100fd7",
+  "description": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
+  "title": "Sherlock",
+  "image": "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg",
+  "genres": [
+    1,
+    2,
+    17
+  ],
+  "seasons": [
+    {
+      "id": "b277e7e6-c40f-46f1-a129-67e04c31fdc6",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "c5175839-bd62-4d82-8df2-114212203005",
+          "title": "Unaired Pilot",
+          "episode": 0,
+          "description": "Invalided home from the war in Afghanistan, Dr. John Watson becomes roommates with the world's only \"consulting detective,\" Sherlock Holmes. Within a day their friendship is forged and several murders are solved.",
+          "date": "2011-06-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTk5NWFkYzgtM2JjNi00MjgzLWE3OTctYjhkM2RiNjVhNTEwXkEyXkFqcGdeQXVyNDAwNTEyNjc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c0b0b5d4-b903-4e4c-a8e2-d9ce8bb64d63",
+          "title": "A Study in Pink",
+          "episode": 1,
+          "description": "War vet Dr. John Watson returns to London in need of a place to stay. He meets Sherlock Holmes, a consulting detective, and the two soon find themselves digging into a string of serial \"suicides.\"",
+          "date": "2010-10-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODY0MzI0OGMtNTJiOC00MGIxLThhZGEtYTk5MTM0MWFlZDFkL2ltYWdlXkEyXkFqcGdeQXVyNTAzOTQ2ODU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0e689aea-bfc8-4314-ac4d-992f362d4963",
+          "title": "The Blind Banker",
+          "episode": 2,
+          "description": "Mysterious symbols and murders are showing up all over London, leading Sherlock and John to a secret Chinese crime syndicate called Black Lotus.",
+          "date": "2010-10-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk5NjU2NjQ0Nl5BMl5BanBnXkFtZTcwMDY1NDkxNA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ce49485a-0c19-482e-a88c-2db01ef32866",
+          "title": "The Great Game",
+          "episode": 3,
+          "description": "Mycroft needs Sherlock's help, but a remorseless criminal mastermind puts Sherlock on a distracting crime-solving spree via a series of hostage human bombs through which he speaks.",
+          "date": "2010-11-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjU4NTUwMjIwOF5BMl5BanBnXkFtZTcwMTczMzU3Nw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "b5fa62f1-be75-4677-9ce1-902e5712af80",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "00cee3e0-fad2-470a-ad60-e1f6ee6d3a8e",
+          "title": "A Scandal in Belgravia",
+          "episode": 1,
+          "description": "Sherlock must confiscate something of importance from a mysterious woman named Irene Adler.",
+          "date": "2012-05-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMyMTc5Mzc2MV5BMl5BanBnXkFtZTcwMjczMzU3Nw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6c87be23-dba9-49c1-a4e1-d39a1fc1ab8f",
+          "title": "The Hounds of Baskerville",
+          "episode": 2,
+          "description": "Sherlock and John investigate the ghosts of a young man who has been seeing monstrous hounds out in the woods where his father died.",
+          "date": "2012-05-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDc3NzY3Njk0Ml5BMl5BanBnXkFtZTcwNTYzMzU3Nw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b224220d-27bc-4cd7-ae60-34e0b77187e3",
+          "title": "The Reichenbach Fall",
+          "episode": 3,
+          "description": "Jim Moriarty hatches a mad scheme to turn the whole city against Sherlock.",
+          "date": "2012-05-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjgyNWM1ZTItYjRhOS00ODM4LTgzNjUtZDVkY2Q0ZGM5MWFhXkEyXkFqcGdeQXVyOTc4MjI5MTY@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ec02e17a-7e3a-4af8-908b-8a1ee796fc7f",
+      "season": 3,
+      "episodes": [
+        {
+          "id": "b4230a40-21e5-47d0-ab13-a55b873316e6",
+          "title": "Many Happy Returns",
+          "episode": 0,
+          "description": "John and Lestrade try to move on with their lives after Sherlock's apparent death. However, Anderson believes he is still alive.",
+          "date": "2014-01-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmI4ZWVjOWMtOGY2Yy00YTQzLWJjM2QtZDVjMjgwMTExOWQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ5MTM1ODQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "44ccfa8e-799a-4a40-9ae2-d1e825de3a06",
+          "title": "The Empty Hearse",
+          "episode": 1,
+          "description": "Mycroft calls Sherlock back to London to investigate an underground terrorist organization.",
+          "date": "2014-01-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAzODc5MTYzM15BMl5BanBnXkFtZTgwNTIyOTY3MDE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5f164420-e94f-4c32-bebd-a2a8c9c34cf5",
+          "title": "The Sign of Three",
+          "episode": 2,
+          "description": "Sherlock tries to give the perfect best man speech at John's wedding when he suddenly realizes a murder is about to take place.",
+          "date": "2014-01-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmJlZWJmN2YtODU0Yy00NGM4LWE1NGUtZTg1NWRiYWUyYTcyL2ltYWdlXkEyXkFqcGdeQXVyNTAzOTQ2ODU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "06cb3685-5672-459c-88ee-55bd06dbc7aa",
+          "title": "His Last Vow",
+          "episode": 3,
+          "description": "Sherlock goes up against Charles Augustus Magnussen, media tycoon and a notorious blackmailer.",
+          "date": "2014-02-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmQwZjJjMjAtYWY4ZC00ZTYwLWIyMWItOGQ0ODU2YjdmNDQ4L2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "4e943d6f-9548-49df-b14e-33cf251f910c",
+      "season": 4,
+      "episodes": [
+        {
+          "id": "ae3a2462-8b91-4cb0-abc3-718ba72695bc",
+          "title": "The Abominable Bride",
+          "episode": 0,
+          "description": "Sherlock Holmes and Dr. Watson find themselves in 1890s London in this Christmas special.",
+          "date": "2015-12-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQyMzE5NDMwMV5BMl5BanBnXkFtZTgwNjE1MjEyNjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a74c94d8-d4f8-40c0-98d5-8187e32587d2",
+          "title": "The Six Thatchers",
+          "episode": 1,
+          "description": "Sherlock takes on the case of finding out who is going around and smashing six unique head statues of late Prime Minister Margaret Thatcher.",
+          "date": "2016-12-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTc4NTE1OF5BMl5BanBnXkFtZTgwMTEyODQ0OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ddd38cf8-81d1-4df1-b78d-2ab29546b5c7",
+          "title": "The Lying Detective",
+          "episode": 2,
+          "description": "Sherlock goes up against the powerful and seemingly unassailable Culverton Smith - a man with a very dark secret indeed.",
+          "date": "2017-01-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTVjYzEyZjUtYjVjYi00NmVmLTkzZjgtMjhlZWM3ZjcwYjhkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE0OTE2MDY@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9fd5ee54-80bd-4347-be09-df63f423db57",
+          "title": "The Final Problem",
+          "episode": 3,
+          "description": "A dark secret in the Holmes family rears its head with a vengeance, putting Sherlock and friends through a series of sick, manipulative psychological and potentially fatal games.",
+          "date": "2017-01-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhkNGMwMDQtY2M2MS00NGU0LTgxYWUtY2I5Zjk4YmQ4MTVlL2ltYWdlXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

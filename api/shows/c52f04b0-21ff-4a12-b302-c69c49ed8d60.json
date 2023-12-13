@@ -1,0 +1,394 @@
+{
+  "id": "c52f04b0-21ff-4a12-b302-c69c49ed8d60",
+  "description": "Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle's tourist trap in the enigmatic Gravity Falls, Oregon.",
+  "title": "Gravity Falls",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx.jpg",
+  "genres": [
+    8,
+    10,
+    18
+  ],
+  "seasons": [
+    {
+      "id": "796959ee-0ffe-45b5-80e5-6bee52d74ad0",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "1059649f-daae-4a70-9cc0-d958c7895a1e",
+          "title": "Tourist Trapped",
+          "episode": 1,
+          "description": "After finding a strange book in the forest, Dipper begins to learn about the dark side of Gravity Falls, and suspects that Mabel's new boyfriend is a zombie.",
+          "date": "2012-06-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQzMjM0OTQtOGQ4My00ZjVmLTgwZDEtN2MxMzUxY2ViYWJmXkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2bae9f65-d3e1-4759-bc4c-4704b1e8be74",
+          "title": "The Legend of the Gobblewonker",
+          "episode": 2,
+          "description": "Dipper and Mabel hear rumours that a sea monster lives at the bottom of the local lake, and enlist Soos to take them out on a boat to see if the monster really exists.",
+          "date": "2012-06-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzUwMTE1MTItOGVjZC00OGI2LWI4NDItNTU4NjczYWY2NGM3XkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3b685641-3b5e-467c-9665-ceacda080594",
+          "title": "Headhunters",
+          "episode": 3,
+          "description": "The kids discover Stan's collection of wax sculptures, and Mabel decides to create her own. But when someone sabotages it, it's up to her and Dipper to solve the case.",
+          "date": "2012-06-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmViMDBjNGEtZmNlOC00MDI4LTg4YjAtZTE1Y2RjYjQwZDE3XkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "030cf22b-0b61-4346-a56a-104a8a17f9d3",
+          "title": "The Hand That Rocks the Mabel",
+          "episode": 4,
+          "description": "Dipper and Mabel meet an intriguing new neighbor: a psychotic child fraud named Li'l Gideon. When Gideon begins obsessing over Mabel and tries to win her over, Dipper tries to stop him.",
+          "date": "2012-07-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDU0MGRkMTAtZWFhOC00YTA3LWFhZGUtNWQxNzBhNmVmODlkXkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6c6525f0-0544-4523-874c-bb1494767315",
+          "title": "The Inconveniencing",
+          "episode": 5,
+          "description": "Dipper tries to impress Wendy by going along with her and her friends to an abandoned convenience store that may be haunted.",
+          "date": "2012-07-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWUyOWM4ZDctZGEwOS00ZGY0LWFiOWEtOTFjZDc5MThjYWM4XkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "238180fd-4a7d-449d-b070-a6be8c3e7941",
+          "title": "Dipper vs. Manliness",
+          "episode": 6,
+          "description": "In order to become more manly, Dipper seeks the help of a gang of minotaurs in the forest. Meanwhile, Mabel gives Stan a makeover.",
+          "date": "2012-07-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgwMjFkZDktOWE1Mi00ZGM1LTg0MjItZTc0ZjkxODJhNjZlXkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b2b98f11-6ec5-4882-8869-bb6aa104c32b",
+          "title": "Double Dipper",
+          "episode": 7,
+          "description": "Stan throws a big party to promote the Mystery Shack, while Dipper uses a strange photocopier to make clones of himself, so that he can impress Wendy.",
+          "date": "2012-08-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWNjYTAxOTAtMjRlZi00OWI2LTg3OWMtMWFlOGFhMGMzZmU1XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6f628b03-d2f5-4870-b9e3-c272e2e3040c",
+          "title": "Irrational Treasure",
+          "episode": 8,
+          "description": "During Gravity Falls' Pioneer Day celebration, the kids attempt to uncover a conspiracy about the town's real founder.",
+          "date": "2012-08-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTI3M2EwNDItODBlZC00ZTQzLWFhMGMtZTIzOTVkNmYzNmQwXkEyXkFqcGdeQXVyNjg2MDUzOTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f99a533c-4534-41b7-8470-691565c1e4e7",
+          "title": "The Time Traveler's Pig",
+          "episode": 9,
+          "description": "Dipper ruins a chance to impress Wendy at a fair, forcing him to use a time machine to travel back and stop it from happening.",
+          "date": "2012-08-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg2MDU1MDUyMF5BMl5BanBnXkFtZTgwMzE1MjU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2d779700-0aca-46eb-9d19-4a17999cf205",
+          "title": "S1.E10 ∙ Fight Fighters",
+          "episode": 10,
+          "description": "Dipper brings a video game character, Rumble McSkirmish, to life so he can fight Robbie, but when things go too far Dipper realizes he needs to save Robbie. Meanwhile, Mabel tries to end Stan's fear of heights.",
+          "date": "2012-09-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYzMDg0NzcyOF5BMl5BanBnXkFtZTgwMDI3NDU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6ba9e089-bf85-454e-94c4-8d2b36755ab4",
+          "title": "S1.E11 ∙ Little Dipper",
+          "episode": 11,
+          "description": "Dipper finds a magic crystal with the ability to grow and shrink anything, but Gideon gets his hands on it and tries to get revenge on Stan and take the Mystery Shack.",
+          "date": "2012-09-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDljNzdkZTgtMTRmZS00OTNlLThkN2MtOTJmYzlhOGRhMTI5XkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "851051a8-f3fc-419a-84bb-3cd04098b760",
+          "title": "S1.E12 ∙ Summerween",
+          "episode": 12,
+          "description": "It's Summerween, and Dipper and Mabel are visited by a monster called the Summerween Trickster, who informs them they must collect 500 pieces of candy, or be eaten.",
+          "date": "2012-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjIyNTVhN2UtNjQ3OC00OWE3LWFlZjQtNjExNDNhYWI3MDEyXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "59f7536c-6754-43e1-835b-62f2ac3a56a3",
+          "title": "S1.E13 ∙ Boss Mabel",
+          "episode": 13,
+          "description": "Mabel is in charge of the Mystery Shack after making a bet with Stan to see who can the most money in three days, and determine which of them is the better boss.",
+          "date": "2013-02-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWY0M2NlMzgtNjY4ZC00Mzg2LWE1MzgtMmE0NGMwM2VlMWMzXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "502f0cca-51cc-448f-a10f-56744d10290f",
+          "title": "S1.E14 ∙ Bottomless Pit!",
+          "episode": 14,
+          "description": "Dipper, Mabel, Stan, and Soos accidentally fall into the Mystery Shack's bottomless pit and tell each other stories to pass the time.",
+          "date": "2013-02-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTYwNDQ4OGQtYmIxNi00N2EzLTk3NDktMTBjY2Q3YmJhZjVmXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "042fe00b-5166-4f45-b01e-14dabcf4bada",
+          "title": "S1.E15 ∙ The Deep End",
+          "episode": 15,
+          "description": "It's the hottest day of the Summer and the opening day of the Gravity Falls pool, where Mabel befriends a mysterious boy named Mermando.",
+          "date": "2013-03-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2VkODMxZTgtNTllMS00NGE5LTlmYmYtNWZiODQxNWM3ZWEzXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b63b1a70-48ac-4ceb-a572-d28bfde1c039",
+          "title": "S1.E16 ∙ Carpet Diem",
+          "episode": 16,
+          "description": "Dipper wants his own room and when Soos finds one in the shack, Stan makes Dipper and Mabel compete for it. Meanwhile, Dipper has found out that the shag rug inside let's you switch bodies with whomever you shock.",
+          "date": "2013-04-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjhjMDJiOGEtMGNhNi00OWYwLWEyNDEtMzkxMWRkMjBiY2JhXkEyXkFqcGdeQXVyNzg5MjYxOTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "cbf7c2c4-9196-4272-affb-7d0b38cb1869",
+          "title": "S1.E17 ∙ Boyz Crazy",
+          "episode": 17,
+          "description": "When Mabel Discovers that her favourite boy band is actually a bunch of imprisoned clones, she sets them free, only to decide on keeping them for herself; Dipper is convinced that Robbie plans to brainwash Wendy with a secret message.",
+          "date": "2013-04-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcyMDYyMDQxNF5BMl5BanBnXkFtZTgwNjM0MDY2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6df645c8-47ae-4e04-b08e-7b33ded4c62e",
+          "title": "S1.E18 ∙ Land Before Swine",
+          "episode": 18,
+          "description": "A dinosaur loose in Gravity Falls snatches up Mabel's pig, Waddles, leading the Pines family on a prehistoric journey to get him back.",
+          "date": "2013-06-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQyMTQyMTg5Ml5BMl5BanBnXkFtZTgwNjc3NDU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b90fdd19-9ca3-4124-87d2-4784da744cd7",
+          "title": "S1.E19 ∙ Dreamscaperers",
+          "episode": 19,
+          "description": "Dipper, Mabel and Soos go through Stan's mind to defeat a tricky demon summoned by Lil Gideon.",
+          "date": "2013-07-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU4MjU1MTY1MF5BMl5BanBnXkFtZTgwNjI3NjMwMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "63c93ab7-e066-4cab-84cf-55fd4bc0394a",
+          "title": "S1.E20 ∙ Gideon Rises",
+          "episode": 20,
+          "description": "When Lil' Gideon takes over the Shack, Dipper and Mabel try to defeat him.",
+          "date": "2013-08-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgwMDQ4MDk3N15BMl5BanBnXkFtZTgwMTM3NjMwMjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "f76e8eb1-f684-41bc-9973-4de83e8acb19",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "5b8a73fb-fac2-43b9-a8d5-342da1325251",
+          "title": "Scary-oke",
+          "episode": 1,
+          "description": "The Pines Family resolves to get back to normal by throwing a \"Mystery Shack is Back\" party ... but nothing is normal in Gravity Falls!",
+          "date": "2014-07-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWYzNGQ5YmItMTYzZi00N2Q4LThkM2EtNzdmMjRlYTZiNTZkXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "717becc3-2dad-4ee4-88e0-3b3561cbbebd",
+          "title": "Into the Bunker",
+          "episode": 2,
+          "description": "When Dipper's secret journal pages lead him and the gang to the author's hidden bunker, they find themselves coming face to face with a mysterious figure from Gravity Falls' history.",
+          "date": "2014-08-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDRmNzI2ZmEtZjRhNy00Y2QwLTg1M2MtMTZjODBhZTY3YzI4XkEyXkFqcGdeQXVyNzg5MjYxOTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7110d821-215a-4942-aaf7-3fc3f37d4e0f",
+          "title": "The Golf War",
+          "episode": 3,
+          "description": "After being belittled by Pacifica too many times, Mabel challenges her to a miniature golf off, which gets out of control when some local residents offer their help.",
+          "date": "2014-08-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjY3NDY2MjM2MF5BMl5BanBnXkFtZTgwMDc5NDY2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "79a46d62-e622-4103-8397-71a29eb7b8ff",
+          "title": "Sock Opera",
+          "episode": 4,
+          "description": "Close to unlocking the author's laptop, Dipper is visited by the demon Bill, who wants to make a deal. Mabel puts on a puppet show to impress a boy.",
+          "date": "2014-09-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUzZmU0NzgtMzY4ZS00ZGMxLWIzNzAtNzJlY2Y2ZjgzOGRhXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "49f87604-5469-4f08-b02d-f554a1cda29d",
+          "title": "Soos and the Real Girl",
+          "episode": 5,
+          "description": "Soos makes a promise to his grandma that he can find a girlfriend in one week, and buys a dating simulator game to help him learn how to talk to women.",
+          "date": "2014-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTFiNDAyMzgtNjAzZi00MWY5LThmYWMtMWYxMTQ3YzA1M2Q5XkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "eb683b64-8096-4821-82f9-3efbed83c987",
+          "title": "Little Gift Shop of Horrors",
+          "episode": 6,
+          "description": "Stan tells a series of three spooky tales to an unlucky customer at the Mystery Shack after hours.",
+          "date": "2014-10-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2U1Y2VlOWMtMTA4ZS00MDliLWE4YTctNmQzMTQwMmRhZWNjXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f4323ef6-6d19-4de5-8d42-cd672388d056",
+          "title": "Society of the Blind Eye",
+          "episode": 7,
+          "description": "Dipper and the gang discover a secret society that has been erasing the memories of the citizens of Gravity Falls.",
+          "date": "2014-10-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjdmOWMyMmItNzJhMC00NTIxLWJiMTMtZDQyYzJhZGY1YzBkXkEyXkFqcGdeQXVyNjg3MTUwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "97f73ee6-1eba-4335-9fb4-2e260bb89132",
+          "title": "Blendin's Game",
+          "episode": 8,
+          "description": "Blendin returns to face off with Dipper and Mabel in a futuristic battle that could trap them forever in time jail.",
+          "date": "2014-11-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzgxNWVhNzktZjdiMC00MTk1LTliNWYtMzVmY2VkNTNiOWQyXkEyXkFqcGdeQXVyNzkyODM4NDI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "379a6d62-18c4-4da6-9f71-9cc3a858f86a",
+          "title": "The Love God",
+          "episode": 9,
+          "description": "After seeing Robbie's sadness over his and Wendy's breakup, Mabel steals a love potion from a Love God.",
+          "date": "2014-11-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjE1MDk1NDcyMl5BMl5BanBnXkFtZTgwMjczOTU1MzE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "227c0013-ec76-4fad-aad6-5e9dbcea0732",
+          "title": "Northwest Mansion Mystery",
+          "episode": 10,
+          "description": "Pacifica invites Dipper over to her mansion in order to get rid of a ghost.",
+          "date": "2015-02-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDkyN2RhNTItMzhhOS00YWZmLWJlOTgtN2NkZWYzZDc0MmIwXkEyXkFqcGdeQXVyNTk3MjY3NDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "559a75e8-24f3-4574-83da-7d3e5130d034",
+          "title": "Not What He Seems",
+          "episode": 11,
+          "description": "The twins wonder if they really know Grunkle Stan after he is taken into custody by the government agents.",
+          "date": "2015-03-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzQ1YzI1ODQtZWZkMy00ZDI0LWFmN2UtOGE4NGNlZDUyNjUyXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "33ddb7ba-5f85-4f44-8515-882218c753f8",
+          "title": "A Tale of Two Stans",
+          "episode": 12,
+          "description": "The reuniting of the Pine brothers Stanford and Stanley. A series of flashbacks from their lives are shown, and their history together is explained.",
+          "date": "2015-07-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWE5YzRhZGYtYjcwNy00ODk5LWFhM2MtNGQ3ZWE1MjRjMTY0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b8f81e4c-2e31-412b-8d40-93ffe572bf5f",
+          "title": "Dungeons, Dungeons, and More Dungeons",
+          "episode": 13,
+          "description": "Dipper finds an unlikely friend to join him with his newest obsession- a nerdy board game called \"Dungeons, Dungeons and More Dungeons.\"",
+          "date": "2015-08-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM1OTAwMDg0OV5BMl5BanBnXkFtZTgwNzI1NjU0NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3066da68-8c43-470e-bfd3-513f64c8c4e2",
+          "title": "The Stanchurian Candidate",
+          "episode": 14,
+          "description": "When Grunkle Stan decides to run for mayor, Dipper and Mabel have their work cut out for them trying to turn their gaffe-prone uncle into the perfect candidate.",
+          "date": "2015-08-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjc4NzAzMzI3OV5BMl5BanBnXkFtZTgwMTU3MTA3NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9f797c1f-d25e-407c-8b9d-cccea1749c78",
+          "title": "The Last Mabelcorn",
+          "episode": 15,
+          "description": "A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher.",
+          "date": "2015-09-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzc1NjIwMTYyOF5BMl5BanBnXkFtZTgwOTgyMTk3NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "db5094e9-4cbf-4629-b749-e12f09118229",
+          "title": "Roadside Attraction",
+          "episode": 16,
+          "description": "Grunkle Stan takes the kids with him on a road-trip to sabotage all the other tourist traps in Oregon.",
+          "date": "2015-09-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcxMjYyMjQ3NF5BMl5BanBnXkFtZTgwMTUwMjc4NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0ed7cbe6-9e33-4f8f-9006-c0675c4542ae",
+          "title": "Dipper and Mabel vs. the Future",
+          "episode": 17,
+          "description": "As Dipper and Mabel's 13th birthday approaches, Ford and Dipper go on a dangerous mission.",
+          "date": "2015-10-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjFlZDIzMDEtMTVlMy00YThmLWIxMzYtNzIyMDUwODA5MzE3XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d46d8334-0ed8-4ea4-9b88-7c0d088a27b0",
+          "title": "Weirdmageddon: Part 1",
+          "episode": 18,
+          "description": "Bill has returned to take down the Pines family. But this time he has brought some of his friends with him.",
+          "date": "2015-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2I3M2ZiZGItNTU0Zi00MTBmLWI2YjktM2ExOTFhYjg5OWFhXkEyXkFqcGdeQXVyMjAxMTI4Njc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9cb825af-2555-4f22-bba4-a07c004dd5ad",
+          "title": "Weirdmageddon 2: Escape from Reality",
+          "episode": 19,
+          "description": "While Dipper, Soos, and Wendy try to save Mabel from a strange new world, Bill's forces plan their next move.",
+          "date": "2015-11-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODczMjZmYjQtODZmNS00MzJlLWJjOGQtMTMyZmYyY2MyMjYyXkEyXkFqcGdeQXVyNzg5MjYxOTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "84391c86-d6e4-4dc4-b4e5-841368db9a07",
+          "title": "Weirdmageddon 3: Take Back the Falls",
+          "episode": 20,
+          "description": "Dipper and Mabel regroup with the other survivors to come up with a plan to defeat Bill.",
+          "date": "2016-02-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTZjNjU2N2UtYjhkZC00YzNiLTliYWEtZDZjMTEyY2FhZTFhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "44c6eaf4-d6d3-4cec-b38f-dd6653e11548",
+          "title": "Weirdmageddon 4: Somewhere in the Woods",
+          "episode": 21,
+          "description": "The Pine family makes their biggest sacrifice yet and reach their destination after a confrontation with Bill.",
+          "date": "2016-02-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTZkYzdmOWItMDU5Ni00ZTNjLTg1ZGUtZWNkYWViYzM1NmZkXkEyXkFqcGdeQXVyMTM1MzExMDA4.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

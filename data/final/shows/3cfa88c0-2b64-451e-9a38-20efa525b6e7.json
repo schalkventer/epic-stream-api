@@ -1,0 +1,352 @@
+{
+  "id": "3cfa88c0-2b64-451e-9a38-20efa525b6e7",
+  "description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+  "title": "Death Note",
+  "image": "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    8,
+    1,
+    2
+  ],
+  "seasons": [
+    {
+      "id": "538ae81e-e3ea-40b4-a6f2-b22f454ad056",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "0c9fa104-8042-4ef9-841e-ee17d12988b7",
+          "title": "Rebirth",
+          "episode": 1,
+          "description": "Brilliant but bored high school student Light Yagami discovers a Shinigami's notebook and plans to use it to create a better world.",
+          "date": "2007-10-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTVjOWM3MTAtNTIyMC00MDE5LWFkMWYtODIyNDMwYjA5YzQ5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9f752e8d-bfcd-4fe7-bf9b-829355cfea8f",
+          "title": "Confrontation",
+          "episode": 2,
+          "description": "The series of mysterious deaths catches the attention of world-renowned detective L, who confronts the killer on live television.",
+          "date": "2007-10-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTFhYTI0NDYtMmEzMi00ODg4LWI3MGUtMjUwNjRhMTFkNDE1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2325b7db-d393-45d3-89a0-7d48e5a4310a",
+          "title": "Dealings",
+          "episode": 3,
+          "description": "As the Task Force and L's investigation deepens, Ryuk tells Light that someone is shadowing them. Light needs the man's name, and Ryuk makes an offer.",
+          "date": "2007-11-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGMyMDJlZmEtYzY4Mi00ZGYxLThjMjItNTg3NDI3NDc3ZjNiXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "bcc111d5-eecc-4dfe-9075-abeebd67dc58",
+          "title": "Pursuit",
+          "episode": 4,
+          "description": "While formulating a plan to get the name of the man following him, Light tests the limits of the Death Note.",
+          "date": "2007-11-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2M0NTQ3YjUtMzgxYy00NmFiLWFiM2EtYWRmYWNmNTRkZTI5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e97bb0d4-5cbc-481b-898d-d2ceed78a57b",
+          "title": "Tactics",
+          "episode": 5,
+          "description": "Soichiro confronts L about the FBI agents investigating the police, and Light makes a move against the FBI.",
+          "date": "2007-11-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE2Y2RmOTQtZDVkZS00ZjFhLWFlODgtMzFmZTliYTQ0Mzc4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3ceaa39f-e577-44e7-965e-7963abcdd6e9",
+          "title": "Unraveling",
+          "episode": 6,
+          "description": "Light runs into a woman at the police department who has information for L that could lead to Light's capture.",
+          "date": "2007-11-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkxYmNiODEtZDA3NS00N2RhLTk4YmYtZDAyZDQxZTRlMjBmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5824d2cd-a300-43d0-8a4f-e09f6d446b8d",
+          "title": "Overcast",
+          "episode": 7,
+          "description": "Light uses the Death Note to try to get rid of the woman who could get him captured and is shocked when it doesn't work.",
+          "date": "2007-12-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDY2ZDY2ZDUtOTQ5OC00YzgyLThlMTQtYmYyYzU4MTdhNzg0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "85189a30-033d-4ea2-8118-73dc6a4c4039",
+          "title": "Glare",
+          "episode": 8,
+          "description": "Light, entirely aware of L's surveillance equipment in his home, begins a very careful game to throw off suspicion.",
+          "date": "2007-12-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTAwNDMyOWQtMWVjZi00MDliLWE5NTUtNmUyOWE4Yjk0NmIwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b7e2ba82-7063-4656-844f-77348357082f",
+          "title": "Encounter",
+          "episode": 9,
+          "description": "L makes a direct move against his top suspect when Light enters To-Oh University.",
+          "date": "2007-12-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjk1YjQ1ZGYtOTIzMi00ODYzLWI1NTEtMjE3ZTNjNzUxMjMwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "053de8a1-dc05-4422-9327-86d78b185302",
+          "title": "S1.E10 ∙ Doubt",
+          "episode": 10,
+          "description": "L challenges Light to a tennis match and tests his deductive abilities; an urgent call has them rushing to the hospital.",
+          "date": "2007-12-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWY1NGEzZjktMDlkNS00MTAzLTg5YjMtNDBkMDNhMTg1MzAxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c00fc47b-1f31-4c3b-8b55-0bbc73aba85c",
+          "title": "S1.E11 ∙ Assault",
+          "episode": 11,
+          "description": "Video tapes reportedly from Kira air on Sakura TV, although L suspects that this is the work of another Kira.",
+          "date": "2006-12-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGYzMjY5ODMtOTIyYi00ODI4LThkM2ItMmNkMWNjMTdiOGFmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7991c7f9-e2f8-4e98-9674-69c882255c80",
+          "title": "S1.E12 ∙ Love",
+          "episode": 12,
+          "description": "Light is invited into the Task Force to help respond to the second Kira, and Rem tells Misa how she came by her Death Note.",
+          "date": "2006-12-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTNmODg1ODctMWQ3NC00MTJkLThiM2ItODAwYWM3NWZiYTUwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7bcd028f-a8f9-4cc3-9d8d-44bbf3528ba9",
+          "title": "S1.E13 ∙ Confession",
+          "episode": 13,
+          "description": "Light goes to Aoyama to discover the identity of the second Kira before L becomes more suspicious, but Misa Amane, the new Kira, uses her unusual gift to find Light before he finds her.",
+          "date": "2007-01-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg3NWU5N2UtOWNiYy00NDRjLWE0N2MtMzhjYzI3NzVhZWYyXkEyXkFqcGdeQXVyOTY2NzM2MDc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fce3820d-e10d-4e43-9a99-03646c192743",
+          "title": "S1.E14 ∙ Friend",
+          "episode": 14,
+          "description": "Light and Misa show each other their Death Notes, and Light asks Misa to have her shinigami Rem get rid of L, which Misa will do in order to have Light fall in love with her.",
+          "date": "2007-01-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2RkZTYyMTgtODI0My00YzIzLWJmMTctZWJkMGZhZWI0YTcxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b5633e9f-4d06-4071-a33c-03dc35513f21",
+          "title": "S1.E15 ∙ Wager",
+          "episode": 15,
+          "description": "Convinced the two Kiras have met and worried at the prospect of his own murder, L declares that the event of his death will prove Light is Kira.",
+          "date": "2007-01-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjg5ZTRmNWMtODA4Yy00MTZjLWE2NTYtY2YwZDJkNTE4NDM2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "df83af9c-1a95-4c36-b9ed-a7dccd74066d",
+          "title": "S1.E16 ∙ Decision",
+          "episode": 16,
+          "description": "Light decides to tell L that he thinks he may be Kira.",
+          "date": "2007-01-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTg3ZjkxODQtNDg0OS00NzlhLWI0YTctN2RmN2VmNDNhZDI3XkEyXkFqcGdeQXVyMjI5MTEyNzY@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "febd8902-ff28-44a9-91da-dc497379ffbe",
+          "title": "S1.E17 ∙ Execution",
+          "episode": 17,
+          "description": "Getting nowhere fast, L thinks of a new plan to get Light, Misa and Mr. Yagami out of confinement.",
+          "date": "2007-02-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTU1OGI2OWItZDZjYS00NTU1LWEyNzctYjQzMTQ1MmNhNDY2XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4eceb094-e6fe-4ad7-ae0f-c842c077157b",
+          "title": "S1.E18 ∙ Ally",
+          "episode": 18,
+          "description": "L's depression causes a scuffle to break out in the new headquarters, and a recent string of CEO deaths has L and Light thinking that Kira may be killing for monetary profit.",
+          "date": "2007-02-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2I2NTgwZjMtM2YzMS00NTE3LTkzZmUtOThhMzcwMWM3MWE4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "bc750ee9-e928-4c99-abad-db7864ff76fa",
+          "title": "S1.E19 ∙ Matsuda",
+          "episode": 19,
+          "description": "Matsuda, the task force member eager to distinguish himself, decides, while assigned to watch Misa, to do a little snooping on his own at the Yotsuba Group's Tokyo headquarters.",
+          "date": "2007-02-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWRkN2YzZWMtMThlZS00NDE3LWFiZTQtMjAzZjljZGM4NzhmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ea06455f-8852-416d-84c2-2e0b545c789f",
+          "title": "S1.E20 ∙ Makeshift",
+          "episode": 20,
+          "description": "After Light establishes a mole within the Yotsuba Group, L separates himself from the rest of the task force and recruits Misa.",
+          "date": "2007-02-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk1MzIyNjctODE0My00OWMxLWI3MmItNjNiYWY4ZmYxZDczXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a96215e6-c179-4b3d-90e4-34c0fd2ee433",
+          "title": "S1.E21 ∙ Performance",
+          "episode": 21,
+          "description": "The third Kira sets his eyes on Misa after meeting her. While Misa takes a break from meeting the Yotsuba Group, Rem contacts her. Misa is able to see the shinigami, but her memories of being the second Kira do not return.",
+          "date": "2007-03-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI2MDE1NTMtZjE1ZC00YzA5LThlZjktYmYyOGMyY2Y1MDMyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "bf624543-75fa-492a-b75c-a398fb3a700a",
+          "title": "S1.E22 ∙ Guidance",
+          "episode": 22,
+          "description": "After learning that Higuchi is Kira, L decides that they mustn't apprehend him till they understand his killing method.",
+          "date": "2007-03-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTBhZjcxOTktMTJhZi00ZjRkLWFhZjctZjEwZjYzOGJhOTQzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "be314b51-f6a8-4406-b26b-c0c85e767944",
+          "title": "S1.E23 ∙ Frenzy",
+          "episode": 23,
+          "description": "L and Light, watching from the investigation team building, wonder whom Higuchi (seemingly alone) is talking to. L wonders if it's a shinigami. With Rem beside him, Higuchi - frantic to kill Matsuda - takes \"the deal\" to become unstoppable.",
+          "date": "2007-03-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzUyOWEyNGQtNzE2Yi00MDZlLTgxNzUtZjA3NDYzMTdiODY0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "328d8071-f1db-4f88-af5f-9ec4fcd7ef5c",
+          "title": "S1.E24 ∙ Revival",
+          "episode": 24,
+          "description": "The team arrests Higuchi for being Kira and causing multiple murders. Inspecting Higuchi's Death Note, team members who touch it abruptly discover that shinigami do exist, and when Light takes the Death Note from L, his memory returns.",
+          "date": "2007-03-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2E5YThiZDMtMTdkNS00OTk4LTlhZTMtYmY5ZWJjYmQxMTNmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d6540f4c-46a9-4ae1-a714-684d3debe7a1",
+          "title": "S1.E25 ∙ Silence",
+          "episode": 25,
+          "description": "Light, his memory recovered, orders Misa to begin killing after Higuchi dies. The Shinigami Rem realizes that everything is going according to Light's plan, and that L will arrest Misa as Kira unless Rem acts quickly.",
+          "date": "2007-04-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWRiN2MxMWMtM2IzZC00MjNlLTk5ZTItMTA1ZDZmNTExNGYzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c986a9d6-2e57-468d-9ee3-ce47cb1c3540",
+          "title": "S1.E26 ∙ Renewal",
+          "episode": 26,
+          "description": "After L's death, the world needs a new great detective, and it's generally agreed that Light take his place.",
+          "date": "2007-04-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2IwNzIzZmUtNDNmOS00ZTljLTkxNDQtNmVmMjk5YWQzOWQ5XkEyXkFqcGdeQXVyNjMxNzQ2NTQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4d396af3-9cab-4374-8533-ef5681c0bd1b",
+          "title": "S1.E27 ∙ Abduction",
+          "episode": 27,
+          "description": "The first moves of two new investigators cause Light to make a spontaneous decision with long-term consequences.",
+          "date": "2007-04-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODUwY2QwM2UtOTMzYS00OTRhLWJiZDctNGQ4ZjBkNTViMjQxXkEyXkFqcGdeQXVyMjI5MTEyNzY@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c5b6ab30-9e08-47ba-938b-bdaab08cf932",
+          "title": "S1.E28 ∙ Impatience",
+          "episode": 28,
+          "description": "In trying to retrieve his kidnapped sister, Light learns of two opposing factions trying to take him down, the SPK lead by N and a crime syndicate lead by Mello.",
+          "date": "2007-04-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjdmMTUwOWQtOGQ3YS00NDUzLWFkZDEtNWY5NDE1YWY2ODBhXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9da5065b-f623-4904-958d-461a2e592e3c",
+          "title": "S1.E29 ∙ Father",
+          "episode": 29,
+          "description": "Mello learns some valuable information concerning false entries in his Death Note from its true owner. Soichiro agrees to take on the shinigami eyes to thwart him.",
+          "date": "2007-04-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzQ2NjUyMTUtMDkyMi00NzA0LTk1NjQtZDE0MzAyYmUxODI5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e533838b-9a13-4f26-ba09-7a0e69947693",
+          "title": "S1.E30 ∙ Justice",
+          "episode": 30,
+          "description": "Mello busts into SPK headquarters to retrieve a photograph of himself to make sure he won't be killed by Kira. In exchange for Near giving him the picture, Mello drops an important hint about the Death Notes: some of the rules are fake.",
+          "date": "2007-05-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE2ZmNkMWYtNjlkNy00YTBlLWI1MTUtY2RhYjg4ZjIyNDYzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "98c2a20a-c779-4825-910f-e500f40af839",
+          "title": "S1.E31 ∙ Transfer",
+          "episode": 31,
+          "description": "Near escapes the mob attack, and Light once again proves his ability to stay a step ahead by creating a fourth Kira.",
+          "date": "2007-05-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjU0YTBlMjYtZmZmOC00ODA3LWIyYzctMDA2Mjg1ZGEwNzdhXkEyXkFqcGdeQXVyOTY2NzM2MDc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8c8b7d15-757b-4015-ae98-23334dbd9d82",
+          "title": "S1.E32 ∙ Selection",
+          "episode": 32,
+          "description": "Star newscaster Kiyomi Takada becomes Kira's spokesperson to the world (after Mikami \"deletes\" Demegawa). She just so happens to have been Light's girlfriend in college. Aizawa's suspicions about Light grow.",
+          "date": "2007-05-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGM1NjBmYzItZDdhNi00NGJjLWJkZmUtYTY4YWFiMGZhOWNiXkEyXkFqcGdeQXVyOTY2NzM2MDc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "41dbf5b5-a77a-47fc-8424-537a2c8ab27c",
+          "title": "S1.E33 ∙ Scorn",
+          "episode": 33,
+          "description": "Near goes to Japan, allegedly as bait for Kira. Following Light's instructions, Takada asks Mikami to send her five pages of the Death Note. She tells him that he will continue his work in a fake book made to look like the real one.",
+          "date": "2007-05-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2YxNGJjYjctM2Y2NS00ZWJmLTkzYTUtOGQ2N2VkMzFhZDcyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6cff0c52-7bb4-4cef-9675-036a7a854cae",
+          "title": "S1.E34 ∙ Vigilance",
+          "episode": 34,
+          "description": "Aizawa figures out what's going on and tells Near, who already knows about the notes. Near instructs Aizawa to continue watching Light, and then puts in motion a plan to separate Misa from Light.",
+          "date": "2007-06-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWRhYTliZjItMjk1Mi00YTFkLTkzY2EtYzcxOWVkZGMxYjZmXkEyXkFqcGdeQXVyNjg3MDM4Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2252379d-a74f-4bf4-8cd5-ee6caa1566d0",
+          "title": "S1.E35 ∙ Malice",
+          "episode": 35,
+          "description": "Mello kidnaps Takada in a daring operation, getting in the way of both Near and Light's plans to set up a meeting between the SPK and the investigation team.",
+          "date": "2007-06-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjRmOTU5MDktNGZiNC00NWEwLTkzNTUtMzcwNTI2YWI4YzZkXkEyXkFqcGdeQXVyNjc3OTE4Nzk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "dba6efbf-a52e-4688-beac-9e6be2c62f4e",
+          "title": "S1.E36 ∙ 1.28",
+          "episode": 36,
+          "description": "Near, along with the SPK, meets Light and the task force at a warehouse for the final showdown. To everyone's shock, Near reveals that Kira's follower, Mikami, is at the warehouse and is writing everyone's name in the Death Note.",
+          "date": "2007-06-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmRlNDcxODAtZjQ3Ni00MWM5LWJkOGMtYmJlNWIzZTA5NDBlXkEyXkFqcGdeQXVyOTY2NzM2MDc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9445ff1c-7d1f-44f9-8424-d423651633fd",
+          "title": "S1.E37 ∙ New World",
+          "episode": 37,
+          "description": "Though Mikami has written all the investigators' names in the Death Note, a minute passes and everyone is still alive. Near seizes Mikami's Death Note, and all is at last revealed.",
+          "date": "2007-06-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmI0MjgzYWItNDYwMy00YzllLTkxZjEtZjE1M2ViNDJiYWQ1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

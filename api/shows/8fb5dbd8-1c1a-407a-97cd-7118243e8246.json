@@ -1,0 +1,72 @@
+{
+  "id": "8fb5dbd8-1c1a-407a-97cd-7118243e8246",
+  "description": "Five comedians are set tasks challenging their creativity and wit. The tasks are supervised by Alex Horne but the Taskmaster, Greg Davies, always has the final word.",
+  "title": "Taskmaster",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTNlYzY0MTItZmI5Ni00ODEwLTkxNDktOTI3MGI1ODRmODJlXkEyXkFqcGdeQXVyMDE4MzA0NQ@@.jpg",
+  "genres": [
+    18,
+    0
+  ],
+  "seasons": [
+    {
+      "id": "2f12f7e3-bc66-4fcb-9fd5-b343a34482af",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "9e4c873e-580a-4a07-8322-e68bc60b3962",
+          "title": "Melon Buffet",
+          "episode": 1,
+          "description": "Schoolmasterly Greg Davies sets five fellow comedians - including Tim Key and Frank Skinner - devious tasks in this offbeat challenge show. First up: melon-eating.",
+          "date": "2018-04-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDYxMmMzMDEtZWRkMi00NzA3LWFhMzQtYWU4MWQyODc0NWVmXkEyXkFqcGdeQXVyNjYyNDMwOQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "819de95c-dd4e-4af2-8fed-dbd7f8fcdc88",
+          "title": "The Pie Whisperer",
+          "episode": 2,
+          "description": "Comedians get competitive as devious Greg Davies sets them absurd challenges. Identifying pie contents and making a film backwards are on the agenda here.",
+          "date": "2015-08-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGU4Y2ZmZjItZjgwZi00YmQ2LTg3MTEtNThkOTQyYjgxNjBhXkEyXkFqcGdeQXVyNjYyNDMwOQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "afaf329c-5db4-46a0-b814-660a01991341",
+          "title": "The Poet and the Egg",
+          "episode": 3,
+          "description": "Celebs leave their dignity at the door as dastardly Mr Gilbert - aka Greg Davies - sets them some truly bizarre tasks, including building an egg tower.",
+          "date": "2015-08-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTNhMDIyYWUtNjI1YS00MGVlLWJhZjAtYWJhNTNlOTNjYTQ4XkEyXkFqcGdeQXVyNjYyNDMwOQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "02a70cec-96fd-41b2-a690-40cd8b30d897",
+          "title": "Down an Octave",
+          "episode": 4,
+          "description": "Greg Davies lays down tricky tasks to a gaggle of comics. Josh Widdicombe and Frank Skinner are two of the poor souls who have to fill an eggcup with tears.",
+          "date": "2015-08-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzFhNjAzMGItZGFiMi00MjU3LWI3OTctNTk2ODM1MTM4NmI2XkEyXkFqcGdeQXVyNjYyNDMwOQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "285247b5-8bb8-4315-80e5-b9cf37c9818d",
+          "title": "Little Denim Shorts",
+          "episode": 5,
+          "description": "Pro celebrity suffering in Greg Davies' comedy challenge series! Frank Skinner takes a boulder onto a train. And can the comedians make a Swede blush?",
+          "date": "2015-08-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2Y1MDY4MjUtYzYzOS00OTVkLWIwMTUtY2NmMGQ0YWQ5ZTVlXkEyXkFqcGdeQXVyNjYyNDMwOQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d90e7ded-497f-4438-890e-86071dac146d",
+          "title": "The Last Supper",
+          "episode": 6,
+          "description": "A round of mini-golf using eggs, picking blue sweets out using boxing gloves and making a meal using ingredients representing each letter of the alphabet are among the challenges in the series finale.",
+          "date": "2015-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzI0NjAzYWQtMTE4YS00MGY3LWI2OTctNjFjN2VkMGEwYzdkXkEyXkFqcGdeQXVyNjYyNDMwOQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

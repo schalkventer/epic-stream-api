@@ -1,0 +1,73 @@
+{
+  "id": "d9825e2c-1112-46f5-91dc-e6c60249558f",
+  "description": "This six-part series traces the Second World War, from the rise of the Nazis to the surrender of the Japanese, with detailed portraits of key figures.",
+  "title": "Apocalypse: The Second World War",
+  "image": "https://m.media-amazon.com/images/M/MV5BMzEyMmM1ZGMtZTgwMS00Y2Y4LTg0MTItMGRiZGE3YTVhYjU3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg",
+  "genres": [
+    4,
+    7,
+    6
+  ],
+  "seasons": [
+    {
+      "id": "2ad1104c-2545-4827-b2bf-a9fee5645a9e",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "a1d6938b-93bf-43be-be7e-8ff97540bb20",
+          "title": "L'agression",
+          "episode": 1,
+          "description": "May 1945. After days of violent fighting, Soviet troops enter into a devastated Berlin. But how did it come to this? 1939. The German and Soviet invasion of Poland crushes the last hopes for a peaceful resolution of political tensions. Great Britain and France have no choice but to declare war on Hitler. Meanwhile, Hitler makes a bold, fearsome plan for the invasion of France.",
+          "date": "2009-11-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAzMTMwNTc5Ml5BMl5BanBnXkFtZTgwMzQ3NzU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "974e5e11-1b3b-4a53-8c1d-b22de8936bf8",
+          "title": "L'écrasement",
+          "episode": 2,
+          "description": "The German offensive rages across Europe while Mussolini's facist Italy joins the war along side their German allies.",
+          "date": "2009-09-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYzNzg5OTYyNl5BMl5BanBnXkFtZTgwOTM3NzU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "21c0bbef-1d06-48c3-a42c-0c4a79114cf8",
+          "title": "Le choc",
+          "episode": 3,
+          "description": "As America joins the war and begins to re-arm, Hitler attacks the USSR to complete his domination of Europe before the U.S. can intervene.",
+          "date": "2009-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzM1Njg5NzA5MF5BMl5BanBnXkFtZTgwMjQ3NzU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b810d462-836b-408c-89f9-fc3f471002c1",
+          "title": "L'embrasement",
+          "episode": 4,
+          "description": "Despite their determined resistance, the Allied forces are unable to slow the furious progress of the Japanese army through South-East Asia. Even India and Australia are at risk.",
+          "date": "2009-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMyNjA3NDUzOF5BMl5BanBnXkFtZTgwNzM3NzU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fde3ddb6-d420-4a22-89af-0e3c4554308a",
+          "title": "L'étau",
+          "episode": 5,
+          "description": "The Russians continue to resist at Stalingrad, and the Eastern Front is stalled. In the North Atlantic, the Allies make progress in reducing the threat from German U-boats.",
+          "date": "2009-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQxMzU3MjYwMV5BMl5BanBnXkFtZTgwMDQ3NzU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9b1c2000-9734-48ad-9f77-0fa6d64bcaca",
+          "title": "L'enfer",
+          "episode": 6,
+          "description": "In 1944, the Allies land in Italy, but their advance is blocked by the Wehrmacht. Meanwhile, the Red Army, continuing its inexorable advance to the west, finally reaches Berlin.",
+          "date": "2009-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEyNzkzNDg2MV5BMl5BanBnXkFtZTgwODM3NzU2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

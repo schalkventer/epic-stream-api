@@ -1,0 +1,131 @@
+{
+  "id": "69b1306e-bb64-4fad-8e98-e32ee7782e8f",
+  "description": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
+  "title": "Fawlty Towers",
+  "image": "https://m.media-amazon.com/images/M/MV5BNzJiYjAxNjUtNjFlNC00NWMwLTgxMTAtNjgyYmUzNWE0OWFjXkEyXkFqcGdeQXVyMTA0MTM5NjI2.jpg",
+  "genres": [
+    18
+  ],
+  "seasons": [
+    {
+      "id": "126b830e-d7c0-4d35-ba18-f548807482bb",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "4da377af-5557-4c95-918f-0f845af6dd24",
+          "title": "A Touch of Class",
+          "episode": 1,
+          "description": "Basil is delighted when a member of the aristocracy chooses to stay at the Fawlty Towers, snubbing the normal guests who frequent the hotel. What Basil does not know, however, is that the man is not a Lord but a confidence trickster who attempts to steal his collection of rare coins. As Basil's desperation to keep such an 'upstanding' guest increases, he becomes increasingly tolerant towards the man's behavior, only to have the guest arrested in a police raid on the hotel.",
+          "date": "1975-09-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmI0OTI5MGEtY2UxMy00ZGVkLWIzZDMtZjk5N2QwODk4NzIzXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2c6dc11d-2541-4a5b-b235-61f428606757",
+          "title": "The Builders",
+          "episode": 2,
+          "description": "Over his wife's objections, Basil hires his usual firm of incompetents (O'Reilly's) to do some carpentry work in the hotel lobby. With both Basil and Sybil out for the afternoon, they leave Polly in charge. She decides to have a nap, leaving the English-challenged Manuel in charge. When Basil returns, he finds a solid wall where once stood doors to the dining room and still no door to the kitchen per his work order. Sybil takes an I-told-you-so attitude and insists he hire a qualified builder to fix the mess, but Basil decides to get O'Reilly back to right the wrong, but he still makes a mess of it as well.",
+          "date": "1975-09-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGU5NTgwM2ItMDc3Zi00OWNjLTg1ZmMtMmI1ZDBkNTU3OTk2XkEyXkFqcGdeQXVyNjkwNDM2NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8b29f87f-0b78-4db2-bba0-5ccc7faa32f9",
+          "title": "The Wedding Party",
+          "episode": 3,
+          "description": "Basil Fawlty's puritanical streak comes out when a young couple he suspects of not being married tries to book a double room. He's ready to give them rooms on separate floors until Sybil steps in. It turns out that the couple know Polly but when he sees her coming out of their room - she was trying on a dress her friend had brought her for the wedding they would be attending - Basil begins to think everyone has gone mad. All that's left is for another guest, Mrs. Peignoir, to get tipsy and make a pass at him. For Manuel, it's his birthday and a night of celebrating takes its toll.",
+          "date": "1975-10-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzQyODYxOTctOTZlMC00MWU3LTlhOTMtNTM5YmQ3NmVjODFhXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d087c84b-4973-41ac-9b2b-ede5dc22038c",
+          "title": "The Hotel Inspectors",
+          "episode": 4,
+          "description": "Basil Fawlty goes on the alert when he hears there are hotel inspectors in the area.",
+          "date": "1975-10-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDk2YjEwNjItMDZkNC00NjZiLWI1NWYtYTRkYTc0N2M3MjNmXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d8b402e3-577f-42e9-a8af-e6e9e5304813",
+          "title": "Gourmet Night",
+          "episode": 5,
+          "description": "The Fawltys are very pleased with their new chef, Kurt. He was recommended to them by their friend André who runs a nice restaurant in town. All in all, he's working out quite well and they decide to have a gourmet evening on Thursdays to try and promote, in Basil's eye at any rate, a better class of clientèle. Kurt gets along well with everyone and seems to have a particular interest in Manuel. When the big day finally arrives, they find themselves with only four guests booked for the dining room - which Sybil puts down to Basil's advert in the local paper saying 'no riff-raff' - and there seems to be something about Kurt that André forgot to mention. It's pandemonium as a manic Basil tries to make up for their collective lapses.",
+          "date": "1975-10-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTdlZTI5NDgtNmRjOC00MzBlLThkNDgtZTExNmQ4MzdkYjNmXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1a170aa7-2341-4182-a307-ccdf54ec6316",
+          "title": "The Germans",
+          "episode": 6,
+          "description": "A moose head to be hung, a fire drill to be conducted, and German guests are all a bit much for Basil to handle while Sybil's in hospital.",
+          "date": "1975-10-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzU3Mjg1NmYtNDBmYS00NTRmLTkwMjAtMDkxYTEzOTJmNGQxXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "f714b631-6b2d-4ffb-8a6f-0fa95fc6b27a",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "95e512a0-af9c-4a68-8020-be29b9cee083",
+          "title": "Communication Problems",
+          "episode": 1,
+          "description": "When Mrs. Richards, a demanding woman who is hard of hearing, checks into the hotel, Basil, Sybil and Polly find themselves with a very difficult customer. Meanwhile, Basil bets on a horse that is sure to win, however he must not let Sybil find out.",
+          "date": "1979-02-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzYyNjk1M2MtZTYwOS00YzQ0LWE2NmItNDM5ZDllNjQ5ZWMwXkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "feaa6283-b891-4f72-8add-ca5c3984b10b",
+          "title": "The Psychiatrist",
+          "episode": 2,
+          "description": "Confusion arises when Basil tries to catch a girl in a playboy's room after hours, all the while unnerved by a psychiatrist's presence.",
+          "date": "1979-02-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGM0NGQ0OWItYzg2MS00NDQ4LTg2M2EtMmM5OTViYTIzZmY0XkEyXkFqcGdeQXVyMDgyNjA5MA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6f8a8e59-0823-4efb-8f95-ad43a482cc10",
+          "title": "Waldorf Salad",
+          "episode": 3,
+          "description": "Customer dissatisfaction with the Fawlty Towers dining experience comes to a head when an insistent American comes for a stay.",
+          "date": "1979-03-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWRkNjY3YzUtYzEzOS00NTk2LTg2NzItZTNjZWNlZmFhYzY5XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "86727613-8a20-4795-ad28-23cb078ceff4",
+          "title": "The Kipper and the Corpse",
+          "episode": 4,
+          "description": "One of the guests has died in his sleep, but Basil thinks it's due to serving him spoiled food.",
+          "date": "1979-03-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTEzNzdiMzgtODk5Zi00MmNkLTg0Y2MtYTA4OTE5NzY5NWI4XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3bb216e0-15fc-4177-b80f-e856d28cc2f6",
+          "title": "The Anniversary",
+          "episode": 5,
+          "description": "Basil plans a surprise anniversary party for Sybil but, thinking he's forgotten it again, she walks out just before the guests arrive.",
+          "date": "1979-03-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGExNTcwNTktODI5OC00NmM5LWIxNzgtMmZlZDQyYTgzMjc0XkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8d7cd879-7c06-42db-aa43-6796a60454be",
+          "title": "Basil the Rat",
+          "episode": 6,
+          "description": "Basil and the rest of the staff are in deep trouble when the health inspector turns up and delivers an enormous list of problems with the hotel. Things become even worse when Manuel's rat gets loose in the hotel.",
+          "date": "1979-10-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzViMDMwZWYtODg0Yy00MGU2LWI3NGQtYzc4MjVjYjcxOWVhXkEyXkFqcGdeQXVyNTA4NzExMDg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

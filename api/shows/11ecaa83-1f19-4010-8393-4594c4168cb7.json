@@ -1,0 +1,107 @@
+{
+  "id": "11ecaa83-1f19-4010-8393-4594c4168cb7",
+  "description": "Ten television drama films, each one based on one of the Ten Commandments.",
+  "title": "The Decalogue",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDgzZDVmZjYtYmNhNi00YTE0LWJmNDAtODZiNWIwMjJhZDhhXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    2
+  ],
+  "seasons": [
+    {
+      "id": "3c684256-84f0-4d99-b91e-6a8694097451",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "59ecb272-012e-4d87-a4d7-73a1f9598d93",
+          "title": "Dekalog, jeden",
+          "episode": 1,
+          "description": "A woman worries about her nephew's spiritual education, whose life and his father's are run on their home computer.",
+          "date": "1989-12-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWM1NjIxMjUtZWZhYi00NGJhLWI3NzItNjEwODViZWYzYTIwXkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "94b6dd88-e691-4bc5-a824-1814426bb25e",
+          "title": "Dekalog, dwa",
+          "episode": 2,
+          "description": "A woman with a gravely ill husband and pregnant of her lover faces a dilemma: if her husband dies, she'll keep the baby; if not, she'll abort.",
+          "date": "1990-05-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjIxOGZhMDktZmZjMi00ZjZlLWJjNzYtNmE2NGM3MGI4Zjg0XkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "63fbded5-5076-46b6-b9c8-fea3e496eeb0",
+          "title": "Dekalog, trzy",
+          "episode": 3,
+          "description": "On Christmas Eve, a taxi driver's ex-lover asks him for help to look for her missing husband.",
+          "date": "1990-05-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjk0MzIyNGUtOTM3Yi00Y2ZjLWJiNTEtZTVjNzM3ZDU0NjE5XkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fb442b62-ca5d-495d-864f-1405986e35a3",
+          "title": "Dekalog, cztery",
+          "episode": 4,
+          "description": "When her father is away on business, a young woman discovers a letter from her dead mother reading, 'Open after my death'.",
+          "date": "1990-05-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWY4M2Y3ZDctZTQ4My00YmM1LWFmY2UtNmY3ZDQxMWY2MTE4XkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "db806621-7edf-4bd4-88c3-49d1938937c7",
+          "title": "Dekalog, piec",
+          "episode": 5,
+          "description": "A soon-to-be lawyer crosses his path with a taxi driver and a young sinister man.",
+          "date": "1990-05-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjI5ZmU1NzktMTQzYS00YmVmLTljYmQtYmIzOWY2MTQ3YmNiXkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "db943a81-9301-4595-8068-551674ea5976",
+          "title": "Dekalog, szesc",
+          "episode": 6,
+          "description": "A teenager spies on his older neighbour through binoculars.",
+          "date": "1990-06-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY2OTg3MDQ0N15BMl5BanBnXkFtZTgwNDk3ODIwOTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3aceeeff-9e47-42cf-9360-c8afafcffd70",
+          "title": "Dekalog, siedem",
+          "episode": 7,
+          "description": "Raised as sisters, one is in fact the other's mother. Unwilling to continue living a lie, the mother tries to get her daughter back from her parents.",
+          "date": "1990-06-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTBkNjVmMzEtNmFlZC00NDI5LWE2MGUtYjg4NGZhMGY5MDVmXkEyXkFqcGdeQXVyODg0OTM4NTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b4f0a142-474a-4e40-8f6a-40285f291088",
+          "title": "Dekalog, osiem",
+          "episode": 8,
+          "description": "A researcher meets a professor and reveals herself as the child to whom she refused to shelter during World War II.",
+          "date": "1990-06-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjYwNDg4NjYtY2Y3OS00MWI1LWJkNTgtNjgxYTM4N2Q5ZGZmXkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c2fe8c1f-2e31-4d4d-96e3-1810c903bfdd",
+          "title": "Dekalog, dziewiec",
+          "episode": 9,
+          "description": "Following the discovery of his sexual impotence a man urges his wife to take a lover.",
+          "date": "1990-06-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQwYzQ0NTAtZGM5OS00MWM1LTk2ZTgtNTczYTYyY2Q0MmIyXkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "16ed4bea-8b79-493c-bb4d-515d0cb084a4",
+          "title": "S1.E10 ∙ Dekalog, dziesiec",
+          "episode": 10,
+          "description": "After their father's death, two brothers inherit a valuable stamp collection.",
+          "date": "1989-06-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjY1YTY2OWMtNmZhYS00NWIzLTgwMDEtY2NhMzZhNzgzMGE0XkEyXkFqcGdeQXVyODY5Njk4Njc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

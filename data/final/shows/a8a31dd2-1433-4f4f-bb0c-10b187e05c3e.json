@@ -1,0 +1,324 @@
+{
+  "id": "a8a31dd2-1433-4f4f-bb0c-10b187e05c3e",
+  "description": "Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit. But because of his unorthodox approach, Nathan's genuine efforts to do good often draw real people into an experience far beyond what they signed up for.",
+  "title": "Nathan for You",
+  "image": "https://m.media-amazon.com/images/M/MV5BOGY4ZWM1MDUtZmM3MS00ZjAxLTkyYzMtMjgxODI1YzkzNGUwXkEyXkFqcGdeQXVyNzk2NzE5Mjk@.jpg",
+  "genres": [
+    18,
+    4
+  ],
+  "seasons": [
+    {
+      "id": "fdfb4f1f-bde2-4702-9871-1f1a5f9282c7",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "d8311e5e-2707-4d38-931f-f1eb59e3fecd",
+          "title": "Yogurt Shop/Pizzeria",
+          "episode": 1,
+          "description": "Nathan gets buzz for a yogurt shop by creating a controversial flavor. He also devises a scheme for 8-minute pizza delivery.",
+          "date": "2013-02-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU3NjQ4NzEwN15BMl5BanBnXkFtZTgwOTM2ODQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e1660eb2-7b12-492c-bead-ecd5f3997e21",
+          "title": "Santa/Petting Zoo",
+          "episode": 2,
+          "description": "Nathan discovers the professional Santa he's helping has a dark secret and his attempt to market a petting zoo has unexpected results. Also, a teen is caught doing graffiti.",
+          "date": "2013-03-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTczMjUwOTQxMl5BMl5BanBnXkFtZTgwODQ2NjQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e91d6ebc-a71e-48cf-8eda-c16fed838f41",
+          "title": "Clothing Store/Restaurant",
+          "episode": 3,
+          "description": "Nathan encourages a clothing store to allow shoplifting and trains a new assistant. A restaurant owner is surprised when Nathan asks to be included in her will.",
+          "date": "2013-03-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTMyNjgyMTY1Nl5BMl5BanBnXkFtZTgwMjU0OTM2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b39d8aa1-0168-4618-b83b-8633fbea4a95",
+          "title": "Gas Station/Caricature Artist",
+          "episode": 4,
+          "description": "Nathan helps an independent gas station by devising the world's greatest rebate. He also attempts to make a fledgling caricature artist famous.",
+          "date": "2013-03-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTgwODkzNTQzOV5BMl5BanBnXkFtZTgwODA2NjQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b87f314b-41f6-427e-b769-5bfccb56bfbb",
+          "title": "Haunted House/The Hunk",
+          "episode": 5,
+          "description": "Nathan tries to help a struggling haunted house. He also attempts to overcome his fear of the opposite sex by dating ten women at once.",
+          "date": "2013-03-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjExOTYwODc2OF5BMl5BanBnXkFtZTgwOTEwNTQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0b7d2269-68df-4109-8773-aa59430d5f9d",
+          "title": "Funeral Home/Burger Joint/Skydiving",
+          "episode": 6,
+          "description": "Nathan helps a struggling funeral home, a burger joint is forced to stand by its claim that it has the best burger in Los Angeles, and Nathan goes skydiving.",
+          "date": "2013-04-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODgwNzQzMzgzN15BMl5BanBnXkFtZTgwMTMwNTQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "cbf457fc-6fb9-46f8-b68e-6687eb9259bd",
+          "title": "The Claw of Shame",
+          "episode": 7,
+          "description": "In this special episode, Nathan performs a daring escape in which he risks a fate that is truly worse than death, and failed business ideas from the season are showcased.",
+          "date": "2013-04-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYzNTEzNTM3MF5BMl5BanBnXkFtZTgwMTAwNTQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3ff76484-6c44-44be-850e-57b2cadc429a",
+          "title": "Private Investigator/Taxi Company",
+          "episode": 8,
+          "description": "Nathan puts a private investigator to the test by allowing himself to be spied on for a day, a taxi company is brought a solution for shy customers, and Nathan is forced to include product placement in his show.",
+          "date": "2013-04-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUzMzUxOTU5MV5BMl5BanBnXkFtZTgwNjEwNTQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "b1b4204d-6069-4267-a6d6-e891d6a04c29",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "c4bde2e2-4112-4240-9f91-3615ffef7a6d",
+          "title": "Mechanic; Realtor",
+          "episode": 1,
+          "description": "Nathan convinces a mechanic to verify his estimates with a polygraph test, and rebrands a realtor to sell only ghost-free homes.",
+          "date": "2014-06-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEzNjE2MjEyOF5BMl5BanBnXkFtZTgwMzA0MTg5MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f94ffbf4-7119-41fc-abe7-2b6047daa52c",
+          "title": "Souvenir Shop; ELAIFF",
+          "episode": 2,
+          "description": "Nathan's plan to help a Hollywood souvenir shop has surprising consequences.",
+          "date": "2014-07-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU0NzI1MDAxNF5BMl5BanBnXkFtZTgwMDM4NzQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e9943674-7477-41fa-8143-5ab25977844b",
+          "title": "Pet Store; Maid Service",
+          "episode": 3,
+          "description": "A pet store is given a new way to advertise; Nathan challenges a maid service to clean a house in six minutes.",
+          "date": "2014-07-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDg0ODMwNTgzMl5BMl5BanBnXkFtZTgwNjIxMzg5MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "128cd411-1456-4efd-8db0-6eeb3736ab2a",
+          "title": "Liquor Store; Exterminator; Car Wash",
+          "episode": 4,
+          "description": "Nathan helps a liquor store sell to underage customers; an exterminator learns how to work discretely.",
+          "date": "2014-07-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA0MTE1NDM0NV5BMl5BanBnXkFtZTgwOTMwNTc5MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "607578d3-755d-44eb-aac3-8fe98035e41a",
+          "title": "Dumb Starbucks",
+          "episode": 5,
+          "description": "Nathan uses parody law to help a struggling coffee shop.",
+          "date": "2014-07-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQwMzcxODY3N15BMl5BanBnXkFtZTgwODE4NzQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ab61109c-32c8-48d2-85d4-045422ce6fc2",
+          "title": "Dating Service; Party Planner",
+          "episode": 6,
+          "description": "Nathan helps a dating website attract female users; a party planner is given a new way to send out invites; Nathan also shares his strategy for self-motivation.",
+          "date": "2014-08-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzU0MzU3ODkxMl5BMl5BanBnXkFtZTgwMDcxMzg5MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "18b99033-27d5-4130-92fa-0b9ec745db9a",
+          "title": "Taxi Service; Hot Dog Stand",
+          "episode": 7,
+          "description": "Nathan tries to get press for a taxi company; a hot dog stand implements Nathan's new customer service initiative.",
+          "date": "2014-08-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWE2NTM3ODctNjI4NC00MDA0LTkyYzItZjhkZGYxNWNmY2ZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "dc60c07e-dce2-416c-bfc5-3b33198eb082",
+          "title": "Toy Company; Movie Theatre",
+          "episode": 8,
+          "description": "Nathan shows a toy company how to market to children; a movie theater instates a no-sharing policy at the concession stand; Nathan reconnects with an old friend.",
+          "date": "2014-08-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUwNDQwMTE3OF5BMl5BanBnXkFtZTgwMzM3ODQ2MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "a530e3b6-3809-431a-ac66-aea0d65dca33",
+      "season": 3,
+      "episodes": [
+        {
+          "id": "ef5f5ab2-b33a-4513-b37a-e5b861095561",
+          "title": "Electronics Store",
+          "episode": 1,
+          "description": "Nathan faces off against a big corporation in an attempt to help a struggling electronics store.",
+          "date": "2015-10-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjlhNDhlOGItZWMyMC00OGZlLWEwNzEtMDU3YmI5MjZlNzYwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "dcdb4510-e4ed-44a3-948c-ba7cb595b6a2",
+          "title": "Horseback Riding/Man Zone",
+          "episode": 2,
+          "description": "Nathan helps overweight people to be able to take horse riding lessons and also helps a Boutique business to increment their number of customers.",
+          "date": "2015-10-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTVkY2FhY2MtZDAwZi00NjY5LTgxOWEtOTdiNTg2NzZiZTdkXkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "468be14a-2ca1-4618-92a5-c267cbf7b248",
+          "title": "The Movement",
+          "episode": 3,
+          "description": "Nathan tries to get laborers to work for free at a moving company.",
+          "date": "2015-10-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjc1Y2Y3ZmMtODNiYy00M2NlLTkzMDYtZjIzZmNhM2I4ODVlXkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "70c0c1b2-d3e6-4d7c-918f-30ae775ac64f",
+          "title": "Sporting Goods Store/Antique Store",
+          "episode": 4,
+          "description": "Nathan attempts to secure an endorsement deal for a sporting-goods store, and an antique shop learns how to better utilize their \"You break it, you buy it\" policy.",
+          "date": "2015-11-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2VhNGU3NDctNDYxNy00MmZhLWEwNjMtNjhhZDYyMjQ3YjFiXkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8f5cc52d-f3a0-4868-9eb5-99096f6fa736",
+          "title": "Smokers Allowed",
+          "episode": 5,
+          "description": "Nathan helps a dive bar get around anti-smoking laws.",
+          "date": "2015-11-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWEyMmM4ZjItZTA5ZS00OTQ0LTk3ZGMtZjg3NWUyODFiZjY3XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b8880b84-7871-42bb-a630-fb4f6192cf08",
+          "title": "Hotel/Travel Agent",
+          "episode": 6,
+          "description": "A hotel tries to appeal to sexually active parents, a travel agent finds out how profit from her elderly customers, and Nathan shares his solution for never being late.",
+          "date": "2015-11-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2VhNDkxMzgtNGNkNy00M2IyLTk5MWQtYTFjZTk3ZmEwNDI5XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c6e88015-8eec-4263-a684-7f257dbb86bb",
+          "title": "Nail Salon/Fun",
+          "episode": 7,
+          "description": "Nathan helps a nail salon overcome racial stereotypes while providing a service. Meanwhile, Nathan proves to the world, once and for all, that he is fun to hang out with.",
+          "date": "2015-12-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcxMjA4MjAwNl5BMl5BanBnXkFtZTgwOTczMTE0NzE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ac00f671-9ee9-40a0-b04f-65e6de3e87c0",
+          "title": "The Hero",
+          "episode": 8,
+          "description": "Nathan tries to prove that there's a hero inside every one of us.",
+          "date": "2015-12-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg1Nzc0ODkyN15BMl5BanBnXkFtZTgwODQ1NjY0NzE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "78eb34b2-a0cb-4cce-8d28-f0db71ed0c91",
+      "season": 4,
+      "episodes": [
+        {
+          "id": "6f52fc80-6641-4756-b91f-229afc7ef41c",
+          "title": "Nathan for You: A Celebration",
+          "episode": 1,
+          "description": "In a special episode hosted by Anthony Napoli, Nathan checks in with former guests of the show, including Brian Wolfe and the Ghost Realtor.",
+          "date": "2017-09-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDc0NzgzYTUtNzgyNS00Zjg2LWEwNzYtNjlkMDZjNGFjMDYzXkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "18bbcc70-212f-494a-9ea0-f969bbbc205b",
+          "title": "The Richards Tip",
+          "episode": 2,
+          "description": "Nathan helps a small-town diner with an act of extreme generosity.",
+          "date": "2017-09-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTlmNjkzMDMtMTk2My00ZjNhLThlZTUtMzgyNTdkMTY5OTk1XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2dfd3e29-2950-427d-8c74-5f24265a952a",
+          "title": "Chili Shop / Massage Parlor",
+          "episode": 3,
+          "description": "Nathan helps a chili maker sell his chili at a closed event. Nathan promotes a massage parlor in an unusual way.",
+          "date": "2017-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTAzZTRkODAtMTViOC00MzgwLThmZDItYTBiMmU5NTFjNWYyXkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "347aca6b-9a7b-4c2f-b00b-eaf1391d3739",
+          "title": "Andy vs. Uber",
+          "episode": 4,
+          "description": "Nathan teams up with a struggling taxi driver to take down Uber.",
+          "date": "2017-10-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGQwZWQxYWQtMTc3ZC00OTVlLWJkZGYtNDc0NTU5OWI4NTU4XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "48b5575a-6307-4d8b-85fb-691240f74948",
+          "title": "The Anecdote",
+          "episode": 5,
+          "description": "Nathan hones his storytelling skills.",
+          "date": "2017-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWMzYWU0ZDctMzNhNC00ZWQ2LTk5ZWYtM2YxNjI0ZmFkNmE0XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "cb6404dd-e2c6-47a5-8b63-2d4dde0ce17f",
+          "title": "Shipping Logistics Company",
+          "episode": 6,
+          "description": "Nathan teaches an international exporter how to ship smoke alarms tax-free.",
+          "date": "2017-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjdhZTcxMTItNDJjNy00MWExLWI5ZDItODY0YTUzMTJiNGU3XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "20ce9779-5595-4daf-8e51-f0aee6a043d0",
+          "title": "Computer Repair / Psychic",
+          "episode": 7,
+          "description": "Nathan helps a computer repair shop earn the public's trust, and a psychic's marketing turns personal.",
+          "date": "2017-11-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzZlODZiNDUtOTY4Ny00OTU4LWFlM2ItZmYxOThlNGRhODU0XkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "31a9a465-a7b9-4308-9265-3b36feffe93b",
+          "title": "Finding Frances",
+          "episode": 8,
+          "description": "Nathan attempts to help a Bill Gates impersonator reunite with his long-lost love.",
+          "date": "2017-11-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjZkMDIyMjQtZDk3Zi00NmQyLTk2OTktNTNiNjE1Y2EwMDQ3XkEyXkFqcGdeQXVyNDcwMTkyNDI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "9b80fe01-7683-4537-86e0-a169f368cac9",
+  "description": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+  "title": "Attack on Titan",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@.jpg",
+  "genres": [
+    8,
+    9,
+    2
+  ],
+  "seasons": [
+    {
+      "id": "414f1f50-ca77-4b5c-9e1b-1195617d1976",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "d1de886a-291c-4ca6-9ca9-161a2dd5d934",
+          "title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+          "episode": 1,
+          "description": "After 100 years of peace, humanity is suddenly reminded of the terror of being at the Titans' mercy.",
+          "date": "2013-09-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGVkYTY5YjUtZDEyZS00MTM5LWI3MTktN2NhYzUyNWZjOTdmXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d2ffe531-a00d-486f-8b78-b1a675d17d4c",
+          "title": "That Day: The Fall of Shiganshina, Part 2",
+          "episode": 2,
+          "description": "After the Titans break through the wall, the citizens of Shiganshina must run for their lives. Those that do make it to safety find a harsh life waiting for them, however.",
+          "date": "2014-05-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTJhNGM1ZTYtNTg2Ni00ZmRmLTlkYzgtY2IxMmZiYWM4ZTExXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6e75788b-8b49-477e-984d-789e2e3ebd36",
+          "title": "A Dim Light Amid Despair: Humanity's Comeback, Part 1",
+          "episode": 3,
+          "description": "Eren begins his training with the Cadet Corps, but questions about his painful past overwhelm him. When he struggles with a maneuvering exercise, Berholt and Reiner offer kindly advice.",
+          "date": "2014-05-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGUxMjI3NTUtZmFkNC00ZTAwLTljOTQtZWY5ZmVlNGY4MzliXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f2c47480-949a-4bfb-976e-74fceff8066e",
+          "title": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
+          "episode": 4,
+          "description": "Annie proves her skill in a sparring session, Jan dreams of serving alongside the King, and graduation day brings shocking revelations - along with a sudden outbreak of violence.",
+          "date": "2014-05-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWY0ODEzYzUtMjA4ZS00ZTExLWI5YmMtYzVjMWUzODFiZWFlXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "47cbcb4a-2d04-45b0-8d0b-9526758610f2",
+          "title": "First Battle: The Struggle for Trost, Part 1",
+          "episode": 5,
+          "description": "Eren faces off against the Colossal Titan after it appears out of nowhere and knocks a strategic hole in Wall Rose's gate. As Titans swarm the city, the newly graduated Cadets are called in to fight in a brutal battle.",
+          "date": "2014-05-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGM3YjlkNGMtOGI5NS00YzRjLWJjYjgtNzg2YTgxYWM1YTgyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7261ce59-46bc-4082-a374-6473b502eeda",
+          "title": "The World the Girl Saw: The Struggle for Trost, Part 2",
+          "episode": 6,
+          "description": "As Armin is left reeling from the death of his squad, Mikasa reflects on the day she met Eren.",
+          "date": "2014-06-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2NjNmY0NTktZmQzZi00M2IwLWI5ODAtYmU5MjE0M2FjZDlkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "546b8313-9aee-427a-b3d4-f867ebb55e32",
+          "title": "Small Blade: The Struggle for Trost, Part 3",
+          "episode": 7,
+          "description": "Cornered by the titans and out of gas, the desperation takes over the scouts. After hearing the news about Armin's squad, Mikasa encourages her mates in order to continue fighting at any cost.",
+          "date": "2014-06-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzJhODU1NzItYTdjYi00YThiLWE4YzQtNDQ2Y2ZjNTI0ODBjXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "25f537a9-2471-4f53-ad78-4f001243632d",
+          "title": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
+          "episode": 8,
+          "description": "Armin comes up with a risky plan that pits Titan against Titan as the abandoned Cadets aim to take back their headquarters. Getting into the building may be possible, but getting out alive and refueled will mean facing more of the giants.",
+          "date": "2014-06-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjIxNDMzNDYtNWJjMC00MzFlLThiMDgtZDYzMDk5ZTIzN2FjXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7402d47e-ddcd-448d-9f05-eb4e68eba892",
+          "title": "Whereabouts of His Left Arm: The Struggle for Trost, Part 5",
+          "episode": 9,
+          "description": "A miraculous return is met with anger and fear. Cannons are fixed on Eren as he struggles to remember what happened to him inside the belly of a monster. One question is all that matters: is Eren human or Titan?",
+          "date": "2014-06-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODk0NDI2NGQtZDVmNS00YjRiLWFmMGQtN2I3N2RkY2IyODE4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a2e91801-1a67-42c4-acb9-95874f65d025",
+          "title": "S1.E10 ∙ Response: The Struggle for Trost, Part 6",
+          "episode": 10,
+          "description": "Cadets react to Eren's transformation with doubt and fear as he struggles to understand it himself. If Armin can't talk the commander into using Eren's newfound powers for the good of humanity, all hope of stopping the Titans may be lost.",
+          "date": "2014-07-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODFkNDNkNjEtYzMwZS00MmJkLTkyYzctN2FhNjg2NWRmMDVkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "776ec4e6-bf1c-4879-bcd4-a4d7c583bede",
+          "title": "S1.E11 ∙ Idol: The Struggle for Trost, Part 7",
+          "episode": 11,
+          "description": "Plans are created to use Eren's Titan powers to seal the hole in the wall to reclaim Trost. But with the government's bloodstained history and vocal dissenters in the military ranks, the biggest threat to humankind may not be the Titans.",
+          "date": "2014-07-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGM5MjRhM2EtZGZlYS00Mjg5LTg5YjEtZmExMTdkMmRlYzI0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2c90f131-bbc9-46cd-833d-0ac78eba4445",
+          "title": "S1.E12 ∙ Wound: The Struggle for Trost, Part 8",
+          "episode": 12,
+          "description": "The plan to reclaim Trost falls apart when Eren's newfound powers turn him into a mindless giant. As Titans continue to swarm the city, it's up to Armin and Mikasa to make sure the cadets massacred during the mission haven't died in vain.",
+          "date": "2014-07-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTRkNTk4NGUtOTRhMS00NTE1LThiMjEtYjNjNTY4ZTdmYTU1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1b99fa12-81f1-498e-9f17-53a3d66c0959",
+          "title": "S1.E13 ∙ Primal Desire: The Struggle for Trost, Part 9",
+          "episode": 13,
+          "description": "Jean takes desperate measures to replace his broken maneuvering device. Meanwhile, Eren is able to plug the hole in the wall thanks to the help of his fellow cadets, but the cost of humanity's first victory against the Titans will be vast.",
+          "date": "2014-08-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjExZjdjYmItYmJhYi00NWIyLTk5ZWUtNTc4NDUzZjQzZTg3XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "74b6d5ad-00f2-4e93-b4c5-6094b9f8e1ee",
+          "title": "S1.E14 ∙ Can't Look into His Eyes Yet: Eve of the Counterattack, Part 1",
+          "episode": 14,
+          "description": "A military tribunal will decide Eren's fate. The Military Police call for his execution, while the Scouts argue that he is a powerful resource for humankind. Mikasa is put on the spot when asked about the events of the Trost mission.",
+          "date": "2014-08-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDBkNDk0NDgtNWE1YS00NGFjLWE3NWUtMmIwNGE1ZmI5ZTY0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c1fc7c7e-beaa-4f13-b16e-df33145a5c9f",
+          "title": "S1.E15 ∙ Special Operations Squad: Eve of the Counterattack, Part 2",
+          "episode": 15,
+          "description": "The Scouts move Eren to an old, abandoned castle where his training will continue. Hange visits and reveals that she's been putting two captured Titans through a series of tests and trials--experiments that she wants Eren's help with.",
+          "date": "2014-08-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjM1OWFkYTItZDkwZC00N2EzLWFiYzItZDlhNjAzZjQ2ZTQ5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c62a4722-0147-4b42-b3cd-e2454da03e1a",
+          "title": "S1.E16 ∙ What Needs to Be Done Now: Eve of the Counterattack, Part 3",
+          "episode": 16,
+          "description": "Everyone is a suspect in the investigation to find out who killed the two test subject Titans. Meanwhile, the Cadets pick which corps they'll join, but after the tragic events of the Trost attack, many are uncertain which branch to choose.",
+          "date": "2013-07-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2NmNzhlNTAtYmRmMS00ZTA0LTlmYTItNDEwYjk5NTcyOGM1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f6c34e2f-fb41-45b2-9258-5685a9a1123e",
+          "title": "S1.E17 ∙ Female Titan: The 57th Expedition Beyond the Walls, Part 1",
+          "episode": 17,
+          "description": "As the Scout Regiment pushes toward Shiganshina, they encounter an intelligent Titan unlike any they've seen before. When Armin hypothesizes that it's really a human that's been turned into a Titan, he, Jean, and Reiner attempt to stop it.",
+          "date": "2013-08-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzlmMzY5NjItMWI5Mi00ZDRlLTg3OTItYTNkY2U4MjYxYjQwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1eed0ec9-f026-4154-b502-68f9e5d204ff",
+          "title": "S1.E18 ∙ Forest of Giant Trees: The 57th Expedition Beyond the Walls, Part 2",
+          "episode": 18,
+          "description": "As the Female Titan tears its way through the Scout Regiment, Levi makes a bold decision to split the ranks and send Eren and the supply wagons through a huge forest.",
+          "date": "2013-08-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmQ5OWJmZDUtZmMzZC00N2UzLTk0ZTItZGM4Y2E3MTI5NzcwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2aad7604-806b-4dcf-b583-d81d32a45a29",
+          "title": "S1.E19 ∙ Bite: The 57th Exterior Scouting Mission, Part 3",
+          "episode": 19,
+          "description": "A memory of Eren testing out his Titan powers sheds light on how his abilities work. As the Female Titan slaughters members of the Scout Regiment, Eren is faced with a difficult decision: does he trust his teammates or act out on his own?",
+          "date": "2013-08-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA0OWMzZDYtMWI5NC00MmUwLTlmMWYtYTEzYjFlYTIwMTAzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2a1cb967-0400-40e9-9c25-26e3ca4b7558",
+          "title": "S1.E20 ∙ Erwin Smith: The 57th Expedition Beyond the Walls, Part 4",
+          "episode": 20,
+          "description": "The Female Titan has been captured. Erwin's goal is to find out who the human is lurking inside. Meanwhile, the Scouts realize the reason Levi told no one about their true mission outside the wall is because of a spy among their ranks.",
+          "date": "2013-08-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTMxNjFiNGEtMjk2Zi00NWQyLTgzOWQtYTYzZmMxZjEwYWE1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "21a342de-7f45-484f-88db-6412cc1f8356",
+          "title": "S1.E21 ∙ Crushing Blow: The 57th Exterior Scouting Mission, Part 5",
+          "episode": 21,
+          "description": "Managing to get out of Erwin's trap, the Female Titan transforms once more and chases after Levi's squad, who fight back in a deadly clash.",
+          "date": "2013-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTQwNzg2YWYtYTM1My00YjI2LWE1ZTUtNjdmMjNiOTBmNGVhXkEyXkFqcGdeQXVyODc5MTI0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "bac05163-ec27-4c48-b926-31f64d133f27",
+          "title": "S1.E22 ∙ The Defeated: The 57th Expedition Beyond the Walls, Part 6",
+          "episode": 22,
+          "description": "After watching Eren get swallowed by the Female Titan, Mikasa and Levi follow the monster in the hopes that he's still alive inside her. As the Scout Regiment tries to recover from the brutal losses of the operation, emotions run high.",
+          "date": "2013-09-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTA3N2RkMjAtZDFlOC00NjkwLTliMzQtOTJlZDRlODVmN2YyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9c568a5a-93c1-4093-a865-2698ef61a2aa",
+          "title": "S1.E23 ∙ Smile: Raid on Stohess District, Part 1",
+          "episode": 23,
+          "description": "After the failed scouting expedition, Eren and his superiors are summoned to the capital. Annie sees just how deep corruption runs in the Military Police and agrees to join Armin in a plot to defy the government-but nothing is as it seems.",
+          "date": "2013-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTgzYmYzMzYtMzcwYy00YTk2LWJmZGYtYjk0MzBiODVjZDgxXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3f220401-fd5a-488e-91fe-182dea965a92",
+          "title": "S1.E24 ∙ Mercy: Raid on Stohess District, Part 2",
+          "episode": 24,
+          "description": "When the identity of the Female Titan is finally revealed, she goes on a rampage within Wall Sina. Eren is hesitant to fight her, but Armin and Mikasa throw themselves into the battle in a desperate attempt to stop the towering monster.",
+          "date": "2013-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjFjNmM3NTEtNTdiMi00ZTZmLWJiMGQtNGJjY2Y1OTNmZTBkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3976e06f-8de5-4452-b447-a9a3cb64349f",
+          "title": "S1.E25 ∙ Wall: Raid on Stohess District, Part 3",
+          "episode": 25,
+          "description": "Eren goes head-to-head with the Female Titan in a fight that demolishes Stohess District inside Wall Sina. As the number of casualties multiplies and Annie tries to escape over the wall, Erwin must deal with the consequences of his plan.",
+          "date": "2013-09-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2E0YWFkZTQtYjVlZi00NzlmLWI0NzYtNWMwMWUxODYyY2U5XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

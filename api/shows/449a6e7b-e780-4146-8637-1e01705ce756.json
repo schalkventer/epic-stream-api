@@ -1,0 +1,81 @@
+{
+  "id": "449a6e7b-e780-4146-8637-1e01705ce756",
+  "description": "David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.",
+  "title": "Blue Planet II",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDZiNDllMTAtOTgxZi00NzNiLWFhNzUtOGUwZWZjZGNjZTMyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    4,
+    5
+  ],
+  "seasons": [
+    {
+      "id": "4978ab1a-c5ea-43d7-8714-24942df7e4b5",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "9baa9ad9-be16-443b-b412-76c24105187d",
+          "title": "One Ocean",
+          "episode": 1,
+          "description": "One Ocean takes us on a journey from the intense heat of the tropics to our planet's frozen poles to reveal new worlds and extraordinary never-before-seen animal behaviours.",
+          "date": "2018-01-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDdkOTVlZDMtZDk2OC00NWRmLWIxZTMtNGQ4NTgyNzQ1ZjRhXkEyXkFqcGdeQXVyODEyMzI2OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e7fbfe84-ac98-4418-ac16-11f54c4a3d57",
+          "title": "The Deep",
+          "episode": 2,
+          "description": "The adventurers in submarine explore the ocean and film everything around them.",
+          "date": "2018-01-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2QyOGYyZWUtMTA4ZC00MDhkLWEwMDYtZjY3YzM3YjQ1ODljXkEyXkFqcGdeQXVyODEyMzI2OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2d2cb1d7-360a-43ec-858b-6163ab4689cd",
+          "title": "Coral Reefs",
+          "episode": 3,
+          "description": "Corals build themselves homes of limestone in the warm, clear, shallow seas of the tropics. Their reefs occupy less than one tenth of one per cent of the ocean floor, yet they are home to a quarter of all known marine species.",
+          "date": "2018-02-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODdiZGMwZjktNWRlZS00NWI5LWE3ZmItNWI0ZmZmMTAzMTAxXkEyXkFqcGdeQXVyODEyMzI2OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "af37e93a-196f-431e-aeed-53e4e9b1a07d",
+          "title": "Big Blue",
+          "episode": 4,
+          "description": "The big blue is the world's greatest wilderness, far from shore and many kilometers deep. It's a vast marine desert where there is little to eat and nowhere to hide.",
+          "date": "2017-11-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWU1ODM5OTYtYzQ1MC00NTY3LWE4ZmMtNjk5NWQ0MzY2MWIyXkEyXkFqcGdeQXVyNTcxNTgwODU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ec62ea11-5313-4862-b0f1-1397455c74ff",
+          "title": "Green Seas",
+          "episode": 5,
+          "description": "It's our green seas, not the blue, that bring life to our oceans. Here sunlight powers the growth of enchanted forests of kelp, mangroves and prairies of sea grass. They are the most abundant but fiercely competitive places in the ocean to live.",
+          "date": "2017-11-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmExMzQwMmEtMDNlZS00MzlkLWJkZDEtM2M1YThmMDNjODU4XkEyXkFqcGdeQXVyODEyMzI2OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0d25602d-d490-4a31-8ccd-a294c9cb1f01",
+          "title": "Coasts",
+          "episode": 6,
+          "description": "A fascinating insight into the coastal depths that grace our planet.",
+          "date": "2017-12-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmExZjczYTItOTM2Mi00NjZiLTg5YjgtMzViNmZmZTU1MzZiXkEyXkFqcGdeQXVyNTcxNTgwODU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1aa6d21b-a316-4b04-bca7-5cfa45576d6b",
+          "title": "Our Blue Planet",
+          "episode": 7,
+          "description": "Examining the role of human anthropogenic activity on the oceans. Microplastics and pollution are an increasing problem for the world's seas, threatening the lives of marine life and ultimately impacting on the ecosystem.",
+          "date": "2017-12-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzg0YzgxMmEtYjYwNy00YWI3LWJlZmUtZGQ0YzdkY2QwNTk2XkEyXkFqcGdeQXVyNTcxNTgwODU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

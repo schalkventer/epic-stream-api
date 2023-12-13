@@ -236,6 +236,7 @@ for (let item of previews) {
     } = singleEpisode;
 
     const existing = seasons[season - 1] || {
+      id: createId(),
       season: season,
       episodes: [],
     };
@@ -245,11 +246,13 @@ for (let item of previews) {
       episodes: [
         ...existing.episodes,
         {
+          id: createId(),
           title,
           episode,
           description,
           date,
           image,
+          file: "https://epic-stream-api.netlify.app/placeholder.mp4",
         },
       ],
     };
@@ -273,54 +276,3 @@ for (let item of previews) {
     JSON.stringify(previews, null, 2)
   );
 }
-
-// const SHOWS = list.map((show) =>
-//   show.replace(/\.json/im, "")
-// );
-
-// const finalList = fullList.filter((show) => {
-//   return SHOWS.includes(show.id);
-// });
-
-// const result = finalList.map((show) => {
-//   const data = JSON.parse(
-//     readFileSync(`data/shows/${show.id}.json`)
-//   );
-
-//   let seasons = [];
-
-//   for (let singleEpisode of data.episodes) {
-//     const {
-//       title,
-//       season,
-//       episode,
-//       description,
-//       date,
-//       image,
-//     } = singleEpisode;
-
-//     seasons[season - 1] = {
-//       season,
-//       episodes: [
-//         ...(seasons[season]?.episodes || []),
-//         {
-//           title,
-//           episode,
-//           description,
-//           date,
-//           image,
-//         },
-//       ],
-//     };
-//   }
-
-//   return {
-//     ...show,
-//     seasons,
-//   };
-// });
-
-// writeFileSync(
-//   "./data/final.json",
-//   JSON.stringify(result, null, 2)
-// );

@@ -1,0 +1,440 @@
+{
+  "id": "5cd11307-b531-4be9-9ea3-7b4891ba357f",
+  "description": "The original surreal sketch comedy showcase for the Monty Python troupe.",
+  "title": "Monty Python's Flying Circus",
+  "image": "https://m.media-amazon.com/images/M/MV5BZGI1N2FiYTYtOWU3Mi00MjBlLWJkMGMtMjZmZTQwMDdiYjY3XkEyXkFqcGdeQXVyMTIwMjIwNjQ2.jpg",
+  "genres": [
+    18
+  ],
+  "seasons": [
+    {
+      "id": "8af4d8e9-1f7b-4002-a2cd-f6e077aa81c8",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "b468cdc0-631f-4c5e-8701-ee2d8cfcd1b1",
+          "title": "Whither Canada?",
+          "episode": 1,
+          "description": "'It's Wolfgang Amadeus Mozart', Famous Deaths, Italian Lesson, Whizzo Butter, 'It's the Arts', Arthur \"Two-Sheds\" Jackson, Cycling Race, and The Funniest Joke in the World.",
+          "date": "1969-10-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzkxNzIwMTIzNl5BMl5BanBnXkFtZTgwMDE2NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c3367365-f2d7-4c3d-a754-0d1907d46591",
+          "title": "Sex and Violence",
+          "episode": 2,
+          "description": "Flying Sheep, French Lecture on Sheep-Aircraft, A Man With Three Buttocks, A Man With Two Noses, Musical Mice, Marriage Guidance Counselor, The Wacky Queen, Working-Class Playwright, A Scotsman on a Horse, The Wrestling Epilogue, and The Mouse Problem.",
+          "date": "1969-10-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzAyMjU2OTUyNV5BMl5BanBnXkFtZTgwMTQ1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "24f341f1-019a-41cf-a067-d98a766845e6",
+          "title": "How to Recognise Different Types of Trees from Quite a Long Way Away",
+          "episode": 3,
+          "description": "Court Scene, The Larch, Bicycle Repair Man, Children's Stories, Restaurant Sketch, Seduced Milkmen, Stolen News Reader, Children's Interview, and Nudge Nudge.",
+          "date": "1969-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTE2OTQ4OV5BMl5BanBnXkFtZTgwMjc1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8255293f-9e7a-43a2-86cc-cfc1858cbe21",
+          "title": "Owl Stretching Time",
+          "episode": 4,
+          "description": "A change from street clothes to swim trunks turns into a burlesque act; a karate class exercises defense tactics against fresh fruit; a man tries to buy a book about false teeth.",
+          "date": "1969-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIyODY5NDkyMl5BMl5BanBnXkFtZTgwNDk0NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9f70c340-5ebc-4564-a7bf-5e9041cc0b7c",
+          "title": "Man's Crisis of Identity in the Latter Half of the 20th Century",
+          "episode": 5,
+          "description": "Confuse-a-Cat, The Smuggler, A Duck, a Cat and a Lizard (Discussion), Vox Pops on Smuggling, Police Raid, Letters on Vox Pops, Newsreader Arrested, Erotic Film, Cartoon - Charles Fatless, Silly Job Interview, Careers Advisory Board, Burglar/Encyclopaedia Salesman",
+          "date": "1969-11-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzIzOTIwNjkyMl5BMl5BanBnXkFtZTgwODU1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f6b8333e-a4f6-4cef-88d5-e633a91ab451",
+          "title": "The BBC Entry for the Zinc Stoat of Budapest (or, It's the Arts)",
+          "episode": 6,
+          "description": "Sketches include: a German composer with an extraordinarily long name; crooks plan an elaborate scheme to buy a watch; a chocolate-company owner markets \"Crunchy Frog.\"",
+          "date": "1969-11-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYzMDg1MzIyM15BMl5BanBnXkFtZTgwODQ1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6369f7ea-3a85-4777-b5dd-b6229b43db4c",
+          "title": "You're No Fun Any More",
+          "episode": 7,
+          "description": "Invaders from another galaxy turn Englishmen into Scotsmen. Also: a comedy about camels; a corporate board meeting.",
+          "date": "1969-11-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg0MDc1Nzk4OV5BMl5BanBnXkFtZTgwNzE1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "96d15507-0133-4208-864d-639cac56cde4",
+          "title": "Full Frontal Nudity",
+          "episode": 8,
+          "description": "A pet-shop customer returns his dead parrot; a gang of female senior citizens attacks a town's young men; a young army officer who joined the service to water-ski tries to resign.",
+          "date": "1969-12-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc4MjQzNjc2NF5BMl5BanBnXkFtZTgwMDI2NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "310dffea-afab-4703-a391-8271961bd09f",
+          "title": "The Ant: An Introduction",
+          "episode": 9,
+          "description": "A man with double vision organizes a mountain-climbing expedition; llamas are celebrated in a rousing Spanish song; a barber is afraid to cut hair; a couple's romantic evening is ruined by uncouth visitors.",
+          "date": "1969-12-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTUyOTcyOTU1M15BMl5BanBnXkFtZTgwNTk0NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "423f5489-16e7-4aa8-a757-26eaf992bcf1",
+          "title": "S1.E10 ∙ Untitled",
+          "episode": 10,
+          "description": "Sketches include: Bank Robber in Lingerie Shop, It's a Tree, Ron Obvious, Pet Conversations, Gorilla Librarian, Strangers in the Night",
+          "date": "1969-12-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTA5Nzg0ODMwODdeQTJeQWpwZ15BbWU4MDI4NTU4NzIx.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d2636de3-e556-4ef2-828c-1c79aa85823d",
+          "title": "S1.E11 ∙ The Royal Philharmonic Orchestra Goes to the Bathroom",
+          "episode": 11,
+          "description": "A half-inch-tall man appears on a talk show; a town's women's guild reenacts Pearl Harbor; the entire Royal Philharmonic Orchestra retires to the restroom.",
+          "date": "1969-12-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIwMzI1MDcxOF5BMl5BanBnXkFtZTgwMjU1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1d7daed0-3fb9-49d0-a3ac-7ecdab053931",
+          "title": "S1.E12 ∙ The Naked Ant",
+          "episode": 12,
+          "description": "The 127th annual Twit of the Year Show. Also: Hitler and Himmler are guests for tea in a boarding house; a BBC broadcast is interrupted when a British minister falls into a fissure.",
+          "date": "1970-01-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAzNjAxNDU0NF5BMl5BanBnXkFtZTgwNDQ1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8c6c902d-d2e4-4523-a643-907f8ccbcd77",
+          "title": "S1.E13 ∙ Intermission",
+          "episode": 13,
+          "description": "Among \"historical\" impersonations are Cardinal Richelieu as Petula Clark and Julius Caesar as Eddie Waring. Also: a police fairy tale; a vegetarian restaurant's menu, featuring a naked man with an apple in his mouth.",
+          "date": "1970-01-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI1ODY1MzcwN15BMl5BanBnXkFtZTgwMTM1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "836b818c-5307-4629-819d-1cc947d4386a",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "350aae5b-4383-478d-9677-64f90f6ea917",
+          "title": "Dinsdale!",
+          "episode": 1,
+          "description": "A sketch about the Ministry of Silly Walks. Also: a British minister---attired in a pink tulle dress---talks about housing; 30 gas-company men investigate the installation of a stove; a giant hedgehog wanders London.",
+          "date": "1970-09-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDg0YjQxNWYtNjdiYy00MDdhLWI0NmQtMTBmYTI2N2RiYzk1XkEyXkFqcGdeQXVyMzk0NzgwMTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0e37a0cf-2131-42dc-b49a-dc407587e5fb",
+          "title": "The Spanish Inquisition",
+          "episode": 2,
+          "description": "An offbeat look at the Spanish Inquisition; an unconventional version of \"Wuthering Heights.\" Also: a jury plays charades while delivering its verdict; a man attempts to find one nontaxable pleasure.",
+          "date": "1970-09-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEzOTA2ODU2NDdeQTJeQWpwZ15BbWU4MDg2NTU4NzIx.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ea078089-2407-4a2f-a346-944bccacf6cb",
+          "title": "Déjà Vu",
+          "episode": 3,
+          "description": "Sketches include: Flying Lessons, Hijacked Plane, Psychiatrist Milkman, Complaints, Déjà vu.",
+          "date": "1970-09-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTA0MDE1MDYzNTNeQTJeQWpwZ15BbWU4MDQ1NTU4NzIx.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "32f3155d-57b5-4356-9f67-0644888bf3b6",
+          "title": "The Buzz Aldrin Show",
+          "episode": 4,
+          "description": "A supersleuth bishop investigates a suspicious insurance business; an elderly couple construct a house that has no walls.",
+          "date": "1970-10-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjExMTk3OTA5OF5BMl5BanBnXkFtZTgwMTg0NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6c678fab-0e3d-4733-a82c-2bed4f39ecf5",
+          "title": "Live from the Grill-o-Mat",
+          "episode": 5,
+          "description": "Contestants vie for incriminating photos in \"The Blackmail Game\"; a boxer spars with schoolgirls.",
+          "date": "1970-10-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA2NTY5NjMyNl5BMl5BanBnXkFtZTgwMzk1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "995425f5-aea7-4c5c-a7a8-afa75bf52119",
+          "title": "It's a Living",
+          "episode": 6,
+          "description": "Sketches include: The time on BBC 1, School Prize Giving, Films by Mr. Dibley, Timmy Williams Interview, Election Night Special",
+          "date": "1970-11-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTQwMDkyMDgxNF5BMl5BanBnXkFtZTgwNzA1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "96fb2ac7-fc14-4db5-a62e-b6d22c781f28",
+          "title": "The Attila the Hun Show",
+          "episode": 7,
+          "description": "\"The Attila the Hun Show\"; a burlesque performance by government ministers; a documentary study of village idiots. Also: political groupies pursue MPs.",
+          "date": "1970-11-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTExMjIyMl5BMl5BanBnXkFtZTgwMjQ1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "82f13791-53d4-4465-a67d-76d53e612643",
+          "title": "Archaeology Today",
+          "episode": 8,
+          "description": "A dissatisfied bridegroom tries to exchange his spouse; hunters pursue a terrifying mosquito; domestic problems interrupt the work of Beethoven, Shakespeare, Michelangelo and other creative geniuses.",
+          "date": "1970-11-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEwNTAzODc3NF5BMl5BanBnXkFtZTgwNzc1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2f6b2c64-51ca-4728-9e69-ace8141f6392",
+          "title": "How to Recognise Different Parts of the Body",
+          "episode": 9,
+          "description": "A University of Woolamaloo philosophy-department meeting---the members of which are all named Bruce; an exploding penguin; a radio version of \"The Death of Mary Queen of Scots.\" Also: advice on how to pick up a cosmetic surgeon.",
+          "date": "1970-11-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDgwOTAwMjMxNl5BMl5BanBnXkFtZTgwNjQ1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ea0e7212-6f29-4142-aae3-b27869b1a0c1",
+          "title": "Scott of the Antarctic",
+          "episode": 10,
+          "description": "Foam-rubber snow and a stuffed lion are featured in a scene from \"Scott of the Antarctic\"; a football match is waged between gynecologists and Long John Silver impersonators.",
+          "date": "1970-11-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA1NzY0MTA0OV5BMl5BanBnXkFtZTgwMzg0NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "16aebb47-663b-4e48-8b35-efa4ca0d0deb",
+          "title": "How Not to Be Seen",
+          "episode": 11,
+          "description": "Conquistador coffee campaign; Repeating groove; Ramsey MacDonald striptease; Job hunter; International Chinese Communist Conspiracy; Crelm Toothpaste/Shrill petrol; Agatha Christie sketch (railway timetables); Mr Neville Shunte - railroad playwright; Gavin Millarrrrr writes; Film director/dentist Martin Curry (teeth); City gents vox pops; 'Crackpot Religions Ltd'; 'How not to be seen'; Crossing the Atlantic on a tricycle; Interview in filing cabinet; 'Yummy yummy'; Monty Python's Flying Circus again in thirty seconds.",
+          "date": "1970-12-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDQ0MDY4OF5BMl5BanBnXkFtZTgwMDcxNzc3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8584920d-2ca1-46e5-a17d-7c1b1f019e0c",
+          "title": "Spam",
+          "episode": 12,
+          "description": "World revolutionaries are quizzed about football scores; figures from works of art go on strike throughout galleries in England; the search continues for a cure for over-acting; Viking marauders kidnap Englishmen who ask for canned ham.",
+          "date": "1970-12-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcxMTM5MjgxOF5BMl5BanBnXkFtZTgwNzY1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "305a6bf5-943c-489e-b36b-c887fafdd9cf",
+          "title": "Royal Episode Thirteen",
+          "episode": 13,
+          "description": "Miners brawl over historical facts; hospital patients serve the doctors; five shipwrecked mariners decide whom they will have for dinner.",
+          "date": "1970-12-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY0OTMwMDkyMF5BMl5BanBnXkFtZTgwOTI2NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "966acdbd-1539-4876-b6f5-7973cc8cf8b2",
+      "season": 3,
+      "episodes": [
+        {
+          "id": "082e8711-72a0-4604-be19-b6df53924972",
+          "title": "Whicker's World",
+          "episode": 1,
+          "description": "A courteous murderer wins a suspended sentence by virtue of his charm; a search for Paris by way of Iceland is interrupted by a plane crash and a shipwreck. Also: how to dispose of pets before going on vacation.",
+          "date": "1972-10-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEyNDY2MTc5M15BMl5BanBnXkFtZTgwOTQ1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5f9b1cc1-db24-4aad-8153-74be8ac65ad8",
+          "title": "Mr. and Mrs. Brian Norris' Ford Popular",
+          "episode": 2,
+          "description": "A couple investigate the cultural similarities between two London districts, seven miles apart; schoolboys' extracurricular activities are examined; a TV farming club comments on Tchaikovsky.",
+          "date": "1972-10-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQxOTI2ODA1N15BMl5BanBnXkFtZTgwMDc1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f8994c6a-15f1-4582-b3e0-f4682f60922e",
+          "title": "The Money Programme",
+          "episode": 3,
+          "description": "\"The Money Program\" features a Swiss banker, a city accountant and a song of praise.",
+          "date": "1972-11-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTYwODQ5MV5BMl5BanBnXkFtZTgwODM1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2f6e7c95-8faa-47c4-9cf2-286b3ee81fc8",
+          "title": "Blood, Devastation, Death, War and Horror",
+          "episode": 4,
+          "description": "A program called \"Blood, Devastation, Death, War and Horror,\" featuring a man who speaks exclusively in anagrams; a timorous TV announcer, before and after he undergoes psychiatric treatment; the employment of \"pantomime horses.\"",
+          "date": "1972-11-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM3NDA5ODg2NV5BMl5BanBnXkFtZTgwOTI1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "30fb7f20-a2f8-40cf-9cfa-3ee966c7e475",
+          "title": "The All England Summarise Proust Competition",
+          "episode": 5,
+          "description": "Contestants in \"The All-England Summarize Proust Competition\" are judged in swimsuit and evening-gown categories; an irate customer confronts his travel agent. Also: an expedition to Mount Everest, made by an international group of hairstylists.",
+          "date": "1972-11-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODIwMDQ1NjUyMl5BMl5BanBnXkFtZTgwMDA2NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f5289e37-b70e-476d-940d-99f962ca35ad",
+          "title": "The War Against Pornography",
+          "episode": 6,
+          "description": "Surgical tools applied to a mildly anesthetized patient include a power drill and a mallet; a TV program features a lecture on gastropods, highlighted by the visit of a whelk.",
+          "date": "1972-11-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM1MjAzNTYwNF5BMl5BanBnXkFtZTgwOTY1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9e1c46bd-c68b-4c81-aac0-636fe731bb17",
+          "title": "Salad Days",
+          "episode": 7,
+          "description": "A climbing expedition negotiates a hazardous London road; an attempt is made to determine whether an urban dwelling is a house or a lifeboat. Also: a mouse's quest for cheese, which leads to the production of a Western called \"Rogue Cheddar.\"",
+          "date": "1972-11-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjkyMTg4NTQ1NF5BMl5BanBnXkFtZTgwOTU1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d5a1b552-5f79-4eba-a693-8792370212da",
+          "title": "The Cycling Tour",
+          "episode": 8,
+          "description": "Mr Pither; Clodagh Rogers; Trotsky; Smolensk; Bingo-crazed Chinese (British Ambassador); 'Jack in a Box'.",
+          "date": "1972-12-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzI0NTY3MTQwMF5BMl5BanBnXkFtZTgwMTgxNzc3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6db58fed-ba1c-4939-a2d1-2db653baf04d",
+          "title": "The Nude Man",
+          "episode": 9,
+          "description": "A housing project induced by hypnosis stands---as long as the tenants believe in it. Also: highlights of the Olympic Hide-and-Seek finals; suggestions for improving bullfighting, such as the use of radar.",
+          "date": "1972-12-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY3NDEwNzU4OV5BMl5BanBnXkFtZTgwOTE1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c99a0b94-38f9-40ef-bc9e-2301b6ecb873",
+          "title": "E. Henry Thripshaw's Disease",
+          "episode": 10,
+          "description": "A police investigator is mistaken for Sir Philip Sidney in a Tudor-period job agency, which actually deals in pornography; King Solomon judges the case of a stray bee; a panel of dead people debates the question \"Is There a Life After Death?\"",
+          "date": "1972-12-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTA4MTk1OF5BMl5BanBnXkFtZTgwNDI1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "91dea8da-7d8e-4e31-8513-c6aeeaf8aaab",
+          "title": "Dennis Moore",
+          "episode": 11,
+          "description": "A highwayman steals \"lupins\" from the rich and tries to give them to the poor. Also: the first episode in a tatty, tedious 18th-century serial is brought to a screeching halt; peasants clamor for Titian paintings and Venetian glass.",
+          "date": "1973-01-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEyNDUxMzA5NjdeQTJeQWpwZ15BbWU4MDUyNjU4NzIx.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "804a9f57-7422-4850-9ecb-511a548e62d9",
+          "title": "A Book at Bedtime",
+          "episode": 12,
+          "description": "'A Book at Bedtime'; 'Red Gauntlet'; Kamikaze Highlanders; No time to lose; Penguins; BBC pro-gramme planners; Unexploded Scotsmen; 'Spot the Looney'; Rival documentaries; 'Dad's Doctors'; Dad's Pooves'.",
+          "date": "1973-01-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg4MTYyNDc2N15BMl5BanBnXkFtZTgwMTkxNzc3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4d07d426-e6a6-4b4b-8ca1-3432349be474",
+          "title": "Grandstand",
+          "episode": 13,
+          "description": "Oscar Wilde, James Abbott McNeill Whistler, George Bernard Shaw and the future Edward VII exchange epigrams at an evening party; mechanical brain surgery fails to dramatically affect a woman's mentality.",
+          "date": "1973-01-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEzMTI0NTI0M15BMl5BanBnXkFtZTgwNTE1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "43a3036e-2bc1-45cd-9f49-7d2c1d02720e",
+      "season": 4,
+      "episodes": [
+        {
+          "id": "1095ac47-1e27-4e5f-926c-563d145fa325",
+          "title": "The Golden Age of Ballooning",
+          "episode": 1,
+          "description": "The Montgolfier brothers prepare for the first balloon flight.",
+          "date": "1974-10-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjY5ODI5ODkyN15BMl5BanBnXkFtZTgwNjk1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8d7e1801-a90b-4aea-973e-bb845b93b897",
+          "title": "Michael Ellis",
+          "episode": 2,
+          "description": "In this episode, Chris Quinn enters a department store and demands to buy an ant named Marcus.",
+          "date": "1974-11-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY0NjEyMjI1NV5BMl5BanBnXkFtZTgwNDE5MzE1NTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "39bd44e2-2a56-4414-b6e8-176fd8855024",
+          "title": "The Light Entertainment War",
+          "episode": 3,
+          "description": "A parody of war includes the invasion of Norway by tutu-clad commandos and a plea to the public to treat the war seriously.",
+          "date": "1974-11-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTczOTc5ODA5NV5BMl5BanBnXkFtZTgwNjc1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fa291374-78a3-4540-ba30-e9afdca91157",
+          "title": "Hamlet",
+          "episode": 4,
+          "description": "Hamlet undergoes psychoanalysis; eight Queen Victorias compete in the Queen Victoria handicap race; a boxing contender gets his head knocked off.",
+          "date": "1974-11-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIzMTIyOTE2M15BMl5BanBnXkFtZTgwMTA1NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8a08d78f-7e90-4c2b-9e24-4a9b82e8e078",
+          "title": "Mr. Neutron",
+          "episode": 5,
+          "description": "The search for Mr. Neutron, who plans to dominate the world, stretches from a London suburb to the Yukon, and results in the destruction of earthly civilization.",
+          "date": "1974-11-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTExODgxMzgzOTVeQTJeQWpwZ15BbWU4MDA3NDU4NzIx.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "29ca27ec-b078-42df-b0a2-491cb8e07f8c",
+          "title": "Party Political Broadcast",
+          "episode": 6,
+          "description": "A spoof of British political-party broadcasts includes the finals of \"the worst family in Britain\" contest, a violent cricket match and a housewife who revolutionized beekeeping.",
+          "date": "1974-12-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE0ODUwMzA2NF5BMl5BanBnXkFtZTgwNjg0NTg3MjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

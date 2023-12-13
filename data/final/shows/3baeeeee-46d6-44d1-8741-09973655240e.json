@@ -1,0 +1,615 @@
+{
+  "id": "3baeeeee-46d6-44d1-8741-09973655240e",
+  "description": "The trials and tribulations of criminal lawyer Jimmy McGill in the years leading up to his fateful run-in with Walter White and Jesse Pinkman.",
+  "title": "Better Call Saul",
+  "image": "https://m.media-amazon.com/images/M/MV5BZDA4YmE0OTYtMmRmNS00Mzk2LTlhM2MtNjk4NzBjZGE1MmIyXkEyXkFqcGdeQXVyMTMzNDExODE5.jpg",
+  "genres": [
+    1,
+    2
+  ],
+  "seasons": [
+    {
+      "id": "adbdaba5-e1fd-40f2-9e71-6c7b39f8b2aa",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "605c472f-6058-4343-9622-3632cc5bbe14",
+          "title": "Uno",
+          "episode": 1,
+          "description": "Struggling public defender Jimmy McGill constructs an elaborate yet questionable plan for winning back a pair of wealthy potential clients.",
+          "date": "2015-02-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmM3NTIxMmItMzY4OS00MDBhLTkxYmYtMTdlNjYxZDIzZmYzXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "52368209-8df6-4f08-99c0-6a607bef4699",
+          "title": "Mijo",
+          "episode": 2,
+          "description": "Jimmy's latest scam has gone horribly wrong and he's face-to-face with violent criminals and being forced to talk his way out of a life-threatening situation.",
+          "date": "2015-02-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWEzNzlhOTctNmY0ZC00YTY2LTgwMDMtOWJkYjVhM2I1NzlkXkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "6da17ab8-0e25-47aa-8741-5bf5fa3c3fe8",
+          "title": "Nacho",
+          "episode": 3,
+          "description": "Jimmy must prove that Nacho is innocent when he is wrongly suspected of kidnapping.",
+          "date": "2015-02-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTdlMmQ1MjItZGM2ZS00NTY0LWFkNmQtZTM4NmZiOTQyYzRjXkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4f6b2d20-f024-47b1-8e34-69673809304b",
+          "title": "Hero",
+          "episode": 4,
+          "description": "Jimmy makes a bold move against Hamlin in an effort to attract potential clients.",
+          "date": "2015-02-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjg4MDU0OTk5MV5BMl5BanBnXkFtZTgwMzczODg1NDE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "54e84d04-6e03-44d4-b784-174e5a591822",
+          "title": "Alpine Shepherd Boy",
+          "episode": 5,
+          "description": "After a strange encounter with the police, Chuck ends up in the hospital. Jimmy meets up with a series of unruly clients.",
+          "date": "2015-03-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDIyNTMzMzY0MV5BMl5BanBnXkFtZTgwMDgwNjU2NDE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5c5fbafb-21ad-47a6-8d19-1efe532be890",
+          "title": "Five-O",
+          "episode": 6,
+          "description": "Mike's days as a police officer in Philadelphia catch up to him when he's questioned about a tragic event from his past.",
+          "date": "2015-03-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGVjYjhjYTYtOTNkNy00NDNlLThkYTgtZmJmMDQ5OTZlNTY0XkEyXkFqcGdeQXVyODM1NTI2MTg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7e953c67-f189-4db4-9c3b-a7b23a760d2b",
+          "title": "Bingo",
+          "episode": 7,
+          "description": "The Kettlemans seek Jimmy as their lawyer after turning down an offer from HHM.",
+          "date": "2015-03-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzg0ODY0MDI3M15BMl5BanBnXkFtZTgwMDEzOTY4NDE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4fb44b76-817e-40eb-bb8b-a284493303c7",
+          "title": "RICO",
+          "episode": 8,
+          "description": "Jimmy discovers the Sandpiper Retirement Home has been scamming his elderly clients, and prepares to take legal action.",
+          "date": "2015-03-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMyNzkzODk4NV5BMl5BanBnXkFtZTgwMDc5Nzg5NDE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "4a634561-5ae5-4270-a4b4-b8b08912c40f",
+          "title": "Pimento",
+          "episode": 9,
+          "description": "Chuck wants to transfer the Sandpiper case to HHM much to Jimmy's dismay. Mike gets a job offer working as a bodyguard.",
+          "date": "2015-03-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTEyOTA2ODktYzBkZC00YWUzLTk0MTQtMjdhZjEzMzExNWIxXkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d83bcd91-92c6-4d6b-82b8-714e11806119",
+          "title": "S1.E10 ∙ Marco",
+          "episode": 10,
+          "description": "Jimmy seizes an opportunity to reconnect with an old friend; Chuck adjusts to a new way of life.",
+          "date": "2015-04-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmQ3Zjg2NjktMTgwYy00ZDU2LTg2NjEtZDdkMzQ5MmNlNmI1XkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "9d2ffcf3-f148-4ff6-8ed0-ca1675e9662e",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "162e392e-6005-426b-be27-f0cc14353c08",
+          "title": "Switch",
+          "episode": 1,
+          "description": "Jimmy decides to quit the law after turning down a job at Davis & Main. Mike breaks ties with a former associate.",
+          "date": "2016-02-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWIzYWJmZWQtZjgxNC00MTIwLThhMzEtZDYzOWYyMWJhYzRhXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0711bac1-8aa6-43cd-b502-b774aeb04a8c",
+          "title": "Cobbler",
+          "episode": 2,
+          "description": "While Mike attempts to track down Pryce's stolen baseball cards, Jimmy must defend him when the police call him in for further questioning.",
+          "date": "2016-02-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmQ2NTc0OTUtYTIyYS00ZTUxLTkwODgtMmQ1MjI2NjFhNWRlXkEyXkFqcGdeQXVyODY0NzcxNw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "52d99895-c8fb-4954-be4e-9e91140e0b2a",
+          "title": "Amarillo",
+          "episode": 3,
+          "description": "Jimmy struggles with client outreach and decides to shoot a TV commercial for Davis & Main. Mike begins an investigation.",
+          "date": "2016-02-28T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkwMDYyMDgzNl5BMl5BanBnXkFtZTgwODM5NzUxODE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "350fbf3e-ca89-4422-933f-1cb4f7785ee8",
+          "title": "Gloves Off",
+          "episode": 4,
+          "description": "Mike makes a deal with Nacho in regards to his newest job offer. Jimmy and Kim face the repercussions of the TV commercial.",
+          "date": "2016-03-06T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTQzODYxNV5BMl5BanBnXkFtZTgwODIzMTMyODE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "87a1b6ec-a6fe-4ff9-af35-9f8de4822908",
+          "title": "Rebecca",
+          "episode": 5,
+          "description": "Jimmy chafes under his restrictive work environment; Kim goes to extremes to dig herself from a bottomless hole at HHM.",
+          "date": "2016-03-13T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzBjMjk3ZmEtZWM1Yi00ZmM4LWE3MDMtZjEzOGI3MTVhOGNlXkEyXkFqcGdeQXVyODY0NzcxNw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e2632bcf-48a0-4e04-8e4a-1627d478b7a5",
+          "title": "Bali Ha'i",
+          "episode": 6,
+          "description": "Jimmy finds comfort in familiarity; Kim receives a life-changing proposal; when he is threatened, Mike finds himself pushed to the limit.",
+          "date": "2016-03-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2JkNTQyYjctYWVlMi00ZjM0LTljNDQtM2UwNjIyYjVhNDU5XkEyXkFqcGdeQXVyODY0NzcxNw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0ba595f9-d3c1-4787-aead-ae3455496a1b",
+          "title": "Inflatable",
+          "episode": 7,
+          "description": "When Mike's hand is forced, he can no longer hide his frustration; Mike and Jimmy work together to keep the peace.",
+          "date": "2016-03-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjE2NGNjMWUtYmNjYS00Y2NmLTg1NDYtZjk4YjY2YThjNDQ2XkEyXkFqcGdeQXVyMzU0MjQxMDU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "21eb3b00-98f0-42e5-a78c-33800ccc1f2e",
+          "title": "Fifi",
+          "episode": 8,
+          "description": "Kim hopes to keep the Mesa Verde case, but HHM won't let it go without a fight. Mike stakes out the Salamanca's business.",
+          "date": "2016-04-03T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTliMjllMzUtOWM4Mi00NGUwLWIzNTQtNGM5YjRmZmU3NmJlXkEyXkFqcGdeQXVyODY0NzcxNw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e52f8427-ab61-4166-a110-f4efef556744",
+          "title": "Nailed",
+          "episode": 9,
+          "description": "Mike takes a methodical approach to his mission; someone questions Chuck's capabilities; Jimmy faces a personal dilemma.",
+          "date": "2016-04-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NDA3MjQ5OV5BMl5BanBnXkFtZTgwNjU4MDY2ODE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "16fc1555-774f-4820-b8cb-f9d6e97f9050",
+          "title": "Klick",
+          "episode": 10,
+          "description": "Jimmy must make a hard choice; Mike takes control of matters; Hamlin delivers shocking news.",
+          "date": "2016-04-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAzNDg4OTk0Nl5BMl5BanBnXkFtZTgwMjE5MDY2ODE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "211f78b1-d23e-4e36-8b55-96fec9af5b83",
+      "season": 3,
+      "episodes": [
+        {
+          "id": "691c6f00-a3eb-45e3-9376-a7fb7f6f6683",
+          "title": "Mabel",
+          "episode": 1,
+          "description": "As Chuck plots his next move, another lie comes back to haunt Jimmy. A rattled Mike tries to find out who's been tracking his movements - and how.",
+          "date": "2017-04-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjgxZjdmYWUtZjI4My00MTc0LWEzMDgtMDY4M2U0YmNhMDFkXkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "575394b7-4dfc-457c-bd00-7df74c3c1d38",
+          "title": "Witness",
+          "episode": 2,
+          "description": "Jimmy and Kim hire an assistant; Mike seeks out a mysterious acquaintance; and Chuck uses the law to gain an advantage over Jimmy.",
+          "date": "2017-04-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMGVjNTUzZGUtM2QzZi00MWI1LTk2YzYtOTgxMzRhZGEwYjhhXkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "070039e7-3984-42dd-bd20-d5d3a81ba930",
+          "title": "Sunk Costs",
+          "episode": 3,
+          "description": "Jimmy decides to represent a new client, much to Kim's dismay. Meanwhile, Mike meets a formidable ally who presents him an enticing offer.",
+          "date": "2017-04-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGYwNDViZTQtNzFkMC00ZDc3LWFiMDUtYjM4ZGZhMmExZTY1XkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "db50fd09-7c4a-4402-8625-976ca7575f53",
+          "title": "Sabrosito",
+          "episode": 4,
+          "description": "Jimmy calls in a favor from Mike. Meanwhile, new complications disrupt the Salamancas' business; and Chuck and Jimmy struggle to compromise.",
+          "date": "2017-04-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmUzZmNjOGEtZTQ2Ni00NThlLWJlNTktOWViMDJhZjE2MzFhXkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2cec5514-9162-4b21-af24-e25b6a6d7d71",
+          "title": "Chicanery",
+          "episode": 5,
+          "description": "Kim and Jimmy face off with Chuck and Howard at the New Mexico Bar Association hearing.",
+          "date": "2017-05-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGQ5NWY5YjktZjMyYy00MDYwLTkwMzQtM2NjZGY5MmJhMDZkXkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3df9cc41-1cce-4961-b015-4925d616aada",
+          "title": "Off Brand",
+          "episode": 6,
+          "description": "Jimmy is back in the commercial making business. Chuck pushes himself to the limit. Nacho finds himself ensnared in a power struggle.",
+          "date": "2017-05-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDg1Y2I0ZDQtZDM2Ny00MTU2LWIyODctZTg5OTBlNGY4MmI3XkEyXkFqcGdeQXVyNTgyNDM1OTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a640f819-37c3-4ac9-b8ed-37aa619b68fb",
+          "title": "Expenses",
+          "episode": 7,
+          "description": "Jimmy tries to settle his debts. Nacho reunites with an old acquaintance. Mike helps Stacey with a project and makes a meaningful connection.",
+          "date": "2017-05-21T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmE2OGU1OWQtMzc3ZS00Y2RkLTk5NWMtYWQ4M2ZiNmYxMmJlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "273bc451-cc3b-4ec8-a17b-da61fdf3b34a",
+          "title": "Slip",
+          "episode": 8,
+          "description": "Jimmy is pushed to desperate measures. Nacho picks up a skill and Mike explores an alliance. Kim stands up to Hamlin.",
+          "date": "2017-06-04T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDc4ZmFmMTYtNjM5Yi00YjcyLTkzZTgtYjRiNDdlNTcxYTI3XkEyXkFqcGdeQXVyODY0NzcxNw@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "caeab832-0b84-4214-84f4-bcd50dbadea2",
+          "title": "Fall",
+          "episode": 9,
+          "description": "Jimmy visits Irene at Sandpiper Crossing to see how the class action lawsuit is going; Chuck and Howard spar over the future of the firm; and Kim faces challenges after deciding to take on a new client.",
+          "date": "2017-06-11T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGIyODE1MjUtMDRmZC00NTAzLWIwZmEtMGM0YWE4MjkyZGE5XkEyXkFqcGdeQXVyMzgwNDk3ODg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "756d5487-e09c-41f6-9250-0f4b52324bd9",
+          "title": "Lantern",
+          "episode": 10,
+          "description": "Kim resolves to take some time off from work, while Jimmy does his best to make amends; Nacho takes a major gamble with his future; Hamlin applies pressure on Chuck to finally make a decision.",
+          "date": "2017-06-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDczZDRlYzItNTJiNy00YzA0LWIyNzUtYzBlZjZkYjE0NTNiXkEyXkFqcGdeQXVyNjc5Mjg0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "1a0dafb4-a885-49a6-b9b5-d3913b293f3d",
+      "season": 4,
+      "episodes": [
+        {
+          "id": "33a222fa-2aee-4203-ba98-6f29d86bf05e",
+          "title": "Smoke",
+          "episode": 1,
+          "description": "Jimmy struggles to cope with Chuck's tragic incident. Mike ponders his role at Madrigal. Howard makes a startling confession.",
+          "date": "2018-08-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzE4N2RkOGQtOWIwOC00OTJhLThmMTEtZjBiYTBhZDExMTI3XkEyXkFqcGdeQXVyNzg5MjYxOTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "33c552ed-1918-42d5-9741-8414b8d4a394",
+          "title": "Breathe",
+          "episode": 2,
+          "description": "Jimmy seeks new employment. Gus navigates the fallout from Hector's collapse. Kim endeavors to support Jimmy in the wake of Chuck's death.",
+          "date": "2018-08-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmM2YjA3ZGQtOTZjNi00ZTYzLWFjNDYtOWUwMzI5YWM5OGFkXkEyXkFqcGdeQXVyMzI4MTQyMDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "12931a44-14db-4f86-a7db-654ffef94c05",
+          "title": "Something Beautiful",
+          "episode": 3,
+          "description": "Jimmy puts a risky plan into motion; as alliances shift, Nacho finds himself in the crosshairs; Kim contemplates her future.",
+          "date": "2018-08-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTQ0NmU0ZTQtOTI2ZS00ZjdkLWIzMTAtODdjZDE1MTZlMDhlXkEyXkFqcGdeQXVyMzI4MTQyMDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "ff870bdb-8c6f-4120-a204-3c3d3d950f8d",
+          "title": "Talk",
+          "episode": 4,
+          "description": "A restless Jimmy embarks on a new endeavor while Mike burns bridges; Kim pursues her bliss; Nacho tries to survive a turf war.",
+          "date": "2018-08-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTNiNzNlYjktZmMzMy00NDFiLTk2YzYtYjM5NjJmYTczMzdiXkEyXkFqcGdeQXVyMzI4MTQyMDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "80620bcb-cae4-446e-8883-34098385311d",
+          "title": "Quite a Ride",
+          "episode": 5,
+          "description": "Jimmy identifies a new market for his talents; Mike vets a potential partnership; Kim drives a hard bargain.",
+          "date": "2018-09-02T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTFjYzkxZWQtZDk2Ni00OGE0LTlkZDUtM2VlMDA5YWE3YmQ3XkEyXkFqcGdeQXVyMzI4MTQyMDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "cfcff7cd-f2d6-4cfa-a4bb-2df21ae1bfdf",
+          "title": "Piñata",
+          "episode": 6,
+          "description": "While Jimmy daydreams about reconstituting Wexler-McGill, Kim sets out to secure her own future; Mike puts a plan into motion for Gus.",
+          "date": "2018-09-09T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGY2MDIwZWMtMDcyYy00OTY3LWI2MmYtMGZiNzJjZTNjMDI2XkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f3a5bfc8-852b-4710-93d7-f72b942281b7",
+          "title": "Something Stupid",
+          "episode": 7,
+          "description": "Jimmy runs into a problem as he expands his business that only Kim can solve. Gus gets involved in Hector's medical care. Mike has to deal with a setback.",
+          "date": "2018-09-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWYxYjFlZmEtZTQyMy00MGE4LThiMGItZmNmMTc1MWQ4ZTRlXkEyXkFqcGdeQXVyMzI4MTQyMDQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "30b6ad7e-a369-4416-b707-142dc4472266",
+          "title": "Coushatta",
+          "episode": 8,
+          "description": "Jimmy goes to great lengths to right a wrong, as Kim pulls out all the stops for a case; Mike lets his team blow off steam; Nacho receives a visitor.",
+          "date": "2018-09-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzU4NjEyODUtNDM1MC00MjY0LTlhYTktZGJlMjcwYjMwYzM4XkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e38b7f77-3a3b-439f-a0e9-8e9e038f6d84",
+          "title": "Wiedersehen",
+          "episode": 9,
+          "description": "Jimmy attends his reinstatement hearing at the Bar Association; Nacho is forced to make the rounds with Lalo; Mike has cause to worry.",
+          "date": "2018-09-30T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjllNTY3OWEtNTQzYy00NWQ5LWE1ZjItZjk1ZjY3MzliMGZhXkEyXkFqcGdeQXVyNzg5MjYxOTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "f0e1e119-489a-4495-b6b4-63469cff3d47",
+          "title": "Winner",
+          "episode": 10,
+          "description": "Lalo tails Mike as he attempts to track down Werner; Jimmy and Kim invoke the memory of Chuck for the Bar Association appeal hearing.",
+          "date": "2018-10-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjQwNmMwMGQtY2EwNi00MTA4LTg2NzMtMjFkZjk1ZGY1NTAwXkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "6cea8573-6cf6-4a2c-aa3f-719eb6c63230",
+      "season": 5,
+      "episodes": [
+        {
+          "id": "5fa0843f-4adb-4331-ba32-0bd84959e40d",
+          "title": "Magic Man",
+          "episode": 1,
+          "description": "Lalo searches for the mysterious Michael. Now doing business as Saul Goodman, Jimmy unveils an unorthodox strategy that tests Kim's tolerance.",
+          "date": "2020-02-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2ExNWJhN2YtMDgyNC00NGJhLWFlNDMtZTQ2YjdjOGJlOTY2XkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "cb9b5a6f-b55f-4dfe-813c-182260791739",
+          "title": "50% Off",
+          "episode": 2,
+          "description": "Jimmy's promotional stunt has unintended consequences. Nacho takes extreme measures to earn Lalo's trust. Saul is a success at the courthouse, but still has yet to win Kim over. Simmering with rage and self-loathing, Mike loses his temper.",
+          "date": "2020-02-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzJhMmZmNmMtMTc5Ny00NTY5LTg4MTQtOTFkMWE3MjA2YmY2XkEyXkFqcGdeQXVyNDYzODU0OTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "855c9cf9-9668-466f-a2a2-8b570fc3d8f5",
+          "title": "The Guy for This",
+          "episode": 3,
+          "description": "Jimmy's business enters uncharted territory. Kim's confidence is tested when she's faced with a legal problem only she can solve. Nacho navigates increased pressure from Gus. Mike continues to spiral.",
+          "date": "2020-03-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGIwMGRhYWMtOGI4ZS00MjdkLThmNTAtMmU0MWQ5YTQwZTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "aa7dd2e7-ed24-4b06-bde0-8c59dc51ff1d",
+          "title": "Namaste",
+          "episode": 4,
+          "description": "As Jimmy doubles down on \"Saul Goodman\", a deeply conflicted Kim brings him an interesting proposition. Gus makes a sacrifice in order to play the long game. Mike attempts to smooth things over with his family.",
+          "date": "2020-03-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2FhMTdiZDAtOGM0OS00ZDYxLThkNTAtYzgxZDhlMTdkZDYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9cb28ac2-4b11-43ad-9391-c5ae5ab77d4f",
+          "title": "Dedicado a Max",
+          "episode": 5,
+          "description": "As she and Jimmy grow closer over their campaign to help a client, Kim makes a surprising call; Mike is restless during his out-of-town recuperation.",
+          "date": "2020-03-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDY4ZjYyODMtMmUxOC00MWQ3LWE0NzAtZTI0ZDZiMzY0NWRmXkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "89f588c2-18be-4021-ac00-85be55fe298a",
+          "title": "Wexler v. Goodman",
+          "episode": 6,
+          "description": "Kim has a change of heart, but Saul is determined to stick it to Mesa Verde; Mike turns the heat up on Lalo; Nacho attempts to enlist support from above.",
+          "date": "2020-03-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOWE5NGUzNTUtZTlhNC00NzcyLTgwMjAtY2MyM2VjZGEwMWU5XkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "41f291c7-f9b8-4b16-871f-b4b5416eaea7",
+          "title": "JMM",
+          "episode": 7,
+          "description": "Jimmy and Kim build a legal firewall with help from Huell; Kim sets things straight with her clients as Jimmy is compromised by his; Gus calms troubled waters in service of his plot to build an empire; Mike does damage control.",
+          "date": "2020-03-29T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmU5ODZmZmQtNDI1NC00YWJkLTkxM2YtZjUwOTQ4OTAwOGE0XkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7fb19d74-7d84-496e-85ee-63dd8e63aeea",
+          "title": "Bagman",
+          "episode": 8,
+          "description": "When a simple errand for a client goes sideways, Jimmy is pushed to the limit; Mike takes measures to contain the wrath of the cartel; Lalo gets an unexpected visitor.",
+          "date": "2020-04-05T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjRlMWUwYmYtNzZiYS00NzU3LTkxMDUtOTBjNWU1OGU0MzIzXkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7859e985-98df-4134-80d0-66b98461c198",
+          "title": "Bad Choice Road",
+          "episode": 9,
+          "description": "In the wake of Jimmy's traumatic misadventure, Kim takes stock of what is important; Jimmy attempts to return to business as usual, but it's more difficult than anticipated; Gus and Mike set a plan in motion.",
+          "date": "2020-04-12T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2M2OWJjODItMjNhMi00MTFhLTkzNzYtODM3ZGQ4MjQ2ODU5XkEyXkFqcGdeQXVyMTE1Mzc1Nzk0.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "85a4b1d3-c00e-42db-965a-574e83f37995",
+          "title": "Something Unforgivable",
+          "episode": 10,
+          "description": "Jimmy and Kim make a sideways move that takes a serious turn; Nacho gets closer to the cartel than he'd like.",
+          "date": "2020-04-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDFhMDRmZTMtYmU0Yi00YmM5LTk1NDQtZTEwNzYxNWNhYTkyXkEyXkFqcGdeQXVyNzIzMDQxNjQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "f5a401e8-598d-4ff4-bff6-a9bd35b59aa3",
+      "season": 6,
+      "episodes": [
+        {
+          "id": "f4c834b8-74da-4309-b442-a00e4b60b325",
+          "title": "Wine and Roses",
+          "episode": 1,
+          "description": "Nacho runs for his life. Saul and Kim hatch a plan to mess with Howard. Mike questions his allegiances.",
+          "date": "2022-04-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDY2NTYyMjAtNDNhOC00NDcwLTg3OTYtY2QxYjFmYTY2YjhlXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "92c3133b-ee45-4f6f-b091-c54d65815c09",
+          "title": "Carrot and Stick",
+          "episode": 2,
+          "description": "Kim and Saul enlist some familiar faces in their scheme to get Howard. Harsh realities dawn on Nacho. Gus investigates his suspicions.",
+          "date": "2022-04-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA5NTE0N2QtYTA2OS00OGM2LWE3N2MtN2MwODg1OTAzZThmXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d48f4870-2e61-4746-8930-1ff7380fc547",
+          "title": "Rock and Hard Place",
+          "episode": 3,
+          "description": "Still on the run, Nacho is forced to choose where his loyalties lie. Saul must decide whether he wants to remain a \"friend of the cartel\" after his reputation is called into question. Gus and Mike ready the team for a meet.",
+          "date": "2022-04-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmJmN2JkZmUtNjVkMC00OWNkLWJmODUtYWU3NjJkODMxMTkzXkEyXkFqcGdeQXVyMTU2MzcxNDc4.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2a2018a6-93a0-45cc-acef-250196cdd833",
+          "title": "Hit and Run",
+          "episode": 4,
+          "description": "Despite assurances from the cartel, Gus takes extreme measures to protect himself against looming threats. Kim and Saul enlist the help of a local pro to put on a show for Cliff Main. Howard seeks outside counsel.",
+          "date": "2022-05-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTYxNmRkNDctZjgwMS00ZGIyLTk2YzktMzg2ODYzNTYxNGMyXkEyXkFqcGdeQXVyMTI4MjYzOTIy.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8f318d93-ba69-40cf-9ead-ebddd59c1d4a",
+          "title": "Black and Blue",
+          "episode": 5,
+          "description": "While business booms for Jimmy, the vise tightens on the cat-and-mouse game between Gus and Lalo.",
+          "date": "2022-05-08T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjgzZWYzYjgtNTM3Yy00M2YyLWJiODMtZGU3YzcwYzU1MGU5XkEyXkFqcGdeQXVyNzg5MjYxOTU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d348d5b4-26bb-4be2-948f-f4a43d331be2",
+          "title": "Axe and Grind",
+          "episode": 6,
+          "description": "Kim and Jimmy enlist a knowledgeable contact; Howard scrutinizes Jimmy's business practices.",
+          "date": "2022-05-15T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGYwYTA5ZDUtMTRkMS00OGI0LWEwNTgtYWNjNzI3NTZiMzUxXkEyXkFqcGdeQXVyNjczOTE0MzM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "895ef7e9-52b0-4b7c-ae28-6eac59b385b4",
+          "title": "Plan and Execution",
+          "episode": 7,
+          "description": "Jimmy and Kim deal with a last-minute snag in their plan; Lalo is forced to make an unexpected move.",
+          "date": "2022-05-22T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjc4NjgwOTgtODM2Zi00YmQ4LThjZDctYjQ4OGMxNDUxZDI1XkEyXkFqcGdeQXVyMTMzNjY2OTU1.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "7925ac91-7297-4b3b-b510-440ca6e39b75",
+          "title": "Point and Shoot",
+          "episode": 8,
+          "description": "An unexpected visitor forces Jimmy and Kim to face the consequences of their actions.",
+          "date": "2022-07-10T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGMzZDZiZTItZGU0ZS00Y2E2LTkyZDYtODhlYTc3YWU5NTNmXkEyXkFqcGdeQXVyMTMzNjMxMDQw.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1cee4973-e16d-4d24-b2cc-f70866f74007",
+          "title": "Fun and Games",
+          "episode": 9,
+          "description": "Gus attempts to smooth things over with the cartel while Mike ties up loose ends as Jimmy and Kim deal with the repercussions of their actions.",
+          "date": "2022-07-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDg4MjIzYjEtODNkZi00YjdiLTg4MjctNzQ4Y2RhMGVkOTNlXkEyXkFqcGdeQXVyNzIzMDQxNjQ@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "fc5e224e-8e2b-4f70-a16a-73d34333083d",
+          "title": "Nippy",
+          "episode": 10,
+          "description": "A lost dog leads to a new friend. A new player gets in the game.",
+          "date": "2022-07-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzAyODRlZGEtZTI1NS00NzQ0LTliYjMtOTE5ZjJmZTQ0ZmYyXkEyXkFqcGdeQXVyMTQ5NzYzMDY5.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "9d3f809a-7890-4d55-8359-30b7c7d51886",
+          "title": "Breaking Bad",
+          "episode": 11,
+          "description": "The partners escalate their enterprise to new levels.",
+          "date": "2022-07-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWJiYjExMjAtMDBhNi00YmZkLTk5YTEtMDZmY2NkZWU0YmNmXkEyXkFqcGdeQXVyMTY3MDE5MDY1.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1d408858-4480-44b0-bf06-d86b23669552",
+          "title": "Waterworks",
+          "episode": 12,
+          "description": "The stakes are raised when a discovery is made that will send shockwaves far and wide.",
+          "date": "2022-08-07T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYmVhYTUwNTEtYjUwNi00NjQ1LWFlYmEtYWRmMTIxYzU0YjQ3XkEyXkFqcGdeQXVyODc5MTI0NjU@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "1062cc2c-4653-4a17-b413-9030482170e0",
+          "title": "Saul Gone",
+          "episode": 13,
+          "description": "Revelations. Regrets. RICO violations. Jimmy's worlds - and identities - converge in one final showdown.",
+          "date": "2022-08-14T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGYzNmE2OTgtZTBiNi00ZDRlLWI5MzItOTkxOTVkMzg4ZDVlXkEyXkFqcGdeQXVyOTczMzYxNTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

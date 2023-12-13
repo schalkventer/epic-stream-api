@@ -1,0 +1,301 @@
+{
+  "id": "e338ef67-afe5-4689-86be-c2b563f926dc",
+  "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+  "title": "Narcos",
+  "image": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg",
+  "genres": [
+    13,
+    1,
+    2
+  ],
+  "seasons": [
+    {
+      "id": "828d6032-16cd-48ed-a4cc-956677160adf",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "2b4a8c6c-fd6d-4045-a81c-851db669d615",
+          "title": "Descenso",
+          "episode": 1,
+          "description": "Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjI2ODU1NTgxOV5BMl5BanBnXkFtZTgwMjY3MDcyNjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5912ffbc-05dc-45c5-8e1c-b34ce76c3b59",
+          "title": "The Sword of Simón Bolivar",
+          "episode": 2,
+          "description": "Communist radical group M-19 makes a move against the narcos, while Murphy gets an education in Colombian law enforcement from his new partner Peña.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmFhMWZlY2MtYTgxNC00NjcwLWEwMWUtMDAzYmUxYTA5YzQ3XkEyXkFqcGdeQXVyNTUxNzkxNjM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "384d4763-934a-483c-aa4e-060894ac3e6a",
+          "title": "The Men of Always",
+          "episode": 3,
+          "description": "Murphy encounters the depths of government corruption when he and Peña try to derail Escobar's political ambitions by proving he's a narco.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcyMTIzNTk1Nl5BMl5BanBnXkFtZTgwNzEzMzk2NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "90050ce2-c2ac-4c6e-b593-739e943f1b50",
+          "title": "The Palace in Flames",
+          "episode": 4,
+          "description": "Despite a new extradition treaty, the U.S. puts more money into fighting communism, creating new challenges for Murphy and Peña in the hunt for Pablo.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjA5ZWQ2MzEtOGM4NC00NzVlLWEyYmMtMjZmZGM1ODg1YzI1XkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "77be139c-ae04-4fcb-a3ec-e3b3b6d816a3",
+          "title": "There Will Be a Future",
+          "episode": 5,
+          "description": "Pablo's extreme methods put the narcos on the brink of war with Carillo and the government. Peña tries to protect his witness.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjdkMjRiZjktMGZkNC00NzE0LWJjOWQtZTA2NmQ5ZmYwMzQ2XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "bf41ba63-17b0-4478-a0fc-779a287ad0e1",
+          "title": "Explosivos",
+          "episode": 6,
+          "description": "Peña and Carillo close in on Gacha. Murphy tries to protect pro-extradition candidate Gaviria from a notorious assassin connected to Pablo.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTExNzM2MzYxNl5BMl5BanBnXkFtZTgwMDMzMzk2NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "15bc6c54-4334-4d23-9661-dc8937295243",
+          "title": "You Will Cry Tears of Blood",
+          "episode": 7,
+          "description": "Pablo goes into hiding as the political tide turns against him, but he finds a way to strike back. Murphy and Peña finally get the CIA to help them.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMzNTA5OTQxMF5BMl5BanBnXkFtZTgwNTgyMzk2NjE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c5550493-8d64-4cbd-9079-31a34d046784",
+          "title": "La Gran Mentira",
+          "episode": 8,
+          "description": "A tragic mistake forces the government to change tactics in the fight against Pablo. But Pablo faces bigger threats from inside his empire.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2NiMmYzZDctN2I1Ni00ODlmLWFiMjEtOGE4OWZmMzcwYWY4XkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "112c70e1-457c-4cf2-a7fe-6853e9864249",
+          "title": "La Catedral",
+          "episode": 9,
+          "description": "The hunt for Pablo seems to be over after he makes a deal with the government, but Murphy and Peña - and the Cali Cartel - have other plans.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzE3OTMzODQtNzdmYy00YzI1LWE2NzYtZmVlNTcwMGVlOTZiXkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "0841c479-8d53-4b64-873d-7daa852dd97b",
+          "title": "S1.E10 ∙ Despegue",
+          "episode": 10,
+          "description": "Pablo's activities in prison provoke the government into taking extreme action. Murphy and Peña face a situation of their own.",
+          "date": "2015-08-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2YwZmFiMjUtNTVjMS00NTdlLWE3ZDgtZjA1NDI5ZjgzMjdhXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "06cd12c2-908b-403b-8174-7fa4ddae05e6",
+      "season": 2,
+      "episodes": [
+        {
+          "id": "5880b2ae-54a7-480d-ae73-0fb187f9484d",
+          "title": "Free at Last",
+          "episode": 1,
+          "description": "In the aftermath of a massive military effort to take Pablo into custody, the family reunites while enemies worry. Steve and Connie fight about safety.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWFhOGQ3MjYtOGQzYS00YTI1LTliNTctMjgzNTIzY2ViM2IzXkEyXkFqcGdeQXVyNzQ1NjgzOTA@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "253c7ef5-2bdd-4d73-bd94-29bf7a8c1874",
+          "title": "Cambalache",
+          "episode": 2,
+          "description": "Tata gets impatient with life on the run. Pablo responds to President Gaviria's reward offer. Steve and Javier meet their new boss.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDM4NzY3YTMtZmFhNC00MTc2LWJiYjYtMWJjOTQ1YTQ0ZWMxXkEyXkFqcGdeQXVyNDAxNzI5NDk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "632cd2e0-832a-457b-8bc7-0aaec5b74cc5",
+          "title": "Our Man in Madrid",
+          "episode": 3,
+          "description": "President Gaviria has a new job for an old colleague. The Search Bloc's new tactics shake up Pablo, but also unsettle Steve and Javier.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDQ0Mzg4Ml5BMl5BanBnXkFtZTgwMTI1Mzc3OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "507b3d15-02f6-4aea-ac0f-26f8ded9dcb6",
+          "title": "The Good, the Bad, and the Dead",
+          "episode": 4,
+          "description": "The Cali cartel discusses moving in on Pablo's territory. Limón proposes a plan to Maritza. Tata gets a gun for protection.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjY3NzYzZjgtYTE3Yi00NDY2LWIwNTUtN2VhODA5YmU4NmUzXkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5238fe38-506b-48a2-aa16-7935e1df0a0d",
+          "title": "The Enemies of My Enemy",
+          "episode": 5,
+          "description": "The Search Bloc gets a new leader. Javier loses faith in the system. Pablo brings Tata's brother Carlos down from Miami to cheer her up.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTQ1ODVmMzEtODc0Ny00ZWUyLWI3MGYtMGIwNzVkYmExNTIyXkEyXkFqcGdeQXVyMzg4MTUxOTA@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3cde11f6-e5e6-47a2-8fb1-4271f832bf86",
+          "title": "Los Pepes",
+          "episode": 6,
+          "description": "The newly-formed Los Pepes want to destroy Pablo and his empire. Tata's brother urges her to leave and seek safety with her children.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc2NjQwNzMzOF5BMl5BanBnXkFtZTgwOTkxMzA1OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "bcffe0ba-65ba-44a8-be98-8ca7406ec143",
+          "title": "Deutschland 93",
+          "episode": 7,
+          "description": "As the danger intensifies for the Escobars, Pablo sends his family to another country. Gaviria weighs the opportunity to use them as leverage.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzg0NTQ3NzcwMF5BMl5BanBnXkFtZTgwNDU3OTA4OTE@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "36c88573-0017-4792-b9bd-caa9ed0cf590",
+          "title": "Exit El Patrón",
+          "episode": 8,
+          "description": "Colombia begins to turn on Escobar after his latest terrorist attack. Tata receives help from an unlikely ally. Quica gets increasingly anxious.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE2N2E4ZjgtMTBhMy00NTc2LTgyNjMtNjM3YTQ5N2I2MWVmXkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "02c5864d-80e9-4f60-9f4b-bafd2cc5be41",
+          "title": "Nuestra Finca",
+          "episode": 9,
+          "description": "Pablo is reunited with an estranged family member. Judy Moncada's life is put in danger. The DEA and CIA clash over how to handle Los Pepes.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2NkMmRkYWYtMjVjMi00MTcwLWFjZGUtNmMxMWY0MDExMTNhXkEyXkFqcGdeQXVyMzgwNDk3ODg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "250f1c1a-57d3-4490-a4b1-cbbea15f30fe",
+          "title": "Al Fin Cayó!",
+          "episode": 10,
+          "description": "Javier deals with the repercussions from Judy's interview. Tata tries to convince Pablo to surrender for the sake of his children.",
+          "date": "2016-09-01T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGVjNmRmOTMtNDA3Ny00NjU1LThiMzctODYxN2U1NGI0MmZkXkEyXkFqcGdeQXVyNjAzOTUzNTM@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    },
+    {
+      "id": "a77127fd-0503-4290-9e19-e671a2fa54d4",
+      "season": 3,
+      "episodes": [
+        {
+          "id": "08fd70e8-5d0e-4c45-b6a7-2f90f342a64d",
+          "title": "The Kingpin Strategy",
+          "episode": 1,
+          "description": "The Gentlemen of Cali gather their associates together for a big surprise announcement about the future of their business.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BODhiNWFmOTctM2E2OS00NGEzLTgxZDQtYjJlOTI3MzA2MzdhXkEyXkFqcGdeQXVyODEwMzg4Nzg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e127261b-c2b2-4fa2-8b1b-e6007a3eff83",
+          "title": "The Cali KGB",
+          "episode": 2,
+          "description": "A gas incident threatens to destroy the agreement between Cali and the government and requires Jorge's help. Peña has problems with his old contact in Los Pepes.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BY2NmNWJjZjItMjU1Yi00Nzg2LWEwNTUtNWFhZTc2ZGNlYzU1XkEyXkFqcGdeQXVyNTU2MjIyNTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "307fbaa2-d094-46da-a918-b9837bce6f09",
+          "title": "Follow the Money",
+          "episode": 3,
+          "description": "The Rodríguez brothers are hiding during the negotiations. Pacho meets the Lord of the Heavens in Mexico. Peña's new DEA team visits Cali.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDA5NWE2MmYtZWZjOS00MjQ2LWE2MWYtOTYzZjZjOTIzNTRkXkEyXkFqcGdeQXVyNTU2MjIyNTc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "b48c3a03-2aef-493e-8fa5-91fbc2723915",
+          "title": "Checkmate",
+          "episode": 4,
+          "description": "Peña hatches a plan to try to capture Cali leader Gilberto Rodriguez. Amado proposes a business idea to Pacho.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM1ZmQwNmMtY2E2MS00YWQ3LTgyYTQtZmU4MGM2NDBmYWVlXkEyXkFqcGdeQXVyNDIyNjA2MTk@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "5b731c29-2b64-44be-b459-bb0c5955d198",
+          "title": "MRO",
+          "episode": 5,
+          "description": "Paranoid about leaks, Miguel cracks down on his security. Pacho makes a decision about his new offer. Peña works on cultivating a witness.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGY2YzBmM2UtNzU4Yi00YTNkLTg4MmUtNGVlYmZlNWRmZDFmXkEyXkFqcGdeQXVyNDMyMjU0Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "a1257db7-f0f6-4b2b-b110-74fef80324f8",
+          "title": "Best Laid Plans",
+          "episode": 6,
+          "description": "Jorge takes a dangerous risk. An accident in New York threatens to expose Chepe. Peña travels to Curacao to arrest a potential witness.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QzZDkyNTAtOTk1NS00N2M4LWIzMzMtODc2OWE4NzdlNzdkXkEyXkFqcGdeQXVyNDMyMjU0Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "133f118d-ac53-47e7-80de-56bc162dc6f9",
+          "title": "Sin Salida",
+          "episode": 7,
+          "description": "Peña plans another secret operation to topple a member of the Cali cartel but may run out of time while looking for him.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTJlODFjNjMtMWRmZS00OTIzLThkMmMtZTRmYTFjNTc5M2U1XkEyXkFqcGdeQXVyNDMyMjU0Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e37d7ee9-639c-44dd-aeb2-7a6bbfa0e37f",
+          "title": "Convivir",
+          "episode": 8,
+          "description": "David seeks revenge on behalf of his father and puts Enrique in danger. Peña asks Don Berna for help on a rescue mission.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWNkZmEwNzctNjM2Yy00MmJlLThkNmMtZjU5OTlhZTM0Y2M4XkEyXkFqcGdeQXVyNDMyMjU0Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "69ace61a-f047-4673-be2b-2e5a030782f8",
+          "title": "Todos Los Hombres del Presidente",
+          "episode": 9,
+          "description": "David follows his suspicions. Peña is shocked to discover the depth of corruption in the Colombian government. Miguel is sought after once again.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZGE3YmMzMDctMDQ0Ny00YWNkLWIyNWYtZTc1NjRkYjM4YzJhXkEyXkFqcGdeQXVyNDMyMjU0Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "e50e4355-7ed7-4f62-b8dc-dd5299a614ee",
+          "title": "Going Back to Cali",
+          "episode": 10,
+          "description": "David and Peña are in a race against each other to find Pallomari. Peña makes a serious decision about the future of his career.",
+          "date": "2017-08-31T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjQzYmQ4YjgtMmE0Ny00OGY0LWI2NTktY2M3NmMxYjIwYTQyXkEyXkFqcGdeQXVyNDMyMjU0Mzc@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}

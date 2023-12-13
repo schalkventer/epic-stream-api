@@ -1,0 +1,109 @@
+{
+  "id": "f534959a-ac86-494a-bae2-33a4edd525d6",
+  "description": "A comprehensive history of the United States' involvement in the bitterly divisive armed conflict in Southeast Asia.",
+  "title": "The Vietnam War",
+  "image": "https://m.media-amazon.com/images/M/MV5BZmY2NGMyY2EtMjJiMS00MmFlLTk1MmItZDA1NTQ0ODg0MDA4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+  "genres": [
+    4,
+    7,
+    6
+  ],
+  "seasons": [
+    {
+      "id": "524cc8e2-36dc-42df-a3d5-d13d4ede5094",
+      "season": 1,
+      "episodes": [
+        {
+          "id": "fcb125da-020e-455c-819b-ca539adf5d95",
+          "title": "Déjà Vu (1858-1961)",
+          "episode": 1,
+          "description": "After nearly a century of French colonial rule, Vietnam emerges independent, but divided.",
+          "date": "2017-09-16T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjc0ZDE2MjAtZDU5ZS00MzE2LWFjMTYtMjk5MGUxMzdmYWMwXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "8fcf497c-2674-4b02-bae4-c6b2ffc4f78c",
+          "title": "Riding the Tiger (1961-1963)",
+          "episode": 2,
+          "description": "President John F. Kennedy and his advisors consider how deeply the U.S. should get involved in South Vietnam as a communist insurgency and Buddhist protests intensify.",
+          "date": "2017-09-17T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmExNmUzNzktMzJkNi00NTQ0LTlhOGUtOTA1NzU3ZjY3MzY5XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "41fe26b3-61c6-4d85-937c-d2d7b70d952c",
+          "title": "The River Styx (January 1964-December 1965)",
+          "episode": 3,
+          "description": "Fearing Saigon's collapse, President Lyndon B. Johnson authorizes the bombing of North Vietnam, and sends U.S. ground troops to the south.",
+          "date": "2017-09-18T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzI0YjQ1YTQtZTRjZS00MmVkLThiZjctODM0NTBhY2FiM2FlXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "33961ffa-4c6d-4668-bb40-06ca6e43d7ed",
+          "title": "Resolve (January 1966-June 1967)",
+          "episode": 4,
+          "description": "North Vietnamese troops make their way down the Ho Chi Minh Trail, defying American air power. While the anti-war movement escalates back home, American soldiers realize this war is like no other.",
+          "date": "2017-09-19T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMWE0YjgxNjgtY2VjNy00YjgyLWFhNjYtYmMyMWZkNmVjNGY2XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "2887f496-895f-4529-8908-a8d6be7fe88e",
+          "title": "This Is What We Do (July-December 1967)",
+          "episode": 5,
+          "description": "As casualties mount on both sides, American soldiers face deadly ambushes and artillery. President Lyndon B. Johnson assures the American public that victory is within reach.",
+          "date": "2017-09-20T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BOGQyMjM2M2EtNzNmMi00ZGVkLWIyNTEtNDYyNTU4NWEzYzNmXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "d0cfd448-cdbd-4776-9011-c1e725547978",
+          "title": "Things Fall Apart (January-June 1968)",
+          "episode": 6,
+          "description": "Shaken by the violence of the Tet Offensive, assassinations of leaders and domestic unrest, Americans begin to doubt President Lyndon B. Johnson's promise that victory in Vietnam is near and he ultimately decides not to seek reelection.",
+          "date": "2017-09-23T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2VkYzcxZWUtOTI1OS00Y2ZiLThmZjMtZmYwNjNjM2VhNDA0XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "37c5328c-6cb5-4de9-a549-8e5477cc1ada",
+          "title": "The Veneer of Civilization (June 1968-May 1969)",
+          "episode": 7,
+          "description": "Draft-age Americans wrestle with their choices. Richard Nixon narrowly wins the presidential election. Soldiers on all sides of the conflict witness savagery and courage.",
+          "date": "2017-09-24T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmI2MjlhMzYtYjI3Yy00MzdiLTlkMDctYjlkZDRhYTM1ZTQ3XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "295eae54-fc32-4969-9868-8c4051d9e506",
+          "title": "The History of the World (April 1969-May 1970)",
+          "episode": 8,
+          "description": "President Richard Nixon begins withdrawing American troops from Vietnam, but his authorization of the invasion of Cambodia sparks large protests in America.",
+          "date": "2017-09-25T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDM2YmFjNDktNjY1MS00NmQ1LTg3MTktYWNhN2ZlZWQ3MGYwXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "3687437a-d7b5-4cb3-b208-adf367721802",
+          "title": "A Disrespectful Loyalty (May 1970-March 1973)",
+          "episode": 9,
+          "description": "The South Vietnamese fight on their own, succumbing to terrible losses in Laos. After he is reelected, President Richard Nixon strikes a peace deal with Hanoi that sees the release of American prisoners of war.",
+          "date": "2017-09-26T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BZDlhYjdhMzUtOTE4YS00MDBhLWE5MTUtYWM4ODVmYWFjYjFjXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        },
+        {
+          "id": "c1b4cf70-8f43-4694-8656-c270c731728d",
+          "title": "S1.E10 ∙ The Weight of Memory (March 1973 - Onward)",
+          "episode": 10,
+          "description": "Civil war continues in Vietnam as President Richard Nixon resigns. After North Vietnamese troops regain control of Saigon and the war ends, people from all sides search for reconciliation.",
+          "date": "2017-09-27T22:00:00.000Z",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjQ5N2MzMjEtZjM5MS00M2IxLTk2NzYtZGJjMGIwNzM0Mjc4XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+        }
+      ]
+    }
+  ]
+}
