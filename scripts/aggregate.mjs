@@ -215,6 +215,7 @@ let previews = JSON.parse(readFileSync("data/list.json"))
       ...item,
       id: UUID_MAP[item.id],
       genres,
+      seasons: item.seasons || 1,
     };
   });
 
