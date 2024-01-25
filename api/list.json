@@ -364,7 +364,7 @@
     "description": "Former Daily Show host and correspondent John Oliver brings his persona to this weekly news satire program.",
     "title": "Last Week Tonight with John Oliver",
     "image": "https://m.media-amazon.com/images/M/MV5BNjRhYTgyZGEtOGU2YS00ZGM1LWIzODctZDhkNDBiYTFhZTYxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg",
-    "genres": [18, 21, 0],
+    "genres": [18, 21],
     "seasons": 1,
     "date": "2014-11-08T22:00:00.000Z"
   },
