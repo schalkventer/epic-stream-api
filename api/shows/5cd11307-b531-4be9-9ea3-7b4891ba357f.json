@@ -3,9 +3,7 @@
   "description": "The original surreal sketch comedy showcase for the Monty Python troupe.",
   "title": "Monty Python's Flying Circus",
   "image": "https://m.media-amazon.com/images/M/MV5BZGI1N2FiYTYtOWU3Mi00MjBlLWJkMGMtMjZmZTQwMDdiYjY3XkEyXkFqcGdeQXVyMTIwMjIwNjQ2.jpg",
-  "genres": [
-    18
-  ],
+  "genres": [18],
   "seasons": [
     {
       "id": "8af4d8e9-1f7b-4002-a2cd-f6e077aa81c8",
@@ -17,7 +15,7 @@
           "episode": 1,
           "description": "'It's Wolfgang Amadeus Mozart', Famous Deaths, Italian Lesson, Whizzo Butter, 'It's the Arts', Arthur \"Two-Sheds\" Jackson, Cycling Race, and The Funniest Joke in the World.",
           "date": "1969-10-04T22:00:00.000Z",
-          "image": "https://m.media-amazon.com/images/M/MV5BNzkxNzIwMTIzNl5BMl5BanBnXkFtZTgwMDE2NTg3MjE@.jpg",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzkxNzIwMTIzNl5BMl5BanBnXkFtZTgwMDE2NTg3MjE.jpg",
           "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
         },
         {
