@@ -3,7 +3,9 @@
   "description": "The original surreal sketch comedy showcase for the Monty Python troupe.",
   "title": "Monty Python's Flying Circus",
   "image": "https://m.media-amazon.com/images/M/MV5BZGI1N2FiYTYtOWU3Mi00MjBlLWJkMGMtMjZmZTQwMDdiYjY3XkEyXkFqcGdeQXVyMTIwMjIwNjQ2.jpg",
-  "genres": [18],
+  "genres": [
+    18
+  ],
   "seasons": [
     {
       "id": "8af4d8e9-1f7b-4002-a2cd-f6e077aa81c8",
