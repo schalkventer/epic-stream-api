@@ -19,7 +19,8 @@
           "description": "A thrilling, new adventure across space and time begins.",
           "date": "2014-03-08T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQwMzM5MzQwN15BMl5BanBnXkFtZTgwNjM3OTQzMTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4acf73fa-53ca-440a-996c-0c5e68c6a72c",
@@ -28,7 +29,8 @@
           "description": "Artificial selection is one example, eyes another, of the well-documented and inescapable process of evolution--change in a population of species over time--by natural selection. These are some of the things that molecules do.",
           "date": "2014-03-15T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzQ1MjIwNjMyN15BMl5BanBnXkFtZTgwNjM0Mjg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "2cb4e203-f415-4af5-ae28-e3acf47627d7",
@@ -37,7 +39,8 @@
           "description": "Neil deGrasse Tyson sets off on the Ship of the Imagination to chase a single comet through its million-year plunge toward Sol. Later, Tyson visits the birth-place of Sir Isaac Newton and retraces the unlikely friendship between Newton and brilliant polymath Edmond Halley. It was Halley's patience and generosity which allowed Newton to conquer his fear of isolation and find the courage to publish his masterwork, \"Principia Mathematica\" which launched a scientific revolution.",
           "date": "2014-03-22T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjQ0MzM2OTY3OV5BMl5BanBnXkFtZTgwODQ1OTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4a8c37f8-8587-493f-8234-cea52163fe6f",
@@ -46,7 +49,8 @@
           "description": "Explores how light, time and gravity affects our perception of the universe",
           "date": "2014-03-29T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTAyMDkxNjIzODNeQTJeQWpwZ15BbWU4MDgzNTk4NDIx.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0a5ffc34-1dd6-41a6-a9b7-eefdf903b251",
@@ -55,7 +59,8 @@
           "description": "The Ship of the Imagination travels back in time to reveal 11th century Europe and North Africa during the golden age of Islam, when brilliant physicist Ibn al-Haytham discovered the scientific method and first understood how we see, and how light travels. Later, William Herschel discovers the infrared and the signature hidden in the light of every star, eventually unlocking one of the keys to the cosmos.",
           "date": "2014-04-05T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTU1NDcwMTI4Ml5BMl5BanBnXkFtZTgwNzYyNjg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e1ead837-4bc2-410b-8df3-38b306fdfdc0",
@@ -64,7 +69,8 @@
           "description": "The Ship of the Imagination ventures on an epic voyage to the bottom of a dewdrop to explore the universe on the smallest scale and observe exotic life forms invisible to the naked eye. Then, host Neil deGrasse Tyson explains the neural network in our brains which determine our sense of smell and memory, and later, he travels deep beneath the surface of the Earth to discover the most mysterious particle we know.",
           "date": "2014-04-12T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzI0MjUzNV5BMl5BanBnXkFtZTgwMTM1OTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "73afd972-7d0b-43b6-9671-ef2faaa493a2",
@@ -73,7 +79,8 @@
           "description": "To determine the true age of the Earth, geochemist Clair Patterson developed the uranium-lead dating method to make an unprecedented discovery - calculating Earth's age of 4.5 billion years. But Patterson's groundbreaking discoveries were just beginning. Patterson made it his mission to draw public attention to the detrimental effects of lead in the environment and dedicated his career to fighting against the petroleum and chemical industry, eventually achieving public health's biggest victory of the 20th century.",
           "date": "2014-04-19T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTY5NDgwNDEyNV5BMl5BanBnXkFtZTgwNDc0Mjk0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f985c0b3-d332-42eb-af82-5c7121a44c55",
@@ -82,7 +89,8 @@
           "description": "Explores the violent cosmic phenomenon of supernovas, which on average occur once per galaxy per century or one billion times per year in the observable universe.",
           "date": "2014-04-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjIyNjU1MjIxOV5BMl5BanBnXkFtZTgwNzc0NDg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c73eea88-e5ac-4aa5-b2ae-649e0e9c4dc1",
@@ -91,7 +99,8 @@
           "description": "The Ship of the Imagination embarks on a journey through space and time to grasp how the autobiography of the Earth is written in its atoms, its oceans, its continents and all living things. Later, American geologist Marie Tharp creates the first true map of Earth's ocean floor, and discovers microscopic life that exists deep beneath the ocean.",
           "date": "2014-05-03T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTU0MDY1Nzk5NV5BMl5BanBnXkFtZTgwNzI1OTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "13a5af89-40d6-4db1-abe9-69fd4155b525",
@@ -100,7 +109,8 @@
           "description": "Travel to 19th century England and meet Michael Faraday, a child of poverty who grew up to invent the motor and the generator. His ideas about electricity and discovery of magnetic fields changed the world and paved the way for future scientists to make giant strides in the world of high technology and instantaneous communication.",
           "date": "2014-05-10T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTY0NDA2ODg0Nl5BMl5BanBnXkFtZTgwOTQwMzg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f340e076-29ab-4e76-ba27-673354ac5471",
@@ -109,7 +119,8 @@
           "description": "The Ship of the Imagination travels across the cosmos to discover the possibility of beings that live forever and explain why other civilizations perish. Then, visit the Cosmic Calendar of the Future and contemplate what lies ahead with a hopeful vision.",
           "date": "2014-05-17T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzYwNTIzNzY3Nl5BMl5BanBnXkFtZTgwMTYwMzg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "dbef126d-f714-4102-b342-7bce5a46742d",
@@ -118,7 +129,8 @@
           "description": "Degrasse discusses our nearest neighboring planet Venus and its climate, the climate change on Earth and if it is caused by humans.",
           "date": "2014-05-31T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTYwMjI1MjA1MF5BMl5BanBnXkFtZTgwOTM1OTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c3d06734-90c8-4eda-ab8f-09e839862de6",
@@ -127,7 +139,8 @@
           "description": "Description of the two Voyager probes sent for interstellar travel. Tyson ends the series by emphasizing Sagan's message on the human condition in the vastness of the cosmos & to encourage viewers to continue to explore and discover the undiscovered.",
           "date": "2014-06-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQyNjk5ODQ3NV5BMl5BanBnXkFtZTgwNzQwMzg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

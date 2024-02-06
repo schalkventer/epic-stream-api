@@ -20,7 +20,8 @@
           "description": "After five years of peace, a new threat is coming for Goku and his friends, Goku's evil brother Radditz.",
           "date": "1996-09-12T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZDk0OTUxNDYtZDRhOC00N2QyLWJmMzctZmJlYWEwY2E5MzRiXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "459a6dab-bdf8-49dc-96ff-bfb2db1a7d09",
@@ -29,7 +30,8 @@
           "description": "Goku and Piccolo fight Radditz.",
           "date": "1996-09-19T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjFjZWQxNDctNmZjYy00ZDU5LWI5MDgtMmI5MTFjMTJmNTE4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "872eb812-f117-4a0b-a5b2-d5a7d829e87e",
@@ -38,7 +40,8 @@
           "description": "After the encounter with Raditz, Goku realises he doesn't stand a chance. Only with an unlikely alliance does he have a fighting shot.",
           "date": "1996-09-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmFlODNkOGUtMzFmMC00OWM3LWIyMjgtYWE3NTcxYjM1OTM3XkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "2615c39f-2abf-46c7-8885-f9edb475ab4c",
@@ -47,7 +50,8 @@
           "description": "In the hands of Goku, Raditz is doing all he can to escape. But Piccolo uses his Special Beam Cannon and blasts Goku and Radditz, Goku to to an another dimension, thus starting his journey to Snake Way.",
           "date": "1996-10-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODE1M2QzNzAtZGZkZi00MmIxLWExYjAtYTJlMDMyMWYyZTRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "52834794-1c20-4f4e-8680-56e331f2308c",
@@ -56,7 +60,8 @@
           "description": "Gohan continues his training in the wild as the other Z warriors go to Kami's to prepare for the Saiyans.",
           "date": "1996-10-10T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNGZjOGZjZWYtMjkyNC00ODcyLWFjZmItNzk5NTFjNzc3OThkXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0326b768-3d52-4ddd-9475-6efe92cf3cd0",
@@ -65,7 +70,8 @@
           "description": "Gohan helps an injured dinosaur and they become friends. Goku continues his journey along snake way and the others gather at Kami's.",
           "date": "1996-10-17T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2NjYzNhYWItZWZmMy00YWRmLTgwMDktOTU4YzE4YWYxOTc4XkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "7bdadbfa-a94d-4a0a-8c5c-76383051e942",
@@ -74,7 +80,8 @@
           "description": "Gohans training is starting to pay off. The Saiyans stop on a planet and wreak havoc.",
           "date": "1996-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTZiMmQ1ZTctMzdjNS00OWQzLWIyY2QtZWQzZDMxN2NkYTllXkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "fa822ebc-d504-41a6-868e-e8ee7f539b80",
@@ -83,7 +90,8 @@
           "description": "Goku has fallen off snake way and meets two ogres who say they know how to get back to snake way, but he has to win a race first.",
           "date": "1996-10-31T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNWI0ZmE4ZjgtMTY3OS00ZDdhLTkxMjktZThmZjg1YzAxNjAzXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "55b65b35-7d12-47ce-890b-26036efa21c8",
@@ -92,7 +100,8 @@
           "description": "Goku runs along snake way and meets Princess Snake. The Z warriors begin their training at Kami's.",
           "date": "1996-11-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODBhOTE0ZmYtYjY1OS00NzRlLWI5ZjAtMjhkODEzOThmOGRkXkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "79c75768-9c09-4543-823e-78e1ff2f3d40",
@@ -101,7 +110,8 @@
           "description": "Gohan meets orphans and helps them out, then he makes his way home.",
           "date": "1998-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNGE5NWFkZDMtMzJmYy00OTU3LWI2YTktMjM2OGE2MTY2OGI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0afb1cb8-eaf2-4eaa-97ba-b2eafaaaa4cd",
@@ -110,7 +120,8 @@
           "description": "Gohan and Piccolo start their training together. The Z warriors enter the pendulum room where they fight two Saiyans in the past.",
           "date": "1996-11-14T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYjM0NGE5MTUtYThlYS00N2ExLWFjNGEtZTRjMjJhYTk1MTBiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "42da8f39-1141-45bf-b6fd-856d7497ac10",
@@ -119,7 +130,8 @@
           "description": "Goku reaches King Kai's planet. Gohan and Piccolo continue training until Gohan's tail grows back.",
           "date": "1997-01-02T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmIzNGU4MjktYzMyYy00MjBlLWI1ODEtMzM3MDRiYzU4ZjYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5c8b72f8-a64e-4642-9810-aad68b088fc7",
@@ -128,7 +140,8 @@
           "description": "Goku is struggling to move under the gravity of King Kai's planet when King Kai shows up. Goku begins his training by trying to catch a monkey named Bubbles.",
           "date": "1997-01-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZjk3OTc1M2EtNDliMC00MGYyLTk4ODMtMzMyNGYzMTM3NWY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e46a8e80-cbbf-4a22-bb46-303a5787a170",
@@ -137,7 +150,8 @@
           "description": "King Kai tells Goku about his ancestors and Goku begins his second task of hitting Gregory on the head with a heavy hammer.",
           "date": "1997-01-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNWU2NjMzNDktYTYyYy00ZjNjLTg2NTUtMDFjYzEyZjQ4YjhmXkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "a01503ac-1ef2-4257-b87d-338424396cd8",
@@ -146,7 +160,8 @@
           "description": "The Saiyans arrive on Earth. Master Roshi uses the Dragon Balls to resurrect Goku, but he must get to Earth fast.",
           "date": "1997-01-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTRkYmViZDAtODQ1Yy00MDg4LTk5NjQtODg0NmViZTk5N2Q4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "83fd944e-cfc1-4265-b5b2-f629e8c12ca9",
@@ -155,7 +170,8 @@
           "description": "The Saiyans find Piccolo and Gohan then plant six Saibamen to fight for them.",
           "date": "1997-01-31T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYTFhMDliZjMtZGM2Ny00MDIzLWJhZTMtMmNhZTk2OGI1YWExL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "fabbe6a3-d35e-408d-a526-436076f28ee1",
@@ -164,7 +180,8 @@
           "description": "The gang take on the Saibamen in the fight for the planet.",
           "date": "1997-02-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzE5N2IwYjgtNDMxNi00NmM1LTkwYzQtZTA0NGNlOTFhZWU0XkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "36c66199-3a38-4ef3-ba99-e7edb37aa04e",
@@ -173,7 +190,8 @@
           "description": "Nappa begins his assault on the Z Warriors who can't seem to stop him.",
           "date": "1997-02-14T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMThlZDBmYTctYjE3ZS00YTY0LWI3MTMtYjI1ZDM4MDlhYTg3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ef72b48c-d25d-4730-9702-018b61cd3a43",
@@ -182,7 +200,8 @@
           "description": "The fight with Nappa continues as the gang continues to fall before his onslaught.",
           "date": "1997-02-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZWIyNjgwNGYtNmEyNS00NjEyLTgwNWItOTEzMmZkYWI2Yjk3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "bdb07c66-953c-499b-9a7a-4fc094ed51b0",
@@ -191,7 +210,8 @@
           "description": "Piccolo, Gohan, and Krillin do their best to stop the Saiyans from finding the Dragon Balls. Meanwhile, Goku rushes back to Earth on the Flying Nimbus, armed with more power than ever before!",
           "date": "1997-04-11T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjU4ZTc1ODQtZWM2Ni00MWNmLWExOGMtYmQyMmI1NGVmODMyXkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "45795d80-03b7-46d1-9cd5-7f8e42612c02",
@@ -200,7 +220,8 @@
           "description": "Piccolo makes the ultimate sacrifice to save Gohan from the rampaging Saiyans. Just when all seems lost, Goku returns to Earth with an incredible new level of power and confronts the invaders.",
           "date": "1997-04-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNmY3MWYwNWUtMTExYy00YjFmLTljMzctMzgyN2VkZWEyMWEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "171533d8-51e7-485a-8639-3df6387872dd",
@@ -209,7 +230,8 @@
           "description": "Locked in battle with the Saiyans, Goku gives Nappa a brutal demonstration of the training he received from King Kai. Broken and defeated, Nappa must now face the ferocious wrath of Vegeta!",
           "date": "1997-04-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzkwY2ExY2YtMjJhOS00NDExLTgwMWMtMGNhOTQxNmEyMTY0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "2244f241-3c0d-48e3-bf9b-2cc702f52a8a",
@@ -218,7 +240,8 @@
           "description": "Goku decides to take on mighty Vegeta all by himself! The two appear evenly matched, but both are hiding their true strength. The epic battle is underway - which mighty warrior will claim victory?",
           "date": "1997-05-02T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzY4NzJlNTctMWFlZS00NDQ1LWJiMjYtZTJhODcyODM3NDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0bdaafce-bf4d-4277-8c05-9edbcdaf3ed8",
@@ -227,7 +250,8 @@
           "description": "Vegeta and Goku continue trading brutal blows, but the action intensifies when Vegeta reveals the secret power of the Saiyans: the ability to transform into a giant, planet-destroying ape!",
           "date": "1997-05-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDRiYWI1YzAtYTdlNy00YWMwLWEyNmUtOWU4M2U0MDk5ZmVhXkEyXkFqcGdeQXVyNjA4NTIyOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "938b838a-3817-4575-8ade-4d2678989c9e",
@@ -236,7 +260,8 @@
           "description": "As Vegeta turns into a gargantuan ape, Goku makes a terrifying revelation.",
           "date": "1997-05-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjg3NGY1NmItYTgxOS00ZjNhLWE0N2ItNGEzMmYyYjIxYWMzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk3OTMzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f38928ea-ecbf-4d40-9564-b4677e1a31f6",
@@ -245,7 +270,8 @@
           "description": "On the verge of victory, Vegeta is defeated and brought to death. What will be his ultimate fate?",
           "date": "1997-05-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNWIwN2VhOWMtOTUzYy00YTZiLWExMDYtMTQzYWNiZDQwZWY0XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

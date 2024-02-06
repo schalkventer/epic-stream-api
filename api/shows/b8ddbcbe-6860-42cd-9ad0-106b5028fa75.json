@@ -20,7 +20,8 @@
           "description": "Diagnosed with terminal lung cancer, chemistry teacher Walter White teams up with former student Jesse Pinkman to cook and sell crystal meth.",
           "date": "2008-01-19T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNWRjMjczMmEtMzI2Yi00NmQwLWJiZGMtYzEyOGJhYjYyMWQwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5b7a315d-0787-49a4-ada2-6985ab588388",
@@ -29,7 +30,8 @@
           "description": "After their first drug deal goes terribly wrong, Walt and Jesse are forced to deal with a corpse and a prisoner. Meanwhile, Skyler grows suspicious of Walt's activities.",
           "date": "2008-01-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNmI5MTU3OTAtYTczMC00MDE5LTg3YjMtMjA3NWEyMmYyZWQwXkEyXkFqcGdeQXVyNjk1MzkzMzM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b2023926-2cd5-42e7-8665-25ddb502408d",
@@ -38,7 +40,8 @@
           "description": "Walt and Jesse clean up after the bathtub incident before Walt decides what course of action to take with their prisoner Krazy-8.",
           "date": "2008-02-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODU4ZThmYWYtMzA4OS00M2M0LThiOWYtNGE5MmY3ZTUwYWU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "bf45fed6-9d24-4d7b-8502-b65ca0c43cc2",
@@ -47,7 +50,8 @@
           "description": "Walt tells the rest of his family about his cancer. Jesse tries to make amends with his own parents.",
           "date": "2008-02-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BM2ExYjhjMTEtYTEzMy00MjQyLTg2MjYtODQ0N2ZkZDRhZjgwXkEyXkFqcGdeQXVyNjkyNDM2MDc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "7dd6f4ac-c827-4ceb-803f-c30ef3f6a242",
@@ -56,7 +60,8 @@
           "description": "Walt rejects everyone who tries to help him with the cancer. Jesse tries his best to create Walt's meth, with the help of an old friend.",
           "date": "2008-02-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTgwOTE0ODYtMDEwNC00MjY1LWJjZDctNTU2MjRlNTgzY2NkXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c83f9d50-4d47-4eef-bead-60788870d6d6",
@@ -65,7 +70,8 @@
           "description": "With the side effects and cost of his treatment mounting, Walt demands that Jesse finds a wholesaler to buy their drugs - which lands him in trouble.",
           "date": "2008-03-01T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOGU0YTA2ZGItNDFjNi00NWM1LTk5NzAtYjFkYTk2MzFhY2YyXkEyXkFqcGdeQXVyNjc0NTIwNTU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "a8775ae1-c632-490c-94e8-4b46cb221142",
@@ -74,7 +80,8 @@
           "description": "Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need are not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.",
           "date": "2008-03-08T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzM1OTA1NzgxOV5BMl5BanBnXkFtZTgwMjg2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -89,7 +96,8 @@
           "description": "Walt and Jesse realize how dire their situation is. They must come up with a plan to kill Tuco before Tuco kills them first.",
           "date": "2009-03-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjMxMzEwNjkzN15BMl5BanBnXkFtZTcwMjQxMTI3OQ@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "aedf4d41-d1a0-4258-ab87-b7208473d6a8",
@@ -98,7 +106,8 @@
           "description": "Walt's disappearance is met with investigation by both his wife and Hank, as Tuco Salamanca intends to leave town with his kidnapped cooks.",
           "date": "2009-03-14T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2Y2ZTZhYzYtYTA4YS00NTFkLWE5OWQtYjZlOGY3ZWQ1OTNlXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e2367ac9-5885-43bc-89ef-7ea99ea7a592",
@@ -107,7 +116,8 @@
           "description": "Walt and Jesse try to come up with alibis for their disappearances.",
           "date": "2009-03-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzA5OWQxM2MtNzI0ZS00NWI4LWJmYWEtNjA3ODJmMzUzMzFmXkEyXkFqcGdeQXVyNjE0NDg1MDg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4da0b2e9-5d03-4d7f-84b0-17726cd1c7a9",
@@ -116,7 +126,8 @@
           "description": "Skyler keeps mysteriously leaving without talking to Walt. Jesse's parents throw him out of his own house.",
           "date": "2009-03-28T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjkzOWI0YjctMjRlZi00NzYxLTllMWMtYzMyYzdhNTI1OTVjXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0830b5f7-84b4-4510-ba9c-fab8b3949c10",
@@ -125,7 +136,8 @@
           "description": "Walt and Jesse decide to start their own little empire with the help of Jesse's friends: Skinny Pete, Combo, and Badger. Meanwhile, Hank tries to pull himself together after his encounter with Tuco.",
           "date": "2009-04-04T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTk5ODgzOV5BMl5BanBnXkFtZTgwNzg2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "7afdb80d-7a11-48c8-8c3c-d574cc4276bd",
@@ -134,7 +146,8 @@
           "description": "After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.",
           "date": "2009-04-11T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NjIyODA5MV5BMl5BanBnXkFtZTcwNzE2NTc0Mg@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "53b05af9-16ba-49bc-aced-1f7d83ee2b7d",
@@ -143,7 +156,8 @@
           "description": "Rumor is spreading that Jesse killed the man that ripped Skinny Pete off. Walt uses this to his advantage on expanding their territory. Meanwhile, Hank has been promoted to the El Paso office. But it's not all he hoped it would be.",
           "date": "2009-04-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTI4OTI0MDheQTJeQWpwZ15BbWU4MDE4NjA1OTUz.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "18e9b5c0-735e-40da-86f1-fe1bc05861a8",
@@ -152,7 +166,8 @@
           "description": "Badger is caught by the DEA. Walt and Jesse hire the best criminal lawyer in town, Saul Goodman.",
           "date": "2009-04-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZjhlM2UzMDctOWI1ZC00ZjZhLTlmMTYtNjkyN2FkM2E4NTI4XkEyXkFqcGdeQXVyNjE0NDg1MDg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "fa3cf190-b278-4b25-b845-55b6730b911c",
@@ -161,7 +176,8 @@
           "description": "Walt and Jesse become stranded out in the middle of the desert after cooking more crystal.",
           "date": "2009-05-02T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTk1MTI3NjY1Ml5BMl5BanBnXkFtZTgwMTk2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "85e0a3d3-7faa-4f57-baca-74e23e916cc3",
@@ -170,7 +186,8 @@
           "description": "Walt's cancer has greatly improved. Time to celebrate. Meanwhile Jesse tries to meet his new girlfriend's father.",
           "date": "2009-05-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTg0MTkzNTM5OV5BMl5BanBnXkFtZTcwMDQ2NDQ1Mg@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "403a675b-50d3-401e-9312-f71bfc4f1c10",
@@ -179,7 +196,8 @@
           "description": "Walt and Jesse's little empire begins to crumble. Saul tries to set them up with a mysterious distributor.",
           "date": "2009-05-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjQ4ODQzOTU4MV5BMl5BanBnXkFtZTgwNjk2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "37d0c826-0a88-4a3e-bfa6-16c4a374041a",
@@ -188,7 +206,8 @@
           "description": "Walt and Skyler have a baby girl. Now that Jesse is hooked on heroin, Walt refuses to give him his money until he gets clean. Meanwhile, as an excuse for his money, Walt decides to donate the money to himself through his son's new website.",
           "date": "2009-05-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTcxNjIxNTM4NV5BMl5BanBnXkFtZTgwODk2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ae62c517-312e-4458-ba52-9ad4e06ec938",
@@ -197,7 +216,8 @@
           "description": "Walt's lies have pushed Skyler to her limit. She leaves with the kids. Meanwhile, Jesse blames himself for Jane's death and goes into rehab.",
           "date": "2009-05-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZTM2MTk5NmItZmE0OC00YzlhLWE1NGUtYjQ2MzQ0NTJlZmVhXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -212,7 +232,8 @@
           "description": "Skyler goes through with her plans to divorce Walt. Jesse finishes rehab.",
           "date": "2010-03-20T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTUzMzQ1MDc5OF5BMl5BanBnXkFtZTcwMTMzOTMyMw@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f1c2c84f-a18e-43ea-bfd0-9292eddf0a7c",
@@ -221,7 +242,8 @@
           "description": "Walter, Jr. is having a rough time accepting his parents' separation. Jesse buys his old house from his parents. Meanwhile, two mysterious men have come into town looking for Walt.",
           "date": "2010-03-27T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BM2Y3YTdlNzQtMGQ3OS00MWM0LWI5MjgtMzVlMDc3OGFlYzA3XkEyXkFqcGdeQXVyNTQ0NjQzNTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "16e5bb31-a752-4550-a734-6f6f60aace8d",
@@ -230,7 +252,8 @@
           "description": "Walt has moved back into the house without Skyler's consent. Now she can't get him out. Meanwhile, Jesse continues to cope with Jane's death.",
           "date": "2010-04-03T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTMyMTgzNDA3MF5BMl5BanBnXkFtZTcwMTMwMTIzMw@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4e3919b3-55b5-449f-8fcc-a3b9ee4744fb",
@@ -239,7 +262,8 @@
           "description": "Walt's world crumbles even more after finding out that Skyler is cheating on him. Jesse tries to set up a meeting with Gus to try and sell his own version of the blue meth. Meanwhile, Hank is growing obsessed with finding Heisenberg.",
           "date": "2010-04-10T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjIxMDEwNDg0MV5BMl5BanBnXkFtZTgwMjk2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "af7e797f-f52d-4fcc-b029-fe13d617324d",
@@ -248,7 +272,8 @@
           "description": "Gus tries to get Walt back in the business by offering him three million dollars and a brand new lab. Jesse is furious that Walt received half of the money for his blue meth. Hank tries to track down the RV meth lab.",
           "date": "2010-04-17T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjA1NzQ1ODM0Nl5BMl5BanBnXkFtZTcwMjg0MDYzMw@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "099e7d50-ae34-4ef6-b890-9366a855fa08",
@@ -257,7 +282,8 @@
           "description": "Heisenberg's organized and practical assistant Gale greatly aids his work in Gus's lab. Hank finally tracks the RV back to Jesse, as a concerned Walt finds any way to erase the evidence.",
           "date": "2010-04-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZjg4YmEyNWMtNmUwZC00OGI4LWIxYWEtYWY4ZTE2MWMyM2IwXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "94c5d226-dad0-45f1-8e5c-3910f4e84f63",
@@ -266,7 +292,8 @@
           "description": "Jesse ends up in the hospital after getting beaten up by Hank. Now he is threatening to press charges against the DEA. To stop him, Walt decides to bring Jesse on as his partner, once again.",
           "date": "2010-05-01T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMGE5NmUwZDMtYjA4MC00OWFmLTliODMtNDMyZGQzN2ZhMjA2XkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b22b5aa0-4ab5-483c-9e55-74468973f0c8",
@@ -275,7 +302,8 @@
           "description": "Hank ends up in the hospital after being attacked by Tuco's cousins. Walt spends too much time by his family's side when he should be cooking meth.",
           "date": "2010-05-08T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTAyNTUzOTIwMDZeQTJeQWpwZ15BbWU3MDM3MTI1NDM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d5973344-36de-4ed9-a05c-120188c19918",
@@ -284,7 +312,8 @@
           "description": "Skyler hatches a plan as Hank's hospital bills stack up. Meanwhile, Walt and Gus come to a better understanding as Jesse, looking for more independence, pursues a new opportunity.",
           "date": "2010-05-15T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzFmNjdjZmItYjY3OC00YzJjLWE0M2MtYTEwNjY3OTQxZWE1XkEyXkFqcGdeQXVyNjE0NDg1MDg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "08196909-b6bf-4236-96be-ded14780a456",
@@ -293,7 +322,8 @@
           "description": "There is a fly loose in the lab. Walt and Jesse must do whatever they can to kill it before it contaminates the meth.",
           "date": "2010-05-22T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZWFkNDIwMGItYzg0MS00NDc4LWI1MmItZTlmYWYzYjA5NWYyXkEyXkFqcGdeQXVyNTMyMDkwMTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "49ac6d45-92b6-4550-9e8c-d87c0a09618d",
@@ -302,7 +332,8 @@
           "description": "Skyler gets more involved in Walt's business, much to his chagrin, as Hank struggles with his recovery. Meanwhile, Jesse takes an active role in his new enterprise, leading him to a startling discovery.",
           "date": "2010-05-29T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTMyMTQ2NzU5Ml5BMl5BanBnXkFtZTcwMjI0NzI1Mw@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5b40b37b-6a66-49a8-a186-4887c1aa0f1c",
@@ -311,7 +342,8 @@
           "description": "Against Walt's advice, Jesse lashes out. Fearing for Jesse's safety, Walt takes drastic action to intervene. Meanwhile a tragic event leads to a shocking confrontation.",
           "date": "2010-06-05T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTIzMDQ2MTUwNl5BMl5BanBnXkFtZTgwOTk2MDU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e94b22d0-8ef8-48b8-9ea6-65084b81e284",
@@ -320,7 +352,8 @@
           "description": "Jesse has disappeared and Walt is in big trouble with Gus. So Gus rehires Gale to learn from Walt's cooking so that they can dispose of Walt once and for all.",
           "date": "2010-06-12T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZjQzNTMxYzktNDEwZi00YTIyLWFlNjYtMzA0NjA3YWJjNDdmXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -335,7 +368,8 @@
           "description": "Walt and Jesse are held captive by Gus, after Gale's death. Meanwhile, Skyler tries to find out what happened to Walt.",
           "date": "2011-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjI2Mjg2MjEzNl5BMl5BanBnXkFtZTcwMTg2NTY3NQ@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "208b2985-7833-4b6a-87ff-349b4bc2bc32",
@@ -344,7 +378,8 @@
           "description": "Walt attempts to form a new alliance as he plans his next move. Meanwhile Skyler pushes Walt towards a business opportunity, in hopes of protecting the family.",
           "date": "2011-07-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjI3MjM4NjgyOV5BMl5BanBnXkFtZTcwMDU3ODQwNg@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "8a34f273-7f9e-4149-af4c-212f6fe48a2b",
@@ -353,7 +388,8 @@
           "description": "While Walt worries about Gus's interference and Jesse's increasingly fragile state of mind, Skyler steps up the pressure to get what she wants.",
           "date": "2011-07-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTc5Mjc4MTU2MV5BMl5BanBnXkFtZTcwNTE1MDMxNg@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5d75ea83-2dd2-42dc-987c-45d2f2193494",
@@ -362,7 +398,8 @@
           "description": "As Skyler concocts an elaborate story to explain the Whites' finances, a worried Walt discovers that Hank has begun a new investigation.",
           "date": "2011-08-06T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODIxZmQ5YjMtZWIyOS00ZmQ2LWJhZDQtMjA0YTRlZjA1Y2Y5XkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "75f26b50-99d0-4e98-aad2-ff514374f20b",
@@ -371,7 +408,8 @@
           "description": "Jesse rides shotgun with Mike on a perilous run of pickups, prompting Walt to worry that his partner is about to be killed.",
           "date": "2011-08-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzYxMzU1OTM1Ml5BMl5BanBnXkFtZTcwMDIzODcyNg@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "30d7807c-e712-4e03-a09b-33d7620291f8",
@@ -380,7 +418,8 @@
           "description": "Skyler adopts an aloof approach when she suspects that Walt isn't telling her the truth. Meanwhile, Jesse proves his worth to Mike and Gus.",
           "date": "2011-08-20T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjUzMzA5NzY2NV5BMl5BanBnXkFtZTcwMDcyOTYzNg@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "06ca0db1-b638-4b59-955a-63d94e669c23",
@@ -389,7 +428,8 @@
           "description": "Skyler looks to continue her family's trend of appearing poverty-stricken by forcing Walt to return the car he bought. A concerned Walt chauffeurs Hank to Los Pollos Hermanos, and the articulate yet immobile DEA agent collects prints.",
           "date": "2011-08-27T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTA5MzYxMDExNV5BMl5BanBnXkFtZTgwNzgxMTU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "bccadc7f-3484-4485-87d4-62c617e24f59",
@@ -398,7 +438,8 @@
           "description": "When Hank produces evidence that Gus is Albuquerque's crystal meth kingpin, Walt worries that he and Jesse will be killed to protect their boss.",
           "date": "2011-09-03T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMGFkNmNjM2YtMWNmYS00MWYyLTg3NjItZWFiMzg2NTc4NzVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk3ODIwNDU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "1413dc7b-86c0-4dfc-b0d5-947f3d345d90",
@@ -407,7 +448,8 @@
           "description": "While Walt tries to subvert Hank's probe into the Albuquerque meth scene, a deadly warning forces Gus to consider a deal with the cartel.",
           "date": "2011-09-10T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjAxMTcxNjg0NV5BMl5BanBnXkFtZTgwNDgxMTU5NTM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0d990b2e-96ca-4101-94c7-d7eef88cfe41",
@@ -416,7 +458,8 @@
           "description": "Jesse, Gus, and Mike fly down to Mexico, and Jesse cooks the blue meth for the cartel. Walt misses his son's 16th birthday after his fight with Jesse.",
           "date": "2011-09-17T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BY2RmZjQyNzgtMjA0ZC00NWMyLThlOWEtNmE3NWU5ZmRiNzNmXkEyXkFqcGdeQXVyOTc1NDc2MTI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "1fce2f53-9b5e-4d80-bf5b-e0693fe4dc74",
@@ -425,7 +468,8 @@
           "description": "Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus.",
           "date": "2011-09-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTkwMWZiZjctYzU4Mi00M2NkLWFhODItOWNmZDZjMDgyN2JiXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "557d1e54-2d9c-4a8d-83b1-297fc63c894a",
@@ -434,7 +478,8 @@
           "description": "The DEA is putting Hank and his family in protective custody; however, Walt refuses and awaits his fate in his house. Meanwhile, Brock has fallen terribly ill and Jesse suspects Walt may be behind it.",
           "date": "2011-10-01T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTAxNjM2Mzk3Nl5BMl5BanBnXkFtZTcwOTc4MzU4Ng@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "28d1151c-37da-47c4-aaa7-ad4e280bb272",
@@ -443,7 +488,8 @@
           "description": "Jesse is brought to the FBI for questioning on his knowledge of ricin. In a last effort to kill Gus, Walt must ask for help from an old enemy.",
           "date": "2011-10-08T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTMyMTk2NTU4M15BMl5BanBnXkFtZTcwMjM2NTg4Ng@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -458,7 +504,8 @@
           "description": "Now that Gus is dead, Walt, Jesse, and Mike work to cover their tracks. Skyler panics when Ted Beneke wakes up.",
           "date": "2012-07-14T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZGM0YjZmNTItNGU0My00Yjc0LWFlZmEtNTFkNTQ2ZmI3YWVlXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c511157a-fbd7-4b47-8e12-59299c29e65b",
@@ -467,7 +514,8 @@
           "description": "Walt and Jesse seek out an unlikely partner for a new business venture. The DEA follows up new leads in its investigation.",
           "date": "2012-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTc5NjQ0MTQwN15BMl5BanBnXkFtZTcwNDk2MzQxOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f37dcaa5-a326-4390-a89b-9b984e4c6653",
@@ -476,7 +524,8 @@
           "description": "The guys put a business plan into action; Walt confesses to Marie.",
           "date": "2012-07-28T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTk2MDk0NzE4OF5BMl5BanBnXkFtZTcwMzk2MzQxOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "cc88419c-15ca-43bb-9300-b9b38251a844",
@@ -485,7 +534,8 @@
           "description": "It's Walt's 51st birthday. His return to the drug business causes Skyler to go into depression.",
           "date": "2012-08-04T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQyMDcxNzg1OV5BMl5BanBnXkFtZTcwOTI0MTQyOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "638b262b-d1ce-4a9c-a228-ab84c1d26f5a",
@@ -494,7 +544,8 @@
           "description": "Walter White's domestic life continues to deteriorate; at the same time, his growing business venture aims to steal a train car chock full of methylamine.",
           "date": "2012-08-11T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BM2I5NDY1YTEtZDlhZi00OWI5LTg3ZmUtZjM1NmIxODYyYjVkXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "52d7dd99-87be-4ec4-9c91-25b8cff2c864",
@@ -503,7 +554,8 @@
           "description": "In the aftermath of the train heist, Jesse and Mike decide to quit the business, leaving Walt to handle things on his own. Mike is being followed by the DEA.",
           "date": "2012-08-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjI4NDQzMjkwNF5BMl5BanBnXkFtZTcwODg4MzAzOA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "3124874e-a222-4b9a-b421-d06b39d7ea7d",
@@ -512,7 +564,8 @@
           "description": "Mike and Jesse are out. Now Walt has to handle things on his own. Hank finally finds a rat in Mike's gang.",
           "date": "2012-08-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2QyNGZmOTgtMjBmNi00MTc1LTg3YzAtYmZjNjgwZjExOTRiXkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "bb461e4b-fd11-4176-bca2-fb62bc2ffc4e",
@@ -521,7 +574,8 @@
           "description": "Walt expands his business overseas, and the money is pouring in.",
           "date": "2012-09-01T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYmY3NzQ4MjktZDU0ZC00NjU1LThjNDAtYmVlOGNiY2RlYmMyXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "df5e75c8-25f7-4dab-b1d8-ef21d8c10116",
@@ -530,7 +584,8 @@
           "description": "Walt is out of the meth business and trying to move on with his life. Jesse tries to get rid of his money. Hank now knows that Walt is the famous Heisenberg.",
           "date": "2013-08-10T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BM2I5MTE1ZDctZDg2My00YzdhLWJiNTAtMzhlOWRkYzhmOTIxXkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "6626dc79-6e61-4874-803b-079d4c17eaed",
@@ -539,7 +594,8 @@
           "description": "Hank is determined to bring down Walt. Walt scrambles to hide evidence before Hank gets to it, and Skyler tries to stop Hank and Marie from taking away the kids.",
           "date": "2013-08-17T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTk1MDI2NDQ2OV5BMl5BanBnXkFtZTgwOTc5OTcxMDE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b0c52bfe-321c-44bf-b150-796c2d9ae618",
@@ -548,7 +604,8 @@
           "description": "Walt makes his next move against Hank, putting Hank in a tough position. Hank confronts Jesse and attempts to turn him against Walt, and Jesse decides it's time to move on. Meanwhile, Todd has taken over the business.",
           "date": "2013-08-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTU2NzAwNTQ1Ml5BMl5BanBnXkFtZTgwMTIxMDgxMDE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "19ad1169-d85c-479d-ab5c-1b5b1add2536",
@@ -557,7 +614,8 @@
           "description": "Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse makes plans to take down Walt.",
           "date": "2013-08-31T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTgzMDYwNDAyOF5BMl5BanBnXkFtZTgwMzQ5OTcxMDE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "89a68e09-c622-421b-8ba0-16701c7795e4",
@@ -566,7 +624,8 @@
           "description": "Jesse and Hank come up with an idea to take Walt down. Walt hires Todd's uncle to kill Jesse.",
           "date": "2013-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzU0ZmZiMTgtZTIyOC00ODBhLWJiZGEtNTIzYTUyMTEyMTdjXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4096745c-700c-4800-98f7-b7c14c6b8b5b",
@@ -575,7 +634,8 @@
           "description": "Walt goes on the run. Jesse is taken hostage. Marie forces Skyler to tell Walter, Jr. the truth.",
           "date": "2013-09-14T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjE4NTA3MzMzMV5BMl5BanBnXkFtZTgwMTM0MTI2MDE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "66692aef-15c5-4230-ba24-5fafba1b49c0",
@@ -584,7 +644,8 @@
           "description": "Walt struggles as he adapts to aspects of his new identity. Jesse plans an escape against Jack and his crew.",
           "date": "2013-09-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzg5Njg0YjQtYmQ0MC00YjljLTk2OWQtMDU3Y2M4YTEwMTM4XkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ae097268-4bdf-4dea-99d7-25167a977483",
@@ -593,7 +654,8 @@
           "description": "Walter White returns to Albuquerque one last time to secure his family's future and settle old scores.",
           "date": "2013-09-28T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTAwMTQzNl5BMl5BanBnXkFtZTgwMDQxMjUzMDE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

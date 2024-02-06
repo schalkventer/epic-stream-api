@@ -20,7 +20,8 @@
           "description": "A publishing house eagerly awaits BoJack's memoirs, but he hasn't even started yet. His agent/ex and his publisher try to talk him into working with a ghost writer, but BoJack's too despondent about being washed up to focus.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjI1MDQ3MzMzNF5BMl5BanBnXkFtZTgwMDE4ODM5MTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e5db2ea1-3d9b-42ff-9a4f-7a161f02c64c",
@@ -29,7 +30,8 @@
           "description": "BoJack gets into trouble after taking muffins a Navy Seal had \"dibs\" on and then calling American soldiers jerks on live television.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTU3MjAwNzM4Ml5BMl5BanBnXkFtZTgwODM0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4d756f42-2741-4ef0-9c43-5247c82983ab",
@@ -38,7 +40,8 @@
           "description": "A child actress from the sitcom BoJack starred in 20 years ago shows up at his house leading to a series of chaotic events.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTIyYjA1MjMtYjYxYi00ZWRjLWIzMmItMGRlNGZkN2Y4MDk1XkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d39c3901-df64-4760-8719-d9a4ceb267f2",
@@ -47,7 +50,8 @@
           "description": "Bojack mentors Todd in his upcoming career; meanwhile Diane's ex-boyfriend writes an article about Mr. Peanutbutter for an online article.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODhmNjVlMjktOWUxMi00ZTQ4LTkxMmUtOTU1NTM1ZDVmNjhjXkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "46d97f3b-f170-4d85-9f60-b2829d957a36",
@@ -56,7 +60,8 @@
           "description": "A business trip for BoJack and Diane takes a detour; Todd runs a scam that gets him in trouble.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZTU1OGViZjYtMTAwZC00YmQ1LWFkMjMtMGM0MmJlZTc1ZTliXkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "fcb10f5d-d107-4723-895c-befd1099e1cb",
@@ -65,7 +70,8 @@
           "description": "In a bout of drunken jealousy toward Mr. Peanutbutter, BoJack steals the \"D\" from the Hollywood sign for Diane. Meanwhile, Todd finds himself juggling two very demanding dates.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjkxMzBlZGEtZTE1ZC00Zjc4LWJkZTEtY2EwZjI5YTg3MTIzXkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "467f52c7-c85d-41da-9886-34f4af130e1d",
@@ -74,7 +80,8 @@
           "description": "Princess Carolyn tries to have it all and prove she's the best agent in the biz, while Bojack, Todd, and Vanessa Gecko make it as difficult as possible.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzU1ZGRlYmMtZjM1ZS00YzliLWFkYzMtMmRiZDU0ZWFmODc5XkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b5d96d76-545a-4167-84fb-6cb7e3b5cfc0",
@@ -83,7 +90,8 @@
           "description": "When he learns his old friend from \"Horsin' Around\" is dying, BoJack tries to mend fences.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMGI1MTYxY2ItODhhYi00ZGY0LWJhZDQtNWNmZjJkZjMzODc0XkEyXkFqcGdeQXVyNzU5MjQ3NDg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ce6726e6-89e6-4c16-a8c5-ef1874667e77",
@@ -92,7 +100,8 @@
           "description": "A love struck BoJack tries to sabotage a wedding; Todd accepts a surprising new professional role.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjZiZGZiMDItMjM3MS00YTdmLThkZjUtOTM0MzA4ODA2M2EyXkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0940416c-ca2f-4971-9863-03eb82de4b41",
@@ -101,7 +110,8 @@
           "description": "BoJack shoots a movie at Mr. Peanutbutter's house; Diane finishes her book.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmFkYjRmYWYtNWFkMi00YzAxLWFhZDAtYTc0ZTNiNjAwZmNiXkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "51ab63d9-e851-48d8-8db7-a6b82e31cd1e",
@@ -110,7 +120,8 @@
           "description": "BoJack embarks on a project in his typically gonzo style, leading to a drug-fueled revelation.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODc2MWZmMDgtNTg5OS00YjkyLTgwM2MtMjI5ZDIzZmFjYmU0XkEyXkFqcGdeQXVyMzQxMTMwMDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "775eedc5-12ff-417d-88b9-034a019d6c38",
@@ -119,7 +130,8 @@
           "description": "Months after his memoir is released, BoJack's being considered for a role that's a life long dream.",
           "date": "2014-08-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDU0MTk0ZmYtYmZmOC00ZTM3LWJhNDItM2Y1ZTdkNWU0MDVjXkEyXkFqcGdeQXVyNDU2NzE0Mjk@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -134,7 +146,8 @@
           "description": "BoJack and Todd watch a very special Christmas episode of \"Horsin' Around\" to celebrate the holidays.",
           "date": "2014-12-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjAwNzI2OTM2Ml5BMl5BanBnXkFtZTgwNzI0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "fdac2977-e7d1-4730-b506-25b11b14c733",
@@ -143,7 +156,8 @@
           "description": "Picking up where he left off, Bojack Horseman is now set to start filming his dream movie Secretariat.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTQ0ODE5NTU4MF5BMl5BanBnXkFtZTgwNzQ0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e7f98b9a-9ae8-4870-9440-631d2879a384",
@@ -152,7 +166,8 @@
           "description": "BoJack is drawn to the one female in town who has no idea who he is (because she was in a coma). Todd opens a theme park.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTY2ODYzNTcyNl5BMl5BanBnXkFtZTgwNDI0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "961480f8-a223-4f09-b082-71e888abec20",
@@ -161,7 +176,8 @@
           "description": "A funeral turns into a treasure hunt for the \"Horsin' Around\" cast and a potential schmoozefest for Princess Carolyn and Mr. Peanutbutter. Meanwhile, Todd briefly reinvents himself.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjI0MDExMDUxOF5BMl5BanBnXkFtZTgwMDM0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "3b3ce9fc-4715-44d9-849e-a346005490d0",
@@ -170,7 +186,8 @@
           "description": "Mr. Peanutbutter throws Diane a surprise birthday party, putting tension on their relationship. Princess Carolyn and Vincent have a serious talk. Wanda tells BoJack a joke.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQ3ODI5Mzg4Nl5BMl5BanBnXkFtZTgwOTM0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4279b76c-6c02-4d3b-8ee9-ffca2ac8908c",
@@ -179,7 +196,8 @@
           "description": "Todd tries to save a chicken from the slaughter house while Bojack and Kelsey are allowed some bonding time.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzIwZTc3MGItMDQ1NC00YWJlLWFkYzItOTg4NDhmMzUyNzkwXkEyXkFqcGdeQXVyNjExMzM2NDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "19ded169-3c47-46f2-81f1-a237437c46fc",
@@ -188,7 +206,8 @@
           "description": "Princess Carolyn sees an opportunity when Mr. Peanutbutter's agent dies. BoJack flips when he says the \"L\" word out loud to Wanda.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDkzODIwNDE4NV5BMl5BanBnXkFtZTgwMzIwMTg4OTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "0fcfc3ec-a2f3-4457-802f-4f02425facf0",
@@ -197,7 +216,8 @@
           "description": "Diane goes off script during BoJack's book tour, jeopardizing Mr. Peanutbutter's new show. Todd gets involved in international affairs.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDkxNzQ5MjAwMV5BMl5BanBnXkFtZTgwNjQ0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "496210e4-d489-40a1-ae5a-167a1b17d826",
@@ -206,7 +226,8 @@
           "description": "BoJack Horseman is a contestant on Mr. Peanutbutter's new game show, facing off against a mystery 'bigger celebrity' contestant.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQ3ODkwNjMzN15BMl5BanBnXkFtZTgwMjU0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5d954a9d-841a-4b0b-87a8-64cd40e709a1",
@@ -215,7 +236,8 @@
           "description": "BoJack, Kelsey, Todd, Princess Carolyn, and Mr. Peanutbutter attempt to shoot a crucial scene in the Secretariat movie that was not in the script. Princess Carolyn and Diane contemplate their respective careers.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTY2NDI4NTEyOV5BMl5BanBnXkFtZTgwNjU0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "a4aca7e1-4fed-4c94-ac64-1082c6b7c687",
@@ -224,7 +246,8 @@
           "description": "Diane crashes at BoJack's place after quitting her job following Sebastian St. Clair, which puts a strain on BoJack and Wanda's relationship. Todd joins an improv comedy troupe which turns out to be a cult.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTUyNzI0NzUxMl5BMl5BanBnXkFtZTgwMDA1NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e634f84b-777d-461d-8ad0-83142da7a4a7",
@@ -233,7 +256,8 @@
           "description": "Bojack runs off to New Mexico to reconnect with an old friend, only to find she's happily married with a family. After staying longer than planned, Bojack makes another life mistake.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2ZhNzkxYzMtZjVkNi00ODEwLTlmMmEtOThlOTI1OTE5ZTRkXkEyXkFqcGdeQXVyMTA4Mzk1MzMw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "11ea73d3-70e6-4a59-bcde-0fb3729a9762",
@@ -242,7 +266,8 @@
           "description": "BoJack discovers the Secretariat film was finished without him. Princess Carolyn starts her own agency firm. Todd finds himself trapped in the improv comedy cult.",
           "date": "2015-07-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDQ5MDgxN15BMl5BanBnXkFtZTgwOTI0NjQzNjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -257,7 +282,8 @@
           "description": "Bojack goes to New York to be interviewed for his new film. Todd tags along and realizes he bit off a little more than he could chew.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMGVmODNlZmUtZGVhNC00NTVkLWFkMjktMGYyY2E3Yjc4M2E2XkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "9ce13e7b-59d5-4243-9083-777cbe5d2751",
@@ -266,7 +292,8 @@
           "description": "It's 2007, and Princess Carolyn works tirelessly to get Bojack to stop basking in the light of the glory days and start working again. Diane and Mr. Peanutbutter meet, and Todd kisses a girl.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmE0ZGFkMDEtNzhiYi00YzU4LWI3YTAtNTdkNjQyMmViMDU4XkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "46967f37-02e3-4ba6-9099-8e40412b5ce9",
@@ -275,7 +302,8 @@
           "description": "Bojack is framed for a murder. Meanwhile, Todd and Mr. Peanutbutter are sprayed by a skunk.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNmYzMTJiMzQtZGQyNS00MTRmLTg4NjAtNDdiMDU2NzY1NGQ4XkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "74ad4dd4-8eef-427b-bf07-a8abad690229",
@@ -284,7 +312,8 @@
           "description": "As Bojack is forced to attend an underwater movie festival to promote his new movie, a series of events and the inability to communicate with underwater life ensures that not everything goes as planned.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYTk0MjNjNGEtOTI4Yi00YzYyLTg0Y2QtYzU3OGE5ZDdmMDlkXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "27a4cf92-00aa-4221-a208-7828fa3b7e89",
@@ -293,7 +322,8 @@
           "description": "While Todd and Bojack crash a rehearsal dinner, Diane gets high with a client. Princess Carolyn goes on a series of blind dates.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDNlNGQ4ODktYmNmMy00ZjVjLThlYmMtNjgzMzA4YTFkZjk0XkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "087fde67-5a82-493b-ab21-b2a87fd01ce7",
@@ -302,7 +332,8 @@
           "description": "Diane's tweet lands Sextina Aquafina in hot water. Prankster and A-list actor Jurj Clooners gets under BoJack's skin.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTVkOWIyZjktMDBhYi00YmFlLWExMTAtN2JkMTliYzc5N2ZjXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ba4fefb8-efe1-44a4-bcdf-77a28cc4d9d0",
@@ -311,7 +342,8 @@
           "description": "Todd builds a giant papier-mâché Todd head. A customer service rep gives Bojack some good advice when he tries to cancel his newspaper subscription.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzQ1Mjk3YzAtMjk1Ni00NGIzLWFmMWItYmFmMDIzOGI0OTNhXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "28f8d9c5-cbd7-46a4-8d56-4dcf1935ec37",
@@ -320,7 +352,8 @@
           "description": "Bojack is up for a part in David Pincher's latest film. Diane meets Mr. Peanutbutter's brother and Todd takes the business in a new direction.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYjA3YWYxN2YtZGRkMS00NzI5LTg5ZjktNjBlN2MyOTYwM2MyXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "56bf7917-6715-4bb1-a815-cc17b0579189",
@@ -329,7 +362,8 @@
           "description": "After Princess Carolyn's latest mistake as BoJack's agent gets worse and worse, their entire relationship comes into question.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNWY3YzgxNzMtNzkyMS00OTkwLWFkOTQtM2YzYThmN2RiYzdkXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "a2620edf-8f30-473e-aeeb-909324f3c39e",
@@ -338,7 +372,8 @@
           "description": "Mr. Peanutbutter announces the Oscar nominees. Bojack surrounds himself with admirers, not realizing how much his true friendships are falling apart.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzg3MmZiYjYtNTJlZi00MzBmLTg3OGUtNWZhZjBlZmYwNDk4XkEyXkFqcGdeQXVyNjU0NTU2Mjc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "9a9dd909-c4e2-481d-82ca-f335c58bf85d",
@@ -347,7 +382,8 @@
           "description": "Bojack gets Sarah Lynn to break her sobriety to help drown his depression, and experiences the next few months through blackouts.",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYWMxYTk5YzQtNDJmZC00Njc0LThkODEtZjFhZjJiZmQzZThmXkEyXkFqcGdeQXVyNjU0NTU2Mjc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "7a12fea3-d84c-4b91-8c94-55af277a4274",
@@ -356,7 +392,8 @@
           "description": "Bojack hits rock bottom. Mr. Peanutbutter and Todd save the day. Princess Carolyn finds a new calling",
           "date": "2016-07-21T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODI2YWJmMGEtYjUyMS00NTkxLWIyMGYtODEzYmQxYTNlMjUyXkEyXkFqcGdeQXVyNjU0NTU2Mjc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -371,7 +408,8 @@
           "description": "Mr. Peanutbutter starts his campaign for Governor of California by challenging the current governor to a ski race while BoJack is nowhere to be found.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjI2MDMxODAyMl5BMl5BanBnXkFtZTgwNjI1NTIzMzI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "35015c31-ea18-4ecb-a09d-f934b4708295",
@@ -380,7 +418,8 @@
           "description": "BoJack goes off the grid and winds up at his grandparents' dilapidated home in Michigan where he reflects on his family legacy and befriends another soul haunted by the past.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTIyMGZiMGEtNWYyMS00MWJhLTg4MzQtMzg3MGMxYzgyNDEzXkEyXkFqcGdeQXVyMTA4Mzk1MzMw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4f4e988e-e353-45a5-8afd-2ff31859bca1",
@@ -389,7 +428,8 @@
           "description": "Helpful to a fault, Todd is spread thin doing favors for Princess Carolyn, Mr. Peanutbutter and a visitor with a potential connection to BoJack.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmQ2MDBmOWQtMTc1Zi00NzgxLTg0MTEtZDdmYTRlN2JiMjcyXkEyXkFqcGdeQXVyNzA4NzQyMjk@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "7a729ee3-06fa-4291-bcee-2b22e8acbb5f",
@@ -398,7 +438,8 @@
           "description": "The campaign takes a toll on Diane's love life. BoJack helps Hollyhock search for her mom. Princess Carolyn tries to get pregnant.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjY5ZjliOTktODJjNC00MDE4LWE5NDItZDRkM2Q1MzQzMzU4XkEyXkFqcGdeQXVyNjc4NzIxODg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "a70ad6de-423a-44ad-95b6-0d7e3e929662",
@@ -407,7 +448,8 @@
           "description": "A mass shooting at a mall creates a PR nightmare for Princess Carolyn. BoJack takes Hollyhock to visit his estranged mother.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzYxMThjMDktODQ4Ni00ODM2LTg4ZmQtYmJlOWM3MTRhZTExXkEyXkFqcGdeQXVyMjY0Mzg1MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "fb01a5cf-7347-4aaa-80cb-05c62698cc08",
@@ -416,7 +458,8 @@
           "description": "Surrounded by family, BoJack spirals into self-loathing. Princess Carolyn and Rutabaga Rabitowitz plan Courtney and Todd's sham wedding.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzkyMWRiMjYtYjkwZC00MWNmLThmZTAtM2UzODIwOTFjZDA4XkEyXkFqcGdeQXVyODAyMjY1MzM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "35e3b03a-a8d0-4afd-86bd-d0f0c6153a41",
@@ -425,7 +468,8 @@
           "description": "Mr. Peanutbutter's posh campaign fundraiser takes a terrifying turn. As chaos swirls around them. BoJack and Diane get drunk.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTFmZmY4ZWQtYjkxOC00NjAxLWJhYmQtZjAyOTNjY2I4Njg3XkEyXkFqcGdeQXVyMzk2NTE3NDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5e101be0-bf0b-4053-bb09-0dbb32db0b11",
@@ -434,7 +478,8 @@
           "description": "Hollyhock starts dating an intern on BoJack's new show. Princess Carolyn meets Ralph's parents. Mr. Peanutbutter throws his support behind Woodchuck.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzhmMTQ4YTMtNWNjMS00ZmM5LWIwODYtMWM0MjgwY2U2MDRmXkEyXkFqcGdeQXVyMzk2NTE3NDQ@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "09caedd3-ce7c-4963-9a72-3688a3fbb767",
@@ -443,7 +488,8 @@
           "description": "On one awful day, Princess Carolyn deals with rejection, deception and loss. BoJack and Diane try to track down Hollyhock's birth certificate.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYmU1OGJkZDgtNWEyOS00ZTA5LThmMzMtYTU4NWZjMzJkNjRmXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d4cf207c-6c96-47a8-8c3a-510471400e97",
@@ -452,7 +498,8 @@
           "description": "Diane leaks damaging information on Jessica Biel, Todd's clown dentist business hits a snag, and Princess Carolyn finds hope in an unlikely place.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODgyNjFjY2YtNjczMC00YTViLWI2MDQtOTg2ZDI1YmU0OTAyXkEyXkFqcGdeQXVyNTA2NTM4NTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "9439b89b-c9a5-4034-b815-1356f17e93b6",
@@ -461,7 +508,8 @@
           "description": "In 1963, young socialite Beatrice Sugarman meets the rebellious Butterscotch Horseman at her debutante party.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTZlMjQ4ZGQtODZhMC00ODE3LWJiM2MtNTU5YzI0NDI3YjRjXkEyXkFqcGdeQXVyNTA2NTM4NTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d485a0f1-bd8a-4a91-bd0c-2cff8b339b5d",
@@ -470,7 +518,8 @@
           "description": "Princess Carolyn pitches \"Philbert\" to company execs. Todd gets a better business idea. BoJack comes to a realization about Hollyhock.",
           "date": "2017-09-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzQxNTY1M2EtYmY5NC00ZDdhLWJjMjAtNWJjNDA4NjI0OTE5XkEyXkFqcGdeQXVyNTA2NTM4NTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -485,7 +534,8 @@
           "description": "BoJack has misgivings about his new show. Princess Carolyn visits an adoption agency. Todd interviews for a job at WhatTimeIsItRightNow.com.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTExMTIyNTYxMl5BMl5BanBnXkFtZTgwMTc5NTYyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d1395bab-5f92-4040-80c4-a1a74bed2db3",
@@ -494,7 +544,8 @@
           "description": "Diane divorces Mr. Peanutbutter and moves into a shabby studio. Feeling melancholy, she travels to Vietnam to get away from it all.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTY0NzYyNjM4NV5BMl5BanBnXkFtZTgwNjc5NTYyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "6f56ff47-bf2e-423e-8194-d8cd7788c222",
@@ -503,7 +554,8 @@
           "description": "Todd meet's Yolanda's parents, who don't know she's asexual. Mr. Peanutbutter romances a young waitress. Gina confesses a childhood dream to BoJack.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTAzNDM4Mzc2MV5BMl5BanBnXkFtZTgwOTY5NTYyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "772f5997-4c7c-4995-8d4c-3d28f5723597",
@@ -512,7 +564,8 @@
           "description": "When Princess Carolyn casts a disgraced celeb in \"Philbert,\" BoJack inadvertently takes a stand. Mr. Peanutbutter tries to toughen up his image.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTY5NzkyODA4OV5BMl5BanBnXkFtZTgwODQ5NTYyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "24b87266-9876-4f36-9874-f2b6c5fca7ea",
@@ -521,7 +574,8 @@
           "description": "Painful memories come rushing back when Princess Carolyn visits her hometown and meets a pregnant teen. A stunt goes awry on the \"Philbert\" set.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTA0MzU5NzA5NjZeQTJeQWpwZ15BbWU4MDc5NDE3MjYz.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d10d3cc9-3602-4511-bd5c-4db7d7094273",
@@ -530,7 +584,8 @@
           "description": "BoJack delivers a eulogy at a funeral.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYTBmYTZlMTYtMGIyZC00NTk1LTgxMzgtMmI3ZThiMjZjOGMyXkEyXkFqcGdeQXVyNTI2Mjc3MTg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "11ab8731-5704-4c44-ae12-c523a42dc396",
@@ -539,7 +594,8 @@
           "description": "Diane's therapist encourages her to set boundaries with BoJack. A missing string cheese ignites a dispute between Todd and Princess Carolyn.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDk5ODM5OTgyNV5BMl5BanBnXkFtZTgwNDk0MTcyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b767c455-20b3-48d3-8602-a8bdc9c22de1",
@@ -548,7 +604,8 @@
           "description": "At BoJack's 25th annual Halloween party, Pickles gets a crash course in Mr. Peanutbutter's romantic history -- and some advice from Diane.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDAwODgzMWUtNjBjNy00ZGU5LWFlNTAtYmFkOWUzMTlkOWQ2XkEyXkFqcGdeQXVyOTI3MTcwMDg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "18880ad5-1717-4030-97f2-1f357177cd4b",
@@ -557,7 +614,8 @@
           "description": "A visiting Hollyhock dumps BoJack's painkillers, sending him on a desperate search for more. Todd tries to solve Emily's dating dilemma.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTgxODk2MDk1Nl5BMl5BanBnXkFtZTgwNjk0MTcyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "10302da9-7153-444d-994e-1350dd9cec00",
@@ -566,7 +624,8 @@
           "description": "At the \"Philbert\" premiere party, Princess Carolyn deftly negotiates a deal, Gina steps into the limelight, and Diane confronts BoJack.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTk0OTgyODkyNF5BMl5BanBnXkFtZTgwMzk0MTcyNjM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c29a3519-77dd-40ca-90fb-4590c8a70a3f",
@@ -575,7 +634,8 @@
           "description": "\"Philbert\" is a hit, and filming begins on Season 2. But as BoJack spirals deeper into addiction, he loses his grip on reality.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMWI4ZjAxMWQtMGRlZC00ODE5LTlhNzEtMGExNmFmYWE4OTQ4XkEyXkFqcGdeQXVyODc2ODY0Nzc@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "32f85924-2018-454e-b9e2-a270374ce2af",
@@ -584,7 +644,8 @@
           "description": "In the midst of the latest PR crisis, Princess Carolyn gets a life-changing opportunity. With Diane's help, BoJack finally faces the music.",
           "date": "2018-09-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZDM2YzgyN2ItOWI3Ny00NzI5LWI4MGQtOTdkZDVhM2QwN2U4XkEyXkFqcGdeQXVyMzUyNjEwOTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     },
@@ -599,7 +660,8 @@
           "description": "BoJack checks into Pastiches, a Malibu rehab facility, where he grapples with memories of Sarah Lynn's death and his own troubled childhood.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZWJlNzdlODItOTIyYi00ZTk5LTkzZDQtMTAyYjIwYjc2NGYxXkEyXkFqcGdeQXVyMTA4Mzk1MzMw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "38365cf0-198c-4da9-84a0-8cf7fdda4ab4",
@@ -608,7 +670,8 @@
           "description": "When her nanny quits, Princess Carolyn struggles to balance the demands of work and parenting. Mr. Peanutbutter visits BoJack in rehab.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzRkNTkzNTktMjYyYi00OGQ1LWE3NDQtMDRkMDYwMmQwMzllXkEyXkFqcGdeQXVyNzg1MDQ1NzA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e927a28c-2d60-417b-8253-252b059f5902",
@@ -617,7 +680,8 @@
           "description": "Girl Croosh sends Diane on the road with rugged cameraman Guy, but she balks when they ask her to produce more feel-good stories.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMWE3MWRkZjQtOGQ0My00ZTU1LWI3YjQtZjEzNTEwMzU3NGM1XkEyXkFqcGdeQXVyNTIwNjMyNDU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4a511848-0169-476f-919c-e3407f0fa820",
@@ -626,7 +690,8 @@
           "description": "Todd organizes a surprise wedding for Pickles and Mr. Peanutbutter, but the party quickly goes off the rails when Mr. Peanutbutter makes a confession.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTUwMjBiNGQtMWUwMi00Mzk1LTlhOGItYzRiZDhkNGYwMjI1XkEyXkFqcGdeQXVyOTMxNjc0MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "9fbd82c4-65df-48a8-a8bb-bdbd15d1affd",
@@ -635,7 +700,8 @@
           "description": "Dr. Champ tells BoJack it's time to leave rehab. Mr. Peanutbutter's reputation takes a hit. In Chicago, Diane wrestles with writer's block.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDMzZWQ5MmEtMDNmNS00MmRkLWIyODItNjQ0ZTQ2Yjg5ZmVmXkEyXkFqcGdeQXVyOTMxNjc0MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b91e1faf-0abd-45bf-9f01-2164eba15ae4",
@@ -644,7 +710,8 @@
           "description": "The assistants of Hollywoo go on strike. BoJack tries to help Dr. Champ. When Todd learns that his mother needs a kidney, Diane comes up with a plan.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjY2MTM0YWMtOWQ4YS00ODA3LWI1YTUtOTRkN2E2ODdkOWUyXkEyXkFqcGdeQXVyOTMxNjc0MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "11e706d2-73ee-438e-934a-7a2d02e72c93",
@@ -653,7 +720,8 @@
           "description": "BoJack travels around the country reconnecting with loved ones, while Mr. Peanutbutter embarks on his own national tour as the face of depression.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjZlMzQ5ODQtNDM2NS00Yzc1LWFiYWUtZDU1MzdkZTE1NWVkXkEyXkFqcGdeQXVyMTA2NTg2NDQw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "52a7e736-4653-45ca-a2a7-9d5d66c7b58f",
@@ -662,7 +730,8 @@
           "description": "A reporter digs into the circumstances surrounding Sarah Lynn's death. Hollyhock goes to a party in New York City.",
           "date": "2019-10-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTE1ZjM4YzktOTE5Ny00M2Q5LThkYzQtODM3NTE1ZWI3NTE2XkEyXkFqcGdeQXVyOTMxNjc0MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b9d3d08f-9ead-467c-89ec-239e72355e60",
@@ -671,7 +740,8 @@
           "description": "When BoJack starts teaching an acting class at Wesleyan, Hollyhock sets some boundaries in their relationship.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmZlNjAxMWYtNDJlYi00ZmJlLWFmNjUtNTU1Mzg4ZjhjNjdkXkEyXkFqcGdeQXVyMTEzMDczNDYz.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f41cb2de-c8c2-4aba-9fa4-9e53003e4578",
@@ -680,7 +750,8 @@
           "description": "Diane's depression lifts, but she's still struggling to start writing her memoir. Reporters Paige and Max pay Penny a visit.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzk5MDBiYzUtZTg3NC00OGNkLWJhZTYtNTNlOGRkZGIzZjQ2XkEyXkFqcGdeQXVyMTEzMDczNDYz.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "3433239f-7644-4834-8f0d-0effbe06f78a",
@@ -689,7 +760,8 @@
           "description": "While Paige and Max question Mr. Peanutbutter at his restaurant, a panicked BoJack tries to piece together what's happening.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTdjMzgzY2UtNDdiNi00NmNlLWI4NGItMjJiYjNkYWRmZjgyXkEyXkFqcGdeQXVyMTAwNzQ4MTIw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "cc303e5c-927f-4c39-a16c-dbcfd03dc01c",
@@ -698,7 +770,8 @@
           "description": "After the Sarah Lynn story breaks, BoJack gives a live interview on TV. Diane meets Guy's teenage son.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzIwYWZhZWEtN2MzYS00NjcyLWEzODQtYTU2M2MyM2NhODMyXkEyXkFqcGdeQXVyMTAwNzQ4MTIw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "67f5e5d9-3050-48cf-a2a3-7a7f86949052",
@@ -707,7 +780,8 @@
           "description": "BoJack gets a new AA sponsor. Todd plans a sophisticated party to impress his parents. Diane gets to know Sonny.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzk0NDY0MDctZmZjMi00NzhhLTg0OTktODgzNWY3ZmJmYzBkXkEyXkFqcGdeQXVyMTAwNzQ4MTIw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d9c43914-6a32-42c4-8b1f-608676275277",
@@ -716,7 +790,8 @@
           "description": "Angela Diaz reaches out to BoJack. Princess Carolyn gets an offer from Lenny Turtletaub. Todd cooks up a scheme.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOTU4ZDU2NmYtZjdjMy00ZTVmLTllZGUtOTZkYTE3ZDQxYjYyXkEyXkFqcGdeQXVyMTAwNzQ4MTIw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "8402902e-3f9d-45aa-8529-298f57194edc",
@@ -725,7 +800,8 @@
           "description": "BoJack reconnects with faces from his past.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDUwMDRkM2EtYzZjYS00ZDM1LTg1ZGQtOWI2MzZlM2EzNjc2XkEyXkFqcGdeQXVyMTI3Mzg3MzE1.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "feac3e8b-d270-4385-ba5c-be6f01ca5250",
@@ -734,7 +810,8 @@
           "description": "A celebration brings people together.",
           "date": "2020-01-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMmVkZmE5NGItNjRmZC00M2YxLThhMDItOWEzZGQzOTdiNGI1XkEyXkFqcGdeQXVyMTAwNzQ4MTIw.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

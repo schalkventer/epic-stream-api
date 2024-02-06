@@ -19,7 +19,8 @@
           "description": "David Attenborough shows us how some animals have evolved new hunting, mating and parental techniques to help them survive the challenges of life.",
           "date": "2009-10-11T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTA2Mjg4MjA5MjReQTJeQWpwZ15BbWU4MDM3NzE4NDIx.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "7a653267-8a6a-4e55-9a06-63df03cd748e",
@@ -28,7 +29,8 @@
           "description": "Reptilians survive from the age of the Saurians, but if many look Ancient that's because their early and sometimes relatively recent adaptations to widely varied conditions worldwide still work admirably. Examples include lizards like the giant Komodo dragon, still top-dog on his Indonesian island, the feared crocodilian hunters, color-changing chameleons and snake species fitted for most (warm) ecosystems. The same goes for amphibians, including numerous specialized (tree) frogs and toads. Both groups are cold-blooded, hence vulnerable while warming up.",
           "date": "2009-10-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMjg5MzI3MzAyNl5BMl5BanBnXkFtZTgwMjA2MDk0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "8cc921b5-785b-4fcd-96d1-17342c7c9ae9",
@@ -37,7 +39,8 @@
           "description": "Mammals dominate the planet. They do it through having warm blood and by the care they lavish on their young. Filming in the bitter Antarctic winter reveal how a mother Weddell seal wears her teeth down keeping open a hole in the ice so she can catch fish for her pup. A powered hot air balloon captures stunning images of millions of migrating bats as they converge on fruiting trees in Zambia.",
           "date": "2009-10-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzMzgyNF5BMl5BanBnXkFtZTgwMzkzMTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "64790f16-ab92-4d83-a3bd-e45b2b934575",
@@ -46,7 +49,8 @@
           "description": "Countless fish fill the seas and almost all other waters on the blue planet, some even visit or invade bordering land. Evolution created a huge variety in size, shape, defense means etc., fit for varies ways of life in all kinds of waters, allowing camouflage, shelter etc. They occupy various positions in aquatic and related food chains, eaten by and/or eating other fish and vertebrates, crustaceans etc. Other relationships are parasitic or symbiotic. Some know role-reversal, with males caring for eggs and/or hatchlings. Many species live in huge schools, often for safety.",
           "date": "2009-11-01T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTQyODc3NV5BMl5BanBnXkFtZTgwMjE3NjE1NTE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "287b0c09-8c49-4c47-b44a-1cb1c686f864",
@@ -55,7 +59,8 @@
           "description": "Birds descend from dinosaurs who developed feathers. Those allow most of them to fly, which few other vertebrates can. Some birds gave up flying, like penguins, who specialize in diving and prove feather's fabulous insulating efficiency. Feathers are also key to courting, almost as varied as bird physiognomy and ways of solitary or social life almost all over the globe.",
           "date": "2009-11-08T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjg3NTkwMjgyM15BMl5BanBnXkFtZTgwNzkzMTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "30665469-7f2a-4480-bb2a-336c7af04a03",
@@ -64,7 +69,8 @@
           "description": "Insects and - species outnumber all higher animals by far. Their immense variety reflect adaptation to an extreme range of ecological conditions, even gravely toxic ones. Especially the nearly 60,000 fly species cover about all the globe. Many can fly, which helps getting everywhere, but they also occur on/in soil, water, host plants or animals, cavities etcetera. They often occur in great swarms, as over a billion Monarch butterflies migrating from Canada to a Mexican forest to hibernate. To occupy various positions in ecological systems, usually prey, often predator, sometimes pollinator, and so on.",
           "date": "2009-11-15T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTU2NDU3NDQ5Nl5BMl5BanBnXkFtZTgwMTkzMTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "6bb90b85-9a1f-4cb9-b696-8f9993e89073",
@@ -73,7 +79,8 @@
           "description": "The struggle of life is often based on 'eat (and/)or be eaten'. Therefore evolutionary success is largely defined in terms of skills to survive as prey and/or hunter. Mammals are particularly successful worldwide because the add to anatomical adaptation an intelligence allowing quick and greatly diverse strategies to find preys, shelter, fight (back) etcetera.",
           "date": "2009-11-22T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTUzNDgwMTc0NV5BMl5BanBnXkFtZTgwNDA0MTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5d1afbb2-7588-4dd4-ad0c-c5ecb654352f",
@@ -82,7 +89,8 @@
           "description": "Marine invertebrates, the descendants of one billion years of evolutionary history, are the most abundant creatures in the ocean. In the Sea of Cortez, packs of Humboldt squid make night-time raids from the deep to co-operatively hunt sardines. Beneath the permanent Antarctic sea ice of McMurdo Sound, sea urchins, red sea stars and nemertean worms are filmed scavenging on a seal carcass. A fried egg jellyfish hunts amongst a swarm of Aurelia in the open ocean, spearing its prey with harpoon-like tentacles. In the shallows off South Australia, hundreds of thousands of spider crabs gather annually to moult. Large male cuttlefish use flashing stroboscopic colors and strength to win a mate, whereas smaller rivals rely on deceit: both tactics are successful. A Pacific giant octopus sacrifices her life to tend her single clutch of eggs for six months. Marine invertebrates have a lasting legacy on land too - their shells formed the chalk and limestone deposits of Eurasia and the Americas.",
           "date": "2009-11-29T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTc1ODY2ODEzM15BMl5BanBnXkFtZTgwODkzMTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "9cfbb072-d2d9-47b1-81cd-dc23b15edb21",
@@ -91,7 +99,8 @@
           "description": "Flora has evolved to live in extreme conditions and a wide variety of locations and seen as the eldest 'creatures' on the planet. Their struggle for life, like animals (only usually much slower), is about food (including parasitism and 'flesh-eating'). They strive to find water, to procreate: notably pollination-mostly by animals and semination - gliding or by weather conditions, or more primitive ways such as spores. They have a varied defense (thorns, spines, toxins etc.). Specific is the need for light, the fuel of photosynthesis, leading to a hierarchy of light-related levels, because not growing high enough in time can be lethal.",
           "date": "2009-12-06T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTk3ODE0ODA4NV5BMl5BanBnXkFtZTgwNjkzMTg0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f4b24b8b-fadb-4797-a108-3704a29c9bdf",
@@ -100,7 +109,8 @@
           "description": "Primates include apes, monkeys and even more primitive simians, such as lemurs. Thanks to their intelligence, the higher primates take adaptation beyond anatomical evolution: their behavior transcends instinct thanks to learning and invention. Their social life especially holds the seeds of human culture, such as tribal warfare. They occur in widely different environments, which they cleverly interact with, from icy northern Japan to (mainly) the tropics in Old - and New World.",
           "date": "2009-12-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MzQ4NjYxNF5BMl5BanBnXkFtZTgwNzQ3MTk0MjE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "8650ba78-57df-4eb8-8226-257211f00a70",
@@ -109,7 +119,8 @@
           "description": "A behind-the-scenes look at the series' most memorable moments around the world through the eyes of the cameramen and women.",
           "date": "2009-01-10T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjJhMTAxZjYtNWZkYy00Nzg1LTlkYjItZTNhZWRjNzkxMDg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

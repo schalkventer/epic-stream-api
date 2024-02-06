@@ -20,7 +20,8 @@
           "description": "After nearly a century of French colonial rule, Vietnam emerges independent, but divided.",
           "date": "2017-09-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZjc0ZDE2MjAtZDU5ZS00MzE2LWFjMTYtMjk5MGUxMzdmYWMwXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "8fcf497c-2674-4b02-bae4-c6b2ffc4f78c",
@@ -29,7 +30,8 @@
           "description": "President John F. Kennedy and his advisors consider how deeply the U.S. should get involved in South Vietnam as a communist insurgency and Buddhist protests intensify.",
           "date": "2017-09-17T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMmExNmUzNzktMzJkNi00NTQ0LTlhOGUtOTA1NzU3ZjY3MzY5XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "41fe26b3-61c6-4d85-937c-d2d7b70d952c",
@@ -38,7 +40,8 @@
           "description": "Fearing Saigon's collapse, President Lyndon B. Johnson authorizes the bombing of North Vietnam, and sends U.S. ground troops to the south.",
           "date": "2017-09-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNzI0YjQ1YTQtZTRjZS00MmVkLThiZjctODM0NTBhY2FiM2FlXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "33961ffa-4c6d-4668-bb40-06ca6e43d7ed",
@@ -47,7 +50,8 @@
           "description": "North Vietnamese troops make their way down the Ho Chi Minh Trail, defying American air power. While the anti-war movement escalates back home, American soldiers realize this war is like no other.",
           "date": "2017-09-19T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMWE0YjgxNjgtY2VjNy00YjgyLWFhNjYtYmMyMWZkNmVjNGY2XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "2887f496-895f-4529-8908-a8d6be7fe88e",
@@ -56,7 +60,8 @@
           "description": "As casualties mount on both sides, American soldiers face deadly ambushes and artillery. President Lyndon B. Johnson assures the American public that victory is within reach.",
           "date": "2017-09-20T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOGQyMjM2M2EtNzNmMi00ZGVkLWIyNTEtNDYyNTU4NWEzYzNmXkEyXkFqcGdeQXVyMDk0ODI3OA@@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d0cfd448-cdbd-4776-9011-c1e725547978",
@@ -65,7 +70,8 @@
           "description": "Shaken by the violence of the Tet Offensive, assassinations of leaders and domestic unrest, Americans begin to doubt President Lyndon B. Johnson's promise that victory in Vietnam is near and he ultimately decides not to seek reelection.",
           "date": "2017-09-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2VkYzcxZWUtOTI1OS00Y2ZiLThmZjMtZmYwNjNjM2VhNDA0XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "37c5328c-6cb5-4de9-a549-8e5477cc1ada",
@@ -74,7 +80,8 @@
           "description": "Draft-age Americans wrestle with their choices. Richard Nixon narrowly wins the presidential election. Soldiers on all sides of the conflict witness savagery and courage.",
           "date": "2017-09-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNmI2MjlhMzYtYjI3Yy00MzdiLTlkMDctYjlkZDRhYTM1ZTQ3XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "295eae54-fc32-4969-9868-8c4051d9e506",
@@ -83,7 +90,8 @@
           "description": "President Richard Nixon begins withdrawing American troops from Vietnam, but his authorization of the invasion of Cambodia sparks large protests in America.",
           "date": "2017-09-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDM2YmFjNDktNjY1MS00NmQ1LTg3MTktYWNhN2ZlZWQ3MGYwXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "3687437a-d7b5-4cb3-b208-adf367721802",
@@ -92,7 +100,8 @@
           "description": "The South Vietnamese fight on their own, succumbing to terrible losses in Laos. After he is reelected, President Richard Nixon strikes a peace deal with Hanoi that sees the release of American prisoners of war.",
           "date": "2017-09-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZDlhYjdhMzUtOTE4YS00MDBhLWE5MTUtYWM4ODVmYWFjYjFjXkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c1b4cf70-8f43-4694-8656-c270c731728d",
@@ -101,7 +110,8 @@
           "description": "Civil war continues in Vietnam as President Richard Nixon resigns. After North Vietnamese troops regain control of Saigon and the war ends, people from all sides search for reconciliation.",
           "date": "2017-09-27T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYjQ5N2MzMjEtZjM5MS00M2IxLTk2NzYtZGJjMGIwNzM0Mjc4XkEyXkFqcGdeQXVyODAxMzczMjg@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

@@ -19,7 +19,8 @@
           "description": "The Beatles arrive at Twickenham Studios and have three weeks to complete 14 new songs and a live show.",
           "date": "2021-11-24T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDBjM2MzODMtMzIxYS00ZDNkLThmMGMtY2YwZjg3MjBmNDg5XkEyXkFqcGdeQXVyNjMxNjg1MzM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e12cd78f-a50c-43c9-b623-582292dc1946",
@@ -28,7 +29,8 @@
           "description": "John, Paul and Ringo meet with George following his walkout and move the session to Apple Studios.",
           "date": "2021-11-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BY2UzZTkxOTUtZGEyMS00NmVkLTllMTktNmFkMmQ3MmIzNDUzXkEyXkFqcGdeQXVyNjMxNjg1MzM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4e918232-6ce8-4257-adc2-8c6168e97567",
@@ -37,7 +39,8 @@
           "description": "The Beatles must decide if they will perform live for the first time in more than two years.",
           "date": "2021-11-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDRmNTY0ODEtNWZjYS00ZjkwLWIzODAtN2ZkOWRiZDE0MzIzXkEyXkFqcGdeQXVyNjMxNjg1MzM@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

@@ -20,7 +20,8 @@
           "description": "Flashbacks chronicle Michael Jordan's college and early NBA days. The Bulls make a preseason trip to Paris amid tensions with GM Jerry Krause.",
           "date": "2020-04-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMGYzZWVmNTAtYWQ5My00OGVmLThmM2UtOTNhODZmYjI3MTgxXkEyXkFqcGdeQXVyMTA1MjI2MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "27f014f9-487d-4856-a014-3a0f8acad04c",
@@ -29,7 +30,8 @@
           "description": "Scottie Pippen rises from obscurity to become one of the NBA's best players. An injury early in Michael's career sows distrust with Bulls management.",
           "date": "2020-04-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZjIzY2FjNGUtMDA1ZC00Y2FiLWFhZWYtNzhmYjUzYjMzYjk0XkEyXkFqcGdeQXVyMTA1MjI2MzE@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "1fc4c083-8263-4cc9-9e2b-bd16e906100a",
@@ -38,7 +40,8 @@
           "description": "Dennis Rodman's attitude and energy help the team win, but bring the drama off the court. The Bulls struggle to overcome the Pistons in the late '80s.",
           "date": "2020-04-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMWFhZWI0MjQtNGJlNC00MWJiLTk5NWItZGU0ZWVlODYwOTUwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "1743af6e-6434-49d7-a1c2-3d379c499a83",
@@ -47,7 +50,8 @@
           "description": "Phil Jackson's unique philosophy and demeanor take the Bulls to the next level. The team finally gets past Detroit and earns a shot at an NBA title.",
           "date": "2020-04-25T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNWM0OGVjMDQtYTk0Ny00ZTY4LTkxZmItMzQyMjcxY2YyMDRkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "37fd3069-a9af-4182-804e-abcf5e5e23b7",
@@ -56,7 +60,8 @@
           "description": "From Air Jordan and \"Be Like Mike\" to the '92 NBA Finals and the Olympic Dream Team, Michael becomes a global cultural icon unlike any other.",
           "date": "2020-05-02T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMmM2Y2QyMTgtNzgwZC00ZjhkLWEzYWUtZjkxNWNmODU2NzI0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "4f32c6d2-5d30-4f62-935d-6166d9fcc557",
@@ -65,7 +70,8 @@
           "description": "A revealing book and scrutiny of his gambling put a dent in Michael's reputation, but he remains focused on winning a third straight title in 1993.",
           "date": "2020-05-02T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2U1OTA5ZTgtNjBhYy00NGUyLTg5ZGYtYjg5NmY5OGQ3YTc4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "b158b778-93b5-441b-a50e-905824a23732",
@@ -74,7 +80,8 @@
           "description": "Crushed by the death of his father, a mentally exhausted Michael retires in 1993 - to play baseball. The Bulls move on with Scottie in the lead role.",
           "date": "2020-05-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMTg4MmIyYjctMDNlZC00Mjc0LTgzMDgtNDcwN2U3MTA0OGE3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ead34038-7a51-4a4f-9b71-b1390623b210",
@@ -83,7 +90,8 @@
           "description": "Michael's return energizes the Bulls, the city and the NBA, but a playoff loss in 1995 fuels him to work harder than ever to get back on top.",
           "date": "2020-05-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODBlM2VjZGMtMmIxYi00Y2EzLTlhMTItM2NmYWZhZWY2OGMwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "147458c3-aa0b-4af4-b41d-7c6260d6e451",
@@ -92,7 +100,8 @@
           "description": "The Bulls face stiff challenges to their reign in 1997 against Utah and in 1998 versus Indiana. Role player Steve Kerr makes his mark on the dynasty.",
           "date": "2020-05-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYjg2OGRhOTQtMTQyMS00OTY1LTk0OTUtOWYxYmU0ZjI4MjI2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "80128138-cd13-430c-b309-d9e1ce3652cf",
@@ -101,7 +110,8 @@
           "description": "Battered and exhausted, the Bulls conclude their \"Last Dance\" with a sixth championship. Michael, Phil and others reflect on the end of the dynasty.",
           "date": "2020-05-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzNhN2UzNjMtOTMzMC00ZmIxLWEzNzUtNTFmYTA0NWEzYWU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }

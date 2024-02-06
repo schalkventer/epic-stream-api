@@ -20,7 +20,8 @@
           "description": "The rebirth of Germany and growth in power of the Nazi Party leading up to the outbreak of war.",
           "date": "1973-10-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDc3YzhhMTctYzRjNi00ZDM5LWFjOWEtYmJiMWQ3YTMzYjU1XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "ebf38ac3-bf86-4822-928a-e28d4fa6463e",
@@ -29,7 +30,8 @@
           "description": "The invasions of Poland, the Winter War, the sinking of the Graf Spee, the \"phony war\" and Norwegian Campaign, and the elevation of Winston Churchill to Prime Minister.",
           "date": "1973-11-06T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTY1NmUyMGUtMzc0MS00NzM4LWFmYzAtNDBlN2U3MTU3NzM0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c981555c-ef72-4827-9086-9592fea09b44",
@@ -38,7 +40,8 @@
           "description": "French politics, the Maginot Line, the Saar Offensive, Blitzkrieg warfare and the Nazi invasion of France and the Low Countries.",
           "date": "1973-11-13T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZTc4YTkxMmYtMWFmMi00YWZmLThiZTMtNGQyZGE3ZGEyNDAyXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "38d43499-9d07-4543-a3ba-2585c41bffa3",
@@ -47,7 +50,8 @@
           "description": "The Battle of Britain, defeats in Greece and Crete, Tobruk and life in Britain between the evacuation at Dunkirk and Operation Barbarossa.",
           "date": "1973-11-20T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNGJjNmUwYTAtZTMxNi00YzQ2LTkzZmQtYjU2MTBiMmY3ZDY3XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5ffa0911-a9b1-4a6a-bafb-895497b46190",
@@ -56,7 +60,8 @@
           "description": "After dominating southeastern Europe through force or intrigue, Germany begins Operation Barbarossa, the invasion of the Soviet Union.",
           "date": "1973-11-27T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BODA3MDJkNTgtMTk0MS00YzBhLThkYjktMWVlZWZiNzZmMTQzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "c010c64d-a292-45b7-9def-3e5ee4ab4990",
@@ -65,7 +70,8 @@
           "description": "The rise of the Japanese Empire, the Sino-Japanese War, the Soviet-Japanese border conflicts, Pearl Harbor, and the early Japanese successes in the Battle of Malaya and Battle of Singapore.",
           "date": "1973-12-04T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BM2NlMDk1ZTgtMGQ3Zi00NzI1LThiNzItMTcxZTVmNGYwZTg0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "164359d5-dbde-472d-b75d-4a60f41ebd28",
@@ -74,7 +80,8 @@
           "description": "The opposition to the United States' entry into the war, Lend Lease, U-boat attacks on Atlantic convoys and American responses, mobilization of America after Pearl Harbor, loss of the Philippines, Doolittle Raid, Midway and Guadalcanal.",
           "date": "1973-12-11T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZDRiNjA5YTgtYTAxYi00MTI0LWI0YzEtNDE1ZWIzNmJmZGNjXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f3f3b79e-2857-4321-be15-f8ecc369793b",
@@ -83,7 +90,8 @@
           "description": "The desert war, starting with Italy's invasion of Egypt and the attacks and counterattacks between Germany and Italy and the Commonwealth forces, the Axis defeat at El Alamein.",
           "date": "1973-12-18T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOGZjMjEyYTMtZGEwNS00YTgxLWIzYTEtZDVlYWVlMzJmN2E4XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "962fc227-99d1-42b5-8553-66aea260ce92",
@@ -92,7 +100,8 @@
           "description": "The mid-war German situation in Southern Russia resulting in the German defeat at the Battle of Stalingrad.",
           "date": "1974-01-01T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYTg1MGI2NjktMGZiOC00MGFlLTgxYmMtODM4YTdlNzVmZjQ0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "58a4a44d-dfda-43cb-aa29-4825954f917c",
@@ -101,7 +110,8 @@
           "description": "The submarine war emphasizing the North Atlantic. Tracks the development of the convoy system and German submarine strategy.",
           "date": "1974-01-08T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNjU3ZGI4ZDctOTNkZi00ZDJmLWIzMjctMmY5NTU2MjU0ZGMzXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "e625b018-3d3a-4e12-bff7-226577c66e65",
@@ -110,7 +120,8 @@
           "description": "The rise of the Red Army, mobilization of Soviet production, the Siege of Leningrad, the Soviet partisans, and the Battle of Kursk.",
           "date": "1974-01-15T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMzQxNWNmY2EtOWViNi00NzkwLTk2OTMtMGZjZDJmMmZjOTU0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "72494309-6c5e-4cf0-bbe0-d15058258805",
@@ -119,7 +130,8 @@
           "description": "While the British continue to rely on night bombing the American forces attempt to use more dangerous but more precise daylight bombing to interdict German military production and crush the national will.",
           "date": "1974-01-22T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BOGExMWU0NjgtOGE0YS00MTdjLWEwOTMtMjczMmNlNTVjYTc1XkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "3e01571b-a075-448b-b86d-dd259c53059f",
@@ -128,7 +140,8 @@
           "description": "After driving the Germans from North Africa the Allies turn their sites on Italy. But the Italian campaign turned out to be tougher the anyone expected. American reluctance to divert resources from the planned Normandy invasion, geographic challenges and German reinforcements hinders the Allied campaign which continued until the eve of the Normandy invasion.",
           "date": "1974-01-29T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDBlZTIzYjQtYjE5ZC00MTgwLWIzMWEtYjc5MWU1YjBlNDI0XkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "3f35a1d1-55a0-45d6-bfbc-ce0b9f5cdb08",
@@ -137,7 +150,8 @@
           "description": "Allied forces were totally unprepared for the Japanese invasion of Burma in 1942. The Japanese quickly overran the country. The Allies counter-attacked using troops unfamiliar with jungle warfare which were unsuccessful against the Japanese guerrilla forces. But the Allies persisted and gradually adapted to the jungle environment. As additional forces arrived the Allies succeeded in destroying the Japanese forces.",
           "date": "1974-02-05T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDFjNDc5NzgtM2UwZC00Y2U5LTkwOWUtNGMwZjNjMWEwMTNlXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "84625a35-ab36-4c04-967d-50e136fab6d6",
@@ -146,7 +160,8 @@
           "description": "The war effort required total commitment from British citizens stretching their bodies and spirits to the breaking point and occasionally beyond it. As a result of grim news early in the war, German bombing of British cities and disagreements on critical policies Churchill faced a no confidence vote. But extraordinary measures gradually put the kingdom on an effective war footing.",
           "date": "1974-02-12T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNTRiNjJmZjMtMGJlNi00NGVmLWI4NzItYjE4YjcxNjBmYWFmXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d10d32b1-7ea1-4496-8906-ac4d8ecb96a8",
@@ -155,7 +170,8 @@
           "description": "Germany is jubilant after the surrender of France. Then the unsuccessful expansion of the war to include Russia and England gradually turns German morale from joy to fatalism. Even der Führer falls victim to the insidious fatalism caused first by the crushing defeat at Stalingrad then the bunker bombing that nearly killed him. All the while the tightening Nazi grip and Allied assaults adds to the gloom of fear.",
           "date": "1974-02-19T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYzllZDA0NTEtMmQ1Ny00OWMxLWE1YzItYWVkMDlkNmM2NDNjXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "d6715fce-55f7-4b5d-a2c0-316d6eab44f8",
@@ -164,7 +180,8 @@
           "description": "Four years after France fell the Allies invade Normandy. Caught by surprise the German defenses are quickly overcome. Heading inland the Allies win major victories against fierce resistance.",
           "date": "1974-02-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZTlmNDMyMDctMDMwZS00OWRkLTk0MDQtZWUzMDM5NzhiYTM4XkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "6eca0ce3-5dd4-4174-9573-0c75a426c1a7",
@@ -173,7 +190,8 @@
           "description": "The Dutch are shocked when the Germans bomb Rotterdam and invade their neutral country. But Germany follows with insidious conciliatory gestures that ease tensions. Germany gradually exploits the populace with conscriptions, forced labor and deportation of Jewish citizens. Finally anticipating liberation as the Allies move westward, Dutch suffering intensifies. As the German propagandists had claimed, liberation brought devastation, not from warfare but from a brutal German embargo and intensified deportations.",
           "date": "1974-03-12T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BM2IwZmUxMWMtMDg1MS00ZmRhLTllNGQtOGE1YzAzMjRlMDVkXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "629b7d93-6802-472d-a9eb-c89b508e3654",
@@ -182,7 +200,8 @@
           "description": "As the Allies debate how to prosecute the the invasion of Germany, Hitler settles the question with a massive counter attack in the Ardenne. Failure of the attack leaves German defenses of the Western Front in shambles. Meanwhile, Russian forces are also closing in but Stalin orders a pause so the SS can crush the Polish resistance.",
           "date": "1974-03-19T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZDE4NzlmNWEtZTZiMi00MzIzLThkN2ItODAyYzE5YTExNWY3XkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "457ee62c-2694-42fc-b046-903620b13ccf",
@@ -191,7 +210,8 @@
           "description": "The history of the Nazi persecution of the Jews, showing events leading to the \"Final Solution\". Footage and Interviews with SS officers and Jewish survivors from various countries describe how the extermination camps operated and what existence was like there.",
           "date": "1974-03-26T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BYWNjNjk0MGItOGQ5MC00NDRiLTk3MjgtMTk0Zjc1ZGI0ZjM2XkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5399d9d4-2553-47fb-b853-dd63799813aa",
@@ -200,7 +220,8 @@
           "description": "The closing weeks of the European war bring retribution for Germany in the form of carpet bombing cities like Dresden, the collapse of the Whermacht, atrocities by Soviet forces, and finally the fall of Berlin and suicide of Hitler.",
           "date": "1974-04-02T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZmRlMWRkNGUtNWE2Mi00MzY1LTgyZTQtZTJhYWFjYjk4ZGZkXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "2d893115-aaa6-4b83-9227-f0c70f36ba0d",
@@ -209,7 +230,8 @@
           "description": "After the victories in 1941-2, Japanese fortunes reverse as America succeeds in destroying their aircraft fleet and Pacific island bases. At home, shortages of goods and manpower lead to desperation for the population.",
           "date": "1974-04-09T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZTdhNjc2MDctYTMyMC00OGY0LTgwNzEtMWYyOThiZThiNTFhXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "f997eada-f6df-456d-b27e-429867335699",
@@ -218,7 +240,8 @@
           "description": "The island hopping strategy of Admiral Nimitz and General MacArthur leads from one costly, battle after another. The Japanese fight fanatically as the war gets ever closer to home, but Americans finally use their newest weapon, the A-bomb.",
           "date": "1974-04-16T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BZTM2NGE0YmEtNzVkOC00MzIzLWI5MTUtMzQzMmQzNTNlMWZhXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "5066cf06-ffe9-4c77-a35d-4f3c6c878609",
@@ -227,7 +250,8 @@
           "description": "Following the events from the death of US President Roosevelt through to the dropping of the two bombs on Hiroshima and Nagasaki that prompted Japan's surrender.",
           "date": "1974-04-23T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BMDQyM2M3MzktZTI5ZS00OGNiLTk1ZWQtMTYwYTI1MmUxZDA2XkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "a3ff8e54-7477-4090-ba9e-6c9796907478",
@@ -236,7 +260,8 @@
           "description": "As wretched survivours suffer deprivations amongst the ruins, half of Germany and eastern Europe trade one socialist tyranny for another as the Soviets take power. Japan is occupied by the U. S., but the colonial empires disintegrate.",
           "date": "1974-04-30T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BN2MxODZhODEtMGFmNC00MjhkLWI4YzUtMWZkNGYyZDc0YzMyXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         },
         {
           "id": "162b33aa-01b7-4b4d-b7dc-bf599f0aeb97",
@@ -245,7 +270,8 @@
           "description": "For many the Second World War was the most significant experience of their lives. These are heartbreaking first hand remembrances from a vast array of survivors from both sides of the war.",
           "date": "1974-05-07T22:00:00.000Z",
           "image": "https://m.media-amazon.com/images/M/MV5BNDdjMGMxZDktZDkxNS00MzVmLWFlOTktNzY2ZjI3YTFiZTZmXkEyXkFqcGdeQXVyMjUwOTg4NjA@.jpg",
-          "file": "https://epic-stream-api.netlify.app/placeholder.mp4"
+          "file": "https://epic-stream-api.netlify.app/placeholder.mp4",
+          "duration": 12
         }
       ]
     }
